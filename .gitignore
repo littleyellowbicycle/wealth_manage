@@ -9,6 +9,5 @@ raw/attachments/
 # 插件运行时数据 (每次打开会变)
 copilot/
 
-# inbox 临时笔记 (保留模板)
-inbox/*.md
-!inbox/模板-*.md
+# inbox 临时笔记 (不追踪)
+inbox/
