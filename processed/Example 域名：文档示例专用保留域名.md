@@ -13,6 +13,7 @@ tags:
 - 最佳实践
 status: processed
 related: []
+note_type: content
 ---
 
 # Example 域名：文档示例专用保留域名

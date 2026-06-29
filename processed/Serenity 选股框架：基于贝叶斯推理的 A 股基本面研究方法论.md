@@ -3,7 +3,7 @@ title: Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方�
 source: raw_20260624_162106_7a6077a1
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2052781980245287550
 created: '2026-06-24'
-updated: '2026-06-24'
+updated: '2026-06-29'
 tags:
 - Serenity
 - 贝叶斯推理
@@ -12,7 +12,13 @@ tags:
 - AI Agent
 - 量化框架
 status: processed
-related: []
+related:
+- 基本面分析为何入门简单精通难
+- Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架
+- 系统学习股票投资的三阶段方法论
+- 全面分析股票的十大维度：从股价到行业的系统框架
+- 个股基本面分析三步框架
+note_type: content
 ---
 
 # Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论
@@ -111,4 +117,8 @@ serenity-investment-framework/
 完整 skill 已在典枢（dianshudata.com）发布，可搜索 Serenity 下载使用。
 
 ## 相关笔记
-- (待关联引擎填充)
+- [[基本面分析为何入门简单精通难]]
+- [[Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架]]
+- [[系统学习股票投资的三阶段方法论]]
+- [[全面分析股票的十大维度：从股价到行业的系统框架]]
+- [[个股基本面分析三步框架]]
