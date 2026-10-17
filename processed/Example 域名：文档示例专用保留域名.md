@@ -3,13 +3,9 @@ title: Example 域名：文档示例专用保留域名
 source: raw_20260624_161106_42a1e4f2
 source_url: https://example.com
 created: '2026-06-24'
-updated: '2026-06-24'
+updated: '2026-07-11'
 tags:
-- 域名管理
-- IANA
-- RFC标准
-- 技术文档
-- 占位符
+- 技术分析
 - 最佳实践
 status: processed
 related: []

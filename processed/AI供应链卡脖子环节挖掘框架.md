@@ -3,17 +3,25 @@ title: AI供应链卡脖子环节挖掘框架
 source: raw_20260624_162424_67ad2e00
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2045090338327588976
 created: '2026-06-29'
-updated: '2026-06-29'
+updated: '2026-07-11'
 tags:
-- AI供应链
-- 投资框架
+- AI
+- 投资
 - 卡脖子
 - 光互联
-- InP衬底
 - 自下而上
 status: processed
 related:
 - AI 供应链卡脖子环节投资框架
+- 财报分析框架蒸馏为 AI Skill 的实践
+- 财报分析框架蒸馏为AI Skill
+- AI 时代个人量化交易可行路径与核心铁律
+- AI时代个人量化生存指南
+- A股散户投资框架：ETF优先与独立择时
+- A股题材投资逻辑与产业链选股框架
+- daily_stock_analysis 项目11策略与LLM量化框架解析
+- PB-ROE框架复现：GARP策略的量化实证
+- Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论
 note_type: content
 ---
 
@@ -101,3 +109,12 @@ A股这条线已被市场提前反应，龙头早已上天；美股AXTI则是更
 
 ## 相关笔记
 - [[AI 供应链卡脖子环节投资框架]]
+- [[财报分析框架蒸馏为 AI Skill 的实践]]
+- [[财报分析框架蒸馏为AI Skill]]
+- [[AI 时代个人量化交易可行路径与核心铁律]]
+- [[AI时代个人量化生存指南]]
+- [[A股散户投资框架：ETF优先与独立择时]]
+- [[A股题材投资逻辑与产业链选股框架]]
+- [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
+- [[PB-ROE框架复现：GARP策略的量化实证]]
+- [[Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论]]
