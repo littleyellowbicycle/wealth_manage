@@ -3,7 +3,7 @@ title: 用OpenClaw搭建个人股票分析Agent
 source: raw_20260624_162129_b095d6b3
 source_url: https://www.zhihu.com/question/2011480826848764785/answer/2011489116341149800
 created: '2026-06-29'
-updated: '2026-07-11'
+updated: '2026-10-17'
 tags:
 - 量化交易
 - OpenClaw
@@ -15,14 +15,14 @@ status: processed
 related:
 - 用 OpenClaw 搭建个人股票分析 Agent
 - daily_stock_analysis 项目11策略与LLM量化框架解析
+- Agent Browser：面向 AI Agent 的 Rust 浏览器自动化 CLI
+- AI Job Search 求职自动化框架
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
 - 全面分析股票的十大维度：从股价到行业的系统框架
+- agent-teams-ai 多智能体协作框架
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- 个人趋势跟踪量化交易系统七年实践
-- 个股基本面分析三步框架
-- 股票承接力与反弹反转判断
-- 股票承接力判断与反弹反转识别
+- Android Skills 谷歌官方 AI Agent 技能库
 note_type: content
 ---
 
@@ -78,11 +78,11 @@ Agent会在固定时间自动抓取实时行情、结合新闻与技术面，输
 ## 相关笔记
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
+- [[Agent Browser：面向 AI Agent 的 Rust 浏览器自动化 CLI]]
+- [[AI Job Search 求职自动化框架]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
 - [[全面分析股票的十大维度：从股价到行业的系统框架]]
+- [[agent-teams-ai 多智能体协作框架]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[个人趋势跟踪量化交易系统七年实践]]
-- [[个股基本面分析三步框架]]
-- [[股票承接力与反弹反转判断]]
-- [[股票承接力判断与反弹反转识别]]
+- [[Android Skills 谷歌官方 AI Agent 技能库]]

@@ -3,7 +3,7 @@ title: 轻量级 Alpha 多因子回测框架实践与量化系统本质思考
 source: raw_20260624_162216_368f685f
 source_url: https://www.zhihu.com/question/329206671/answer/3402461940
 created: '2026-06-29'
-updated: '2026-07-11'
+updated: '2026-10-17'
 tags:
 - 量化交易
 - 回测
@@ -13,6 +13,7 @@ tags:
 status: processed
 related:
 - Qbot 开源量化交易平台与经典技术指标策略实现
+- 基于 bt 与 alphalens 的多因子回测框架实践
 - Qbot 开源量化交易闭环系统
 - 个人趋势跟踪量化交易系统七年实践
 - Qbot 量化交易平台与均线类策略实现
@@ -21,7 +22,6 @@ related:
 - 量化因子库搭建指南：从来源到实操的完整路径
 - 量化因子来源指南：从误区到新手友好资源
 - ETF网格交易实战：标的选择与策略优化
-- daily_stock_analysis 项目11策略与LLM量化框架解析
 note_type: content
 ---
 
@@ -87,6 +87,7 @@ note_type: content
 
 ## 相关笔记
 - [[Qbot 开源量化交易平台与经典技术指标策略实现]]
+- [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[Qbot 开源量化交易闭环系统]]
 - [[个人趋势跟踪量化交易系统七年实践]]
 - [[Qbot 量化交易平台与均线类策略实现]]
@@ -95,4 +96,3 @@ note_type: content
 - [[量化因子库搭建指南：从来源到实操的完整路径]]
 - [[量化因子来源指南：从误区到新手友好资源]]
 - [[ETF网格交易实战：标的选择与策略优化]]
-- [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
