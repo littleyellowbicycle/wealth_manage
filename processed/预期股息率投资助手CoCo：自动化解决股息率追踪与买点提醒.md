@@ -3,7 +3,7 @@ title: 预期股息率投资助手CoCo：自动化解决股息率追踪与买点
 source: raw_20260624_162516_7190c863
 source_url: https://www.zhihu.com/question/1996963610220593950/answer/1999270859811083121
 created: '2026-06-29'
-updated: '2026-10-17'
+updated: '2026-10-18'
 tags:
 - 投资
 - 股息率
@@ -13,14 +13,14 @@ status: processed
 related:
 - 价值投资助手CoCo：基于预期股息率的辅助工具
 - 红利类ETF分类与选择指南
-- Agent Browser：面向 AI Agent 的 Rust 浏览器自动化 CLI
-- AI Job Search 求职自动化框架
 - AI 供应链卡脖子环节投资框架
 - A股散户投资框架：ETF优先与独立择时
 - A股散户投资策略与ETF及板块标的梳理
 - A股题材投资逻辑与产业链选股框架
-- Y2A-Auto YouTube到AcFun和bilibili自动化搬运工具
 - 中粮糖业与云天化高股息标的观察
+- 价值投资声誉困境与巴菲特的核心能力
+- 低频量化投资：指标筛选结合条件单的极简框架
+- 基金投资从入门到实操：选基、定投与止盈的系统方法
 note_type: content
 ---
 
@@ -57,11 +57,11 @@ note_type: content
 ## 相关笔记
 - [[价值投资助手CoCo：基于预期股息率的辅助工具]]
 - [[红利类ETF分类与选择指南]]
-- [[Agent Browser：面向 AI Agent 的 Rust 浏览器自动化 CLI]]
-- [[AI Job Search 求职自动化框架]]
 - [[AI 供应链卡脖子环节投资框架]]
 - [[A股散户投资框架：ETF优先与独立择时]]
 - [[A股散户投资策略与ETF及板块标的梳理]]
 - [[A股题材投资逻辑与产业链选股框架]]
-- [[Y2A-Auto YouTube到AcFun和bilibili自动化搬运工具]]
 - [[中粮糖业与云天化高股息标的观察]]
+- [[价值投资声誉困境与巴菲特的核心能力]]
+- [[低频量化投资：指标筛选结合条件单的极简框架]]
+- [[基金投资从入门到实操：选基、定投与止盈的系统方法]]

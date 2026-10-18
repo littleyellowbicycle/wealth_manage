@@ -3,7 +3,7 @@ title: Wealthfolio：本地优先的个人财务追踪开源工具
 source: raw_20260710_162019_0d26dff2
 source_url: ''
 created: '2026-10-17'
-updated: '2026-10-17'
+updated: '2026-10-18'
 tags:
 - 开源项目
 - 资产配置
@@ -13,16 +13,16 @@ tags:
 status: processed
 note_type: content
 related:
-- OpenHuman 本地优先个人AI超级智能体
-- RustDesk 开源远程桌面工具
-- Bun 极速一体化 JavaScript 工具链
-- ripgrep 极速代码搜索工具
-- Rust Clippy 代码检查工具
-- XERJ 本地 AI 搜索引擎
 - 知乎理财收藏夹：边城的个人理财资料汇总
 - 20万现金的阶梯式资产配置方案
-- Agent Browser：面向 AI Agent 的 Rust 浏览器自动化 CLI
-- ai-memory 跨AI编码代理的长期记忆系统
+- dbx 轻量级跨平台数据库客户端
+- 普通人多元资产配置实战：分红底仓加风险平价增强
+- 普通人投资ETF的胜率逻辑与品种选择
+- 美股长线持仓为主、A股以指数ETF间接配置的实盘思路
+- ai-job-search 基于 Claude Code 的本地求职自动化框架
+- ai-memory：AI编程代理的跨工具长期记忆系统
+- ComfyUI 开源节点式 AI 内容创作引擎
+- Jasna 视频马赛克修复工具
 ---
 
 # Wealthfolio：本地优先的个人财务追踪开源工具
@@ -56,13 +56,13 @@ related:
 项目目前仍以个人/桌面端使用为主，缺少云同步与多端协作能力；对于机构级 [[风险控制]]、多账户并发处理能力有限，建议作为个人理财辅助，而非交易终端。
 
 ## 相关笔记
-- [[OpenHuman 本地优先个人AI超级智能体]]
-- [[RustDesk 开源远程桌面工具]]
-- [[Bun 极速一体化 JavaScript 工具链]]
-- [[ripgrep 极速代码搜索工具]]
-- [[Rust Clippy 代码检查工具]]
-- [[XERJ 本地 AI 搜索引擎]]
 - [[知乎理财收藏夹：边城的个人理财资料汇总]]
 - [[20万现金的阶梯式资产配置方案]]
-- [[Agent Browser：面向 AI Agent 的 Rust 浏览器自动化 CLI]]
-- [[ai-memory 跨AI编码代理的长期记忆系统]]
+- [[dbx 轻量级跨平台数据库客户端]]
+- [[普通人多元资产配置实战：分红底仓加风险平价增强]]
+- [[普通人投资ETF的胜率逻辑与品种选择]]
+- [[美股长线持仓为主、A股以指数ETF间接配置的实盘思路]]
+- [[ai-job-search 基于 Claude Code 的本地求职自动化框架]]
+- [[ai-memory：AI编程代理的跨工具长期记忆系统]]
+- [[ComfyUI 开源节点式 AI 内容创作引擎]]
+- [[Jasna 视频马赛克修复工具]]

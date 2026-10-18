@@ -3,7 +3,7 @@ title: daily_stock_analysis 项目11策略与LLM量化框架解析
 source: raw_20260624_162121_42f38fe1
 source_url: https://www.zhihu.com/question/548674391/answer/2032467444133009175
 created: '2026-06-29'
-updated: '2026-10-17'
+updated: '2026-10-18'
 tags:
 - 量化交易
 - 大语言模型
@@ -16,13 +16,13 @@ related:
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- SkillOpt 微软开源 LLM Agent 技能优化器
 - PB-ROE框架复现：GARP策略的量化实证
 - 七年自建趋势跟踪交易系统实战复盘
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
 - Qbot 开源量化交易平台与经典技术指标策略实现
 - Qbot 量化交易平台与均线类策略实现
+- 低频量化投资：指标筛选结合条件单的极简框架
 note_type: content
 ---
 
@@ -118,10 +118,10 @@ note_type: content
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[SkillOpt 微软开源 LLM Agent 技能优化器]]
 - [[PB-ROE框架复现：GARP策略的量化实证]]
 - [[七年自建趋势跟踪交易系统实战复盘]]
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
 - [[Qbot 开源量化交易平台与经典技术指标策略实现]]
 - [[Qbot 量化交易平台与均线类策略实现]]
+- [[低频量化投资：指标筛选结合条件单的极简框架]]

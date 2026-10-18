@@ -3,7 +3,7 @@ title: Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方�
 source: raw_20260624_162106_7a6077a1
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2052781980245287550
 created: '2026-06-24'
-updated: '2026-10-17'
+updated: '2026-10-18'
 tags:
 - Serenity
 - 贝叶斯推理
@@ -22,7 +22,7 @@ related:
 - 基本面分析的五问框架与认知劝退
 - 散户A股投资实战框架：技术分析为主、基本面慎用
 - 股票投资中的周期研究与产业链方法论
-- agent-teams-ai 多智能体协作框架
+- AI 供应链卡脖子环节投资框架
 note_type: content
 ---
 
@@ -131,4 +131,4 @@ serenity-investment-framework/
 - [[基本面分析的五问框架与认知劝退]]
 - [[散户A股投资实战框架：技术分析为主、基本面慎用]]
 - [[股票投资中的周期研究与产业链方法论]]
-- [[agent-teams-ai 多智能体协作框架]]
+- [[AI 供应链卡脖子环节投资框架]]

@@ -3,7 +3,7 @@ title: 知乎炒股大V图鉴：按交易风格分类的散户生态索引
 source: raw_20260624_162119_84dcaed9
 source_url: https://www.zhihu.com/question/1996963610220593950/answer/1999613577657598061
 created: '2026-07-11'
-updated: '2026-10-17'
+updated: '2026-10-18'
 tags:
 - 知乎
 - 投资

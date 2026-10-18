@@ -3,7 +3,7 @@ title: 散户A股投资实战框架：技术分析为主、基本面慎用
 source: raw_20260624_162632_1a2bc7f6
 source_url: https://www.zhihu.com/question/24114669/answer/26849139
 created: '2026-10-17'
-updated: '2026-10-17'
+updated: '2026-10-18'
 tags:
 - 技术分析
 - A股
