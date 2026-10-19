@@ -225,6 +225,7 @@
         "A股散户亏损实录：从追涨杀跌到技术分析全面失效.md",
         "BOLL短线两种高胜率策略与仓位管理.md",
         "Example 域名：文档示例专用保留域名.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
         "K线圆弧角度分析的核心观点.md",
         "K线圆弧角度理论 金融市场的半圆数学.md",
         "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
@@ -273,7 +274,7 @@
         "A股",
         "交易"
       ],
-      "note_count": 48
+      "note_count": 49
     },
     "交易": {
       "notes": [
@@ -282,6 +283,7 @@
         "CH4因子模型：A股四维定价框架与实战应用.md",
         "ETF 网格交易实战：标的选择、不对称网格与费率优势.md",
         "ETF网格交易实战：标的选择与策略优化.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
         "MACD与布林线实战：短线中线技术形态选股框架.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
         "三位值得长期跟踪的A股交易者推荐.md",
@@ -324,7 +326,7 @@
         "技术分析",
         "A股"
       ],
-      "note_count": 41
+      "note_count": 42
     },
     "资产配置": {
       "notes": [
@@ -513,37 +515,6 @@
       ],
       "note_count": 21
     },
-    "开源项目": {
-      "notes": [
-        "Android Skills：Google 官方 AI Agent 技能库.md",
-        "CLI-Anything Agent 原生软件 CLI 生成框架.md",
-        "ComfyUI 开源节点式 AI 内容创作引擎.md",
-        "Cursor 官方插件市场.md",
-        "Jasna 视频马赛克修复工具.md",
-        "LLM 学习路线与实战资源汇总.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "MCP Servers：AI Agent 工具调用协议的事实标准.md",
-        "OpenCode 开源 AI 编码代理.md",
-        "Orca 多 AI 编码代理编排器.md",
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "Qbot 量化交易平台与均线类策略实现.md",
-        "Ruflo Claude Code与Codex的智能体元编排框架.md",
-        "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-        "ai-job-search 基于 Claude Code 的本地求职自动化框架.md",
-        "ai-memory：AI编程代理的跨工具长期记忆系统.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "dbx 轻量级跨平台数据库客户端.md",
-        "七年自建趋势跟踪交易系统实战复盘.md"
-      ],
-      "subtopics": [
-        "AI",
-        "量化交易",
-        "Agent"
-      ],
-      "note_count": 21
-    },
     "仓位管理": {
       "notes": [
         "A股平台突破实战策略.md",
@@ -574,6 +545,36 @@
         "技术分析"
       ],
       "note_count": 21
+    },
+    "开源项目": {
+      "notes": [
+        "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md",
+        "Claude Code 官方插件目录解析.md",
+        "Claude Code 终端 AI 编程代理工具.md",
+        "ComfyUI：模块化扩散模型 AI 创作引擎.md",
+        "Headroom：LLM 上下文压缩层.md",
+        "Jasna 开源视频马赛克修复工具.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "Marble 技能分类法：开源小学课程知识图谱.md",
+        "Orca 多 Agent 并行运行的 AI 编程编排器.md",
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "Qbot 量化交易平台与均线类策略实现.md",
+        "Ruflo：Claude Code 与 Codex 的智能体编排框架.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+        "ai-job-search 本地化 AI 求职框架.md",
+        "ai-memory 跨代理长期记忆与交接系统.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "opencode 开源 AI 编程代理.md",
+        "七年自建趋势跟踪交易系统实战复盘.md"
+      ],
+      "subtopics": [
+        "AI",
+        "Agent",
+        "量化交易"
+      ],
+      "note_count": 20
     },
     "ETF": {
       "notes": [
@@ -633,34 +634,6 @@
         "估值"
       ],
       "note_count": 19
-    },
-    "AI": {
-      "notes": [
-        "AI 供应链卡脖子环节投资框架.md",
-        "AI供应链卡脖子环节挖掘框架.md",
-        "Android Skills：Google 官方 AI Agent 技能库.md",
-        "CLI-Anything Agent 原生软件 CLI 生成框架.md",
-        "ComfyUI 开源节点式 AI 内容创作引擎.md",
-        "Cursor 官方插件市场.md",
-        "Jasna 视频马赛克修复工具.md",
-        "LLM 学习路线与实战资源汇总.md",
-        "MCP Servers：AI Agent 工具调用协议的事实标准.md",
-        "OpenCode 开源 AI 编码代理.md",
-        "Orca 多 AI 编码代理编排器.md",
-        "Ruflo Claude Code与Codex的智能体元编排框架.md",
-        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
-        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-        "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md",
-        "ai-job-search 基于 Claude Code 的本地求职自动化框架.md",
-        "ai-memory：AI编程代理的跨工具长期记忆系统.md",
-        "财报分析框架蒸馏为 AI Skill 的实践.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "投资",
-        "Agent"
-      ],
-      "note_count": 18
     },
     "均线": {
       "notes": [
@@ -827,6 +800,56 @@
       ],
       "note_count": 17
     },
+    "AI": {
+      "notes": [
+        "AI 供应链卡脖子环节投资框架.md",
+        "AI供应链卡脖子环节挖掘框架.md",
+        "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md",
+        "Claude Code 终端 AI 编程代理工具.md",
+        "ComfyUI：模块化扩散模型 AI 创作引擎.md",
+        "Headroom：LLM 上下文压缩层.md",
+        "Jasna 开源视频马赛克修复工具.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "Orca 多 Agent 并行运行的 AI 编程编排器.md",
+        "Ruflo：Claude Code 与 Codex 的智能体编排框架.md",
+        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
+        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
+        "ai-job-search 本地化 AI 求职框架.md",
+        "ai-memory 跨代理长期记忆与交接系统.md",
+        "opencode 开源 AI 编程代理.md",
+        "财报分析框架蒸馏为 AI Skill 的实践.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Agent",
+        "投资"
+      ],
+      "note_count": 16
+    },
+    "金融": {
+      "notes": [
+        "2万元交易员付费课性价比存疑 B站免费资源更优.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "K线圆弧角度分析的核心观点.md",
+        "K线圆弧角度理论 金融市场的半圆数学.md",
+        "新加坡学生签作为海外金融账户入口.md",
+        "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md",
+        "泡沫三百年不变的剧本：从密西西比与南海看 A 股的人性陷阱.md",
+        "泡沫史鉴：从密西西比泡沫到A股妖股的剧本重演.md",
+        "炒股如同高考 持续学习才是出路.md",
+        "股票市场术语民间图解.md",
+        "股票投资的学习门槛与能力自检.md",
+        "账面资产与现金流：资产泡沫制造的财富幻觉.md",
+        "量化投资入门三步法：从认知到实战的系统路径.md",
+        "金融炼金术的智识真诚.md"
+      ],
+      "subtopics": [
+        "投资",
+        "技术分析",
+        "A股"
+      ],
+      "note_count": 14
+    },
     "估值": {
       "notes": [
         "A股本轮牛市的内外部结构与板块轮动节奏.md",
@@ -850,29 +873,6 @@
         "股票研究"
       ],
       "note_count": 14
-    },
-    "金融": {
-      "notes": [
-        "2万元交易员付费课性价比存疑 B站免费资源更优.md",
-        "K线圆弧角度分析的核心观点.md",
-        "K线圆弧角度理论 金融市场的半圆数学.md",
-        "新加坡学生签作为海外金融账户入口.md",
-        "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md",
-        "泡沫三百年不变的剧本：从密西西比与南海看 A 股的人性陷阱.md",
-        "泡沫史鉴：从密西西比泡沫到A股妖股的剧本重演.md",
-        "炒股如同高考 持续学习才是出路.md",
-        "股票市场术语民间图解.md",
-        "股票投资的学习门槛与能力自检.md",
-        "账面资产与现金流：资产泡沫制造的财富幻觉.md",
-        "量化投资入门三步法：从认知到实战的系统路径.md",
-        "金融炼金术的智识真诚.md"
-      ],
-      "subtopics": [
-        "投资",
-        "技术分析",
-        "A股"
-      ],
-      "note_count": 13
     },
     "定投": {
       "notes": [
@@ -940,6 +940,27 @@
       ],
       "note_count": 11
     },
+    "回测": {
+      "notes": [
+        "ETF网格交易实战：标的选择与策略优化.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "个人趋势跟踪量化交易系统七年实践.md",
+        "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈.md",
+        "基于 bt 与 alphalens 的多因子回测框架实践.md",
+        "大跌复盘三步法：从情绪检查到对冲验证.md",
+        "机器学习在量化交易中的应用要点.md",
+        "纳指ETF策略选择方法论：数据驱动的回测决策框架.md",
+        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md",
+        "量化因子库搭建指南：从来源到实操的完整路径.md",
+        "量化因子来源指南：从误区到新手友好资源.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "交易",
+        "投资"
+      ],
+      "note_count": 11
+    },
     "房地产": {
       "notes": [
         "中国房价与债务周期：顶部不可维持的底层逻辑.md",
@@ -981,26 +1002,6 @@
       ],
       "note_count": 10
     },
-    "回测": {
-      "notes": [
-        "ETF网格交易实战：标的选择与策略优化.md",
-        "个人趋势跟踪量化交易系统七年实践.md",
-        "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈.md",
-        "基于 bt 与 alphalens 的多因子回测框架实践.md",
-        "大跌复盘三步法：从情绪检查到对冲验证.md",
-        "机器学习在量化交易中的应用要点.md",
-        "纳指ETF策略选择方法论：数据驱动的回测决策框架.md",
-        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md",
-        "量化因子库搭建指南：从来源到实操的完整路径.md",
-        "量化因子来源指南：从误区到新手友好资源.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "交易",
-        "投资"
-      ],
-      "note_count": 10
-    },
     "牛市": {
       "notes": [
         "A股散户投资策略与ETF及板块标的梳理.md",
@@ -1016,6 +1017,24 @@
         "投资",
         "A股",
         "板块轮动"
+      ],
+      "note_count": 8
+    },
+    "Agent": {
+      "notes": [
+        "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md",
+        "Headroom：LLM 上下文压缩层.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "Ruflo：Claude Code 与 Codex 的智能体编排框架.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "opencode 开源 AI 编程代理.md",
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "量化交易"
       ],
       "note_count": 8
     },
@@ -1036,23 +1055,6 @@
         "资产配置"
       ],
       "note_count": 8
-    },
-    "Agent": {
-      "notes": [
-        "Android Skills：Google 官方 AI Agent 技能库.md",
-        "CLI-Anything Agent 原生软件 CLI 生成框架.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "MCP Servers：AI Agent 工具调用协议的事实标准.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "量化交易",
-        "AI"
-      ],
-      "note_count": 7
     },
     "筹码分布": {
       "notes": [
@@ -1136,21 +1138,6 @@
       ],
       "note_count": 6
     },
-    "大语言模型": {
-      "notes": [
-        "AI 时代个人量化交易可行路径与核心铁律.md",
-        "AI时代个人量化生存指南.md",
-        "LLM 学习路线与实战资源汇总.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "投资",
-        "开源项目"
-      ],
-      "note_count": 5
-    },
     "量化因子": {
       "notes": [
         "CH4 因子模型 A股四因子实战拆解.md",
@@ -1196,6 +1183,20 @@
       ],
       "note_count": 5
     },
+    "大语言模型": {
+      "notes": [
+        "AI 时代个人量化交易可行路径与核心铁律.md",
+        "AI时代个人量化生存指南.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "投资",
+        "数据"
+      ],
+      "note_count": 4
+    },
     "主力操盘": {
       "notes": [
         "A股主力炒作四阶段周期拆解.md",
@@ -1235,6 +1236,20 @@
         "投资",
         "A股",
         "金融"
+      ],
+      "note_count": 4
+    },
+    "自动化": {
+      "notes": [
+        "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md",
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md",
+        "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
+      ],
+      "subtopics": [
+        "Agent",
+        "OpenClaw",
+        "量化交易"
       ],
       "note_count": 4
     },
@@ -1373,19 +1388,6 @@
         "投资",
         "AI",
         "卡脖子环节"
-      ],
-      "note_count": 3
-    },
-    "数据": {
-      "notes": [
-        "AI 时代个人量化交易可行路径与核心铁律.md",
-        "AI时代个人量化生存指南.md",
-        "dbx 轻量级跨平台数据库客户端.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "大语言模型",
-        "事件驱动策略"
       ],
       "note_count": 3
     },
@@ -1597,19 +1599,6 @@
       ],
       "note_count": 3
     },
-    "自动化": {
-      "notes": [
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md",
-        "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
-      ],
-      "subtopics": [
-        "OpenClaw",
-        "量化交易",
-        "Agent"
-      ],
-      "note_count": 3
-    },
     "财务自由": {
       "notes": [
         "穷人翻身的最大可能性：用30万存款撬动财务自由.md",
@@ -1673,6 +1662,18 @@
       ],
       "note_count": 2
     },
+    "数据": {
+      "notes": [
+        "AI 时代个人量化交易可行路径与核心铁律.md",
+        "AI时代个人量化生存指南.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "大语言模型",
+        "事件驱动策略"
+      ],
+      "note_count": 2
+    },
     "事件驱动策略": {
       "notes": [
         "AI 时代个人量化交易可行路径与核心铁律.md",
@@ -1687,25 +1688,13 @@
     },
     "Claude Code": {
       "notes": [
-        "Ruflo Claude Code与Codex的智能体元编排框架.md",
-        "ai-job-search 基于 Claude Code 的本地求职自动化框架.md"
+        "Claude Code 终端 AI 编程代理工具.md",
+        "ai-job-search 本地化 AI 求职框架.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
         "求职"
-      ],
-      "note_count": 2
-    },
-    "开发工具": {
-      "notes": [
-        "Android Skills：Google 官方 AI Agent 技能库.md",
-        "dbx 轻量级跨平台数据库客户端.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Android开发"
       ],
       "note_count": 2
     },
@@ -1817,27 +1806,27 @@
       ],
       "note_count": 2
     },
-    "CLI工具": {
+    "MCP": {
       "notes": [
-        "CLI-Anything Agent 原生软件 CLI 生成框架.md",
-        "OpenCode 开源 AI 编码代理.md"
+        "Claude Code 官方插件目录解析.md",
+        "Ruflo：Claude Code 与 Codex 的智能体编排框架.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Claude-Code",
+        "Anthropic"
+      ],
+      "note_count": 2
+    },
+    "开发者工具": {
+      "notes": [
+        "Claude Code 终端 AI 编程代理工具.md",
+        "Orca 多 Agent 并行运行的 AI 编程编排器.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "Agent"
-      ],
-      "note_count": 2
-    },
-    "Rust": {
-      "notes": [
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-        "dbx 轻量级跨平台数据库客户端.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "数据",
-        "开发工具"
+        "Claude Code"
       ],
       "note_count": 2
     },
@@ -1886,6 +1875,18 @@
         "技术分析",
         "K线理论",
         "金融"
+      ],
+      "note_count": 2
+    },
+    "GitHub": {
+      "notes": [
+        "Qbot 开源量化交易闭环系统.md",
+        "opencode 开源 AI 编程代理.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Agent"
       ],
       "note_count": 2
     },
@@ -2689,45 +2690,45 @@
     },
     "求职": {
       "notes": [
-        "ai-job-search 基于 Claude Code 的本地求职自动化框架.md"
+        "ai-job-search 本地化 AI 求职框架.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "简历优化"
+        "Claude Code"
       ],
       "note_count": 1
     },
-    "简历优化": {
+    "编码代理": {
       "notes": [
-        "ai-job-search 基于 Claude Code 的本地求职自动化框架.md"
+        "ai-memory 跨代理长期记忆与交接系统.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
-        "求职"
+        "开源项目",
+        "记忆系统"
       ],
       "note_count": 1
     },
-    "编程助手": {
+    "记忆系统": {
       "notes": [
-        "ai-memory：AI编程代理的跨工具长期记忆系统.md"
+        "ai-memory 跨代理长期记忆与交接系统.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "长期记忆"
+        "编码代理"
       ],
       "note_count": 1
     },
-    "长期记忆": {
+    "Markdown wiki": {
       "notes": [
-        "ai-memory：AI编程代理的跨工具长期记忆系统.md"
+        "ai-memory 跨代理长期记忆与交接系统.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "编程助手"
+        "编码代理"
       ],
       "note_count": 1
     },
@@ -2761,17 +2762,6 @@
         "AI",
         "投资",
         "卡脖子"
-      ],
-      "note_count": 1
-    },
-    "Android开发": {
-      "notes": [
-        "Android Skills：Google 官方 AI Agent 技能库.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Agent"
       ],
       "note_count": 1
     },
@@ -2896,9 +2886,42 @@
       ],
       "note_count": 1
     },
-    "LLM工具": {
+    "Claude-Code": {
       "notes": [
-        "CLI-Anything Agent 原生软件 CLI 生成框架.md"
+        "Claude Code 官方插件目录解析.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Anthropic",
+        "MCP"
+      ],
+      "note_count": 1
+    },
+    "Anthropic": {
+      "notes": [
+        "Claude Code 官方插件目录解析.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Claude-Code",
+        "MCP"
+      ],
+      "note_count": 1
+    },
+    "终端工具": {
+      "notes": [
+        "Claude Code 终端 AI 编程代理工具.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "Claude Code"
+      ],
+      "note_count": 1
+    },
+    "代码生成": {
+      "notes": [
+        "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md"
       ],
       "subtopics": [
         "AI",
@@ -2909,56 +2932,34 @@
     },
     "扩散模型": {
       "notes": [
-        "ComfyUI 开源节点式 AI 内容创作引擎.md"
+        "ComfyUI：模块化扩散模型 AI 创作引擎.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "ComfyUI"
+        "AI",
+        "节点编辑器"
       ],
       "note_count": 1
     },
-    "ComfyUI": {
+    "节点编辑器": {
       "notes": [
-        "ComfyUI 开源节点式 AI 内容创作引擎.md"
+        "ComfyUI：模块化扩散模型 AI 创作引擎.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
+        "AI",
         "扩散模型"
       ],
       "note_count": 1
     },
-    "图形化工作流": {
+    "本地推理": {
       "notes": [
-        "ComfyUI 开源节点式 AI 内容创作引擎.md"
+        "ComfyUI：模块化扩散模型 AI 创作引擎.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
+        "AI",
         "扩散模型"
-      ],
-      "note_count": 1
-    },
-    "Cursor插件": {
-      "notes": [
-        "Cursor 官方插件市场.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "开发者工具"
-      ],
-      "note_count": 1
-    },
-    "开发者工具": {
-      "notes": [
-        "Cursor 官方插件市场.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Cursor插件"
       ],
       "note_count": 1
     },
@@ -3004,20 +3005,42 @@
       ],
       "note_count": 1
     },
-    "视频修复": {
+    "LLM工具": {
       "notes": [
-        "Jasna 视频马赛克修复工具.md"
+        "Headroom：LLM 上下文压缩层.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "图像处理"
+        "Agent"
+      ],
+      "note_count": 1
+    },
+    "视频修复": {
+      "notes": [
+        "Jasna 开源视频马赛克修复工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "深度学习"
+      ],
+      "note_count": 1
+    },
+    "深度学习": {
+      "notes": [
+        "Jasna 开源视频马赛克修复工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "视频修复"
       ],
       "note_count": 1
     },
     "图像处理": {
       "notes": [
-        "Jasna 视频马赛克修复工具.md"
+        "Jasna 开源视频马赛克修复工具.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3070,39 +3093,6 @@
       ],
       "note_count": 1
     },
-    "学习路线": {
-      "notes": [
-        "LLM 学习路线与实战资源汇总.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "大语言模型"
-      ],
-      "note_count": 1
-    },
-    "微调": {
-      "notes": [
-        "LLM 学习路线与实战资源汇总.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "大语言模型"
-      ],
-      "note_count": 1
-    },
-    "模型量化": {
-      "notes": [
-        "LLM 学习路线与实战资源汇总.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "大语言模型"
-      ],
-      "note_count": 1
-    },
     "抓妖模式": {
       "notes": [
         "MACD与布林线实战：短线中线技术形态选股框架.md"
@@ -3136,58 +3126,58 @@
       ],
       "note_count": 1
     },
-    "MCP": {
+    "教育": {
       "notes": [
-        "MCP Servers：AI Agent 工具调用协议的事实标准.md"
+        "Marble 技能分类法：开源小学课程知识图谱.md"
       ],
       "subtopics": [
         "开源项目",
-        "AI",
-        "Agent"
+        "知识图谱",
+        "课程设计"
       ],
       "note_count": 1
     },
-    "TypeScript": {
+    "知识图谱": {
       "notes": [
-        "MCP Servers：AI Agent 工具调用协议的事实标准.md"
+        "Marble 技能分类法：开源小学课程知识图谱.md"
       ],
       "subtopics": [
         "开源项目",
-        "MCP",
-        "AI"
+        "教育",
+        "课程设计"
       ],
       "note_count": 1
     },
-    "编码助手": {
+    "课程设计": {
       "notes": [
-        "OpenCode 开源 AI 编码代理.md"
+        "Marble 技能分类法：开源小学课程知识图谱.md"
       ],
       "subtopics": [
         "开源项目",
-        "AI",
-        "CLI工具"
+        "教育",
+        "知识图谱"
       ],
       "note_count": 1
     },
-    "编码代理": {
+    "教学法": {
       "notes": [
-        "Orca 多 AI 编码代理编排器.md"
+        "Marble 技能分类法：开源小学课程知识图谱.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "桌面应用"
+        "教育",
+        "知识图谱"
       ],
       "note_count": 1
     },
-    "桌面应用": {
+    "编程助手": {
       "notes": [
-        "Orca 多 AI 编码代理编排器.md"
+        "Orca 多 Agent 并行运行的 AI 编程编排器.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "编码代理"
+        "开发者工具"
       ],
       "note_count": 1
     },
@@ -3235,17 +3225,6 @@
       ],
       "note_count": 1
     },
-    "GitHub": {
-      "notes": [
-        "Qbot 开源量化交易闭环系统.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "开源项目",
-        "Qbot"
-      ],
-      "note_count": 1
-    },
     "KDJ": {
       "notes": [
         "Qbot 量化交易平台与均线类策略实现.md"
@@ -3254,28 +3233,6 @@
         "量化交易",
         "backtrader",
         "MACD"
-      ],
-      "note_count": 1
-    },
-    "多智能体": {
-      "notes": [
-        "Ruflo Claude Code与Codex的智能体元编排框架.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "智能体编排"
-      ],
-      "note_count": 1
-    },
-    "智能体编排": {
-      "notes": [
-        "Ruflo Claude Code与Codex的智能体元编排框架.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "多智能体"
       ],
       "note_count": 1
     },
@@ -3367,51 +3324,18 @@
       ],
       "note_count": 1
     },
-    "语音克隆": {
-      "notes": [
-        "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "文字转语音"
-      ],
-      "note_count": 1
-    },
-    "文字转语音": {
-      "notes": [
-        "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "语音克隆"
-      ],
-      "note_count": 1
-    },
-    "本地部署": {
-      "notes": [
-        "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "语音克隆"
-      ],
-      "note_count": 1
-    },
-    "Electron": {
-      "notes": [
-        "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "语音克隆"
-      ],
-      "note_count": 1
-    },
     "本地优先": {
+      "notes": [
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "资产配置",
+        "个人理财"
+      ],
+      "note_count": 1
+    },
+    "Rust": {
       "notes": [
         "Wealthfolio：本地优先的个人财务追踪开源工具.md"
       ],
@@ -5582,5 +5506,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-10-18T23:35:36"
+  "last_rebuilt": "2026-10-20T01:48:37"
 }

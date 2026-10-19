@@ -3,7 +3,7 @@ title: AI供应链卡脖子环节挖掘框架
 source: raw_20260624_162424_67ad2e00
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2045090338327588976
 created: '2026-06-29'
-updated: '2026-10-18'
+updated: '2026-10-20'
 tags:
 - AI
 - 投资
@@ -14,14 +14,14 @@ status: processed
 related:
 - AI 供应链卡脖子环节投资框架
 - 财报分析框架蒸馏为 AI Skill 的实践
-- ai-job-search 基于 Claude Code 的本地求职自动化框架
+- ai-job-search 本地化 AI 求职框架
 - AI 时代个人量化交易可行路径与核心铁律
-- ai-memory：AI编程代理的跨工具长期记忆系统
+- ai-memory 跨代理长期记忆与交接系统
 - AI时代个人量化生存指南
-- Android Skills：Google 官方 AI Agent 技能库
 - A股散户情绪逆向投资法与低估值选股框架
 - A股散户投资框架：ETF优先与独立择时
 - A股题材投资逻辑与产业链选股框架
+- Claude Code 终端 AI 编程代理工具
 note_type: content
 ---
 
@@ -110,11 +110,11 @@ A股这条线已被市场提前反应，龙头早已上天；美股AXTI则是更
 ## 相关笔记
 - [[AI 供应链卡脖子环节投资框架]]
 - [[财报分析框架蒸馏为 AI Skill 的实践]]
-- [[ai-job-search 基于 Claude Code 的本地求职自动化框架]]
+- [[ai-job-search 本地化 AI 求职框架]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
-- [[ai-memory：AI编程代理的跨工具长期记忆系统]]
+- [[ai-memory 跨代理长期记忆与交接系统]]
 - [[AI时代个人量化生存指南]]
-- [[Android Skills：Google 官方 AI Agent 技能库]]
 - [[A股散户情绪逆向投资法与低估值选股框架]]
 - [[A股散户投资框架：ETF优先与独立择时]]
 - [[A股题材投资逻辑与产业链选股框架]]
+- [[Claude Code 终端 AI 编程代理工具]]

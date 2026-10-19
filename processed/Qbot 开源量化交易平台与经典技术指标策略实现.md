@@ -3,7 +3,7 @@ title: Qbot 开源量化交易平台与经典技术指标策略实现
 source: raw_20260624_162125_c60100f7
 source_url: https://www.zhihu.com/question/418378495/answer/3035768838
 created: '2026-06-29'
-updated: '2026-10-18'
+updated: '2026-10-20'
 tags:
 - Qbot
 - 量化交易
@@ -18,11 +18,11 @@ related:
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
 - 轻量级 Alpha 多因子回测框架实践与量化系统本质思考
 - daily_stock_analysis 项目11策略与LLM量化框架解析
+- Kronos：面向金融K线序列的首个开源基础模型
 - 分钟级K线涨跌跟随策略的回测：高频交易是负和博弈
 - 七年自建趋势跟踪交易系统实战复盘
 - 炒股如同高考 持续学习才是出路
 - PB-ROE框架复现：GARP策略的量化实证
-- 菜场大妈选股策略：质好价低市值小的量化入门玩法
 note_type: content
 ---
 
@@ -113,8 +113,8 @@ note_type: content
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
 - [[轻量级 Alpha 多因子回测框架实践与量化系统本质思考]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]
 - [[分钟级K线涨跌跟随策略的回测：高频交易是负和博弈]]
 - [[七年自建趋势跟踪交易系统实战复盘]]
 - [[炒股如同高考 持续学习才是出路]]
 - [[PB-ROE框架复现：GARP策略的量化实证]]
-- [[菜场大妈选股策略：质好价低市值小的量化入门玩法]]

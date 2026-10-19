@@ -3,7 +3,7 @@ title: Qbot 开源量化交易闭环系统
 source: raw_20260624_162615_af34b82d
 source_url: https://www.zhihu.com/question/35977425/answer/3028734985
 created: '2026-06-29'
-updated: '2026-10-18'
+updated: '2026-10-20'
 tags:
 - 量化交易
 - 开源项目
@@ -20,9 +20,9 @@ related:
 - 量化投资入门三步法：从认知到实战的系统路径
 - daily_stock_analysis 项目11策略与LLM量化框架解析
 - Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案
+- opencode 开源 AI 编程代理
 - 七年自建趋势跟踪交易系统实战复盘
 - AI 时代个人量化交易可行路径与核心铁律
-- 机器学习在量化交易中的应用要点
 note_type: content
 ---
 
@@ -80,6 +80,6 @@ Qbot 对以下市场均有支持：
 - [[量化投资入门三步法：从认知到实战的系统路径]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
 - [[Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案]]
+- [[opencode 开源 AI 编程代理]]
 - [[七年自建趋势跟踪交易系统实战复盘]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
-- [[机器学习在量化交易中的应用要点]]

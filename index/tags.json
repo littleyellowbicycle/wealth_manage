@@ -11,29 +11,28 @@
   "AI": [
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
-    "Android Skills：Google 官方 AI Agent 技能库.md",
-    "CLI-Anything Agent 原生软件 CLI 生成框架.md",
-    "ComfyUI 开源节点式 AI 内容创作引擎.md",
-    "Cursor 官方插件市场.md",
-    "Jasna 视频马赛克修复工具.md",
-    "LLM 学习路线与实战资源汇总.md",
-    "MCP Servers：AI Agent 工具调用协议的事实标准.md",
-    "OpenCode 开源 AI 编码代理.md",
-    "Orca 多 AI 编码代理编排器.md",
-    "Ruflo Claude Code与Codex的智能体元编排框架.md",
+    "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md",
+    "Claude Code 终端 AI 编程代理工具.md",
+    "ComfyUI：模块化扩散模型 AI 创作引擎.md",
+    "Headroom：LLM 上下文压缩层.md",
+    "Jasna 开源视频马赛克修复工具.md",
+    "Kronos：面向金融K线序列的首个开源基础模型.md",
+    "Orca 多 Agent 并行运行的 AI 编程编排器.md",
+    "Ruflo：Claude Code 与 Codex 的智能体编排框架.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-    "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md",
-    "ai-job-search 基于 Claude Code 的本地求职自动化框架.md",
-    "ai-memory：AI编程代理的跨工具长期记忆系统.md",
+    "ai-job-search 本地化 AI 求职框架.md",
+    "ai-memory 跨代理长期记忆与交接系统.md",
+    "opencode 开源 AI 编程代理.md",
     "财报分析框架蒸馏为 AI Skill 的实践.md"
   ],
   "Agent": [
-    "Android Skills：Google 官方 AI Agent 技能库.md",
-    "CLI-Anything Agent 原生软件 CLI 生成框架.md",
+    "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md",
+    "Headroom：LLM 上下文压缩层.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "MCP Servers：AI Agent 工具调用协议的事实标准.md",
+    "Ruflo：Claude Code 与 Codex 的智能体编排框架.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+    "opencode 开源 AI 编程代理.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md"
   ],
@@ -44,8 +43,8 @@
   "Alpha策略": [
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md"
   ],
-  "Android开发": [
-    "Android Skills：Google 官方 AI Agent 技能库.md"
+  "Anthropic": [
+    "Claude Code 官方插件目录解析.md"
   ],
   "A股": [
     "A股三次冲关4000点的逻辑变迁与策略比较.md",
@@ -110,10 +109,6 @@
   "B站学习": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md"
   ],
-  "CLI工具": [
-    "CLI-Anything Agent 原生软件 CLI 生成框架.md",
-    "OpenCode 开源 AI 编码代理.md"
-  ],
   "CRS": [
     "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md"
   ],
@@ -121,21 +116,18 @@
     "新加坡学生签作为海外金融账户入口.md"
   ],
   "Claude Code": [
-    "Ruflo Claude Code与Codex的智能体元编排框架.md",
-    "ai-job-search 基于 Claude Code 的本地求职自动化框架.md"
+    "Claude Code 终端 AI 编程代理工具.md",
+    "ai-job-search 本地化 AI 求职框架.md"
+  ],
+  "Claude-Code": [
+    "Claude Code 官方插件目录解析.md"
   ],
   "CoCo助手": [
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
   ],
-  "ComfyUI": [
-    "ComfyUI 开源节点式 AI 内容创作引擎.md"
-  ],
   "Covered Call": [
     "高派息ETF组合与Covered Call策略解析.md",
     "高派息ETF组合：Covered Call策略驱动的月度现金流方案.md"
-  ],
-  "Cursor插件": [
-    "Cursor 官方插件市场.md"
   ],
   "DCF模型": [
     "投资视角下的上市公司年报阅读框架.md",
@@ -164,9 +156,6 @@
     "高派息ETF组合：Covered Call策略驱动的月度现金流方案.md",
     "高股息ETF精选清单：按分红频率分层配置.md"
   ],
-  "Electron": [
-    "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md"
-  ],
   "FOMO": [
     "泡沫史鉴：从密西西比泡沫到A股妖股的剧本重演.md"
   ],
@@ -181,7 +170,8 @@
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
   ],
   "GitHub": [
-    "Qbot 开源量化交易闭环系统.md"
+    "Qbot 开源量化交易闭环系统.md",
+    "opencode 开源 AI 编程代理.md"
   ],
   "GitHub开源": [
     "个人趋势跟踪量化交易系统七年实践.md"
@@ -197,7 +187,7 @@
     "K线圆弧角度理论 金融市场的半圆数学.md"
   ],
   "LLM工具": [
-    "CLI-Anything Agent 原生软件 CLI 生成框架.md"
+    "Headroom：LLM 上下文压缩层.md"
   ],
   "Linux.do": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -208,10 +198,14 @@
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
   "MCP": [
-    "MCP Servers：AI Agent 工具调用协议的事实标准.md"
+    "Claude Code 官方插件目录解析.md",
+    "Ruflo：Claude Code 与 Codex 的智能体编排框架.md"
   ],
   "MR Dang": [
     "知乎与支付宝开源投资博主汇总与抄作业哲学.md"
+  ],
+  "Markdown wiki": [
+    "ai-memory 跨代理长期记忆与交接系统.md"
   ],
   "Nodeseek": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -245,17 +239,13 @@
     "股票投资中的周期研究与自学路径.md"
   ],
   "Rust": [
-    "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-    "dbx 轻量级跨平台数据库客户端.md"
+    "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
   "Serenity": [
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md"
   ],
   "Transformer": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
-  ],
-  "TypeScript": [
-    "MCP Servers：AI Agent 工具调用协议的事实标准.md"
   ],
   "V2EX": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -371,6 +361,7 @@
     "CH4因子模型：A股四维定价框架与实战应用.md",
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md",
     "ETF网格交易实战：标的选择与策略优化.md",
+    "Kronos：面向金融K线序列的首个开源基础模型.md",
     "MACD与布林线实战：短线中线技术形态选股框架.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "三位值得长期跟踪的A股交易者推荐.md",
@@ -463,6 +454,9 @@
   ],
   "代操盘教训": [
     "散户投资的人性困境：追涨杀跌与代操盘教训.md"
+  ],
+  "代码生成": [
+    "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md"
   ],
   "价值投资": [
     "价值投资.md"
@@ -621,6 +615,7 @@
   ],
   "回测": [
     "ETF网格交易实战：标的选择与策略优化.md",
+    "Kronos：面向金融K线序列的首个开源基础模型.md",
     "个人趋势跟踪量化交易系统七年实践.md",
     "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈.md",
     "基于 bt 与 alphalens 的多因子回测框架实践.md",
@@ -670,10 +665,7 @@
     "时代十字路口：日德美对东大的经济警示.md"
   ],
   "图像处理": [
-    "Jasna 视频马赛克修复工具.md"
-  ],
-  "图形化工作流": [
-    "ComfyUI 开源节点式 AI 内容创作引擎.md"
+    "Jasna 开源视频马赛克修复工具.md"
   ],
   "圆弧底": [
     "K线圆弧角度分析的核心观点.md",
@@ -789,9 +781,6 @@
   "复盘": [
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
-  "多智能体": [
-    "Ruflo Claude Code与Codex的智能体元编排框架.md"
-  ],
   "大盘股": [
     "矿股永续增长与大盘低估的本质.md",
     "矿股的永续增长与低估值悖论.md"
@@ -802,7 +791,6 @@
   "大语言模型": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md",
-    "LLM 学习路线与实战资源汇总.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
   ],
@@ -838,9 +826,6 @@
   ],
   "学习路径": [
     "量化投资入门三步法：从认知到实战的系统路径.md"
-  ],
-  "学习路线": [
-    "LLM 学习路线与实战资源汇总.md"
   ],
   "宏观": [
     "中国房价与债务周期：顶部不可维持的底层逻辑.md",
@@ -950,37 +935,33 @@
   "库存周期": [
     "股票投资中的周期研究与自学路径.md"
   ],
-  "开发工具": [
-    "Android Skills：Google 官方 AI Agent 技能库.md",
-    "dbx 轻量级跨平台数据库客户端.md"
-  ],
   "开发者工具": [
-    "Cursor 官方插件市场.md"
+    "Claude Code 终端 AI 编程代理工具.md",
+    "Orca 多 Agent 并行运行的 AI 编程编排器.md"
   ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
-    "Android Skills：Google 官方 AI Agent 技能库.md",
-    "CLI-Anything Agent 原生软件 CLI 生成框架.md",
-    "ComfyUI 开源节点式 AI 内容创作引擎.md",
-    "Cursor 官方插件市场.md",
-    "Jasna 视频马赛克修复工具.md",
-    "LLM 学习路线与实战资源汇总.md",
+    "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md",
+    "Claude Code 官方插件目录解析.md",
+    "Claude Code 终端 AI 编程代理工具.md",
+    "ComfyUI：模块化扩散模型 AI 创作引擎.md",
+    "Headroom：LLM 上下文压缩层.md",
+    "Jasna 开源视频马赛克修复工具.md",
+    "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "MCP Servers：AI Agent 工具调用协议的事实标准.md",
-    "OpenCode 开源 AI 编码代理.md",
-    "Orca 多 AI 编码代理编排器.md",
+    "Marble 技能分类法：开源小学课程知识图谱.md",
+    "Orca 多 Agent 并行运行的 AI 编程编排器.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
-    "Ruflo Claude Code与Codex的智能体元编排框架.md",
-    "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md",
+    "Ruflo：Claude Code 与 Codex 的智能体编排框架.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-    "ai-job-search 基于 Claude Code 的本地求职自动化框架.md",
-    "ai-memory：AI编程代理的跨工具长期记忆系统.md",
+    "ai-job-search 本地化 AI 求职框架.md",
+    "ai-memory 跨代理长期记忆与交接系统.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-    "dbx 轻量级跨平台数据库客户端.md",
+    "opencode 开源 AI 编程代理.md",
     "七年自建趋势跟踪交易系统实战复盘.md"
   ],
   "开窍": [
@@ -994,9 +975,6 @@
   ],
   "徐翔": [
     "徐翔交易体系拆解：跟庄逻辑与庄家食物链.md"
-  ],
-  "微调": [
-    "LLM 学习路线与实战资源汇总.md"
   ],
   "慢牛": [
     "A股三次冲关4000点的逻辑变迁与策略比较.md"
@@ -1028,7 +1006,7 @@
     "高层住宅的迭代陷阱与资产选择逻辑.md"
   ],
   "扩散模型": [
-    "ComfyUI 开源节点式 AI 内容创作引擎.md"
+    "ComfyUI：模块化扩散模型 AI 创作引擎.md"
   ],
   "承接力": [
     "股票承接力与反弹反转判断.md"
@@ -1040,6 +1018,7 @@
     "A股散户亏损实录：从追涨杀跌到技术分析全面失效.md",
     "BOLL短线两种高胜率策略与仓位管理.md",
     "Example 域名：文档示例专用保留域名.md",
+    "Kronos：面向金融K线序列的首个开源基础模型.md",
     "K线圆弧角度分析的核心观点.md",
     "K线圆弧角度理论 金融市场的半圆数学.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
@@ -1273,6 +1252,12 @@
   "支撑压力": [
     "筹码分布战法核心用法与盯盘节奏.md"
   ],
+  "教学法": [
+    "Marble 技能分类法：开源小学课程知识图谱.md"
+  ],
+  "教育": [
+    "Marble 技能分类法：开源小学课程知识图谱.md"
+  ],
   "散户": [
     "A股主力操盘四阶段周期与散户陷阱.md",
     "A股散户情绪逆向投资法与低估值选股框架.md",
@@ -1294,11 +1279,7 @@
   ],
   "数据": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
-    "AI时代个人量化生存指南.md",
-    "dbx 轻量级跨平台数据库客户端.md"
-  ],
-  "文字转语音": [
-    "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md"
+    "AI时代个人量化生存指南.md"
   ],
   "新加坡": [
     "新加坡学生签作为海外金融账户入口.md"
@@ -1331,9 +1312,6 @@
   "时序预测": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
   ],
-  "智能体编排": [
-    "Ruflo Claude Code与Codex的智能体元编排框架.md"
-  ],
   "智能网格": [
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
   ],
@@ -1346,8 +1324,8 @@
   "本地优先": [
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
-  "本地部署": [
-    "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md"
+  "本地推理": [
+    "ComfyUI：模块化扩散模型 AI 创作引擎.md"
   ],
   "本金安全": [
     "20万现金的阶梯式资产配置方案.md"
@@ -1382,9 +1360,6 @@
   "案例分析": [
     "县城产业兴衰研究与差异化经营案例.md"
   ],
-  "桌面应用": [
-    "Orca 多 AI 编码代理编排器.md"
-  ],
   "棉花": [
     "津巴布韦锂矿禁令与世界杯题材 2026 年春季投资机会梳理.md"
   ],
@@ -1398,9 +1373,6 @@
   "概率统计": [
     "连跌反弹概率策略与1124建仓法.md",
     "连跌反弹统计策略与1124建仓法.md"
-  ],
-  "模型量化": [
-    "LLM 学习路线与实战资源汇总.md"
   ],
   "止损": [
     "BOLL短线两种高胜率策略与仓位管理.md",
@@ -1426,7 +1398,7 @@
     "矿股的永续增长与低估值悖论.md"
   ],
   "求职": [
-    "ai-job-search 基于 Claude Code 的本地求职自动化框架.md"
+    "ai-job-search 本地化 AI 求职框架.md"
   ],
   "沃伦·巴菲特": [
     "价值投资声誉困境与巴菲特的核心能力.md",
@@ -1478,6 +1450,9 @@
     "涨停板十种形态操盘逻辑与留走策略.md",
     "涨停板操盘密码：10种形态的主力意图与留走策略.md",
     "游资庄家的真实赚钱逻辑.md"
+  ],
+  "深度学习": [
+    "Jasna 开源视频马赛克修复工具.md"
   ],
   "港股": [
     "ETF懒人组合实战 中美港三地红利配置.md",
@@ -1586,6 +1561,9 @@
     "付费股票投教内容价值评估：以某B站价投UP主为例.md",
     "股票付费内容的定价与价值审视.md"
   ],
+  "知识图谱": [
+    "Marble 技能分类法：开源小学课程知识图谱.md"
+  ],
   "知识归档": [
     "寒武纪的鳄鱼知乎内容归档.md"
   ],
@@ -1641,9 +1619,6 @@
   "筹码集中度": [
     "筹码分布核心用法与主力动向识别.md"
   ],
-  "简历优化": [
-    "ai-job-search 基于 Claude Code 的本地求职自动化框架.md"
-  ],
   "算力概念": [
     "A股题材投资逻辑与产业链选股框架.md"
   ],
@@ -1673,6 +1648,9 @@
   "纳斯达克100": [
     "纳指投资基于5年均线的择时与仓位管理.md"
   ],
+  "终端工具": [
+    "Claude Code 终端 AI 编程代理工具.md"
+  ],
   "经济周期": [
     "放水导致通缩：日本与美国危机应对模式的镜像对比.md"
   ],
@@ -1683,13 +1661,10 @@
     "知乎高资金量交易者推荐三人.md"
   ],
   "编码代理": [
-    "Orca 多 AI 编码代理编排器.md"
-  ],
-  "编码助手": [
-    "OpenCode 开源 AI 编码代理.md"
+    "ai-memory 跨代理长期记忆与交接系统.md"
   ],
   "编程助手": [
-    "ai-memory：AI编程代理的跨工具长期记忆系统.md"
+    "Orca 多 Agent 并行运行的 AI 编程编排器.md"
   ],
   "美股": [
     "无脑执行投资策略：三段式仓位管理法.md",
@@ -1747,6 +1722,7 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
+    "CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1760,6 +1736,9 @@
   ],
   "舆情调研": [
     "散户低价国企股的舆情调研与人事博弈策略.md"
+  ],
+  "节点编辑器": [
+    "ComfyUI：模块化扩散模型 AI 创作引擎.md"
   ],
   "蓝筹股": [
     "无脑执行投资策略：三段式仓位管理法.md"
@@ -1793,7 +1772,7 @@
     "牛市见顶信号对比框架 2015 vs 2025.md"
   ],
   "视频修复": [
-    "Jasna 视频马赛克修复工具.md"
+    "Jasna 开源视频马赛克修复工具.md"
   ],
   "认知升级": [
     "穷富差距的本质：时间、砸钱与使用权的三重分野.md"
@@ -1807,12 +1786,15 @@
   "认知迭代": [
     "股票投资的学习门槛与能力自检.md"
   ],
-  "语音克隆": [
-    "VoiceStudio：开源全本地化语音克隆与多语种TTS工作台.md"
+  "记忆系统": [
+    "ai-memory 跨代理长期记忆与交接系统.md"
   ],
   "读书笔记": [
     "索罗斯与金融炼金术的阅读感受.md",
     "金融炼金术的智识真诚.md"
+  ],
+  "课程设计": [
+    "Marble 技能分类法：开源小学课程知识图谱.md"
   ],
   "贝叶斯推理": [
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
@@ -2064,6 +2046,7 @@
   ],
   "金融": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md",
+    "Kronos：面向金融K线序列的首个开源基础模型.md",
     "K线圆弧角度分析的核心观点.md",
     "K线圆弧角度理论 金融市场的半圆数学.md",
     "新加坡学生签作为海外金融账户入口.md",
@@ -2108,9 +2091,6 @@
   "长期主义": [
     "大包厢：用三个月工资做长期严肃观察的训练法.md",
     "开窍与交易认知跃迁 从归因错误到95322规律.md"
-  ],
-  "长期记忆": [
-    "ai-memory：AI编程代理的跨工具长期记忆系统.md"
   ],
   "长江电力": [
     "高红利白马股均线买卖策略.md"

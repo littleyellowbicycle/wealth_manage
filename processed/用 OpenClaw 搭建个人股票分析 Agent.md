@@ -3,7 +3,7 @@ title: 用 OpenClaw 搭建个人股票分析 Agent
 source: raw_20260624_162450_58303955
 source_url: https://www.zhihu.com/question/2011480826848764785/answer/2011489116341149800
 created: '2026-06-29'
-updated: '2026-10-18'
+updated: '2026-10-20'
 tags:
 - OpenClaw
 - 量化交易
@@ -15,14 +15,14 @@ status: processed
 related:
 - 用OpenClaw搭建个人股票分析Agent
 - daily_stock_analysis 项目11策略与LLM量化框架解析
+- CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
 - 全面分析股票的十大维度：从股价到行业的系统框架
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- Android Skills：Google 官方 AI Agent 技能库
-- CLI-Anything Agent 原生软件 CLI 生成框架
-- MCP Servers：AI Agent 工具调用协议的事实标准
 - 个人趋势跟踪量化交易系统七年实践
+- 个股基本面分析三步框架
+- 基本面分析的五问框架与认知劝退
 note_type: content
 ---
 
@@ -68,11 +68,11 @@ note_type: content
 ## 相关笔记
 - [[用OpenClaw搭建个人股票分析Agent]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
+- [[CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
 - [[全面分析股票的十大维度：从股价到行业的系统框架]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[Android Skills：Google 官方 AI Agent 技能库]]
-- [[CLI-Anything Agent 原生软件 CLI 生成框架]]
-- [[MCP Servers：AI Agent 工具调用协议的事实标准]]
 - [[个人趋势跟踪量化交易系统七年实践]]
+- [[个股基本面分析三步框架]]
+- [[基本面分析的五问框架与认知劝退]]
