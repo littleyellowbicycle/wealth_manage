@@ -15,7 +15,6 @@ status: processed
 related:
 - 用OpenClaw搭建个人股票分析Agent
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
 - 全面分析股票的十大维度：从股价到行业的系统框架
 - AI 时代个人量化交易可行路径与核心铁律
@@ -23,6 +22,7 @@ related:
 - 个人趋势跟踪量化交易系统七年实践
 - 个股基本面分析三步框架
 - 基本面分析的五问框架与认知劝退
+- 股票承接力与反弹反转判断
 note_type: content
 ---
 
@@ -68,7 +68,6 @@ note_type: content
 ## 相关笔记
 - [[用OpenClaw搭建个人股票分析Agent]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[CLI-Anything 把任意软件变成 AI Agent 可调用的 CLI]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
 - [[全面分析股票的十大维度：从股价到行业的系统框架]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
@@ -76,3 +75,4 @@ note_type: content
 - [[个人趋势跟踪量化交易系统七年实践]]
 - [[个股基本面分析三步框架]]
 - [[基本面分析的五问框架与认知劝退]]
+- [[股票承接力与反弹反转判断]]

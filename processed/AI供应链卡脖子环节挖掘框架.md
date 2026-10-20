@@ -14,14 +14,14 @@ status: processed
 related:
 - AI 供应链卡脖子环节投资框架
 - 财报分析框架蒸馏为 AI Skill 的实践
-- ai-job-search 本地化 AI 求职框架
+- Agency Agents 专业 AI 代理角色集合
+- AI Job Search 本地化求职工作流
 - AI 时代个人量化交易可行路径与核心铁律
-- ai-memory 跨代理长期记忆与交接系统
 - AI时代个人量化生存指南
 - A股散户情绪逆向投资法与低估值选股框架
 - A股散户投资框架：ETF优先与独立择时
 - A股题材投资逻辑与产业链选股框架
-- Claude Code 终端 AI 编程代理工具
+- ComfyUI：模块化生成式 AI 工作流引擎
 note_type: content
 ---
 
@@ -110,11 +110,11 @@ A股这条线已被市场提前反应，龙头早已上天；美股AXTI则是更
 ## 相关笔记
 - [[AI 供应链卡脖子环节投资框架]]
 - [[财报分析框架蒸馏为 AI Skill 的实践]]
-- [[ai-job-search 本地化 AI 求职框架]]
+- [[Agency Agents 专业 AI 代理角色集合]]
+- [[AI Job Search 本地化求职工作流]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
-- [[ai-memory 跨代理长期记忆与交接系统]]
 - [[AI时代个人量化生存指南]]
 - [[A股散户情绪逆向投资法与低估值选股框架]]
 - [[A股散户投资框架：ETF优先与独立择时]]
 - [[A股题材投资逻辑与产业链选股框架]]
-- [[Claude Code 终端 AI 编程代理工具]]
+- [[ComfyUI：模块化生成式 AI 工作流引擎]]

@@ -15,15 +15,15 @@ status: processed
 note_type: content
 related:
 - 基于 bt 与 alphalens 的多因子回测框架实践
-- ComfyUI：模块化扩散模型 AI 创作引擎
-- Jasna 开源视频马赛克修复工具
 - K线圆弧角度分析的核心观点
 - K线圆弧角度理论 金融市场的半圆数学
-- opencode 开源 AI 编程代理
+- OpenCode 开源 AI 编程代理
 - Qbot 开源量化交易平台与经典技术指标策略实现
+- vLLM：大模型推理与高效服务
 - 分钟级K线涨跌跟随策略的回测：高频交易是负和博弈
 - 2万元交易员付费课性价比存疑 B站免费资源更优
-- ai-job-search 本地化 AI 求职框架
+- AAS Core 智能体技能控制平面
+- Agency Agents 专业 AI 代理角色集合
 ---
 
 # Kronos：面向金融K线序列的首个开源基础模型
@@ -98,12 +98,12 @@ License：MIT。
 
 ## 相关笔记
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
-- [[ComfyUI：模块化扩散模型 AI 创作引擎]]
-- [[Jasna 开源视频马赛克修复工具]]
 - [[K线圆弧角度分析的核心观点]]
 - [[K线圆弧角度理论 金融市场的半圆数学]]
-- [[opencode 开源 AI 编程代理]]
+- [[OpenCode 开源 AI 编程代理]]
 - [[Qbot 开源量化交易平台与经典技术指标策略实现]]
+- [[vLLM：大模型推理与高效服务]]
 - [[分钟级K线涨跌跟随策略的回测：高频交易是负和博弈]]
 - [[2万元交易员付费课性价比存疑 B站免费资源更优]]
-- [[ai-job-search 本地化 AI 求职框架]]
+- [[AAS Core 智能体技能控制平面]]
+- [[Agency Agents 专业 AI 代理角色集合]]
