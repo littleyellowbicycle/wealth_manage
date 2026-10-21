@@ -516,37 +516,6 @@
       ],
       "note_count": 22
     },
-    "开源项目": {
-      "notes": [
-        "AAS Core 智能体技能控制平面.md",
-        "AI Job Search 本地化求职工作流.md",
-        "Agency Agents 专业 AI 代理角色集合.md",
-        "Claude Cowork 知识工作插件体系.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "ComfyUI：模块化生成式 AI 工作流引擎.md",
-        "Graphify 代码库知识图谱工具.md",
-        "Headroom：AI 代理上下文压缩层.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "OpenCode 开源 AI 编程代理.md",
-        "Orca 多 AI 编程代理编排器.md",
-        "Ponytail：AI 编程代理的最小必要实现规则集.md",
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "Qbot 量化交易平台与均线类策略实现.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "dsh-purge DeepSeek Harness 红队评测插件.md",
-        "vLLM：大模型推理与高效服务.md",
-        "七年自建趋势跟踪交易系统实战复盘.md"
-      ],
-      "subtopics": [
-        "AI",
-        "量化交易",
-        "投资"
-      ],
-      "note_count": 21
-    },
     "仓位管理": {
       "notes": [
         "A股平台突破实战策略.md",
@@ -578,6 +547,36 @@
       ],
       "note_count": 21
     },
+    "开源项目": {
+      "notes": [
+        "AI Job Search 求职自动化工作流.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "Graphify：本地优先的代码知识图谱.md",
+        "Headroom：AI Agent 上下文压缩层.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "Orca 多智能体开发编排工具.md",
+        "Ponytail：AI 编程代理的最小实现规则集.md",
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "Qbot 量化交易平台与均线类策略实现.md",
+        "Ruflo：Claude Code 与 Codex 的智能体元编排框架.md",
+        "Supabase 架构与能力.md",
+        "Twenty 可编程开源 CRM.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+        "ai-memory：跨编码代理的长期记忆层.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "freehire：开源 IT 职位搜索与申请平台.md",
+        "vLLM：高吞吐大模型推理与服务引擎.md",
+        "七年自建趋势跟踪交易系统实战复盘.md"
+      ],
+      "subtopics": [
+        "AI",
+        "量化交易",
+        "投资"
+      ],
+      "note_count": 20
+    },
     "ETF": {
       "notes": [
         "A股散户投资框架：ETF优先与独立择时.md",
@@ -608,35 +607,6 @@
       ],
       "note_count": 20
     },
-    "AI": {
-      "notes": [
-        "AAS Core 智能体技能控制平面.md",
-        "AI Job Search 本地化求职工作流.md",
-        "AI 供应链卡脖子环节投资框架.md",
-        "AI供应链卡脖子环节挖掘框架.md",
-        "Agency Agents 专业 AI 代理角色集合.md",
-        "Claude Cowork 知识工作插件体系.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "ComfyUI：模块化生成式 AI 工作流引擎.md",
-        "Graphify 代码库知识图谱工具.md",
-        "Headroom：AI 代理上下文压缩层.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "OpenCode 开源 AI 编程代理.md",
-        "Orca 多 AI 编程代理编排器.md",
-        "Ponytail：AI 编程代理的最小必要实现规则集.md",
-        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
-        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-        "dsh-purge DeepSeek Harness 红队评测插件.md",
-        "vLLM：大模型推理与高效服务.md",
-        "财报分析框架蒸馏为 AI Skill 的实践.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "投资",
-        "MCP"
-      ],
-      "note_count": 19
-    },
     "股票研究": {
       "notes": [
         "A股龙头股全景图：按市场地位划分的选股清单.md",
@@ -665,6 +635,34 @@
         "估值"
       ],
       "note_count": 19
+    },
+    "AI": {
+      "notes": [
+        "AI Job Search 求职自动化工作流.md",
+        "AI 供应链卡脖子环节投资框架.md",
+        "AI供应链卡脖子环节挖掘框架.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "Graphify：本地优先的代码知识图谱.md",
+        "Headroom：AI Agent 上下文压缩层.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "Orca 多智能体开发编排工具.md",
+        "Ponytail：AI 编程代理的最小实现规则集.md",
+        "Ruflo：Claude Code 与 Codex 的智能体元编排框架.md",
+        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
+        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
+        "Supabase 架构与能力.md",
+        "Twenty 可编程开源 CRM.md",
+        "ai-memory：跨编码代理的长期记忆层.md",
+        "freehire：开源 IT 职位搜索与申请平台.md",
+        "vLLM：高吞吐大模型推理与服务引擎.md",
+        "财报分析框架蒸馏为 AI Skill 的实践.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "投资",
+        "智能体编排"
+      ],
+      "note_count": 18
     },
     "均线": {
       "notes": [
@@ -1009,7 +1007,7 @@
     },
     "管理": {
       "notes": [
-        "AI Job Search 本地化求职工作流.md",
+        "AI Job Search 求职自动化工作流.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
         "大跌复盘三件事与组合沙箱工具.md",
         "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1173,7 +1171,7 @@
     },
     "自动化": {
       "notes": [
-        "AI Job Search 本地化求职工作流.md",
+        "AI Job Search 求职自动化工作流.md",
         "用 OpenClaw 搭建个人股票分析 Agent.md",
         "用OpenClaw搭建个人股票分析Agent.md",
         "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1390,19 +1388,6 @@
         "投资",
         "AI",
         "卡脖子环节"
-      ],
-      "note_count": 3
-    },
-    "数据": {
-      "notes": [
-        "AI 时代个人量化交易可行路径与核心铁律.md",
-        "AI时代个人量化生存指南.md",
-        "Headroom：AI 代理上下文压缩层.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "大语言模型",
-        "事件驱动策略"
       ],
       "note_count": 3
     },
@@ -1665,30 +1650,6 @@
       ],
       "note_count": 2
     },
-    "MCP": {
-      "notes": [
-        "AAS Core 智能体技能控制平面.md",
-        "Claude Cowork 知识工作插件体系.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "智能体技能"
-      ],
-      "note_count": 2
-    },
-    "开发者工具": {
-      "notes": [
-        "AAS Core 智能体技能控制平面.md",
-        "OpenCode 开源 AI 编程代理.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "智能体技能"
-      ],
-      "note_count": 2
-    },
     "科技股": {
       "notes": [
         "AI 供应链卡脖子环节投资框架.md",
@@ -1698,6 +1659,18 @@
         "AI",
         "投资",
         "产业链研究"
+      ],
+      "note_count": 2
+    },
+    "数据": {
+      "notes": [
+        "AI 时代个人量化交易可行路径与核心铁律.md",
+        "AI时代个人量化生存指南.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "大语言模型",
+        "事件驱动策略"
       ],
       "note_count": 2
     },
@@ -1833,18 +1806,6 @@
       ],
       "note_count": 2
     },
-    "编程助手": {
-      "notes": [
-        "Graphify 代码库知识图谱工具.md",
-        "OpenCode 开源 AI 编程代理.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "知识图谱"
-      ],
-      "note_count": 2
-    },
     "机器学习": {
       "notes": [
         "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md",
@@ -1878,6 +1839,18 @@
         "技术分析",
         "K线理论",
         "金融"
+      ],
+      "note_count": 2
+    },
+    "智能体编排": {
+      "notes": [
+        "Orca 多智能体开发编排工具.md",
+        "Ruflo：Claude Code 与 Codex 的智能体元编排框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "开发者工具"
       ],
       "note_count": 2
     },
@@ -2668,50 +2641,6 @@
       ],
       "note_count": 1
     },
-    "智能体技能": {
-      "notes": [
-        "AAS Core 智能体技能控制平面.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "MCP"
-      ],
-      "note_count": 1
-    },
-    "提示词工程": {
-      "notes": [
-        "Agency Agents 专业 AI 代理角色集合.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "工具集成"
-      ],
-      "note_count": 1
-    },
-    "工具集成": {
-      "notes": [
-        "Agency Agents 专业 AI 代理角色集合.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "提示词工程"
-      ],
-      "note_count": 1
-    },
-    "Claude Code": {
-      "notes": [
-        "AI Job Search 本地化求职工作流.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "管理",
-        "AI"
-      ],
-      "note_count": 1
-    },
     "卡脖子环节": {
       "notes": [
         "AI 供应链卡脖子环节投资框架.md"
@@ -2720,6 +2649,28 @@
         "AI",
         "投资",
         "产业链研究"
+      ],
+      "note_count": 1
+    },
+    "编码代理": {
+      "notes": [
+        "ai-memory：跨编码代理的长期记忆层.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "长期记忆"
+      ],
+      "note_count": 1
+    },
+    "长期记忆": {
+      "notes": [
+        "ai-memory：跨编码代理的长期记忆层.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "编码代理"
       ],
       "note_count": 1
     },
@@ -2877,28 +2828,6 @@
       ],
       "note_count": 1
     },
-    "知识工作插件": {
-      "notes": [
-        "Claude Cowork 知识工作插件体系.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Claude Cowork"
-      ],
-      "note_count": 1
-    },
-    "Claude Cowork": {
-      "notes": [
-        "Claude Cowork 知识工作插件体系.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "知识工作插件"
-      ],
-      "note_count": 1
-    },
     "网络安全": {
       "notes": [
         "Cloudflare 多阶段安全审计 Skill.md"
@@ -2929,72 +2858,6 @@
         "开源项目",
         "AI",
         "风险控制"
-      ],
-      "note_count": 1
-    },
-    "扩散模型": {
-      "notes": [
-        "ComfyUI：模块化生成式 AI 工作流引擎.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "节点工作流"
-      ],
-      "note_count": 1
-    },
-    "节点工作流": {
-      "notes": [
-        "ComfyUI：模块化生成式 AI 工作流引擎.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "扩散模型"
-      ],
-      "note_count": 1
-    },
-    "本地部署": {
-      "notes": [
-        "ComfyUI：模块化生成式 AI 工作流引擎.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "扩散模型"
-      ],
-      "note_count": 1
-    },
-    "DeepSeek": {
-      "notes": [
-        "dsh-purge DeepSeek Harness 红队评测插件.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "安全评测"
-      ],
-      "note_count": 1
-    },
-    "安全评测": {
-      "notes": [
-        "dsh-purge DeepSeek Harness 红队评测插件.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "DeepSeek"
-      ],
-      "note_count": 1
-    },
-    "提示词注入": {
-      "notes": [
-        "dsh-purge DeepSeek Harness 红队评测插件.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "DeepSeek"
       ],
       "note_count": 1
     },
@@ -3040,20 +2903,53 @@
       ],
       "note_count": 1
     },
-    "知识图谱": {
+    "招聘搜索": {
       "notes": [
-        "Graphify 代码库知识图谱工具.md"
+        "freehire：开源 IT 职位搜索与申请平台.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "代码分析"
+        "职位聚合"
       ],
       "note_count": 1
     },
-    "代码分析": {
+    "职位聚合": {
       "notes": [
-        "Graphify 代码库知识图谱工具.md"
+        "freehire：开源 IT 职位搜索与申请平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "招聘搜索"
+      ],
+      "note_count": 1
+    },
+    "Go": {
+      "notes": [
+        "freehire：开源 IT 职位搜索与申请平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "招聘搜索"
+      ],
+      "note_count": 1
+    },
+    "知识图谱": {
+      "notes": [
+        "Graphify：本地优先的代码知识图谱.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "代码智能"
+      ],
+      "note_count": 1
+    },
+    "代码智能": {
+      "notes": [
+        "Graphify：本地优先的代码知识图谱.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3062,9 +2958,9 @@
       ],
       "note_count": 1
     },
-    "Graphify": {
+    "静态分析": {
       "notes": [
-        "Graphify 代码库知识图谱工具.md"
+        "Graphify：本地优先的代码知识图谱.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3075,12 +2971,23 @@
     },
     "上下文压缩": {
       "notes": [
-        "Headroom：AI 代理上下文压缩层.md"
+        "Headroom：AI Agent 上下文压缩层.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "数据"
+        "Token优化"
+      ],
+      "note_count": 1
+    },
+    "Token优化": {
+      "notes": [
+        "Headroom：AI Agent 上下文压缩层.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "上下文压缩"
       ],
       "note_count": 1
     },
@@ -3161,25 +3068,14 @@
       ],
       "note_count": 1
     },
-    "开发工具": {
+    "开发者工具": {
       "notes": [
-        "Orca 多 AI 编程代理编排器.md"
+        "Orca 多智能体开发编排工具.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
-        "编程代理"
-      ],
-      "note_count": 1
-    },
-    "编程代理": {
-      "notes": [
-        "Orca 多 AI 编程代理编排器.md"
-      ],
-      "subtopics": [
         "开源项目",
-        "AI",
-        "开发工具"
+        "智能体编排"
       ],
       "note_count": 1
     },
@@ -3227,25 +3123,25 @@
       ],
       "note_count": 1
     },
-    "软件工程": {
+    "代码审查": {
       "notes": [
-        "Ponytail：AI 编程代理的最小必要实现规则集.md"
+        "Ponytail：AI 编程代理的最小实现规则集.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "软件测试"
+      ],
+      "note_count": 1
+    },
+    "软件测试": {
+      "notes": [
+        "Ponytail：AI 编程代理的最小实现规则集.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
         "代码审查"
-      ],
-      "note_count": 1
-    },
-    "代码审查": {
-      "notes": [
-        "Ponytail：AI 编程代理的最小必要实现规则集.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "软件工程"
       ],
       "note_count": 1
     },
@@ -3268,6 +3164,39 @@
         "量化交易",
         "backtrader",
         "MACD"
+      ],
+      "note_count": 1
+    },
+    "多智能体": {
+      "notes": [
+        "Ruflo：Claude Code 与 Codex 的智能体元编排框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "Claude-Code"
+      ],
+      "note_count": 1
+    },
+    "Claude-Code": {
+      "notes": [
+        "Ruflo：Claude Code 与 Codex 的智能体元编排框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "多智能体"
+      ],
+      "note_count": 1
+    },
+    "MCP": {
+      "notes": [
+        "Ruflo：Claude Code 与 Codex 的智能体元编排框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "多智能体"
       ],
       "note_count": 1
     },
@@ -3315,6 +3244,72 @@
       ],
       "note_count": 1
     },
+    "PostgreSQL": {
+      "notes": [
+        "Supabase 架构与能力.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Supabase"
+      ],
+      "note_count": 1
+    },
+    "Supabase": {
+      "notes": [
+        "Supabase 架构与能力.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "PostgreSQL"
+      ],
+      "note_count": 1
+    },
+    "BaaS": {
+      "notes": [
+        "Supabase 架构与能力.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "PostgreSQL"
+      ],
+      "note_count": 1
+    },
+    "CRM": {
+      "notes": [
+        "Twenty 可编程开源 CRM.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "自托管"
+      ],
+      "note_count": 1
+    },
+    "自托管": {
+      "notes": [
+        "Twenty 可编程开源 CRM.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "CRM"
+      ],
+      "note_count": 1
+    },
+    "TypeScript": {
+      "notes": [
+        "Twenty 可编程开源 CRM.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "CRM"
+      ],
+      "note_count": 1
+    },
     "V2EX": {
       "notes": [
         "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -3359,36 +3354,36 @@
       ],
       "note_count": 1
     },
-    "大模型": {
+    "大模型推理": {
       "notes": [
-        "vLLM：大模型推理与高效服务.md"
+        "vLLM：高吞吐大模型推理与服务引擎.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "推理优化"
-      ],
-      "note_count": 1
-    },
-    "推理优化": {
-      "notes": [
-        "vLLM：大模型推理与高效服务.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "大模型"
+        "模型服务"
       ],
       "note_count": 1
     },
     "模型服务": {
       "notes": [
-        "vLLM：大模型推理与高效服务.md"
+        "vLLM：高吞吐大模型推理与服务引擎.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "大模型"
+        "大模型推理"
+      ],
+      "note_count": 1
+    },
+    "GPU加速": {
+      "notes": [
+        "vLLM：高吞吐大模型推理与服务引擎.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "大模型推理"
       ],
       "note_count": 1
     },
@@ -5574,5 +5569,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-10-20T23:44:37"
+  "last_rebuilt": "2026-10-21T23:44:56"
 }

@@ -3,7 +3,7 @@ title: AI 供应链卡脖子环节投资框架
 source: raw_20260624_162107_67ad2e00
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2045090338327588976
 created: '2026-06-29'
-updated: '2026-10-20'
+updated: '2026-10-21'
 tags:
 - AI
 - 投资

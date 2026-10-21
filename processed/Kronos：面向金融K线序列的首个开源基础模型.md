@@ -3,7 +3,7 @@ title: Kronos：面向金融K线序列的首个开源基础模型
 source: raw_20261020_014255_c4757d03
 source_url: https://github.com/shiyu-coder/Kronos
 created: '2026-10-20'
-updated: '2026-10-20'
+updated: '2026-10-21'
 tags:
 - AI
 - 交易
@@ -15,15 +15,15 @@ status: processed
 note_type: content
 related:
 - 基于 bt 与 alphalens 的多因子回测框架实践
+- freehire：开源 IT 职位搜索与申请平台
 - K线圆弧角度分析的核心观点
 - K线圆弧角度理论 金融市场的半圆数学
-- OpenCode 开源 AI 编程代理
 - Qbot 开源量化交易平台与经典技术指标策略实现
-- vLLM：大模型推理与高效服务
+- Twenty 可编程开源 CRM
+- vLLM：高吞吐大模型推理与服务引擎
 - 分钟级K线涨跌跟随策略的回测：高频交易是负和博弈
 - 2万元交易员付费课性价比存疑 B站免费资源更优
-- AAS Core 智能体技能控制平面
-- Agency Agents 专业 AI 代理角色集合
+- AI Job Search 求职自动化工作流
 ---
 
 # Kronos：面向金融K线序列的首个开源基础模型
@@ -98,12 +98,12 @@ License：MIT。
 
 ## 相关笔记
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
+- [[freehire：开源 IT 职位搜索与申请平台]]
 - [[K线圆弧角度分析的核心观点]]
 - [[K线圆弧角度理论 金融市场的半圆数学]]
-- [[OpenCode 开源 AI 编程代理]]
 - [[Qbot 开源量化交易平台与经典技术指标策略实现]]
-- [[vLLM：大模型推理与高效服务]]
+- [[Twenty 可编程开源 CRM]]
+- [[vLLM：高吞吐大模型推理与服务引擎]]
 - [[分钟级K线涨跌跟随策略的回测：高频交易是负和博弈]]
 - [[2万元交易员付费课性价比存疑 B站免费资源更优]]
-- [[AAS Core 智能体技能控制平面]]
-- [[Agency Agents 专业 AI 代理角色集合]]
+- [[AI Job Search 求职自动化工作流]]

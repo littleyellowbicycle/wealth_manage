@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-10-20'
+updated: '2026-10-21'
 tags:
 - 开源项目
 - AI
@@ -14,16 +14,16 @@ tags:
 status: processed
 note_type: content
 related:
-- AAS Core 智能体技能控制平面
-- Agency Agents 专业 AI 代理角色集合
-- AI Job Search 本地化求职工作流
-- Claude Cowork 知识工作插件体系
-- ComfyUI：模块化生成式 AI 工作流引擎
-- dsh-purge DeepSeek Harness 红队评测插件
-- Graphify 代码库知识图谱工具
-- Headroom：AI 代理上下文压缩层
+- AI Job Search 求职自动化工作流
+- ai-memory：跨编码代理的长期记忆层
+- freehire：开源 IT 职位搜索与申请平台
+- Graphify：本地优先的代码知识图谱
+- Headroom：AI Agent 上下文压缩层
 - Kronos：面向金融K线序列的首个开源基础模型
-- OpenCode 开源 AI 编程代理
+- Orca 多智能体开发编排工具
+- Ponytail：AI 编程代理的最小实现规则集
+- Ruflo：Claude Code 与 Codex 的智能体元编排框架
+- Supabase 架构与能力
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -96,13 +96,13 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 在目标代码库中启动编码代理后，可使用 `security audit this codebase`、`find security vulnerabilities in ./src` 或指定输出目录的安全审计请求。未指定目录时，完整审计默认写入 `~/security-audit-skill/<repo-name>/run-<N>`；只有明确选择且被版本控制忽略时，工作流才会在目标仓库内写入文件。
 
 ## 相关笔记
-- [[AAS Core 智能体技能控制平面]]
-- [[Agency Agents 专业 AI 代理角色集合]]
-- [[AI Job Search 本地化求职工作流]]
-- [[Claude Cowork 知识工作插件体系]]
-- [[ComfyUI：模块化生成式 AI 工作流引擎]]
-- [[dsh-purge DeepSeek Harness 红队评测插件]]
-- [[Graphify 代码库知识图谱工具]]
-- [[Headroom：AI 代理上下文压缩层]]
+- [[AI Job Search 求职自动化工作流]]
+- [[ai-memory：跨编码代理的长期记忆层]]
+- [[freehire：开源 IT 职位搜索与申请平台]]
+- [[Graphify：本地优先的代码知识图谱]]
+- [[Headroom：AI Agent 上下文压缩层]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[OpenCode 开源 AI 编程代理]]
+- [[Orca 多智能体开发编排工具]]
+- [[Ponytail：AI 编程代理的最小实现规则集]]
+- [[Ruflo：Claude Code 与 Codex 的智能体元编排框架]]
+- [[Supabase 架构与能力]]
