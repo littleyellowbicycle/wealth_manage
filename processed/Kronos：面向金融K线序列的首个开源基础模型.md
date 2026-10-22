@@ -3,7 +3,7 @@ title: Kronos：面向金融K线序列的首个开源基础模型
 source: raw_20261020_014255_c4757d03
 source_url: https://github.com/shiyu-coder/Kronos
 created: '2026-10-20'
-updated: '2026-10-21'
+updated: '2026-10-22'
 tags:
 - AI
 - 交易
@@ -15,15 +15,15 @@ status: processed
 note_type: content
 related:
 - 基于 bt 与 alphalens 的多因子回测框架实践
-- freehire：开源 IT 职位搜索与申请平台
 - K线圆弧角度分析的核心观点
 - K线圆弧角度理论 金融市场的半圆数学
 - Qbot 开源量化交易平台与经典技术指标策略实现
-- Twenty 可编程开源 CRM
-- vLLM：高吞吐大模型推理与服务引擎
+- Supabase：基于 PostgreSQL 的开源应用开发平台
 - 分钟级K线涨跌跟随策略的回测：高频交易是负和博弈
 - 2万元交易员付费课性价比存疑 B站免费资源更优
-- AI Job Search 求职自动化工作流
+- Anthropic 知识工作插件体系
+- BOLL短线两种高胜率策略与仓位管理
+- Claude Code 渐进式学习与自动化指南
 ---
 
 # Kronos：面向金融K线序列的首个开源基础模型
@@ -98,12 +98,12 @@ License：MIT。
 
 ## 相关笔记
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
-- [[freehire：开源 IT 职位搜索与申请平台]]
 - [[K线圆弧角度分析的核心观点]]
 - [[K线圆弧角度理论 金融市场的半圆数学]]
 - [[Qbot 开源量化交易平台与经典技术指标策略实现]]
-- [[Twenty 可编程开源 CRM]]
-- [[vLLM：高吞吐大模型推理与服务引擎]]
+- [[Supabase：基于 PostgreSQL 的开源应用开发平台]]
 - [[分钟级K线涨跌跟随策略的回测：高频交易是负和博弈]]
 - [[2万元交易员付费课性价比存疑 B站免费资源更优]]
-- [[AI Job Search 求职自动化工作流]]
+- [[Anthropic 知识工作插件体系]]
+- [[BOLL短线两种高胜率策略与仓位管理]]
+- [[Claude Code 渐进式学习与自动化指南]]

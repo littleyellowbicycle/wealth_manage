@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-10-21'
+updated: '2026-10-22'
 tags:
 - 开源项目
 - AI
@@ -14,16 +14,14 @@ tags:
 status: processed
 note_type: content
 related:
-- AI Job Search 求职自动化工作流
-- ai-memory：跨编码代理的长期记忆层
-- freehire：开源 IT 职位搜索与申请平台
-- Graphify：本地优先的代码知识图谱
-- Headroom：AI Agent 上下文压缩层
+- Anthropic 知识工作插件体系
+- Claude Code 渐进式学习与自动化指南
+- ComfyUI 模块化 AI 创作工作流
+- Graphify 本地优先代码知识图谱
 - Kronos：面向金融K线序列的首个开源基础模型
-- Orca 多智能体开发编排工具
-- Ponytail：AI 编程代理的最小实现规则集
-- Ruflo：Claude Code 与 Codex 的智能体元编排框架
-- Supabase 架构与能力
+- Ponytail：AI 编程代理的最小实现与质量护栏
+- Supabase：基于 PostgreSQL 的开源应用开发平台
+- 财报分析框架蒸馏为 AI Skill 的实践
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -96,13 +94,11 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 在目标代码库中启动编码代理后，可使用 `security audit this codebase`、`find security vulnerabilities in ./src` 或指定输出目录的安全审计请求。未指定目录时，完整审计默认写入 `~/security-audit-skill/<repo-name>/run-<N>`；只有明确选择且被版本控制忽略时，工作流才会在目标仓库内写入文件。
 
 ## 相关笔记
-- [[AI Job Search 求职自动化工作流]]
-- [[ai-memory：跨编码代理的长期记忆层]]
-- [[freehire：开源 IT 职位搜索与申请平台]]
-- [[Graphify：本地优先的代码知识图谱]]
-- [[Headroom：AI Agent 上下文压缩层]]
+- [[Anthropic 知识工作插件体系]]
+- [[Claude Code 渐进式学习与自动化指南]]
+- [[ComfyUI 模块化 AI 创作工作流]]
+- [[Graphify 本地优先代码知识图谱]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Orca 多智能体开发编排工具]]
-- [[Ponytail：AI 编程代理的最小实现规则集]]
-- [[Ruflo：Claude Code 与 Codex 的智能体元编排框架]]
-- [[Supabase 架构与能力]]
+- [[Ponytail：AI 编程代理的最小实现与质量护栏]]
+- [[Supabase：基于 PostgreSQL 的开源应用开发平台]]
+- [[财报分析框架蒸馏为 AI Skill 的实践]]

@@ -111,47 +111,6 @@
       "穷人翻身路径：以30万为起点的财富自由策略"
     ]
   },
-  "AI Job Search 求职自动化工作流": {
-    "outgoing": [
-      "ATS 优化",
-      "Claude Code",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "MadsLorentzen/ai-job-search",
-      "Orca 多智能体开发编排工具",
-      "PDF 验证",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "ai-job-search",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "双智能体评审",
-      "提示注入",
-      "求职漏斗",
-      "求职自动化",
-      "私有仓库",
-      "职位匹配"
-    ],
-    "incoming": [
-      "AI供应链卡脖子环节挖掘框架",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "vLLM：高吞吐大模型推理与服务引擎",
-      "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒"
-    ]
-  },
   "AI 供应链卡脖子环节投资框架": {
     "outgoing": [
       "AI 基础设施",
@@ -181,6 +140,8 @@
     "incoming": [
       "AI供应链卡脖子环节挖掘框架",
       "A股题材投资逻辑与产业链选股框架",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
       "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论",
       "价值投资",
       "价值投资声誉困境与巴菲特的核心能力",
@@ -248,7 +209,6 @@
   },
   "AI供应链卡脖子环节挖掘框架": {
     "outgoing": [
-      "AI Job Search 求职自动化工作流",
       "AI 供应链卡脖子环节投资框架",
       "AI 时代个人量化交易可行路径与核心铁律",
       "AI光互联",
@@ -259,10 +219,11 @@
       "A股散户投资框架：ETF优先与独立择时",
       "A股题材投资逻辑与产业链选股框架",
       "CPO",
+      "ComfyUI 模块化 AI 创作工作流",
       "GPU",
       "HBM",
+      "PB-ROE框架复现：GARP策略的量化实证",
       "PCB",
-      "ai-memory：跨编码代理的长期记忆层",
       "daily_stock_analysis 项目11策略与LLM量化框架解析",
       "一级市场",
       "光模块",
@@ -278,6 +239,8 @@
     ],
     "incoming": [
       "AI 供应链卡脖子环节投资框架",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
       "价值投资",
       "财报分析框架蒸馏为 AI Skill 的实践"
     ]
@@ -350,6 +313,46 @@
       "量化因子库搭建指南：从来源到实操的完整路径",
       "量化因子来源指南：从误区到新手友好资源",
       "量化投资入门三步法：从认知到实战的系统路径"
+    ]
+  },
+  "Anthropic 知识工作插件体系": {
+    "outgoing": [
+      "Claude Code",
+      "Claude Code 渐进式学习与自动化指南",
+      "Claude Cowork",
+      "Cloudflare 多阶段安全审计 Skill",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "MCP 连接器",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "七年自建趋势跟踪交易系统实战复盘",
+      "产品管理插件",
+      "企业上下文",
+      "企业搜索插件",
+      "客户支持插件",
+      "插件管理插件",
+      "数据插件",
+      "斜杠命令",
+      "法律插件",
+      "生产力插件",
+      "生物研究插件",
+      "知识工作者",
+      "营销插件",
+      "财务插件",
+      "销售插件",
+      "领域技能",
+      "领域插件"
+    ],
+    "incoming": [
+      "Claude Code 渐进式学习与自动化指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台"
     ]
   },
   "A股30位顶级基金经理筛选逻辑与代表人物": {
@@ -1255,6 +1258,7 @@
     "incoming": [
       "A股平台突破实战策略",
       "CH4因子模型：A股四维定价框架与实战应用",
+      "Kronos：面向金融K线序列的首个开源基础模型",
       "MACD与布林线实战：短线中线技术形态选股框架",
       "主力猎取的是流动性而非散户本身",
       "右侧交易法与左侧交易法对比",
@@ -1340,20 +1344,58 @@
       "量化因子来源指南：从误区到新手友好资源"
     ]
   },
+  "Claude Code 渐进式学习与自动化指南": {
+    "outgoing": [
+      "Anthropic 知识工作插件体系",
+      "Claude Code",
+      "Claude Code 官方文档",
+      "Cloudflare 多阶段安全审计 Skill",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
+      "Hooks",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "MCP 协议",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "claude-howto",
+      "php-src：PHP 解释器源码与开发指南",
+      "后台任务",
+      "子智能体",
+      "工作流自动化",
+      "扩展思考",
+      "技能",
+      "插件",
+      "斜杠命令",
+      "无头模式",
+      "权限模式",
+      "检查点",
+      "规划模式",
+      "项目记忆",
+      "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒"
+    ],
+    "incoming": [
+      "Anthropic 知识工作插件体系",
+      "Cloudflare 多阶段安全审计 Skill",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "php-src：PHP 解释器源码与开发指南",
+      "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒"
+    ]
+  },
   "Cloudflare 多阶段安全审计 Skill": {
     "outgoing": [
-      "AI Job Search 求职自动化工作流",
       "AI 与 LLM 安全",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
       "Web 与身份协议安全",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
       "严重性评级",
       "云与部署安全",
       "供应链与发布安全",
@@ -1370,20 +1412,50 @@
       "目标无关报告",
       "结构化安全输出",
       "覆盖驱动的漏洞搜寻",
+      "财报分析框架蒸馏为 AI Skill 的实践",
       "资源耗尽与可用性"
     ],
     "incoming": [
-      "AI Job Search 求职自动化工作流",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "vLLM：高吞吐大模型推理与服务引擎"
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台"
+    ]
+  },
+  "ComfyUI 模块化 AI 创作工作流": {
+    "outgoing": [
+      "AI 供应链卡脖子环节投资框架",
+      "AI供应链卡脖子环节挖掘框架",
+      "API",
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Graphify 本地优先代码知识图谱",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "七年自建趋势跟踪交易系统实战复盘",
+      "工作流复现",
+      "异步推理",
+      "扩散模型",
+      "显存管理",
+      "本地推理",
+      "权重流式加载",
+      "生成式 AI",
+      "自定义节点",
+      "节点工作流",
+      "量化模型"
+    ],
+    "incoming": [
+      "AI供应链卡脖子环节挖掘框架",
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Graphify 本地优先代码知识图谱",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台"
     ]
   },
   "ETF 网格交易实战：标的选择、不对称网格与费率优势": {
@@ -1543,82 +1615,63 @@
     ],
     "incoming": []
   },
-  "Graphify：本地优先的代码知识图谱": {
+  "FastAPI 高性能 Python API 框架": {
     "outgoing": [
-      "AI Job Search 求职自动化工作流",
-      "AI 编程助手",
-      "AST",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Headroom：AI Agent 上下文压缩层",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "MCP",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "向量检索",
-      "增量更新",
-      "知识图谱",
-      "社区发现",
-      "静态分析"
+      "CORS",
+      "FastAPI",
+      "FastAPI CLI",
+      "FastAPI Cloud",
+      "GraphQL",
+      "HTTPX",
+      "JSON Schema",
+      "JWT",
+      "OAuth2",
+      "OpenAPI",
+      "Pydantic",
+      "Python 类型提示",
+      "Qbot 开源量化交易平台与经典技术指标策略实现",
+      "Qbot 开源量化交易闭环系统",
+      "ReDoc",
+      "Starlette",
+      "Swagger UI",
+      "Typer",
+      "Uvicorn",
+      "WebSocket",
+      "daily_stock_analysis 项目11策略与LLM量化框架解析",
+      "pytest",
+      "依赖注入",
+      "机器学习服务",
+      "轻量级 Alpha 多因子回测框架实践与量化系统本质思考"
     ],
     "incoming": [
-      "AI Job Search 求职自动化工作流",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Headroom：AI Agent 上下文压缩层",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
-      "Wealthfolio：本地优先的个人财务追踪开源工具",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "vLLM：高吞吐大模型推理与服务引擎"
+      "Qbot 开源量化交易平台与经典技术指标策略实现",
+      "Qbot 开源量化交易闭环系统"
     ]
   },
-  "Headroom：AI Agent 上下文压缩层": {
+  "Graphify 本地优先代码知识图谱": {
     "outgoing": [
-      "AI Agent",
-      "AI Job Search 求职自动化工作流",
-      "CCR 可逆压缩",
-      "CacheAligner",
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
       "Cloudflare 多阶段安全审计 Skill",
-      "CodeCompressor",
-      "ContentRouter",
-      "Graphify：本地优先的代码知识图谱",
-      "KV 缓存",
-      "Kompress-v2-base",
+      "ComfyUI 模块化 AI 创作工作流",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "MCP",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "RAG",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "SmartCrusher",
-      "Supabase 架构与能力",
-      "Token 优化",
-      "Token 节省率",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "上下文压缩",
-      "推理强度路由",
-      "跨 Agent 记忆"
+      "Leiden 社区发现",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "Tree-sitter AST",
+      "Wealthfolio：本地优先的个人财务追踪开源工具",
+      "代码知识图谱",
+      "本地优先",
+      "检索增强生成"
     ],
     "incoming": [
-      "AI Job Search 求职自动化工作流",
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
       "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "vLLM：高吞吐大模型推理与服务引擎"
+      "ComfyUI 模块化 AI 创作工作流",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "Wealthfolio：本地优先的个人财务追踪开源工具"
     ]
   },
   "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案": {
@@ -1656,16 +1709,16 @@
     "outgoing": [
       "2万元交易员付费课性价比存疑 B站免费资源更优",
       "AAAI 2026",
-      "AI Job Search 求职自动化工作流",
+      "Anthropic 知识工作插件体系",
+      "BOLL短线两种高胜率策略与仓位管理",
+      "Claude Code 渐进式学习与自动化指南",
       "Kronos",
       "K线圆弧角度分析的核心观点",
       "K线圆弧角度理论 金融市场的半圆数学",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
       "Qlib",
-      "Twenty 可编程开源 CRM",
-      "freehire：开源 IT 职位搜索与申请平台",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
       "nucleus sampling",
-      "vLLM：高吞吐大模型推理与服务引擎",
       "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈",
       "基于 bt 与 alphalens 的多因子回测框架实践",
       "基础模型",
@@ -1674,22 +1727,17 @@
     ],
     "incoming": [
       "2万元交易员付费课性价比存疑 B站免费资源更优",
-      "AI Job Search 求职自动化工作流",
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
       "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
       "K线圆弧角度分析的核心观点",
       "K线圆弧角度理论 金融市场的半圆数学",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
       "Wealthfolio：本地优先的个人财务追踪开源工具",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "vLLM：高吞吐大模型推理与服务引擎",
       "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈",
       "基于 bt 与 alphalens 的多因子回测框架实践",
       "新加坡学生签作为海外金融账户入口",
@@ -1878,43 +1926,6 @@
       "超跌反弹战法：30日均线偏离度筛选与地天板操作"
     ]
   },
-  "Orca 多智能体开发编排工具": {
-    "outgoing": [
-      "AI Job Search 求职自动化工作流",
-      "CLI 智能体",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Git Worktree",
-      "GitHub",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "Linear",
-      "Orca",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "SSH",
-      "Supabase 架构与能力",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "人机协作",
-      "多智能体编排",
-      "隐私治理"
-    ],
-    "incoming": [
-      "AI Job Search 求职自动化工作流",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
-      "Wealthfolio：本地优先的个人财务追踪开源工具",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "vLLM：高吞吐大模型推理与服务引擎"
-    ]
-  },
   "PB-ROE框架复现：GARP策略的量化实证": {
     "outgoing": [
       "AI 时代个人量化交易可行路径与核心铁律",
@@ -1942,12 +1953,12 @@
     ],
     "incoming": [
       "AI 时代个人量化交易可行路径与核心铁律",
+      "AI供应链卡脖子环节挖掘框架",
       "AI时代个人量化生存指南",
       "CH4 因子模型 A股四因子实战拆解",
       "CH4因子模型：A股四维定价框架与实战应用",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "PB-ROE框架复现：基于招商量化精选的GARP策略拆解",
-      "Qbot 开源量化交易平台与经典技术指标策略实现",
       "Qbot 量化交易平台与均线类策略实现",
       "daily_stock_analysis 项目11策略与LLM量化框架解析",
       "个人趋势跟踪量化交易系统七年实践",
@@ -1990,50 +2001,61 @@
       "菜场大妈选股策略：质好价低市值小的量化入门玩法"
     ]
   },
-  "Ponytail：AI 编程代理的最小实现规则集": {
+  "Plain Craft Launcher 源码仓库": {
     "outgoing": [
-      "AI Job Search 求职自动化工作流",
+      "Minecraft",
+      "Minecraft 启动模块",
+      "PCL2Help",
+      "Plain Craft Launcher",
+      "php-src：PHP 解释器源码与开发指南",
+      "下载模块",
+      "动画模块",
+      "用户界面"
+    ],
+    "incoming": [
+      "php-src：PHP 解释器源码与开发指南"
+    ]
+  },
+  "Ponytail：AI 编程代理的最小实现与质量护栏": {
+    "outgoing": [
+      "AI 供应链卡脖子环节投资框架",
       "AI 编程代理",
+      "AI供应链卡脖子环节挖掘框架",
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
       "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "Orca 多智能体开发编排工具",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
+      "Ponytail",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "YAGNI 原则",
+      "php-src：PHP 解释器源码与开发指南",
       "代码复用",
-      "代码审查",
-      "全仓库审计",
-      "可观测性",
+      "平台原生能力",
       "技术债",
       "最小实现原则",
       "标准库",
-      "软件测试",
-      "防御性编程"
+      "质量护栏",
+      "软件质量"
     ],
     "incoming": [
-      "AI Job Search 求职自动化工作流",
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
       "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Orca 多智能体开发编排工具",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "vLLM：高吞吐大模型推理与服务引擎"
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "php-src：PHP 解释器源码与开发指南"
     ]
   },
   "Qbot 开源量化交易平台与经典技术指标策略实现": {
     "outgoing": [
+      "FastAPI 高性能 Python API 框架",
       "KDJ",
       "Kronos：面向金融K线序列的首个开源基础模型",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "MACD",
-      "PB-ROE框架复现：GARP策略的量化实证",
       "Qbot",
       "Qbot 开源量化交易闭环系统",
       "Qbot 量化交易平台与均线类策略实现",
@@ -2047,11 +2069,13 @@
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考"
     ],
     "incoming": [
+      "FastAPI 高性能 Python API 框架",
       "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案",
       "Kronos：面向金融K线序列的首个开源基础模型",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "Qbot 开源量化交易闭环系统",
       "Qbot 量化交易平台与均线类策略实现",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
       "Wealthfolio：本地优先的个人财务追踪开源工具",
       "daily_stock_analysis 项目11策略与LLM量化框架解析",
       "价值投资",
@@ -2062,6 +2086,7 @@
   "Qbot 开源量化交易闭环系统": {
     "outgoing": [
       "AI 时代个人量化交易可行路径与核心铁律",
+      "FastAPI 高性能 Python API 框架",
       "GitHub Trending",
       "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
@@ -2074,17 +2099,19 @@
       "qlib",
       "tushare",
       "七年自建趋势跟踪交易系统实战复盘",
-      "机器学习在量化交易中的应用要点",
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考",
       "量化交易",
       "量化投资入门三步法：从认知到实战的系统路径",
       "量化金融"
     ],
     "incoming": [
+      "FastAPI 高性能 Python API 框架",
       "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
       "Qbot 量化交易平台与均线类策略实现",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "Wealthfolio：本地优先的个人财务追踪开源工具",
       "价值投资",
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考",
       "量化投资入门三步法：从认知到实战的系统路径"
@@ -2117,37 +2144,6 @@
       "daily_stock_analysis 项目11策略与LLM量化框架解析",
       "价值投资",
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考"
-    ]
-  },
-  "Ruflo：Claude Code 与 Codex 的智能体元编排框架": {
-    "outgoing": [
-      "AI Job Search 求职自动化工作流",
-      "Claude Code",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Cognitum.One",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "MCP",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "RuVector",
-      "Supabase 架构与能力",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台"
-    ],
-    "incoming": [
-      "AI Job Search 求职自动化工作流",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "vLLM：高吞吐大模型推理与服务引擎"
     ]
   },
   "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论": {
@@ -2199,78 +2195,41 @@
       "价值投资"
     ]
   },
-  "Supabase 架构与能力": {
+  "Supabase：基于 PostgreSQL 的开源应用开发平台": {
     "outgoing": [
-      "AI Job Search 求职自动化工作流",
-      "AI 应用",
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
       "Cloudflare 多阶段安全审计 Skill",
-      "Envoy",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Edge Functions",
       "Firebase",
       "GoTrue",
-      "GraphQL",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "JWT",
+      "Graphify 本地优先代码知识图谱",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
       "PostgREST",
       "PostgreSQL",
-      "Postgres Meta",
-      "REST API",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "S3",
+      "Qbot 开源量化交易平台与经典技术指标策略实现",
+      "Qbot 开源量化交易闭环系统",
       "Supabase",
-      "Supabase Dashboard",
       "Supabase Realtime",
-      "Supabase Storage",
-      "WebSocket",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
       "pg_graphql",
-      "向量检索",
-      "客户端 SDK",
-      "开源软件",
-      "数据库函数",
-      "自托管",
-      "边缘函数"
-    ],
-    "incoming": [
-      "AI Job Search 求职自动化工作流",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "ai-memory：跨编码代理的长期记忆层"
-    ]
-  },
-  "Twenty 可编程开源 CRM": {
-    "outgoing": [
-      "AI Job Search 求职自动化工作流",
-      "AI 智能体",
-      "CRM",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Salesforce",
-      "Twenty",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "云部署",
-      "对象模型",
-      "技术栈",
-      "版本控制",
+      "php-src：PHP 解释器源码与开发指南",
+      "后端即服务",
+      "向量嵌入",
+      "开源项目",
       "自托管"
     ],
     "incoming": [
+      "Anthropic 知识工作插件体系",
+      "Claude Code 渐进式学习与自动化指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "ComfyUI 模块化 AI 创作工作流",
+      "Graphify 本地优先代码知识图谱",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "freehire：开源 IT 职位搜索与申请平台"
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Wealthfolio：本地优先的个人财务追踪开源工具",
+      "php-src：PHP 解释器源码与开发指南"
     ]
   },
   "V2EX Nodeseek Linux.do 三个淘货交易板块推荐": {
@@ -2293,13 +2252,13 @@
   "Wealthfolio：本地优先的个人财务追踪开源工具": {
     "outgoing": [
       "20万现金的阶梯式资产配置方案",
-      "Graphify：本地优先的代码知识图谱",
+      "Graphify 本地优先代码知识图谱",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "Orca 多智能体开发编排工具",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
+      "Qbot 开源量化交易闭环系统",
       "Rust",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
       "Wealthfolio",
-      "freehire：开源 IT 职位搜索与申请平台",
       "个人理财",
       "回测",
       "投资",
@@ -2311,46 +2270,8 @@
       "风险控制"
     ],
     "incoming": [
+      "Graphify 本地优先代码知识图谱",
       "知乎理财收藏夹：边城的个人理财资料汇总"
-    ]
-  },
-  "ai-memory：跨编码代理的长期记忆层": {
-    "outgoing": [
-      "AI Job Search 求职自动化工作流",
-      "AI 编码代理",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "Markdown",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "上下文注入",
-      "供应商锁定",
-      "审计日志",
-      "混合检索",
-      "版本控制",
-      "生命周期钩子",
-      "跨代理交接",
-      "长期记忆",
-      "零 LLM 工作流"
-    ],
-    "incoming": [
-      "AI Job Search 求职自动化工作流",
-      "AI供应链卡脖子环节挖掘框架",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "vLLM：高吞吐大模型推理与服务引擎"
     ]
   },
   "daily_stock_analysis 项目11策略与LLM量化框架解析": {
@@ -2378,6 +2299,7 @@
       "AI 时代个人量化交易可行路径与核心铁律",
       "AI供应链卡脖子环节挖掘框架",
       "AI时代个人量化生存指南",
+      "FastAPI 高性能 Python API 框架",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "PB-ROE框架复现：GARP策略的量化实证",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
@@ -2396,91 +2318,28 @@
       "连跌反弹统计策略与1124建仓法"
     ]
   },
-  "freehire：开源 IT 职位搜索与申请平台": {
+  "php-src：PHP 解释器源码与开发指南": {
     "outgoing": [
-      "AI Job Search 求职自动化工作流",
-      "AI 代理",
-      "ATS",
-      "Bifrost",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Docker Compose",
-      "Fiber",
-      "Go",
-      "Grafana",
-      "Graphify：本地优先的代码知识图谱",
-      "HTTP API",
-      "Headroom：AI Agent 上下文压缩层",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "Langfuse",
-      "MCP",
-      "Meilisearch",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "PostgreSQL",
-      "Prometheus",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "SvelteKit",
-      "Twenty 可编程开源 CRM",
-      "Web 抓取",
-      "ai-memory：跨编码代理的长期记忆层",
-      "pgvector",
-      "sqlc",
-      "事件账本",
-      "全文检索",
-      "分面搜索",
-      "去重",
-      "开源项目",
-      "简历",
-      "结构化数据",
-      "自托管"
+      "Claude Code 渐进式学习与自动化指南",
+      "GitHub",
+      "PHP",
+      "PHP 手册",
+      "PHP 扩展",
+      "PHP 编码规范",
+      "Plain Craft Launcher 源码仓库",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "RFC",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台",
+      "Web开发",
+      "php-src",
+      "测试套件",
+      "质量保证"
     ],
     "incoming": [
-      "AI Job Search 求职自动化工作流",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "Headroom：AI Agent 上下文压缩层",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "Orca 多智能体开发编排工具",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Supabase 架构与能力",
-      "Twenty 可编程开源 CRM",
-      "Wealthfolio：本地优先的个人财务追踪开源工具",
-      "ai-memory：跨编码代理的长期记忆层",
-      "vLLM：高吞吐大模型推理与服务引擎"
-    ]
-  },
-  "vLLM：高吞吐大模型推理与服务引擎": {
-    "outgoing": [
-      "AI Job Search 求职自动化工作流",
-      "CUDA",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Graphify：本地优先的代码知识图谱",
-      "HIP",
-      "Headroom：AI Agent 上下文压缩层",
-      "Hugging Face",
-      "KV Cache",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "MoE",
-      "OpenAI 兼容 API",
-      "Orca 多智能体开发编排工具",
-      "PagedAttention",
-      "Ponytail：AI 编程代理的最小实现规则集",
-      "Ruflo：Claude Code 与 Codex 的智能体元编排框架",
-      "Triton",
-      "ai-memory：跨编码代理的长期记忆层",
-      "freehire：开源 IT 职位搜索与申请平台",
-      "分块预填充",
-      "分布式推理",
-      "前缀缓存",
-      "多 LoRA",
-      "推测解码",
-      "结构化输出",
-      "连续批处理",
-      "量化"
-    ],
-    "incoming": [
-      "Kronos：面向金融K线序列的首个开源基础模型"
+      "Claude Code 渐进式学习与自动化指南",
+      "Plain Craft Launcher 源码仓库",
+      "Ponytail：AI 编程代理的最小实现与质量护栏",
+      "Supabase：基于 PostgreSQL 的开源应用开发平台"
     ]
   },
   "七年自建趋势跟踪交易系统实战复盘": {
@@ -2503,7 +2362,9 @@
     ],
     "incoming": [
       "2万元交易员付费课性价比存疑 B站免费资源更优",
+      "Anthropic 知识工作插件体系",
       "CH4因子模型：A股四维定价框架与实战应用",
+      "ComfyUI 模块化 AI 创作工作流",
       "ETF网格交易实战：标的选择与策略优化",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
@@ -7568,7 +7429,6 @@
       "AI 时代个人量化交易可行路径与核心铁律",
       "AI时代个人量化生存指南",
       "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案",
-      "Qbot 开源量化交易闭环系统",
       "个人趋势跟踪量化交易系统七年实践",
       "价值投资",
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考",
@@ -10099,6 +9959,7 @@
     "incoming": [
       "AI 供应链卡脖子环节投资框架",
       "AI供应链卡脖子环节挖掘框架",
+      "Cloudflare 多阶段安全审计 Skill",
       "价值投资",
       "比亚迪与吉利折旧策略差异的财报真相"
     ]
@@ -10388,6 +10249,7 @@
       "量化因子来源指南：从误区到新手友好资源"
     ],
     "incoming": [
+      "FastAPI 高性能 Python API 框架",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
       "Qbot 开源量化交易闭环系统",
       "Qbot 量化交易平台与均线类策略实现",
@@ -10635,11 +10497,11 @@
   },
   "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒": {
     "outgoing": [
-      "AI Job Search 求职自动化工作流",
       "AI 供应链卡脖子环节投资框架",
       "A股散户投资框架：ETF优先与独立择时",
       "A股散户投资策略与ETF及板块标的梳理",
       "A股题材投资逻辑与产业链选股框架",
+      "Claude Code 渐进式学习与自动化指南",
       "CoCo投资助手",
       "中粮糖业与云天化高股息标的观察",
       "价值投资",
@@ -10651,6 +10513,7 @@
       "预期股息率"
     ],
     "incoming": [
+      "Claude Code 渐进式学习与自动化指南",
       "价值投资",
       "价值投资助手CoCo：基于预期股息率的辅助工具"
     ]
