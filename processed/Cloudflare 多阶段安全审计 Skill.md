@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-10-22'
+updated: '2026-10-23'
 tags:
 - 开源项目
 - AI
@@ -14,13 +14,12 @@ tags:
 status: processed
 note_type: content
 related:
-- Anthropic 知识工作插件体系
-- Claude Code 渐进式学习与自动化指南
-- ComfyUI 模块化 AI 创作工作流
-- Graphify 本地优先代码知识图谱
+- OpenShell 自主 AI 智能体安全运行时
+- Claude-Red 渗透测试技能库概览
+- Claude 知识工作插件体系
 - Kronos：面向金融K线序列的首个开源基础模型
-- Ponytail：AI 编程代理的最小实现与质量护栏
-- Supabase：基于 PostgreSQL 的开源应用开发平台
+- VoxCPM2 多语言 TTS 与语音克隆
+- 紫微斗数开源排盘引擎与解读数据集
 - 财报分析框架蒸馏为 AI Skill 的实践
 ---
 
@@ -94,11 +93,10 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 在目标代码库中启动编码代理后，可使用 `security audit this codebase`、`find security vulnerabilities in ./src` 或指定输出目录的安全审计请求。未指定目录时，完整审计默认写入 `~/security-audit-skill/<repo-name>/run-<N>`；只有明确选择且被版本控制忽略时，工作流才会在目标仓库内写入文件。
 
 ## 相关笔记
-- [[Anthropic 知识工作插件体系]]
-- [[Claude Code 渐进式学习与自动化指南]]
-- [[ComfyUI 模块化 AI 创作工作流]]
-- [[Graphify 本地优先代码知识图谱]]
+- [[OpenShell 自主 AI 智能体安全运行时]]
+- [[Claude-Red 渗透测试技能库概览]]
+- [[Claude 知识工作插件体系]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Ponytail：AI 编程代理的最小实现与质量护栏]]
-- [[Supabase：基于 PostgreSQL 的开源应用开发平台]]
+- [[VoxCPM2 多语言 TTS 与语音克隆]]
+- [[紫微斗数开源排盘引擎与解读数据集]]
 - [[财报分析框架蒸馏为 AI Skill 的实践]]

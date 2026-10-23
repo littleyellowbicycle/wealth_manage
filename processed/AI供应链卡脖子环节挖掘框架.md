@@ -3,7 +3,7 @@ title: AI供应链卡脖子环节挖掘框架
 source: raw_20260624_162424_67ad2e00
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2045090338327588976
 created: '2026-06-29'
-updated: '2026-10-22'
+updated: '2026-10-23'
 tags:
 - AI
 - 投资
@@ -19,8 +19,8 @@ related:
 - A股散户情绪逆向投资法与低估值选股框架
 - A股散户投资框架：ETF优先与独立择时
 - A股题材投资逻辑与产业链选股框架
-- ComfyUI 模块化 AI 创作工作流
 - daily_stock_analysis 项目11策略与LLM量化框架解析
+- OpenShell 自主 AI 智能体安全运行时
 - PB-ROE框架复现：GARP策略的量化实证
 note_type: content
 ---
@@ -115,6 +115,6 @@ A股这条线已被市场提前反应，龙头早已上天；美股AXTI则是更
 - [[A股散户情绪逆向投资法与低估值选股框架]]
 - [[A股散户投资框架：ETF优先与独立择时]]
 - [[A股题材投资逻辑与产业链选股框架]]
-- [[ComfyUI 模块化 AI 创作工作流]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
+- [[OpenShell 自主 AI 智能体安全运行时]]
 - [[PB-ROE框架复现：GARP策略的量化实证]]

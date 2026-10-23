@@ -3,7 +3,7 @@ title: AI 时代个人量化交易可行路径与核心铁律
 source: raw_20260624_162122_e51a91f5
 source_url: https://www.zhihu.com/question/529408913/answer/2029902654881689881
 created: '2026-06-29'
-updated: '2026-07-11'
+updated: '2026-10-23'
 tags:
 - 量化交易
 - 大语言模型
