@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-10-23'
+updated: '2026-10-25'
 tags:
 - 开源项目
 - AI
@@ -15,11 +15,14 @@ status: processed
 note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
-- Claude-Red 渗透测试技能库概览
-- Claude 知识工作插件体系
+- AWS Agent Toolkit：MCP、Skills 与插件体系
+- Cindy 开源 AI Agent 客户端概览
+- Claude Code 自动化工作流学习指南
+- Gemini CLI 开源终端智能体概览
+- Hallmark 反 AI 设计技能
+- Impeccable：AI 代理前端设计工作流
 - Kronos：面向金融K线序列的首个开源基础模型
-- VoxCPM2 多语言 TTS 与语音克隆
-- 紫微斗数开源排盘引擎与解读数据集
+- Microduck 强化学习双足机器人架构
 - 财报分析框架蒸馏为 AI Skill 的实践
 ---
 
@@ -94,9 +97,12 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
-- [[Claude-Red 渗透测试技能库概览]]
-- [[Claude 知识工作插件体系]]
+- [[AWS Agent Toolkit：MCP、Skills 与插件体系]]
+- [[Cindy 开源 AI Agent 客户端概览]]
+- [[Claude Code 自动化工作流学习指南]]
+- [[Gemini CLI 开源终端智能体概览]]
+- [[Hallmark 反 AI 设计技能]]
+- [[Impeccable：AI 代理前端设计工作流]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[VoxCPM2 多语言 TTS 与语音克隆]]
-- [[紫微斗数开源排盘引擎与解读数据集]]
+- [[Microduck 强化学习双足机器人架构]]
 - [[财报分析框架蒸馏为 AI Skill 的实践]]

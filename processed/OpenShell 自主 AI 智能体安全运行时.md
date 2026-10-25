@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-10-23'
+updated: '2026-10-25'
 tags:
 - 开源项目
 - AI
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Cloudflare 多阶段安全审计 Skill
-- Claude 知识工作插件体系
-- Claude-Red 渗透测试技能库概览
+- Cindy 开源 AI Agent 客户端概览
+- Gemini CLI 开源终端智能体概览
+- Hallmark 反 AI 设计技能
+- Impeccable：AI 代理前端设计工作流
+- AWS Agent Toolkit：MCP、Skills 与插件体系
+- Claude Code 自动化工作流学习指南
 - Kronos：面向金融K线序列的首个开源基础模型
-- VoxCPM2 多语言 TTS 与语音克隆
-- 紫微斗数开源排盘引擎与解读数据集
+- Microduck 强化学习双足机器人架构
 - AI 供应链卡脖子环节投资框架
-- AI 时代个人量化交易可行路径与核心铁律
-- AI供应链卡脖子环节挖掘框架
-- AI时代个人量化生存指南
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -132,12 +132,12 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 
 ## 相关笔记
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Claude 知识工作插件体系]]
-- [[Claude-Red 渗透测试技能库概览]]
+- [[Cindy 开源 AI Agent 客户端概览]]
+- [[Gemini CLI 开源终端智能体概览]]
+- [[Hallmark 反 AI 设计技能]]
+- [[Impeccable：AI 代理前端设计工作流]]
+- [[AWS Agent Toolkit：MCP、Skills 与插件体系]]
+- [[Claude Code 自动化工作流学习指南]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[VoxCPM2 多语言 TTS 与语音克隆]]
-- [[紫微斗数开源排盘引擎与解读数据集]]
+- [[Microduck 强化学习双足机器人架构]]
 - [[AI 供应链卡脖子环节投资框架]]
-- [[AI 时代个人量化交易可行路径与核心铁律]]
-- [[AI供应链卡脖子环节挖掘框架]]
-- [[AI时代个人量化生存指南]]

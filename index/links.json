@@ -140,6 +140,8 @@
     "incoming": [
       "AI供应链卡脖子环节挖掘框架",
       "A股题材投资逻辑与产业链选股框架",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
       "OpenShell 自主 AI 智能体安全运行时",
       "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论",
       "价值投资",
@@ -183,7 +185,6 @@
       "AI供应链卡脖子环节挖掘框架",
       "AI时代个人量化生存指南",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
-      "OpenShell 自主 AI 智能体安全运行时",
       "PB-ROE框架复现：GARP策略的量化实证",
       "Qbot 开源量化交易闭环系统",
       "Qbot 量化交易平台与均线类策略实现",
@@ -219,10 +220,10 @@
       "A股散户投资框架：ETF优先与独立择时",
       "A股题材投资逻辑与产业链选股框架",
       "CPO",
+      "Cindy 开源 AI Agent 客户端概览",
       "GPU",
       "HBM",
-      "OpenShell 自主 AI 智能体安全运行时",
-      "PB-ROE框架复现：GARP策略的量化实证",
+      "Hallmark 反 AI 设计技能",
       "PCB",
       "daily_stock_analysis 项目11策略与LLM量化框架解析",
       "一级市场",
@@ -239,7 +240,6 @@
     ],
     "incoming": [
       "AI 供应链卡脖子环节投资框架",
-      "OpenShell 自主 AI 智能体安全运行时",
       "价值投资",
       "财报分析框架蒸馏为 AI Skill 的实践"
     ]
@@ -296,7 +296,6 @@
       "AI 时代个人量化交易可行路径与核心铁律",
       "AI供应链卡脖子环节挖掘框架",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
-      "OpenShell 自主 AI 智能体安全运行时",
       "PB-ROE框架复现：GARP策略的量化实证",
       "daily_stock_analysis 项目11策略与LLM量化框架解析",
       "个人趋势跟踪量化交易系统七年实践",
@@ -313,6 +312,45 @@
       "量化因子库搭建指南：从来源到实操的完整路径",
       "量化因子来源指南：从误区到新手友好资源",
       "量化投资入门三步法：从认知到实战的系统路径"
+    ]
+  },
+  "AWS Agent Toolkit：MCP、Skills 与插件体系": {
+    "outgoing": [
+      "AWS Activate",
+      "AWS DevOps Agent",
+      "AWS Labs",
+      "AWS MCP Server",
+      "AWS Security Agent",
+      "AWS Startups Solutions Architect",
+      "Agent Skills",
+      "Amazon AgentCore",
+      "Amazon Bedrock",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "CloudTrail",
+      "CloudWatch",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "IAM",
+      "Impeccable：AI 代理前端设计工作流",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "MCP",
+      "Microduck 强化学习双足机器人架构",
+      "OpenShell 自主 AI 智能体安全运行时",
+      "插件",
+      "规则文件"
+    ],
+    "incoming": [
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "Microduck 强化学习双足机器人架构",
+      "OpenShell 自主 AI 智能体安全运行时"
     ]
   },
   "A股30位顶级基金经理筛选逻辑与代表人物": {
@@ -1304,70 +1342,115 @@
       "量化因子来源指南：从误区到新手友好资源"
     ]
   },
-  "Claude 知识工作插件体系": {
+  "Cindy 开源 AI Agent 客户端概览": {
     "outgoing": [
+      "AI Agent",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Apache-2.0",
+      "Cindy",
       "Claude Code",
-      "Claude Cowork",
-      "Claude-Red 渗透测试技能库概览",
+      "Claude Code 自动化工作流学习指南",
       "Cloudflare 多阶段安全审计 Skill",
+      "Codex",
+      "Electron",
+      "Gemini CLI 开源终端智能体概览",
+      "Git LFS",
+      "Hallmark 反 AI 设计技能",
+      "Harness",
+      "Impeccable：AI 代理前端设计工作流",
       "Kronos：面向金融K线序列的首个开源基础模型",
+      "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "MCP",
-      "Node.js 发布体系与开源治理",
+      "Node.js",
       "OpenShell 自主 AI 智能体安全运行时",
-      "VoxCPM2 多语言 TTS 与语音克隆",
-      "技能",
-      "斜杠命令",
-      "知识管理",
-      "紫微斗数开源排盘引擎与解读数据集",
-      "连接器"
+      "React Native",
+      "TapDB",
+      "daily_stock_analysis 项目11策略与LLM量化框架解析",
+      "pnpm",
+      "pnpm Monorepo",
+      "技能系统",
+      "插件系统",
+      "记忆系统"
     ],
     "incoming": [
-      "Claude-Red 渗透测试技能库概览",
+      "AI供应链卡脖子环节挖掘框架",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Claude Code 自动化工作流学习指南",
       "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "Node.js 发布体系与开源治理",
+      "Microduck 强化学习双足机器人架构",
       "OpenShell 自主 AI 智能体安全运行时",
-      "VoxCPM2 多语言 TTS 与语音克隆",
-      "紫微斗数开源排盘引擎与解读数据集"
+      "Wealthfolio：本地优先的个人财务追踪开源工具",
+      "用 OpenClaw 搭建个人股票分析 Agent",
+      "用OpenClaw搭建个人股票分析Agent"
     ]
   },
-  "Claude-Red 渗透测试技能库概览": {
+  "Claude Code 自动化工作流学习指南": {
     "outgoing": [
-      "Active Directory",
-      "Claude Skills",
-      "Claude 知识工作插件体系",
-      "Claude-Red",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Bandit",
+      "CI/CD",
+      "CI/CD 自动化",
+      "CLAUDE.md",
+      "CLI 基础",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code",
+      "Claude Code 官方文档",
       "Cloudflare 多阶段安全审计 Skill",
-      "EDR 绕过",
+      "DevOps",
+      "EPUB",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "MIT 许可证",
+      "MCP",
+      "MIT License",
+      "Mermaid",
+      "Microduck 强化学习双足机器人架构",
       "OpenShell 自主 AI 智能体安全运行时",
-      "SKILL.md",
-      "SQL注入",
-      "VoxCPM2 多语言 TTS 与语音克隆",
-      "上下文工程",
-      "按需加载",
-      "提示注入",
-      "攻击面",
-      "紫微斗数开源排盘引擎与解读数据集"
+      "Python",
+      "Ruff",
+      "mypy",
+      "pytest",
+      "命令行界面",
+      "子智能体",
+      "技能",
+      "插件",
+      "斜杠命令",
+      "检查点",
+      "自动化代码审查",
+      "钩子",
+      "项目记忆",
+      "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒",
+      "高级功能"
     ],
     "incoming": [
-      "Claude 知识工作插件体系",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
       "Cloudflare 多阶段安全审计 Skill",
-      "Kronos：面向金融K线序列的首个开源基础模型",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
+      "Microduck 强化学习双足机器人架构",
       "OpenShell 自主 AI 智能体安全运行时",
-      "VoxCPM2 多语言 TTS 与语音克隆",
-      "紫微斗数开源排盘引擎与解读数据集"
+      "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒"
     ]
   },
   "Cloudflare 多阶段安全审计 Skill": {
     "outgoing": [
       "AI 与 LLM 安全",
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
       "Kronos：面向金融K线序列的首个开源基础模型",
+      "Microduck 强化学习双足机器人架构",
       "OpenShell 自主 AI 智能体安全运行时",
-      "VoxCPM2 多语言 TTS 与语音克隆",
       "Web 与身份协议安全",
       "严重性评级",
       "云与部署安全",
@@ -1383,18 +1466,20 @@
       "桌面、移动与本地 IPC 安全",
       "独立记录复核",
       "目标无关报告",
-      "紫微斗数开源排盘引擎与解读数据集",
       "结构化安全输出",
       "覆盖驱动的漏洞搜寻",
       "财报分析框架蒸馏为 AI Skill 的实践",
       "资源耗尽与可用性"
     ],
     "incoming": [
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
-      "OpenShell 自主 AI 智能体安全运行时",
-      "VoxCPM2 多语言 TTS 与语音克隆",
-      "紫微斗数开源排盘引擎与解读数据集"
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
+      "Microduck 强化学习双足机器人架构",
+      "OpenShell 自主 AI 智能体安全运行时"
     ]
   },
   "ETF 网格交易实战：标的选择、不对称网格与费率优势": {
@@ -1554,6 +1639,122 @@
     ],
     "incoming": []
   },
+  "Gemini CLI 开源终端智能体概览": {
+    "outgoing": [
+      "AI 智能体",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Antigravity CLI",
+      "CI/CD",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "GEMINI.md",
+      "Google Cloud",
+      "Google Cloud Project",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "LLM",
+      "MCP",
+      "Microduck 强化学习双足机器人架构",
+      "OpenShell 自主 AI 智能体安全运行时",
+      "Qbot 开源量化交易平台与经典技术指标策略实现",
+      "Stable",
+      "Token 缓存",
+      "VS Code",
+      "Vertex AI",
+      "代码理解与生成",
+      "可信文件夹",
+      "多模态生成",
+      "安全与合规",
+      "工作流自动化",
+      "无头模式",
+      "检查点",
+      "沙箱"
+    ],
+    "incoming": [
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "Microduck 强化学习双足机器人架构",
+      "OpenShell 自主 AI 智能体安全运行时",
+      "Wealthfolio：本地优先的个人财务追踪开源工具"
+    ]
+  },
+  "Hallmark 反 AI 设计技能": {
+    "outgoing": [
+      "AI 供应链卡脖子环节投资框架",
+      "AI 编程工具",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark",
+      "Impeccable：AI 代理前端设计工作流",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "MIT 许可证",
+      "Microduck 强化学习双足机器人架构",
+      "OpenShell 自主 AI 智能体安全运行时",
+      "主题系统",
+      "任务驱动设计",
+      "真实产品截图",
+      "设计审查",
+      "设计技能",
+      "质量门禁",
+      "重设计"
+    ],
+    "incoming": [
+      "AI供应链卡脖子环节挖掘框架",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Impeccable：AI 代理前端设计工作流",
+      "Microduck 强化学习双足机器人架构",
+      "OpenShell 自主 AI 智能体安全运行时"
+    ]
+  },
+  "Impeccable：AI 代理前端设计工作流": {
+    "outgoing": [
+      "AI  slop",
+      "AI 供应链卡脖子环节投资框架",
+      "AI 编程代理",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "DESIGN.md",
+      "Design Hook",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable",
+      "Kronos：面向金融K线序列的首个开源基础模型",
+      "Live Mode",
+      "Microduck 强化学习双足机器人架构",
+      "OpenShell 自主 AI 智能体安全运行时",
+      "PRODUCT.md",
+      "产品上下文",
+      "可访问性",
+      "确定性检测规则",
+      "设计系统"
+    ],
+    "incoming": [
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Microduck 强化学习双足机器人架构",
+      "OpenShell 自主 AI 智能体安全运行时"
+    ]
+  },
   "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案": {
     "outgoing": [
       "CH4 因子模型 A股四因子实战拆解",
@@ -1589,9 +1790,10 @@
     "outgoing": [
       "2万元交易员付费课性价比存疑 B站免费资源更优",
       "AAAI 2026",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
       "BOLL短线两种高胜率策略与仓位管理",
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Gemini CLI 开源终端智能体概览",
       "Kronos",
       "K线圆弧角度分析的核心观点",
       "K线圆弧角度理论 金融市场的半圆数学",
@@ -1601,27 +1803,28 @@
       "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈",
       "基于 bt 与 alphalens 的多因子回测框架实践",
       "基础模型",
-      "紫微斗数开源排盘引擎与解读数据集",
       "纯Alpha",
       "量化交易"
     ],
     "incoming": [
       "2万元交易员付费课性价比存疑 B站免费资源更优",
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
       "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
       "K线圆弧角度分析的核心观点",
       "K线圆弧角度理论 金融市场的半圆数学",
-      "Node.js 发布体系与开源治理",
+      "Microduck 强化学习双足机器人架构",
       "OpenShell 自主 AI 智能体安全运行时",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
-      "VoxCPM2 多语言 TTS 与语音克隆",
       "Wealthfolio：本地优先的个人财务追踪开源工具",
       "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈",
       "基于 bt 与 alphalens 的多因子回测框架实践",
       "新加坡学生签作为海外金融账户入口",
-      "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径",
-      "紫微斗数开源排盘引擎与解读数据集"
+      "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径"
     ]
   },
   "K线圆弧角度分析的核心观点": {
@@ -1707,6 +1910,7 @@
     "incoming": [
       "AI 时代个人量化交易可行路径与核心铁律",
       "AI时代个人量化生存指南",
+      "Cindy 开源 AI Agent 客户端概览",
       "PB-ROE框架复现：GARP策略的量化实证",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
       "Qbot 开源量化交易闭环系统",
@@ -1806,70 +2010,73 @@
       "超跌反弹战法：30日均线偏离度筛选与地天板操作"
     ]
   },
-  "Node.js 发布体系与开源治理": {
+  "Microduck 强化学习双足机器人架构": {
     "outgoing": [
-      "Alpha发布",
-      "CITGM",
-      "Claude 知识工作插件体系",
-      "Current发布",
-      "JavaScript运行时",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
+      "JSON-RPC",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "Nightly构建",
-      "Node.js",
-      "OpenJS基金会",
-      "PGP",
-      "Qbot 开源量化交易平台与经典技术指标策略实现",
-      "Qbot 开源量化交易闭环系统",
-      "SHA-256",
-      "Wealthfolio：本地优先的个人财务追踪开源工具",
-      "七年自建趋势跟踪交易系统实战复盘",
-      "开放治理模型",
-      "技术指导委员会（TSC）",
-      "紫微斗数开源排盘引擎与解读数据集",
-      "语义化版本",
-      "贡献者行为准则",
-      "长期支持（LTS）"
+      "MuJoCo",
+      "ONNX",
+      "OpenShell 自主 AI 智能体安全运行时",
+      "PPO",
+      "双足机器人",
+      "守护进程架构",
+      "强化学习",
+      "模拟到现实",
+      "边缘计算"
     ],
     "incoming": [
-      "Claude 知识工作插件体系",
-      "Wealthfolio：本地优先的个人财务追踪开源工具",
-      "紫微斗数开源排盘引擎与解读数据集"
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Claude Code 自动化工作流学习指南",
+      "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
+      "OpenShell 自主 AI 智能体安全运行时"
     ]
   },
   "OpenShell 自主 AI 智能体安全运行时": {
     "outgoing": [
       "AI Agent",
       "AI 供应链卡脖子环节投资框架",
-      "AI 时代个人量化交易可行路径与核心铁律",
-      "AI供应链卡脖子环节挖掘框架",
-      "AI时代个人量化生存指南",
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
       "Cloudflare 多阶段安全审计 Skill",
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
       "Helm",
+      "Impeccable：AI 代理前端设计工作流",
       "Kronos：面向金融K线序列的首个开源基础模型",
       "Kubernetes",
+      "Microduck 强化学习双足机器人架构",
       "NetworkPolicy",
       "OpenShell",
       "OpenShell 网关",
       "SDK",
-      "VoxCPM2 多语言 TTS 与语音克隆",
       "形式化验证",
       "沙箱",
       "沙箱隔离",
       "监督器",
       "策略证明器",
       "策略顾问",
-      "紫微斗数开源排盘引擎与解读数据集",
       "访问策略"
     ],
     "incoming": [
-      "AI供应链卡脖子环节挖掘框架",
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
+      "AWS Agent Toolkit：MCP、Skills 与插件体系",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Claude Code 自动化工作流学习指南",
       "Cloudflare 多阶段安全审计 Skill",
-      "VoxCPM2 多语言 TTS 与语音克隆",
-      "紫微斗数开源排盘引擎与解读数据集"
+      "Gemini CLI 开源终端智能体概览",
+      "Hallmark 反 AI 设计技能",
+      "Impeccable：AI 代理前端设计工作流",
+      "Microduck 强化学习双足机器人架构"
     ]
   },
   "PB-ROE框架复现：GARP策略的量化实证": {
@@ -1899,7 +2106,6 @@
     ],
     "incoming": [
       "AI 时代个人量化交易可行路径与核心铁律",
-      "AI供应链卡脖子环节挖掘框架",
       "AI时代个人量化生存指南",
       "CH4 因子模型 A股四因子实战拆解",
       "CH4因子模型：A股四维定价框架与实战应用",
@@ -1948,24 +2154,6 @@
       "菜场大妈选股策略：质好价低市值小的量化入门玩法"
     ]
   },
-  "PHP 源码仓库开发指南": {
-    "outgoing": [
-      "GitHub",
-      "OSS-Fuzz",
-      "PECL",
-      "PHP",
-      "PHP 手册",
-      "PHP 扩展",
-      "PHP 源码",
-      "PIE",
-      "Pull Request",
-      "RFC",
-      "Web 开发",
-      "模糊测试",
-      "测试套件"
-    ],
-    "incoming": []
-  },
   "Qbot 开源量化交易平台与经典技术指标策略实现": {
     "outgoing": [
       "KDJ",
@@ -1986,17 +2174,16 @@
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考"
     ],
     "incoming": [
+      "Gemini CLI 开源终端智能体概览",
       "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案",
       "Kronos：面向金融K线序列的首个开源基础模型",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
-      "Node.js 发布体系与开源治理",
       "Qbot 开源量化交易闭环系统",
       "Qbot 量化交易平台与均线类策略实现",
       "Wealthfolio：本地优先的个人财务追踪开源工具",
       "daily_stock_analysis 项目11策略与LLM量化框架解析",
       "价值投资",
       "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈",
-      "紫微斗数开源排盘引擎与解读数据集",
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考"
     ]
   },
@@ -2015,7 +2202,7 @@
       "qlib",
       "tushare",
       "七年自建趋势跟踪交易系统实战复盘",
-      "机器学习在量化交易中的应用要点",
+      "电子书下载宝库项目指南",
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考",
       "量化交易",
       "量化投资入门三步法：从认知到实战的系统路径",
@@ -2024,12 +2211,11 @@
     "incoming": [
       "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
-      "Node.js 发布体系与开源治理",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
       "Qbot 量化交易平台与均线类策略实现",
       "Wealthfolio：本地优先的个人财务追踪开源工具",
       "价值投资",
-      "紫微斗数开源排盘引擎与解读数据集",
+      "电子书下载宝库项目指南",
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考",
       "量化投资入门三步法：从认知到实战的系统路径"
     ]
@@ -2129,53 +2315,18 @@
     ],
     "incoming": []
   },
-  "VoxCPM2 多语言 TTS 与语音克隆": {
-    "outgoing": [
-      "AudioVAE V2",
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "MiniCPM-4",
-      "Nano-vLLM",
-      "OpenAI 兼容 API",
-      "OpenBMB",
-      "OpenShell 自主 AI 智能体安全运行时",
-      "VoxCPM2",
-      "llama.cpp-omni",
-      "vLLM-Omni",
-      "可控语音克隆",
-      "扩散自回归架构",
-      "文本转语音",
-      "无 Tokenizer 语音合成",
-      "流式语音合成",
-      "深度伪造",
-      "紫微斗数开源排盘引擎与解读数据集",
-      "自然语言声音设计",
-      "语音 Token 化",
-      "语音合成评测基准",
-      "高保真语音克隆"
-    ],
-    "incoming": [
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
-      "Cloudflare 多阶段安全审计 Skill",
-      "OpenShell 自主 AI 智能体安全运行时",
-      "紫微斗数开源排盘引擎与解读数据集"
-    ]
-  },
   "Wealthfolio：本地优先的个人财务追踪开源工具": {
     "outgoing": [
       "20万现金的阶梯式资产配置方案",
+      "Cindy 开源 AI Agent 客户端概览",
+      "Gemini CLI 开源终端智能体概览",
       "Kronos：面向金融K线序列的首个开源基础模型",
-      "Node.js 发布体系与开源治理",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
       "Qbot 开源量化交易闭环系统",
       "Rust",
       "Wealthfolio",
       "个人理财",
       "回测",
-      "大跌复盘三件事与组合沙箱工具",
       "投资",
       "普通人多元资产配置实战：分红底仓加风险平价增强",
       "普通人投资ETF的胜率逻辑与品种选择",
@@ -2185,9 +2336,7 @@
       "风险控制"
     ],
     "incoming": [
-      "Node.js 发布体系与开源治理",
-      "知乎理财收藏夹：边城的个人理财资料汇总",
-      "紫微斗数开源排盘引擎与解读数据集"
+      "知乎理财收藏夹：边城的个人理财资料汇总"
     ]
   },
   "daily_stock_analysis 项目11策略与LLM量化框架解析": {
@@ -2215,6 +2364,7 @@
       "AI 时代个人量化交易可行路径与核心铁律",
       "AI供应链卡脖子环节挖掘框架",
       "AI时代个人量化生存指南",
+      "Cindy 开源 AI Agent 客户端概览",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "PB-ROE框架复现：GARP策略的量化实证",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
@@ -2230,6 +2380,7 @@
       "游资庄家盈利真相与散户亏损根源",
       "用 OpenClaw 搭建个人股票分析 Agent",
       "用OpenClaw搭建个人股票分析Agent",
+      "电子书下载宝库项目指南",
       "连跌反弹统计策略与1124建仓法"
     ]
   },
@@ -2256,7 +2407,6 @@
       "CH4因子模型：A股四维定价框架与实战应用",
       "ETF网格交易实战：标的选择与策略优化",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
-      "Node.js 发布体系与开源治理",
       "Qbot 开源量化交易平台与经典技术指标策略实现",
       "Qbot 开源量化交易闭环系统",
       "Qbot 量化交易平台与均线类策略实现",
@@ -5510,8 +5660,7 @@
       "津巴布韦锂矿禁令与世界杯题材 2026 年春季投资机会梳理",
       "知乎开源投资博主跟单指南",
       "穷人翻身的最大可能性：用30万存款撬动财务自由",
-      "纳指投资基于5年均线的择时与仓位管理",
-      "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒"
+      "纳指投资基于5年均线的择时与仓位管理"
     ]
   },
   "基金投资的理性框架：拒绝定投神话与被动基金方法论": {
@@ -5605,7 +5754,6 @@
     ],
     "incoming": [
       "20万现金的阶梯式资产配置方案",
-      "Wealthfolio：本地优先的个人财务追踪开源工具",
       "价值投资",
       "大跌复盘三步法：从情绪检查到对冲验证",
       "央国企高股息组合配置思路与火电板块更新",
@@ -7321,7 +7469,6 @@
       "AI 时代个人量化交易可行路径与核心铁律",
       "AI时代个人量化生存指南",
       "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案",
-      "Qbot 开源量化交易闭环系统",
       "个人趋势跟踪量化交易系统七年实践",
       "价值投资",
       "轻量级 Alpha 多因子回测框架实践与量化系统本质思考",
@@ -8026,6 +8173,7 @@
       "AI时代个人量化生存指南",
       "Agent 人设",
       "Agent 工作流",
+      "Cindy 开源 AI Agent 客户端概览",
       "Finnhub",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "OpenClaw",
@@ -8038,7 +8186,6 @@
       "工具调用（Tool Use）",
       "用OpenClaw搭建个人股票分析Agent",
       "盘前报告",
-      "股票承接力与反弹反转判断",
       "角色设定",
       "选股",
       "量化交易",
@@ -8057,6 +8204,7 @@
       "AI 时代个人量化交易可行路径与核心铁律",
       "AI时代个人量化生存指南",
       "Agent工作流",
+      "Cindy 开源 AI Agent 客户端概览",
       "Finnhub",
       "LLM辅助量化交易 daily_stock_analysis 11策略解析",
       "OpenClaw",
@@ -8067,7 +8215,6 @@
       "基本面分析的五问框架与认知劝退",
       "用 OpenClaw 搭建个人股票分析 Agent",
       "盘前报告",
-      "股票承接力与反弹反转判断",
       "股票筛选",
       "量化交易"
     ],
@@ -8077,6 +8224,23 @@
       "用 OpenClaw 搭建个人股票分析 Agent",
       "股票承接力与反弹反转判断",
       "股票承接力判断与反弹反转识别"
+    ]
+  },
+  "电子书下载宝库项目指南": {
+    "outgoing": [
+      "GitHub Pages",
+      "Qbot 开源量化交易闭环系统",
+      "daily_stock_analysis 项目11策略与LLM量化框架解析",
+      "jbiaojerry/ebook-treasure-chest",
+      "公有领域",
+      "分类索引",
+      "多关键词搜索",
+      "多格式电子书",
+      "实时搜索",
+      "电子书索引"
+    ],
+    "incoming": [
+      "Qbot 开源量化交易闭环系统"
     ]
   },
   "知乎三位投资领域高影响力答主风格速览": {
@@ -9018,49 +9182,6 @@
       "金融炼金术的智识真诚"
     ]
   },
-  "紫微斗数开源排盘引擎与解读数据集": {
-    "outgoing": [
-      "13维解读数据集",
-      "51.8万命盘样本数据集",
-      "CC BY 4.0",
-      "CC BY-NC-SA 4.0",
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
-      "Cloudflare 多阶段安全审计 Skill",
-      "JSON Lines",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "MIT License",
-      "Next.js 16",
-      "Node.js 发布体系与开源治理",
-      "OpenShell 自主 AI 智能体安全运行时",
-      "Qbot 开源量化交易平台与经典技术指标策略实现",
-      "Qbot 开源量化交易闭环系统",
-      "TypeScript",
-      "VoxCPM2 多语言 TTS 与语音克隆",
-      "Wealthfolio：本地优先的个人财务追踪开源工具",
-      "倪海厦《天纪》体系",
-      "倪海厦《天纪》原话",
-      "古籍原文数据",
-      "四化飞星",
-      "开源项目",
-      "排盘引擎",
-      "星曜亮度",
-      "格局知识库",
-      "真太阳时校正",
-      "知识图谱",
-      "紫微斗数",
-      "铁板神数"
-    ],
-    "incoming": [
-      "Claude 知识工作插件体系",
-      "Claude-Red 渗透测试技能库概览",
-      "Cloudflare 多阶段安全审计 Skill",
-      "Kronos：面向金融K线序列的首个开源基础模型",
-      "Node.js 发布体系与开源治理",
-      "OpenShell 自主 AI 智能体安全运行时",
-      "VoxCPM2 多语言 TTS 与语音克隆"
-    ]
-  },
   "紫金矿业 藏格矿业 兴业银锡 持仓成本与目标价复盘": {
     "outgoing": [
       "七年自建趋势跟踪交易系统实战复盘",
@@ -9544,8 +9665,6 @@
     ],
     "incoming": [
       "价值投资",
-      "用 OpenClaw 搭建个人股票分析 Agent",
-      "用OpenClaw搭建个人股票分析Agent",
       "股票承接力判断与反弹反转识别"
     ]
   },
@@ -10436,18 +10555,19 @@
       "A股散户投资框架：ETF优先与独立择时",
       "A股散户投资策略与ETF及板块标的梳理",
       "A股题材投资逻辑与产业链选股框架",
+      "Claude Code 自动化工作流学习指南",
       "CoCo投资助手",
       "中粮糖业与云天化高股息标的观察",
       "价值投资",
       "价值投资助手CoCo：基于预期股息率的辅助工具",
       "价值投资声誉困境与巴菲特的核心能力",
       "低频量化投资：指标筛选结合条件单的极简框架",
-      "基金投资从入门到实操：选基、定投与止盈的系统方法",
       "工程化",
       "红利类ETF分类与选择指南",
       "预期股息率"
     ],
     "incoming": [
+      "Claude Code 自动化工作流学习指南",
       "价值投资",
       "价值投资助手CoCo：基于预期股息率的辅助工具"
     ]
