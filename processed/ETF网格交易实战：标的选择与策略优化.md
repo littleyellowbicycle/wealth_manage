@@ -3,7 +3,7 @@ title: ETF网格交易实战：标的选择与策略优化
 source: raw_20260624_162540_19332580
 source_url: https://www.zhihu.com/question/589099433/answer/2976954684
 created: '2026-06-29'
-updated: '2026-10-17'
+updated: '2026-10-25'
 tags:
 - 交易
 - ETF

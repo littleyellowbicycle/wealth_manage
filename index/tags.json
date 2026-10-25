@@ -11,25 +11,24 @@
   "AI": [
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
-    "AWS Agent Toolkit：MCP、Skills 与插件体系.md",
-    "Cindy 开源 AI Agent 客户端概览.md",
-    "Claude Code 自动化工作流学习指南.md",
+    "Cindy 开源 AI Agent 客户端.md",
+    "Claude SEO：Claude Code SEO 审计插件.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Gemini CLI 开源终端智能体概览.md",
-    "Hallmark 反 AI 设计技能.md",
-    "Impeccable：AI 代理前端设计工作流.md",
+    "Hallmark 反 AI 模板化设计工作流.md",
+    "Impeccable：AI 编程代理的前端设计工作流.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
-    "Microduck 强化学习双足机器人架构.md",
+    "Microduck 微型强化学习机器人.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
+    "ThinkRail 智能体 IDE 的架构与核心能力.md",
+    "TradingAgents 多智能体金融交易框架.md",
+    "VoiceStudio 本地开源语音生成平台.md",
+    "紫微斗数开源排盘引擎与解读数据集.md",
     "财报分析框架蒸馏为 AI Skill 的实践.md"
   ],
-  "AWS": [
-    "AWS Agent Toolkit：MCP、Skills 与插件体系.md"
-  ],
   "Agent": [
-    "Cindy 开源 AI Agent 客户端概览.md",
+    "Cindy 开源 AI Agent 客户端.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
@@ -112,7 +111,7 @@
     "新加坡学生签作为海外金融账户入口.md"
   ],
   "Claude Code": [
-    "Claude Code 自动化工作流学习指南.md"
+    "Claude SEO：Claude Code SEO 审计插件.md"
   ],
   "CoCo助手": [
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -161,12 +160,11 @@
     "PB-ROE框架复现：GARP策略的量化实证.md",
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
   ],
-  "Gemini CLI": [
-    "Gemini CLI 开源终端智能体概览.md"
+  "GEO": [
+    "Claude SEO：Claude Code SEO 审计插件.md"
   ],
   "GitHub": [
-    "Qbot 开源量化交易闭环系统.md",
-    "电子书下载宝库项目指南.md"
+    "Qbot 开源量化交易闭环系统.md"
   ],
   "GitHub开源": [
     "个人趋势跟踪量化交易系统七年实践.md"
@@ -189,11 +187,6 @@
     "MACD与布林线选股模式体系.md",
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
-  "MCP": [
-    "AWS Agent Toolkit：MCP、Skills 与插件体系.md",
-    "Cindy 开源 AI Agent 客户端概览.md",
-    "Gemini CLI 开源终端智能体概览.md"
-  ],
   "MR Dang": [
     "知乎与支付宝开源投资博主汇总与抄作业哲学.md"
   ],
@@ -209,6 +202,9 @@
   ],
   "PB-ROE框架": [
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
+  ],
+  "PaaS": [
+    "Coolify 自托管 PaaS 部署与运维平台.md"
   ],
   "Python": [
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
@@ -231,11 +227,17 @@
   "Rust": [
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
+  "SEO": [
+    "Claude SEO：Claude Code SEO 审计插件.md"
+  ],
   "Serenity": [
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md"
   ],
   "Transformer": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
+  ],
+  "TypeScript": [
+    "Cindy 开源 AI Agent 客户端.md"
   ],
   "V2EX": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -353,6 +355,7 @@
     "ETF网格交易实战：标的选择与策略优化.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "MACD与布林线实战：短线中线技术形态选股框架.md",
+    "TradingAgents 多智能体金融交易框架.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "三位值得长期跟踪的A股交易者推荐.md",
     "主力扫损的本质与散户的盈利逻辑.md",
@@ -448,8 +451,14 @@
   "代码审计": [
     "Cloudflare 多阶段安全审计 Skill.md"
   ],
+  "代码智能体": [
+    "ThinkRail 智能体 IDE 的架构与核心能力.md"
+  ],
   "价值投资": [
     "价值投资.md"
+  ],
+  "仿真到现实": [
+    "Microduck 微型强化学习机器人.md"
   ],
   "估值": [
     "A股本轮牛市的内外部结构与板块轮动节奏.md",
@@ -530,7 +539,8 @@
     "县城产业兴衰研究法与多元商业逻辑.md"
   ],
   "前端设计": [
-    "Impeccable：AI 代理前端设计工作流.md"
+    "Hallmark 反 AI 模板化设计工作流.md",
+    "Impeccable：AI 编程代理的前端设计工作流.md"
   ],
   "区块链": [
     "知乎高资金量交易者推荐三人.md"
@@ -609,6 +619,7 @@
   "回测": [
     "ETF网格交易实战：标的选择与策略优化.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
+    "TradingAgents 多智能体金融交易框架.md",
     "个人趋势跟踪量化交易系统七年实践.md",
     "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈.md",
     "基于 bt 与 alphalens 的多因子回测框架实践.md",
@@ -772,7 +783,10 @@
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
   "多智能体": [
-    "Cindy 开源 AI Agent 客户端概览.md"
+    "TradingAgents 多智能体金融交易框架.md"
+  ],
+  "多智能体编排": [
+    "Cindy 开源 AI Agent 客户端.md"
   ],
   "大盘股": [
     "矿股永续增长与大盘低估的本质.md",
@@ -928,37 +942,36 @@
   "库存周期": [
     "股票投资中的周期研究与自学路径.md"
   ],
-  "开发者工具": [
-    "Claude Code 自动化工作流学习指南.md"
-  ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
-    "AWS Agent Toolkit：MCP、Skills 与插件体系.md",
-    "Cindy 开源 AI Agent 客户端概览.md",
-    "Claude Code 自动化工作流学习指南.md",
+    "Cindy 开源 AI Agent 客户端.md",
+    "Claude SEO：Claude Code SEO 审计插件.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Gemini CLI 开源终端智能体概览.md",
-    "Hallmark 反 AI 设计技能.md",
-    "Impeccable：AI 代理前端设计工作流.md",
+    "Coolify 自托管 PaaS 部署与运维平台.md",
+    "Hallmark 反 AI 模板化设计工作流.md",
+    "Impeccable：AI 编程代理的前端设计工作流.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "Microduck 强化学习双足机器人架构.md",
+    "Microduck 微型强化学习机器人.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
+    "ThinkRail 智能体 IDE 的架构与核心能力.md",
+    "TradingAgents 多智能体金融交易框架.md",
+    "VoiceStudio 本地开源语音生成平台.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
-    "电子书下载宝库项目指南.md"
+    "紫微斗数开源排盘引擎与解读数据集.md"
   ],
   "开窍": [
     "开窍与交易认知跃迁 从归因错误到95322规律.md"
   ],
   "强化学习": [
-    "Microduck 强化学习双足机器人架构.md"
+    "Microduck 微型强化学习机器人.md"
   ],
   "归因错误": [
     "开窍与交易认知跃迁 从归因错误到95322规律.md"
@@ -1236,6 +1249,9 @@
   "换手率": [
     "CH4因子模型：A股四维定价框架与实战应用.md"
   ],
+  "排盘引擎": [
+    "紫微斗数开源排盘引擎与解读数据集.md"
+  ],
   "提示工程": [
     "财报分析框架蒸馏为 AI Skill 的实践.md"
   ],
@@ -1266,7 +1282,8 @@
   ],
   "数据": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
-    "AI时代个人量化生存指南.md"
+    "AI时代个人量化生存指南.md",
+    "紫微斗数开源排盘引擎与解读数据集.md"
   ],
   "新加坡": [
     "新加坡学生签作为海外金融账户入口.md"
@@ -1299,8 +1316,8 @@
   "时序预测": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
   ],
-  "智能体": [
-    "AWS Agent Toolkit：MCP、Skills 与插件体系.md"
+  "智能体 IDE": [
+    "ThinkRail 智能体 IDE 的架构与核心能力.md"
   ],
   "智能网格": [
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
@@ -1314,11 +1331,14 @@
   "本地优先": [
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
+  "本地部署": [
+    "VoiceStudio 本地开源语音生成平台.md"
+  ],
   "本金安全": [
     "20万现金的阶梯式资产配置方案.md"
   ],
   "机器人": [
-    "Microduck 强化学习双足机器人架构.md"
+    "Microduck 微型强化学习机器人.md"
   ],
   "机器学习": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md",
@@ -1502,9 +1522,6 @@
     "环南京都市圈的低成本居住样本.md",
     "环南京都市圈的极致性价比生活图景.md"
   ],
-  "电子书索引": [
-    "电子书下载宝库项目指南.md"
-  ],
   "留学跳板": [
     "新加坡学生签作为海外金融账户入口.md"
   ],
@@ -1629,6 +1646,9 @@
   "糖周期": [
     "中粮糖业与云天化高股息标的观察.md"
   ],
+  "紫微斗数": [
+    "紫微斗数开源排盘引擎与解读数据集.md"
+  ],
   "紫金矿业": [
     "紫金矿业 藏格矿业 兴业银锡 持仓成本与目标价复盘.md"
   ],
@@ -1637,9 +1657,6 @@
   ],
   "纳斯达克100": [
     "纳指投资基于5年均线的择时与仓位管理.md"
-  ],
-  "终端智能体": [
-    "Gemini CLI 开源终端智能体概览.md"
   ],
   "经济周期": [
     "放水导致通缩：日本与美国危机应对模式的镜像对比.md"
@@ -1652,9 +1669,6 @@
   ],
   "网络安全": [
     "Cloudflare 多阶段安全审计 Skill.md"
-  ],
-  "网页设计": [
-    "Hallmark 反 AI 设计技能.md"
   ],
   "美股": [
     "无脑执行投资策略：三段式仓位管理法.md",
@@ -1712,7 +1726,7 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
-    "Claude Code 自动化工作流学习指南.md",
+    "Coolify 自托管 PaaS 部署与运维平台.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1723,6 +1737,9 @@
   ],
   "自我反思": [
     "股票投资的学习门槛与能力自检.md"
+  ],
+  "自托管": [
+    "Coolify 自托管 PaaS 部署与运维平台.md"
   ],
   "舆情调研": [
     "散户低价国企股的舆情调研与人事博弈策略.md"
@@ -1771,16 +1788,16 @@
     "股票投资的学习门槛与能力自检.md"
   ],
   "设计审查": [
-    "Hallmark 反 AI 设计技能.md"
+    "Hallmark 反 AI 模板化设计工作流.md"
   ],
-  "设计检测": [
-    "Impeccable：AI 代理前端设计工作流.md"
+  "设计工具": [
+    "Impeccable：AI 编程代理的前端设计工作流.md"
   ],
-  "设计规范": [
-    "Impeccable：AI 代理前端设计工作流.md"
+  "语音克隆": [
+    "VoiceStudio 本地开源语音生成平台.md"
   ],
-  "读书工具": [
-    "电子书下载宝库项目指南.md"
+  "语音生成": [
+    "VoiceStudio 本地开源语音生成平台.md"
   ],
   "读书笔记": [
     "索罗斯与金融炼金术的阅读感受.md",
@@ -1951,9 +1968,6 @@
   ],
   "身份规划": [
     "新加坡学生签作为海外金融账户入口.md"
-  ],
-  "边缘计算": [
-    "Microduck 强化学习双足机器人架构.md"
   ],
   "连跌反弹": [
     "连跌反弹概率策略与1124建仓法.md",

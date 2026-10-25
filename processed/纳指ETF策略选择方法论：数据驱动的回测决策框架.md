@@ -3,7 +3,7 @@ title: 纳指ETF策略选择方法论：数据驱动的回测决策框架
 source: raw_20260624_162603_80413d63
 source_url: https://www.zhihu.com/question/1942778655811048171/answer/1943042080000672237
 created: '2026-10-17'
-updated: '2026-10-17'
+updated: '2026-10-25'
 tags:
 - ETF
 - 回测

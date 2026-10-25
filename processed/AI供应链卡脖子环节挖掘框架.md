@@ -19,9 +19,9 @@ related:
 - A股散户情绪逆向投资法与低估值选股框架
 - A股散户投资框架：ETF优先与独立择时
 - A股题材投资逻辑与产业链选股框架
-- Cindy 开源 AI Agent 客户端概览
+- Cindy 开源 AI Agent 客户端
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- Hallmark 反 AI 设计技能
+- Hallmark 反 AI 模板化设计工作流
 note_type: content
 ---
 
@@ -115,6 +115,6 @@ A股这条线已被市场提前反应，龙头早已上天；美股AXTI则是更
 - [[A股散户情绪逆向投资法与低估值选股框架]]
 - [[A股散户投资框架：ETF优先与独立择时]]
 - [[A股题材投资逻辑与产业链选股框架]]
-- [[Cindy 开源 AI Agent 客户端概览]]
+- [[Cindy 开源 AI Agent 客户端]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[Hallmark 反 AI 设计技能]]
+- [[Hallmark 反 AI 模板化设计工作流]]

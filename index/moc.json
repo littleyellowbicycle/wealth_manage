@@ -285,6 +285,7 @@
         "ETF网格交易实战：标的选择与策略优化.md",
         "Kronos：面向金融K线序列的首个开源基础模型.md",
         "MACD与布林线实战：短线中线技术形态选股框架.md",
+        "TradingAgents 多智能体金融交易框架.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
         "三位值得长期跟踪的A股交易者推荐.md",
         "主力扫损的本质与散户的盈利逻辑.md",
@@ -326,7 +327,7 @@
         "技术分析",
         "A股"
       ],
-      "note_count": 42
+      "note_count": 43
     },
     "资产配置": {
       "notes": [
@@ -578,6 +579,36 @@
       ],
       "note_count": 20
     },
+    "开源项目": {
+      "notes": [
+        "Cindy 开源 AI Agent 客户端.md",
+        "Claude SEO：Claude Code SEO 审计插件.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "Coolify 自托管 PaaS 部署与运维平台.md",
+        "Hallmark 反 AI 模板化设计工作流.md",
+        "Impeccable：AI 编程代理的前端设计工作流.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "Microduck 微型强化学习机器人.md",
+        "OpenShell 自主 AI 智能体安全运行时.md",
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "Qbot 量化交易平台与均线类策略实现.md",
+        "ThinkRail 智能体 IDE 的架构与核心能力.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "VoiceStudio 本地开源语音生成平台.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "七年自建趋势跟踪交易系统实战复盘.md",
+        "紫微斗数开源排盘引擎与解读数据集.md"
+      ],
+      "subtopics": [
+        "AI",
+        "量化交易",
+        "Agent"
+      ],
+      "note_count": 20
+    },
     "股票研究": {
       "notes": [
         "A股龙头股全景图：按市场地位划分的选股清单.md",
@@ -606,34 +637,6 @@
         "估值"
       ],
       "note_count": 19
-    },
-    "开源项目": {
-      "notes": [
-        "AWS Agent Toolkit：MCP、Skills 与插件体系.md",
-        "Cindy 开源 AI Agent 客户端概览.md",
-        "Claude Code 自动化工作流学习指南.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "Gemini CLI 开源终端智能体概览.md",
-        "Hallmark 反 AI 设计技能.md",
-        "Impeccable：AI 代理前端设计工作流.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "Microduck 强化学习双足机器人架构.md",
-        "OpenShell 自主 AI 智能体安全运行时.md",
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "Qbot 量化交易平台与均线类策略实现.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "七年自建趋势跟踪交易系统实战复盘.md",
-        "电子书下载宝库项目指南.md"
-      ],
-      "subtopics": [
-        "AI",
-        "量化交易",
-        "MCP"
-      ],
-      "note_count": 18
     },
     "均线": {
       "notes": [
@@ -719,6 +722,33 @@
       ],
       "note_count": 18
     },
+    "AI": {
+      "notes": [
+        "AI 供应链卡脖子环节投资框架.md",
+        "AI供应链卡脖子环节挖掘框架.md",
+        "Cindy 开源 AI Agent 客户端.md",
+        "Claude SEO：Claude Code SEO 审计插件.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "Hallmark 反 AI 模板化设计工作流.md",
+        "Impeccable：AI 编程代理的前端设计工作流.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "Microduck 微型强化学习机器人.md",
+        "OpenShell 自主 AI 智能体安全运行时.md",
+        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
+        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
+        "ThinkRail 智能体 IDE 的架构与核心能力.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "VoiceStudio 本地开源语音生成平台.md",
+        "紫微斗数开源排盘引擎与解读数据集.md",
+        "财报分析框架蒸馏为 AI Skill 的实践.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "投资",
+        "风险控制"
+      ],
+      "note_count": 17
+    },
     "散户": {
       "notes": [
         "A股主力操盘四阶段周期与散户陷阱.md",
@@ -799,31 +829,6 @@
         "估值"
       ],
       "note_count": 17
-    },
-    "AI": {
-      "notes": [
-        "AI 供应链卡脖子环节投资框架.md",
-        "AI供应链卡脖子环节挖掘框架.md",
-        "AWS Agent Toolkit：MCP、Skills 与插件体系.md",
-        "Cindy 开源 AI Agent 客户端概览.md",
-        "Claude Code 自动化工作流学习指南.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "Gemini CLI 开源终端智能体概览.md",
-        "Hallmark 反 AI 设计技能.md",
-        "Impeccable：AI 代理前端设计工作流.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "Microduck 强化学习双足机器人架构.md",
-        "OpenShell 自主 AI 智能体安全运行时.md",
-        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
-        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-        "财报分析框架蒸馏为 AI Skill 的实践.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "投资",
-        "MCP"
-      ],
-      "note_count": 15
     },
     "金融": {
       "notes": [
@@ -918,6 +923,28 @@
       ],
       "note_count": 12
     },
+    "回测": {
+      "notes": [
+        "ETF网格交易实战：标的选择与策略优化.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "个人趋势跟踪量化交易系统七年实践.md",
+        "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈.md",
+        "基于 bt 与 alphalens 的多因子回测框架实践.md",
+        "大跌复盘三步法：从情绪检查到对冲验证.md",
+        "机器学习在量化交易中的应用要点.md",
+        "纳指ETF策略选择方法论：数据驱动的回测决策框架.md",
+        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md",
+        "量化因子库搭建指南：从来源到实操的完整路径.md",
+        "量化因子来源指南：从误区到新手友好资源.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "交易",
+        "投资"
+      ],
+      "note_count": 12
+    },
     "主力行为": {
       "notes": [
         "A股主力操盘四阶段周期与散户陷阱.md",
@@ -936,27 +963,6 @@
         "技术分析",
         "投资",
         "A股"
-      ],
-      "note_count": 11
-    },
-    "回测": {
-      "notes": [
-        "ETF网格交易实战：标的选择与策略优化.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "个人趋势跟踪量化交易系统七年实践.md",
-        "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈.md",
-        "基于 bt 与 alphalens 的多因子回测框架实践.md",
-        "大跌复盘三步法：从情绪检查到对冲验证.md",
-        "机器学习在量化交易中的应用要点.md",
-        "纳指ETF策略选择方法论：数据驱动的回测决策框架.md",
-        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md",
-        "量化因子库搭建指南：从来源到实操的完整路径.md",
-        "量化因子来源指南：从误区到新手友好资源.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "交易",
-        "投资"
       ],
       "note_count": 11
     },
@@ -1136,7 +1142,7 @@
     },
     "Agent": {
       "notes": [
-        "Cindy 开源 AI Agent 客户端概览.md",
+        "Cindy 开源 AI Agent 客户端.md",
         "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
         "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
         "用 OpenClaw 搭建个人股票分析 Agent.md",
@@ -1237,7 +1243,7 @@
     },
     "自动化": {
       "notes": [
-        "Claude Code 自动化工作流学习指南.md",
+        "Coolify 自托管 PaaS 部署与运维平台.md",
         "用 OpenClaw 搭建个人股票分析 Agent.md",
         "用OpenClaw搭建个人股票分析Agent.md",
         "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1387,16 +1393,16 @@
       ],
       "note_count": 3
     },
-    "MCP": {
+    "数据": {
       "notes": [
-        "AWS Agent Toolkit：MCP、Skills 与插件体系.md",
-        "Cindy 开源 AI Agent 客户端概览.md",
-        "Gemini CLI 开源终端智能体概览.md"
+        "AI 时代个人量化交易可行路径与核心铁律.md",
+        "AI时代个人量化生存指南.md",
+        "紫微斗数开源排盘引擎与解读数据集.md"
       ],
       "subtopics": [
-        "AI",
-        "开源项目",
-        "AWS"
+        "量化交易",
+        "大语言模型",
+        "事件驱动策略"
       ],
       "note_count": 3
     },
@@ -1671,18 +1677,6 @@
       ],
       "note_count": 2
     },
-    "数据": {
-      "notes": [
-        "AI 时代个人量化交易可行路径与核心铁律.md",
-        "AI时代个人量化生存指南.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "大语言模型",
-        "事件驱动策略"
-      ],
-      "note_count": 2
-    },
     "事件驱动策略": {
       "notes": [
         "AI 时代个人量化交易可行路径与核心铁律.md",
@@ -1815,6 +1809,18 @@
       ],
       "note_count": 2
     },
+    "前端设计": {
+      "notes": [
+        "Hallmark 反 AI 模板化设计工作流.md",
+        "Impeccable：AI 编程代理的前端设计工作流.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "设计审查"
+      ],
+      "note_count": 2
+    },
     "机器学习": {
       "notes": [
         "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md",
@@ -1872,18 +1878,6 @@
         "量化交易",
         "开源项目",
         "Python"
-      ],
-      "note_count": 2
-    },
-    "GitHub": {
-      "notes": [
-        "Qbot 开源量化交易闭环系统.md",
-        "电子书下载宝库项目指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "量化交易",
-        "Qbot"
       ],
       "note_count": 2
     },
@@ -2694,28 +2688,6 @@
       ],
       "note_count": 1
     },
-    "AWS": {
-      "notes": [
-        "AWS Agent Toolkit：MCP、Skills 与插件体系.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "MCP"
-      ],
-      "note_count": 1
-    },
-    "智能体": {
-      "notes": [
-        "AWS Agent Toolkit：MCP、Skills 与插件体系.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "AWS"
-      ],
-      "note_count": 1
-    },
     "慢牛": {
       "notes": [
         "A股三次冲关4000点的逻辑变迁与策略比较.md"
@@ -2837,36 +2809,58 @@
       ],
       "note_count": 1
     },
-    "多智能体": {
+    "多智能体编排": {
       "notes": [
-        "Cindy 开源 AI Agent 客户端概览.md"
+        "Cindy 开源 AI Agent 客户端.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
+        "AI",
         "Agent"
+      ],
+      "note_count": 1
+    },
+    "TypeScript": {
+      "notes": [
+        "Cindy 开源 AI Agent 客户端.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Agent"
+      ],
+      "note_count": 1
+    },
+    "SEO": {
+      "notes": [
+        "Claude SEO：Claude Code SEO 审计插件.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Claude Code"
       ],
       "note_count": 1
     },
     "Claude Code": {
       "notes": [
-        "Claude Code 自动化工作流学习指南.md"
+        "Claude SEO：Claude Code SEO 审计插件.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "开发者工具"
+        "AI",
+        "SEO"
       ],
       "note_count": 1
     },
-    "开发者工具": {
+    "GEO": {
       "notes": [
-        "Claude Code 自动化工作流学习指南.md"
+        "Claude SEO：Claude Code SEO 审计插件.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "Claude Code"
+        "AI",
+        "SEO"
       ],
       "note_count": 1
     },
@@ -2900,6 +2894,28 @@
         "开源项目",
         "AI",
         "风险控制"
+      ],
+      "note_count": 1
+    },
+    "自托管": {
+      "notes": [
+        "Coolify 自托管 PaaS 部署与运维平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "PaaS",
+        "自动化"
+      ],
+      "note_count": 1
+    },
+    "PaaS": {
+      "notes": [
+        "Coolify 自托管 PaaS 部署与运维平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "自托管",
+        "自动化"
       ],
       "note_count": 1
     },
@@ -2945,79 +2961,24 @@
       ],
       "note_count": 1
     },
-    "Gemini CLI": {
-      "notes": [
-        "Gemini CLI 开源终端智能体概览.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "终端智能体"
-      ],
-      "note_count": 1
-    },
-    "终端智能体": {
-      "notes": [
-        "Gemini CLI 开源终端智能体概览.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "Gemini CLI"
-      ],
-      "note_count": 1
-    },
-    "网页设计": {
-      "notes": [
-        "Hallmark 反 AI 设计技能.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "设计审查"
-      ],
-      "note_count": 1
-    },
     "设计审查": {
       "notes": [
-        "Hallmark 反 AI 设计技能.md"
+        "Hallmark 反 AI 模板化设计工作流.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "网页设计"
-      ],
-      "note_count": 1
-    },
-    "前端设计": {
-      "notes": [
-        "Impeccable：AI 代理前端设计工作流.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "设计规范"
-      ],
-      "note_count": 1
-    },
-    "设计规范": {
-      "notes": [
-        "Impeccable：AI 代理前端设计工作流.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
         "前端设计"
       ],
       "note_count": 1
     },
-    "设计检测": {
+    "设计工具": {
       "notes": [
-        "Impeccable：AI 代理前端设计工作流.md"
+        "Impeccable：AI 编程代理的前端设计工作流.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
+        "AI",
         "前端设计"
       ],
       "note_count": 1
@@ -3101,7 +3062,7 @@
     },
     "机器人": {
       "notes": [
-        "Microduck 强化学习双足机器人架构.md"
+        "Microduck 微型强化学习机器人.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3112,7 +3073,7 @@
     },
     "强化学习": {
       "notes": [
-        "Microduck 强化学习双足机器人架构.md"
+        "Microduck 微型强化学习机器人.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3121,9 +3082,9 @@
       ],
       "note_count": 1
     },
-    "边缘计算": {
+    "仿真到现实": {
       "notes": [
-        "Microduck 强化学习双足机器人架构.md"
+        "Microduck 微型强化学习机器人.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3198,6 +3159,17 @@
       ],
       "note_count": 1
     },
+    "GitHub": {
+      "notes": [
+        "Qbot 开源量化交易闭环系统.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "开源项目",
+        "Qbot"
+      ],
+      "note_count": 1
+    },
     "KDJ": {
       "notes": [
         "Qbot 量化交易平台与均线类策略实现.md"
@@ -3253,6 +3225,39 @@
       ],
       "note_count": 1
     },
+    "代码智能体": {
+      "notes": [
+        "ThinkRail 智能体 IDE 的架构与核心能力.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "智能体 IDE"
+      ],
+      "note_count": 1
+    },
+    "智能体 IDE": {
+      "notes": [
+        "ThinkRail 智能体 IDE 的架构与核心能力.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "代码智能体"
+      ],
+      "note_count": 1
+    },
+    "多智能体": {
+      "notes": [
+        "TradingAgents 多智能体金融交易框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "交易"
+      ],
+      "note_count": 1
+    },
     "V2EX": {
       "notes": [
         "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -3294,6 +3299,39 @@
         "V2EX",
         "Nodeseek",
         "Linux.do"
+      ],
+      "note_count": 1
+    },
+    "语音生成": {
+      "notes": [
+        "VoiceStudio 本地开源语音生成平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "语音克隆"
+      ],
+      "note_count": 1
+    },
+    "语音克隆": {
+      "notes": [
+        "VoiceStudio 本地开源语音生成平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "语音生成"
+      ],
+      "note_count": 1
+    },
+    "本地部署": {
+      "notes": [
+        "VoiceStudio 本地开源语音生成平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "语音生成"
       ],
       "note_count": 1
     },
@@ -4583,28 +4621,6 @@
       ],
       "note_count": 1
     },
-    "电子书索引": {
-      "notes": [
-        "电子书下载宝库项目指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "读书工具",
-        "GitHub"
-      ],
-      "note_count": 1
-    },
-    "读书工具": {
-      "notes": [
-        "电子书下载宝库项目指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "电子书索引",
-        "GitHub"
-      ],
-      "note_count": 1
-    },
     "财经博主": {
       "notes": [
         "知乎三位投资领域高影响力答主风格速览.md"
@@ -4908,6 +4924,28 @@
         "筹码分布",
         "主力动向",
         "技术分析"
+      ],
+      "note_count": 1
+    },
+    "紫微斗数": {
+      "notes": [
+        "紫微斗数开源排盘引擎与解读数据集.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "排盘引擎"
+      ],
+      "note_count": 1
+    },
+    "排盘引擎": {
+      "notes": [
+        "紫微斗数开源排盘引擎与解读数据集.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "紫微斗数"
       ],
       "note_count": 1
     },
@@ -5501,5 +5539,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-10-25T17:26:59"
+  "last_rebuilt": "2026-10-25T23:39:58"
 }

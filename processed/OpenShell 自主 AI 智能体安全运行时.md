@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Cloudflare 多阶段安全审计 Skill
-- Cindy 开源 AI Agent 客户端概览
-- Gemini CLI 开源终端智能体概览
-- Hallmark 反 AI 设计技能
-- Impeccable：AI 代理前端设计工作流
-- AWS Agent Toolkit：MCP、Skills 与插件体系
-- Claude Code 自动化工作流学习指南
+- Cindy 开源 AI Agent 客户端
+- Hallmark 反 AI 模板化设计工作流
+- Impeccable：AI 编程代理的前端设计工作流
+- ThinkRail 智能体 IDE 的架构与核心能力
+- TradingAgents 多智能体金融交易框架
+- Claude SEO：Claude Code SEO 审计插件
 - Kronos：面向金融K线序列的首个开源基础模型
-- Microduck 强化学习双足机器人架构
-- AI 供应链卡脖子环节投资框架
+- Microduck 微型强化学习机器人
+- VoiceStudio 本地开源语音生成平台
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -132,12 +132,12 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 
 ## 相关笔记
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Cindy 开源 AI Agent 客户端概览]]
-- [[Gemini CLI 开源终端智能体概览]]
-- [[Hallmark 反 AI 设计技能]]
-- [[Impeccable：AI 代理前端设计工作流]]
-- [[AWS Agent Toolkit：MCP、Skills 与插件体系]]
-- [[Claude Code 自动化工作流学习指南]]
+- [[Cindy 开源 AI Agent 客户端]]
+- [[Hallmark 反 AI 模板化设计工作流]]
+- [[Impeccable：AI 编程代理的前端设计工作流]]
+- [[ThinkRail 智能体 IDE 的架构与核心能力]]
+- [[TradingAgents 多智能体金融交易框架]]
+- [[Claude SEO：Claude Code SEO 审计插件]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Microduck 强化学习双足机器人架构]]
-- [[AI 供应链卡脖子环节投资框架]]
+- [[Microduck 微型强化学习机器人]]
+- [[VoiceStudio 本地开源语音生成平台]]
