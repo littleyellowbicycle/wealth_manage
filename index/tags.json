@@ -11,24 +11,30 @@
   "AI": [
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
+    "Agent Reach：AI Agent 多平台只读访问层.md",
     "Cindy 开源 AI Agent 客户端.md",
-    "Claude SEO：Claude Code SEO 审计插件.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Hallmark 反 AI 模板化设计工作流.md",
-    "Impeccable：AI 编程代理的前端设计工作流.md",
+    "ECC：AI 编程代理工程优化系统.md",
+    "Hallmark：反 AI 模板化网页设计技能.md",
+    "Huashu Design 3.0：Agent 原生设计交付工作流.md",
+    "Impeccable AI 前端设计工作流.md",
+    "Karpathy 启发的 Claude Code 编码准则.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
-    "Microduck 微型强化学习机器人.md",
+    "Microduck：强化学习驱动的小型双足机器人.md",
+    "OpenBot：本地优先的持久 AI 队友工作台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
+    "Postiz 开源社交媒体运营平台.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-    "ThinkRail 智能体 IDE 的架构与核心能力.md",
+    "SkillSpector：AI Agent 技能安全扫描器.md",
+    "ThinkRail：具备持久项目知识的代理式 IDE.md",
     "TradingAgents 多智能体金融交易框架.md",
-    "VoiceStudio 本地开源语音生成平台.md",
-    "紫微斗数开源排盘引擎与解读数据集.md",
+    "VoiceStudio 本地语音生成与配音平台.md",
     "财报分析框架蒸馏为 AI Skill 的实践.md"
   ],
   "Agent": [
     "Cindy 开源 AI Agent 客户端.md",
+    "Huashu Design 3.0：Agent 原生设计交付工作流.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
@@ -104,6 +110,9 @@
   "B站学习": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md"
   ],
+  "CLI工具": [
+    "Agent Reach：AI Agent 多平台只读访问层.md"
+  ],
   "CRS": [
     "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md"
   ],
@@ -111,7 +120,7 @@
     "新加坡学生签作为海外金融账户入口.md"
   ],
   "Claude Code": [
-    "Claude SEO：Claude Code SEO 审计插件.md"
+    "Karpathy 启发的 Claude Code 编码准则.md"
   ],
   "CoCo助手": [
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -160,9 +169,6 @@
     "PB-ROE框架复现：GARP策略的量化实证.md",
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
   ],
-  "GEO": [
-    "Claude SEO：Claude Code SEO 审计插件.md"
-  ],
   "GitHub": [
     "Qbot 开源量化交易闭环系统.md"
   ],
@@ -203,9 +209,6 @@
   "PB-ROE框架": [
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
   ],
-  "PaaS": [
-    "Coolify 自托管 PaaS 部署与运维平台.md"
-  ],
   "Python": [
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
@@ -227,17 +230,11 @@
   "Rust": [
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
-  "SEO": [
-    "Claude SEO：Claude Code SEO 审计插件.md"
-  ],
   "Serenity": [
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md"
   ],
   "Transformer": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
-  ],
-  "TypeScript": [
-    "Cindy 开源 AI Agent 客户端.md"
   ],
   "V2EX": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -347,6 +344,9 @@
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md"
   ],
+  "互联网接入": [
+    "Agent Reach：AI Agent 多平台只读访问层.md"
+  ],
   "交易": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md",
     "BOLL短线两种高胜率策略与仓位管理.md",
@@ -448,17 +448,17 @@
   "代操盘教训": [
     "散户投资的人性困境：追涨杀跌与代操盘教训.md"
   ],
+  "代理式IDE": [
+    "ThinkRail：具备持久项目知识的代理式 IDE.md"
+  ],
   "代码审计": [
     "Cloudflare 多阶段安全审计 Skill.md"
   ],
   "代码智能体": [
-    "ThinkRail 智能体 IDE 的架构与核心能力.md"
+    "Karpathy 启发的 Claude Code 编码准则.md"
   ],
   "价值投资": [
     "价值投资.md"
-  ],
-  "仿真到现实": [
-    "Microduck 微型强化学习机器人.md"
   ],
   "估值": [
     "A股本轮牛市的内外部结构与板块轮动节奏.md",
@@ -487,6 +487,9 @@
   ],
   "低频策略": [
     "低频量化投资：指标筛选结合条件单的极简框架.md"
+  ],
+  "供应链安全": [
+    "SkillSpector：AI Agent 技能安全扫描器.md"
   ],
   "信用紧缩": [
     "中国房价与债务周期：顶部不可维持的底层逻辑.md"
@@ -539,8 +542,7 @@
     "县城产业兴衰研究法与多元商业逻辑.md"
   ],
   "前端设计": [
-    "Hallmark 反 AI 模板化设计工作流.md",
-    "Impeccable：AI 编程代理的前端设计工作流.md"
+    "Impeccable AI 前端设计工作流.md"
   ],
   "区块链": [
     "知乎高资金量交易者推荐三人.md"
@@ -783,10 +785,8 @@
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
   "多智能体": [
+    "OpenBot：本地优先的持久 AI 队友工作台.md",
     "TradingAgents 多智能体金融交易框架.md"
-  ],
-  "多智能体编排": [
-    "Cindy 开源 AI Agent 客户端.md"
   ],
   "大盘股": [
     "矿股永续增长与大盘低估的本质.md",
@@ -942,36 +942,45 @@
   "库存周期": [
     "股票投资中的周期研究与自学路径.md"
   ],
+  "开发工具": [
+    "ECC：AI 编程代理工程优化系统.md",
+    "Impeccable AI 前端设计工作流.md",
+    "ThinkRail：具备持久项目知识的代理式 IDE.md"
+  ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
+    "Agent Reach：AI Agent 多平台只读访问层.md",
     "Cindy 开源 AI Agent 客户端.md",
-    "Claude SEO：Claude Code SEO 审计插件.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Coolify 自托管 PaaS 部署与运维平台.md",
-    "Hallmark 反 AI 模板化设计工作流.md",
-    "Impeccable：AI 编程代理的前端设计工作流.md",
+    "ECC：AI 编程代理工程优化系统.md",
+    "Hallmark：反 AI 模板化网页设计技能.md",
+    "Huashu Design 3.0：Agent 原生设计交付工作流.md",
+    "Impeccable AI 前端设计工作流.md",
+    "Karpathy 启发的 Claude Code 编码准则.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "Microduck 微型强化学习机器人.md",
+    "Microduck：强化学习驱动的小型双足机器人.md",
+    "OpenBot：本地优先的持久 AI 队友工作台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
+    "Postiz 开源社交媒体运营平台.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
-    "ThinkRail 智能体 IDE 的架构与核心能力.md",
+    "SkillSpector：AI Agent 技能安全扫描器.md",
+    "ThinkRail：具备持久项目知识的代理式 IDE.md",
     "TradingAgents 多智能体金融交易框架.md",
-    "VoiceStudio 本地开源语音生成平台.md",
+    "VoiceStudio 本地语音生成与配音平台.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-    "七年自建趋势跟踪交易系统实战复盘.md",
-    "紫微斗数开源排盘引擎与解读数据集.md"
+    "七年自建趋势跟踪交易系统实战复盘.md"
   ],
   "开窍": [
     "开窍与交易认知跃迁 从归因错误到95322规律.md"
   ],
   "强化学习": [
-    "Microduck 微型强化学习机器人.md"
+    "Microduck：强化学习驱动的小型双足机器人.md"
   ],
   "归因错误": [
     "开窍与交易认知跃迁 从归因错误到95322规律.md"
@@ -1249,9 +1258,6 @@
   "换手率": [
     "CH4因子模型：A股四维定价框架与实战应用.md"
   ],
-  "排盘引擎": [
-    "紫微斗数开源排盘引擎与解读数据集.md"
-  ],
   "提示工程": [
     "财报分析框架蒸馏为 AI Skill 的实践.md"
   ],
@@ -1283,7 +1289,7 @@
   "数据": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md",
-    "紫微斗数开源排盘引擎与解读数据集.md"
+    "Agent Reach：AI Agent 多平台只读访问层.md"
   ],
   "新加坡": [
     "新加坡学生签作为海外金融账户入口.md"
@@ -1316,8 +1322,8 @@
   "时序预测": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
   ],
-  "智能体 IDE": [
-    "ThinkRail 智能体 IDE 的架构与核心能力.md"
+  "智能体编排": [
+    "Cindy 开源 AI Agent 客户端.md"
   ],
   "智能网格": [
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
@@ -1329,16 +1335,17 @@
     "国家队去杠杆操盘手法与沪深300ETF成交量观察策略.md"
   ],
   "本地优先": [
+    "OpenBot：本地优先的持久 AI 队友工作台.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
   "本地部署": [
-    "VoiceStudio 本地开源语音生成平台.md"
+    "VoiceStudio 本地语音生成与配音平台.md"
   ],
   "本金安全": [
     "20万现金的阶梯式资产配置方案.md"
   ],
   "机器人": [
-    "Microduck 微型强化学习机器人.md"
+    "Microduck：强化学习驱动的小型双足机器人.md"
   ],
   "机器学习": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md",
@@ -1515,6 +1522,9 @@
     "知乎开源投资博主跟单指南.md",
     "知乎理财收藏夹：边城的个人理财资料汇总.md"
   ],
+  "生成式设计": [
+    "Huashu Design 3.0：Agent 原生设计交付工作流.md"
+  ],
   "生活成本": [
     "环南京都市圈的极致性价比生活图景.md"
   ],
@@ -1634,6 +1644,7 @@
     "国产科技主升浪在即，锂电五月迎加速段.md"
   ],
   "管理": [
+    "Postiz 开源社交媒体运营平台.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "大跌复盘三件事与组合沙箱工具.md",
     "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1645,9 +1656,6 @@
   ],
   "糖周期": [
     "中粮糖业与云天化高股息标的观察.md"
-  ],
-  "紫微斗数": [
-    "紫微斗数开源排盘引擎与解读数据集.md"
   ],
   "紫金矿业": [
     "紫金矿业 藏格矿业 兴业银锡 持仓成本与目标价复盘.md"
@@ -1666,6 +1674,12 @@
   ],
   "经验分享": [
     "知乎高资金量交易者推荐三人.md"
+  ],
+  "编码智能体": [
+    "ThinkRail：具备持久项目知识的代理式 IDE.md"
+  ],
+  "编程规范": [
+    "Karpathy 启发的 Claude Code 编码准则.md"
   ],
   "网络安全": [
     "Cloudflare 多阶段安全审计 Skill.md"
@@ -1726,7 +1740,8 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
-    "Coolify 自托管 PaaS 部署与运维平台.md",
+    "Hallmark：反 AI 模板化网页设计技能.md",
+    "Postiz 开源社交媒体运营平台.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1739,7 +1754,7 @@
     "股票投资的学习门槛与能力自检.md"
   ],
   "自托管": [
-    "Coolify 自托管 PaaS 部署与运维平台.md"
+    "Postiz 开源社交媒体运营平台.md"
   ],
   "舆情调研": [
     "散户低价国企股的舆情调研与人事博弈策略.md"
@@ -1787,17 +1802,14 @@
   "认知迭代": [
     "股票投资的学习门槛与能力自检.md"
   ],
-  "设计审查": [
-    "Hallmark 反 AI 模板化设计工作流.md"
-  ],
-  "设计工具": [
-    "Impeccable：AI 编程代理的前端设计工作流.md"
+  "设计规范": [
+    "Impeccable AI 前端设计工作流.md"
   ],
   "语音克隆": [
-    "VoiceStudio 本地开源语音生成平台.md"
+    "VoiceStudio 本地语音生成与配音平台.md"
   ],
-  "语音生成": [
-    "VoiceStudio 本地开源语音生成平台.md"
+  "语音合成": [
+    "VoiceStudio 本地语音生成与配音平台.md"
   ],
   "读书笔记": [
     "索罗斯与金融炼金术的阅读感受.md",
@@ -1969,6 +1981,9 @@
   "身份规划": [
     "新加坡学生签作为海外金融账户入口.md"
   ],
+  "软件工程": [
+    "ECC：AI 编程代理工程优化系统.md"
+  ],
   "连跌反弹": [
     "连跌反弹概率策略与1124建仓法.md",
     "连跌反弹统计策略与1124建仓法.md"
@@ -2108,6 +2123,9 @@
   "阶层跨越": [
     "穷富差距的本质：时间、砸钱与使用权的三重分野.md"
   ],
+  "隐私保护": [
+    "Cindy 开源 AI Agent 客户端.md"
+  ],
   "雪球网": [
     "沃尔特·施洛斯 简单可复制的价值投资大师.md"
   ],
@@ -2135,6 +2153,7 @@
     "A股散户投资策略与ETF及板块标的梳理.md",
     "Cloudflare 多阶段安全审计 Skill.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
+    "SkillSpector：AI Agent 技能安全扫描器.md",
     "个人趋势跟踪量化交易系统七年实践.md",
     "县城产业兴衰研究法与多元商业逻辑.md",
     "均线高阶用法：成本逻辑与三层滤网战法.md",

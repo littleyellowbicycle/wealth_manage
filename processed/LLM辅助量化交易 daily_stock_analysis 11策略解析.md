@@ -3,7 +3,7 @@ title: LLM辅助量化交易 daily_stock_analysis 11策略解析
 source: raw_20260624_162440_e8cf4dee
 source_url: https://www.zhihu.com/question/548674391/answer/2032467444133009175
 created: '2026-06-29'
-updated: '2026-10-25'
+updated: '2026-10-26'
 tags:
 - 量化交易
 - 大语言模型

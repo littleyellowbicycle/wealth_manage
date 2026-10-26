@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-10-25'
+updated: '2026-10-26'
 tags:
 - 开源项目
 - AI
@@ -13,16 +13,16 @@ tags:
 status: processed
 note_type: content
 related:
+- SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
+- Agent Reach：AI Agent 多平台只读访问层
 - Cindy 开源 AI Agent 客户端
-- Hallmark 反 AI 模板化设计工作流
-- Impeccable：AI 编程代理的前端设计工作流
-- ThinkRail 智能体 IDE 的架构与核心能力
+- ECC：AI 编程代理工程优化系统
+- Hallmark：反 AI 模板化网页设计技能
+- Impeccable AI 前端设计工作流
+- OpenBot：本地优先的持久 AI 队友工作台
 - TradingAgents 多智能体金融交易框架
-- Claude SEO：Claude Code SEO 审计插件
-- Kronos：面向金融K线序列的首个开源基础模型
-- Microduck 微型强化学习机器人
-- VoiceStudio 本地开源语音生成平台
+- Huashu Design 3.0：Agent 原生设计交付工作流
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -131,13 +131,13 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 项目采用 Apache License 2.0。OpenShell 可能自动获取或访问外部材料，这些材料不随软件一并分发，使用者需要自行审查并遵守相关条款、许可和安全要求。软件按“AS IS”方式提供，不附带明示或默示担保，实际使用风险由使用者承担。
 
 ## 相关笔记
+- [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
+- [[Agent Reach：AI Agent 多平台只读访问层]]
 - [[Cindy 开源 AI Agent 客户端]]
-- [[Hallmark 反 AI 模板化设计工作流]]
-- [[Impeccable：AI 编程代理的前端设计工作流]]
-- [[ThinkRail 智能体 IDE 的架构与核心能力]]
+- [[ECC：AI 编程代理工程优化系统]]
+- [[Hallmark：反 AI 模板化网页设计技能]]
+- [[Impeccable AI 前端设计工作流]]
+- [[OpenBot：本地优先的持久 AI 队友工作台]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Claude SEO：Claude Code SEO 审计插件]]
-- [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Microduck 微型强化学习机器人]]
-- [[VoiceStudio 本地开源语音生成平台]]
+- [[Huashu Design 3.0：Agent 原生设计交付工作流]]

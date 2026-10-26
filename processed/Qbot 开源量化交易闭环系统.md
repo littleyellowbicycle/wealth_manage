@@ -3,7 +3,7 @@ title: Qbot 开源量化交易闭环系统
 source: raw_20260624_162615_af34b82d
 source_url: https://www.zhihu.com/question/35977425/answer/3028734985
 created: '2026-06-29'
-updated: '2026-10-25'
+updated: '2026-10-26'
 tags:
 - 量化交易
 - 开源项目

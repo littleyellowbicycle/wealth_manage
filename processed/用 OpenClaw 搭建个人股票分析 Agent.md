@@ -3,7 +3,7 @@ title: 用 OpenClaw 搭建个人股票分析 Agent
 source: raw_20260624_162450_58303955
 source_url: https://www.zhihu.com/question/2011480826848764785/answer/2011489116341149800
 created: '2026-06-29'
-updated: '2026-10-25'
+updated: '2026-10-26'
 tags:
 - OpenClaw
 - 量化交易
@@ -20,9 +20,9 @@ related:
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
 - Cindy 开源 AI Agent 客户端
+- Huashu Design 3.0：Agent 原生设计交付工作流
 - 个人趋势跟踪量化交易系统七年实践
 - 个股基本面分析三步框架
-- 基本面分析的五问框架与认知劝退
 note_type: content
 ---
 
@@ -73,6 +73,6 @@ note_type: content
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
 - [[Cindy 开源 AI Agent 客户端]]
+- [[Huashu Design 3.0：Agent 原生设计交付工作流]]
 - [[个人趋势跟踪量化交易系统七年实践]]
 - [[个股基本面分析三步框架]]
-- [[基本面分析的五问框架与认知劝退]]

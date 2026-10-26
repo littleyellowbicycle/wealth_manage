@@ -3,7 +3,7 @@ title: AI供应链卡脖子环节挖掘框架
 source: raw_20260624_162424_67ad2e00
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2045090338327588976
 created: '2026-06-29'
-updated: '2026-10-25'
+updated: '2026-10-26'
 tags:
 - AI
 - 投资
@@ -14,6 +14,7 @@ status: processed
 related:
 - AI 供应链卡脖子环节投资框架
 - 财报分析框架蒸馏为 AI Skill 的实践
+- Agent Reach：AI Agent 多平台只读访问层
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
 - A股散户情绪逆向投资法与低估值选股框架
@@ -21,7 +22,6 @@ related:
 - A股题材投资逻辑与产业链选股框架
 - Cindy 开源 AI Agent 客户端
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- Hallmark 反 AI 模板化设计工作流
 note_type: content
 ---
 
@@ -110,6 +110,7 @@ A股这条线已被市场提前反应，龙头早已上天；美股AXTI则是更
 ## 相关笔记
 - [[AI 供应链卡脖子环节投资框架]]
 - [[财报分析框架蒸馏为 AI Skill 的实践]]
+- [[Agent Reach：AI Agent 多平台只读访问层]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
 - [[A股散户情绪逆向投资法与低估值选股框架]]
@@ -117,4 +118,3 @@ A股这条线已被市场提前反应，龙头早已上天；美股AXTI则是更
 - [[A股题材投资逻辑与产业链选股框架]]
 - [[Cindy 开源 AI Agent 客户端]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[Hallmark 反 AI 模板化设计工作流]]
