@@ -3,7 +3,7 @@ title: Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框�
 source: raw_20260624_162424_7ff11fba
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2052781980245287550
 created: '2026-06-29'
-updated: '2026-10-21'
+updated: '2026-10-27'
 tags:
 - 贝叶斯推理
 - A股

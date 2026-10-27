@@ -3,7 +3,7 @@ title: Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方�
 source: raw_20260624_162106_7a6077a1
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2052781980245287550
 created: '2026-06-24'
-updated: '2026-10-21'
+updated: '2026-10-27'
 tags:
 - Serenity
 - 贝叶斯推理

@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-10-26'
+updated: '2026-10-27'
 tags:
 - 开源项目
 - AI
@@ -16,14 +16,14 @@ note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
-- Agent Reach：AI Agent 多平台只读访问层
 - Cindy 开源 AI Agent 客户端
-- ECC：AI 编程代理工程优化系统
+- DeepTutor 开源个性化学习智能体
+- ECC：AI 编程代理工程化系统
 - Hallmark：反 AI 模板化网页设计技能
-- Huashu Design 3.0：Agent 原生设计交付工作流
-- Impeccable AI 前端设计工作流
-- Karpathy 启发的 Claude Code 编码准则
+- Impeccable：AI 编程代理前端设计工作流
+- Jailbreaks 大模型提示词合集
 - Kronos：面向金融K线序列的首个开源基础模型
+- OpenBot 本地优先 AI 队友工作台
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -98,11 +98,11 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
-- [[Agent Reach：AI Agent 多平台只读访问层]]
 - [[Cindy 开源 AI Agent 客户端]]
-- [[ECC：AI 编程代理工程优化系统]]
+- [[DeepTutor 开源个性化学习智能体]]
+- [[ECC：AI 编程代理工程化系统]]
 - [[Hallmark：反 AI 模板化网页设计技能]]
-- [[Huashu Design 3.0：Agent 原生设计交付工作流]]
-- [[Impeccable AI 前端设计工作流]]
-- [[Karpathy 启发的 Claude Code 编码准则]]
+- [[Impeccable：AI 编程代理前端设计工作流]]
+- [[Jailbreaks 大模型提示词合集]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[OpenBot 本地优先 AI 队友工作台]]

@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-10-26'
+updated: '2026-10-27'
 tags:
 - AI
 - 开源项目
@@ -14,14 +14,14 @@ note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
 - Cloudflare 多阶段安全审计 Skill
-- Agent Reach：AI Agent 多平台只读访问层
 - Cindy 开源 AI Agent 客户端
 - Hallmark：反 AI 模板化网页设计技能
-- ECC：AI 编程代理工程优化系统
-- Huashu Design 3.0：Agent 原生设计交付工作流
-- Impeccable AI 前端设计工作流
-- OpenBot：本地优先的持久 AI 队友工作台
-- Karpathy 启发的 Claude Code 编码准则
+- ECC：AI 编程代理工程化系统
+- Impeccable：AI 编程代理前端设计工作流
+- OpenBot 本地优先 AI 队友工作台
+- Postiz 多平台 AI 社交媒体管理平台
+- DeepTutor 开源个性化学习智能体
+- Jailbreaks 大模型提示词合集
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -133,11 +133,11 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Agent Reach：AI Agent 多平台只读访问层]]
 - [[Cindy 开源 AI Agent 客户端]]
 - [[Hallmark：反 AI 模板化网页设计技能]]
-- [[ECC：AI 编程代理工程优化系统]]
-- [[Huashu Design 3.0：Agent 原生设计交付工作流]]
-- [[Impeccable AI 前端设计工作流]]
-- [[OpenBot：本地优先的持久 AI 队友工作台]]
-- [[Karpathy 启发的 Claude Code 编码准则]]
+- [[ECC：AI 编程代理工程化系统]]
+- [[Impeccable：AI 编程代理前端设计工作流]]
+- [[OpenBot 本地优先 AI 队友工作台]]
+- [[Postiz 多平台 AI 社交媒体管理平台]]
+- [[DeepTutor 开源个性化学习智能体]]
+- [[Jailbreaks 大模型提示词合集]]

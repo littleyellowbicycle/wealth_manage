@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-10-26'
+updated: '2026-10-27'
 tags:
 - 开源项目
 - AI
@@ -15,14 +15,14 @@ note_type: content
 related:
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
-- Agent Reach：AI Agent 多平台只读访问层
 - Cindy 开源 AI Agent 客户端
-- ECC：AI 编程代理工程优化系统
+- DeepTutor 开源个性化学习智能体
+- ECC：AI 编程代理工程化系统
 - Hallmark：反 AI 模板化网页设计技能
-- Impeccable AI 前端设计工作流
-- OpenBot：本地优先的持久 AI 队友工作台
+- Impeccable：AI 编程代理前端设计工作流
+- OpenBot 本地优先 AI 队友工作台
+- Postiz 多平台 AI 社交媒体管理平台
 - TradingAgents 多智能体金融交易框架
-- Huashu Design 3.0：Agent 原生设计交付工作流
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -133,11 +133,11 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 ## 相关笔记
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Agent Reach：AI Agent 多平台只读访问层]]
 - [[Cindy 开源 AI Agent 客户端]]
-- [[ECC：AI 编程代理工程优化系统]]
+- [[DeepTutor 开源个性化学习智能体]]
+- [[ECC：AI 编程代理工程化系统]]
 - [[Hallmark：反 AI 模板化网页设计技能]]
-- [[Impeccable AI 前端设计工作流]]
-- [[OpenBot：本地优先的持久 AI 队友工作台]]
+- [[Impeccable：AI 编程代理前端设计工作流]]
+- [[OpenBot 本地优先 AI 队友工作台]]
+- [[Postiz 多平台 AI 社交媒体管理平台]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Huashu Design 3.0：Agent 原生设计交付工作流]]
