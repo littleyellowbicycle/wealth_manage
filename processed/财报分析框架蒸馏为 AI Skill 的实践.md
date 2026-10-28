@@ -3,7 +3,7 @@ title: 财报分析框架蒸馏为 AI Skill 的实践
 source: raw_20260624_162111_39f149f0
 source_url: https://www.zhihu.com/pin/2026790128111109817?native=0
 created: '2026-06-29'
-updated: '2026-10-27'
+updated: '2026-10-28'
 tags:
 - 财报分析
 - AI

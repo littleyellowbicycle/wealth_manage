@@ -3,7 +3,7 @@ title: 轻量级 Alpha 多因子回测框架实践与量化系统本质思考
 source: raw_20260624_162216_368f685f
 source_url: https://www.zhihu.com/question/329206671/answer/3402461940
 created: '2026-06-29'
-updated: '2026-10-22'
+updated: '2026-10-28'
 tags:
 - 量化交易
 - 回测

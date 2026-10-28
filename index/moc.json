@@ -451,6 +451,42 @@
       ],
       "note_count": 26
     },
+    "开源项目": {
+      "notes": [
+        "AI 设计技能库：落地页设计规则.md",
+        "Cindy 开源多设备 AI Agent 客户端.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "DeepTutor：Agent 原生个性化学习工作台.md",
+        "Expo Skills 官方 AI 代理开发技能集.md",
+        "Hallmark：反 AI 模板化前端设计技能.md",
+        "Impeccable：AI 编程代理的前端设计规范工具.md",
+        "Jailbreaks 大模型提示词与代理配置库.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "LinkSwift 网盘直链助手.md",
+        "Macro：AI 原生团队统一工作台.md",
+        "OpenBot：本地优先的持久化 AI Agent 工作台.md",
+        "OpenShell 自主 AI 智能体安全运行时.md",
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "Qbot 量化交易平台与均线类策略实现.md",
+        "RuView：WiFi CSI 边缘空间感知平台.md",
+        "SkillSpector：AI Agent 技能安全扫描器.md",
+        "Superpowers 编码智能体开发框架.md",
+        "ThinkRail 智能体 IDE 项目解析.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "七年自建趋势跟踪交易系统实战复盘.md",
+        "自学能力与 Python 编程实践路径.md"
+      ],
+      "subtopics": [
+        "AI",
+        "量化交易",
+        "前端设计"
+      ],
+      "note_count": 26
+    },
     "风险控制": {
       "notes": [
         "20万现金的阶梯式资产配置方案.md",
@@ -519,35 +555,35 @@
       ],
       "note_count": 24
     },
-    "开源项目": {
+    "AI": {
       "notes": [
-        "Cindy 开源 AI Agent 客户端.md",
+        "AI 供应链卡脖子环节投资框架.md",
+        "AI 设计技能库：落地页设计规则.md",
+        "AI供应链卡脖子环节挖掘框架.md",
+        "Cindy 开源多设备 AI Agent 客户端.md",
         "Cloudflare 多阶段安全审计 Skill.md",
-        "DeepTutor 开源个性化学习智能体.md",
-        "ECC：AI 编程代理工程化系统.md",
-        "Hallmark：反 AI 模板化网页设计技能.md",
-        "Impeccable：AI 编程代理前端设计工作流.md",
-        "Jailbreaks 大模型提示词合集.md",
+        "DeepTutor：Agent 原生个性化学习工作台.md",
+        "Expo Skills 官方 AI 代理开发技能集.md",
+        "Hallmark：反 AI 模板化前端设计技能.md",
+        "Impeccable：AI 编程代理的前端设计规范工具.md",
+        "Jailbreaks 大模型提示词与代理配置库.md",
         "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "OpenBot 本地优先 AI 队友工作台.md",
+        "Macro：AI 原生团队统一工作台.md",
+        "OpenBot：本地优先的持久化 AI Agent 工作台.md",
         "OpenShell 自主 AI 智能体安全运行时.md",
-        "Postiz 多平台 AI 社交媒体管理平台.md",
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "Qbot 量化交易平台与均线类策略实现.md",
+        "RuView：WiFi CSI 边缘空间感知平台.md",
+        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
+        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
         "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Superpowers 编程代理开发方法论.md",
-        "ThinkRail：基于 pi 的代理式 IDE.md",
+        "Superpowers 编码智能体开发框架.md",
+        "ThinkRail 智能体 IDE 项目解析.md",
         "TradingAgents 多智能体金融交易框架.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "七年自建趋势跟踪交易系统实战复盘.md"
+        "财报分析框架蒸馏为 AI Skill 的实践.md"
       ],
       "subtopics": [
-        "AI",
-        "量化交易",
-        "风险控制"
+        "开源项目",
+        "投资",
+        "前端设计"
       ],
       "note_count": 22
     },
@@ -581,36 +617,6 @@
         "技术分析"
       ],
       "note_count": 21
-    },
-    "AI": {
-      "notes": [
-        "AI 供应链卡脖子环节投资框架.md",
-        "AI供应链卡脖子环节挖掘框架.md",
-        "Cindy 开源 AI Agent 客户端.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "DeepTutor 开源个性化学习智能体.md",
-        "ECC：AI 编程代理工程化系统.md",
-        "Hallmark：反 AI 模板化网页设计技能.md",
-        "Impeccable：AI 编程代理前端设计工作流.md",
-        "Jailbreaks 大模型提示词合集.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "OpenBot 本地优先 AI 队友工作台.md",
-        "OpenShell 自主 AI 智能体安全运行时.md",
-        "Postiz 多平台 AI 社交媒体管理平台.md",
-        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
-        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-        "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Superpowers 编程代理开发方法论.md",
-        "ThinkRail：基于 pi 的代理式 IDE.md",
-        "TradingAgents 多智能体金融交易框架.md",
-        "财报分析框架蒸馏为 AI Skill 的实践.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "投资",
-        "风险控制"
-      ],
-      "note_count": 20
     },
     "ETF": {
       "notes": [
@@ -1015,7 +1021,7 @@
     },
     "管理": {
       "notes": [
-        "Postiz 多平台 AI 社交媒体管理平台.md",
+        "Macro：AI 原生团队统一工作台.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
         "大跌复盘三件事与组合沙箱工具.md",
         "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1100,22 +1106,6 @@
       ],
       "note_count": 6
     },
-    "自动化": {
-      "notes": [
-        "Hallmark：反 AI 模板化网页设计技能.md",
-        "Impeccable：AI 编程代理前端设计工作流.md",
-        "Postiz 多平台 AI 社交媒体管理平台.md",
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md",
-        "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "设计规范"
-      ],
-      "note_count": 6
-    },
     "周期理论": {
       "notes": [
         "K线圆弧角度分析的核心观点.md",
@@ -1148,6 +1138,21 @@
       ],
       "note_count": 6
     },
+    "大语言模型": {
+      "notes": [
+        "AI 时代个人量化交易可行路径与核心铁律.md",
+        "AI时代个人量化生存指南.md",
+        "Jailbreaks 大模型提示词与代理配置库.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "投资",
+        "开源项目"
+      ],
+      "note_count": 5
+    },
     "量化因子": {
       "notes": [
         "CH4 因子模型 A股四因子实战拆解.md",
@@ -1160,6 +1165,21 @@
         "量化交易",
         "A股",
         "投资"
+      ],
+      "note_count": 5
+    },
+    "Agent": {
+      "notes": [
+        "DeepTutor：Agent 原生个性化学习工作台.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "股票研究",
+        "开源项目"
       ],
       "note_count": 5
     },
@@ -1192,20 +1212,6 @@
         "资产配置"
       ],
       "note_count": 5
-    },
-    "大语言模型": {
-      "notes": [
-        "AI 时代个人量化交易可行路径与核心铁律.md",
-        "AI时代个人量化生存指南.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "投资",
-        "数据"
-      ],
-      "note_count": 4
     },
     "主力操盘": {
       "notes": [
@@ -1249,17 +1255,17 @@
       ],
       "note_count": 4
     },
-    "Agent": {
+    "Python": {
       "notes": [
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md"
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "自学能力与 Python 编程实践路径.md",
+        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
       ],
       "subtopics": [
         "量化交易",
-        "股票研究",
-        "大语言模型"
+        "开源项目",
+        "Qbot"
       ],
       "note_count": 4
     },
@@ -1401,16 +1407,16 @@
       ],
       "note_count": 3
     },
-    "多智能体": {
+    "前端设计": {
       "notes": [
-        "DeepTutor 开源个性化学习智能体.md",
-        "OpenBot 本地优先 AI 队友工作台.md",
-        "TradingAgents 多智能体金融交易框架.md"
+        "AI 设计技能库：落地页设计规则.md",
+        "Hallmark：反 AI 模板化前端设计技能.md",
+        "Impeccable：AI 编程代理的前端设计规范工具.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "个性化教育"
+        "设计技能"
       ],
       "note_count": 3
     },
@@ -1492,16 +1498,16 @@
       ],
       "note_count": 3
     },
-    "Python": {
+    "方法论": {
       "notes": [
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
+        "Superpowers 编码智能体开发框架.md",
+        "知乎三位投资领域高影响力答主风格速览.md",
+        "知乎三位高价值投资内容创作者推荐.md"
       ],
       "subtopics": [
-        "量化交易",
-        "Qbot",
-        "backtrader"
+        "知乎",
+        "投资",
+        "散户"
       ],
       "note_count": 3
     },
@@ -1619,6 +1625,19 @@
         "资产配置",
         "交易",
         "全天候策略"
+      ],
+      "note_count": 3
+    },
+    "自动化": {
+      "notes": [
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md",
+        "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
+      ],
+      "subtopics": [
+        "OpenClaw",
+        "量化交易",
+        "Agent"
       ],
       "note_count": 3
     },
@@ -1817,6 +1836,18 @@
       ],
       "note_count": 2
     },
+    "多智能体": {
+      "notes": [
+        "Cindy 开源多设备 AI Agent 客户端.md",
+        "TradingAgents 多智能体金融交易框架.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "遥测与隐私"
+      ],
+      "note_count": 2
+    },
     "条件单": {
       "notes": [
         "ETF 网格交易实战：标的选择、不对称网格与费率优势.md",
@@ -1826,18 +1857,6 @@
         "交易",
         "ETF",
         "不对称网格"
-      ],
-      "note_count": 2
-    },
-    "设计规范": {
-      "notes": [
-        "Hallmark：反 AI 模板化网页设计技能.md",
-        "Impeccable：AI 编程代理前端设计工作流.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "自动化"
       ],
       "note_count": 2
     },
@@ -1879,13 +1898,25 @@
     },
     "本地优先": {
       "notes": [
-        "OpenBot 本地优先 AI 队友工作台.md",
+        "OpenBot：本地优先的持久化 AI Agent 工作台.md",
         "Wealthfolio：本地优先的个人财务追踪开源工具.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "多智能体"
+        "开发者工具"
+      ],
+      "note_count": 2
+    },
+    "开发者工具": {
+      "notes": [
+        "OpenBot：本地优先的持久化 AI Agent 工作台.md",
+        "ThinkRail 智能体 IDE 项目解析.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "本地优先"
       ],
       "note_count": 2
     },
@@ -2333,18 +2364,6 @@
       ],
       "note_count": 2
     },
-    "方法论": {
-      "notes": [
-        "知乎三位投资领域高影响力答主风格速览.md",
-        "知乎三位高价值投资内容创作者推荐.md"
-      ],
-      "subtopics": [
-        "知乎",
-        "投资",
-        "散户"
-      ],
-      "note_count": 2
-    },
     "内容创作": {
       "notes": [
         "知乎三位高价值投资内容创作者推荐.md",
@@ -2687,6 +2706,17 @@
       ],
       "note_count": 1
     },
+    "设计技能": {
+      "notes": [
+        "AI 设计技能库：落地页设计规则.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "前端设计"
+      ],
+      "note_count": 1
+    },
     "卡脖子": {
       "notes": [
         "AI供应链卡脖子环节挖掘框架.md"
@@ -2841,25 +2871,14 @@
       ],
       "note_count": 1
     },
-    "桌面客户端": {
+    "遥测与隐私": {
       "notes": [
-        "Cindy 开源 AI Agent 客户端.md"
+        "Cindy 开源多设备 AI Agent 客户端.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "多设备协同"
-      ],
-      "note_count": 1
-    },
-    "多设备协同": {
-      "notes": [
-        "Cindy 开源 AI Agent 客户端.md"
-      ],
-      "subtopics": [
         "AI",
-        "开源项目",
-        "桌面客户端"
+        "多智能体"
       ],
       "note_count": 1
     },
@@ -2896,47 +2915,25 @@
       ],
       "note_count": 1
     },
-    "个性化教育": {
-      "notes": [
-        "DeepTutor 开源个性化学习智能体.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "RAG"
-      ],
-      "note_count": 1
-    },
     "RAG": {
       "notes": [
-        "DeepTutor 开源个性化学习智能体.md"
+        "DeepTutor：Agent 原生个性化学习工作台.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "个性化教育"
+        "AI",
+        "Agent"
       ],
       "note_count": 1
     },
-    "代理框架": {
+    "教育科技": {
       "notes": [
-        "ECC：AI 编程代理工程化系统.md"
+        "DeepTutor：Agent 原生个性化学习工作台.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "代码安全"
-      ],
-      "note_count": 1
-    },
-    "代码安全": {
-      "notes": [
-        "ECC：AI 编程代理工程化系统.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "代理框架"
+        "Agent"
       ],
       "note_count": 1
     },
@@ -2982,47 +2979,91 @@
       ],
       "note_count": 1
     },
-    "网页设计": {
+    "Expo": {
       "notes": [
-        "Hallmark：反 AI 模板化网页设计技能.md"
+        "Expo Skills 官方 AI 代理开发技能集.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
-        "设计规范"
+        "开源项目",
+        "React Native"
       ],
       "note_count": 1
     },
-    "前端开发": {
+    "React Native": {
       "notes": [
-        "Impeccable：AI 编程代理前端设计工作流.md"
+        "Expo Skills 官方 AI 代理开发技能集.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "设计规范"
+        "Expo"
+      ],
+      "note_count": 1
+    },
+    "EAS": {
+      "notes": [
+        "Expo Skills 官方 AI 代理开发技能集.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "Expo"
+      ],
+      "note_count": 1
+    },
+    "设计审查": {
+      "notes": [
+        "Hallmark：反 AI 模板化前端设计技能.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "前端设计"
+      ],
+      "note_count": 1
+    },
+    "浏览器测试": {
+      "notes": [
+        "Hallmark：反 AI 模板化前端设计技能.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "前端设计"
+      ],
+      "note_count": 1
+    },
+    "设计规范": {
+      "notes": [
+        "Impeccable：AI 编程代理的前端设计规范工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "前端设计"
       ],
       "note_count": 1
     },
     "提示词工程": {
       "notes": [
-        "Jailbreaks 大模型提示词合集.md"
+        "Jailbreaks 大模型提示词与代理配置库.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
-        "大模型安全"
+        "开源项目",
+        "大语言模型"
       ],
       "note_count": 1
     },
-    "大模型安全": {
+    "模型安全": {
       "notes": [
-        "Jailbreaks 大模型提示词合集.md"
+        "Jailbreaks 大模型提示词与代理配置库.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
-        "提示词工程"
+        "开源项目",
+        "大语言模型"
       ],
       "note_count": 1
     },
@@ -3070,6 +3111,39 @@
       ],
       "note_count": 1
     },
+    "网盘工具": {
+      "notes": [
+        "LinkSwift 网盘直链助手.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "油猴脚本",
+        "直链下载"
+      ],
+      "note_count": 1
+    },
+    "油猴脚本": {
+      "notes": [
+        "LinkSwift 网盘直链助手.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "网盘工具",
+        "直链下载"
+      ],
+      "note_count": 1
+    },
+    "直链下载": {
+      "notes": [
+        "LinkSwift 网盘直链助手.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "网盘工具",
+        "油猴脚本"
+      ],
+      "note_count": 1
+    },
     "抓妖模式": {
       "notes": [
         "MACD与布林线实战：短线中线技术形态选股框架.md"
@@ -3103,14 +3177,25 @@
       ],
       "note_count": 1
     },
-    "Electron": {
+    "团队协作": {
       "notes": [
-        "OpenBot 本地优先 AI 队友工作台.md"
+        "Macro：AI 原生团队统一工作台.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
-        "多智能体"
+        "开源项目",
+        "管理"
+      ],
+      "note_count": 1
+    },
+    "统一工作台": {
+      "notes": [
+        "Macro：AI 原生团队统一工作台.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "管理"
       ],
       "note_count": 1
     },
@@ -3180,17 +3265,6 @@
       ],
       "note_count": 1
     },
-    "自托管": {
-      "notes": [
-        "Postiz 多平台 AI 社交媒体管理平台.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "管理"
-      ],
-      "note_count": 1
-    },
     "GitHub": {
       "notes": [
         "Qbot 开源量化交易闭环系统.md"
@@ -3210,6 +3284,39 @@
         "量化交易",
         "backtrader",
         "MACD"
+      ],
+      "note_count": 1
+    },
+    "WiFi感知": {
+      "notes": [
+        "RuView：WiFi CSI 边缘空间感知平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "边缘计算"
+      ],
+      "note_count": 1
+    },
+    "边缘计算": {
+      "notes": [
+        "RuView：WiFi CSI 边缘空间感知平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "WiFi感知"
+      ],
+      "note_count": 1
+    },
+    "隐私保护": {
+      "notes": [
+        "RuView：WiFi CSI 边缘空间感知平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "WiFi感知"
       ],
       "note_count": 1
     },
@@ -3268,42 +3375,31 @@
       ],
       "note_count": 1
     },
-    "软件工程": {
+    "编码智能体": {
       "notes": [
-        "Superpowers 编程代理开发方法论.md"
+        "Superpowers 编码智能体开发框架.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "编程代理"
-      ],
-      "note_count": 1
-    },
-    "编程代理": {
-      "notes": [
-        "Superpowers 编程代理开发方法论.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "软件工程"
+        "方法论"
       ],
       "note_count": 1
     },
     "测试驱动开发": {
       "notes": [
-        "Superpowers 编程代理开发方法论.md"
+        "Superpowers 编码智能体开发框架.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "软件工程"
+        "方法论"
       ],
       "note_count": 1
     },
     "代码智能体": {
       "notes": [
-        "ThinkRail：基于 pi 的代理式 IDE.md"
+        "ThinkRail 智能体 IDE 项目解析.md"
       ],
       "subtopics": [
         "AI",
@@ -3312,20 +3408,9 @@
       ],
       "note_count": 1
     },
-    "开发者工具": {
-      "notes": [
-        "ThinkRail：基于 pi 的代理式 IDE.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "代码智能体"
-      ],
-      "note_count": 1
-    },
     "规范驱动开发": {
       "notes": [
-        "ThinkRail：基于 pi 的代理式 IDE.md"
+        "ThinkRail 智能体 IDE 项目解析.md"
       ],
       "subtopics": [
         "AI",
@@ -5178,6 +5263,28 @@
       ],
       "note_count": 1
     },
+    "自学能力": {
+      "notes": [
+        "自学能力与 Python 编程实践路径.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Python",
+        "刻意练习"
+      ],
+      "note_count": 1
+    },
+    "刻意练习": {
+      "notes": [
+        "自学能力与 Python 编程实践路径.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "自学能力",
+        "Python"
+      ],
+      "note_count": 1
+    },
     "小市值策略": {
       "notes": [
         "菜场大妈选股策略：质好价低市值小的量化入门玩法.md"
@@ -5549,5 +5656,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-10-27T23:39:02"
+  "last_rebuilt": "2026-10-28T23:44:08"
 }

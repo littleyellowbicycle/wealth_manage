@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-10-27'
+updated: '2026-10-28'
 tags:
 - AI
 - 开源项目
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
-- DeepTutor 开源个性化学习智能体
-- OpenBot 本地优先 AI 队友工作台
+- Cindy 开源多设备 AI Agent 客户端
+- Superpowers 编码智能体开发框架
 - OpenShell 自主 AI 智能体安全运行时
+- ThinkRail 智能体 IDE 项目解析
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - 纳指ETF策略选择方法论：数据驱动的回测决策框架
-- Cindy 开源 AI Agent 客户端
+- AI 设计技能库：落地页设计规则
 - Cloudflare 多阶段安全审计 Skill
-- ECC：AI 编程代理工程化系统
-- ETF网格交易实战：标的选择与策略优化
+- DeepTutor：Agent 原生个性化学习工作台
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -125,12 +125,12 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[DeepTutor 开源个性化学习智能体]]
-- [[OpenBot 本地优先 AI 队友工作台]]
+- [[Cindy 开源多设备 AI Agent 客户端]]
+- [[Superpowers 编码智能体开发框架]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
+- [[ThinkRail 智能体 IDE 项目解析]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
-- [[Cindy 开源 AI Agent 客户端]]
+- [[AI 设计技能库：落地页设计规则]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[ECC：AI 编程代理工程化系统]]
-- [[ETF网格交易实战：标的选择与策略优化]]
+- [[DeepTutor：Agent 原生个性化学习工作台]]

@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-10-27'
+updated: '2026-10-28'
 tags:
 - AI
 - 开源项目
@@ -14,14 +14,14 @@ note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
 - Cloudflare 多阶段安全审计 Skill
-- Cindy 开源 AI Agent 客户端
-- Hallmark：反 AI 模板化网页设计技能
-- ECC：AI 编程代理工程化系统
-- Impeccable：AI 编程代理前端设计工作流
-- OpenBot 本地优先 AI 队友工作台
-- Postiz 多平台 AI 社交媒体管理平台
-- DeepTutor 开源个性化学习智能体
-- Jailbreaks 大模型提示词合集
+- AI 设计技能库：落地页设计规则
+- Cindy 开源多设备 AI Agent 客户端
+- Expo Skills 官方 AI 代理开发技能集
+- Hallmark：反 AI 模板化前端设计技能
+- OpenBot：本地优先的持久化 AI Agent 工作台
+- DeepTutor：Agent 原生个性化学习工作台
+- Impeccable：AI 编程代理的前端设计规范工具
+- Macro：AI 原生团队统一工作台
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -133,11 +133,11 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Cindy 开源 AI Agent 客户端]]
-- [[Hallmark：反 AI 模板化网页设计技能]]
-- [[ECC：AI 编程代理工程化系统]]
-- [[Impeccable：AI 编程代理前端设计工作流]]
-- [[OpenBot 本地优先 AI 队友工作台]]
-- [[Postiz 多平台 AI 社交媒体管理平台]]
-- [[DeepTutor 开源个性化学习智能体]]
-- [[Jailbreaks 大模型提示词合集]]
+- [[AI 设计技能库：落地页设计规则]]
+- [[Cindy 开源多设备 AI Agent 客户端]]
+- [[Expo Skills 官方 AI 代理开发技能集]]
+- [[Hallmark：反 AI 模板化前端设计技能]]
+- [[OpenBot：本地优先的持久化 AI Agent 工作台]]
+- [[DeepTutor：Agent 原生个性化学习工作台]]
+- [[Impeccable：AI 编程代理的前端设计规范工具]]
+- [[Macro：AI 原生团队统一工作台]]
