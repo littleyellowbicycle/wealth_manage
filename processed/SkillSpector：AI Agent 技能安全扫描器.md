@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-10-28'
+updated: '2026-10-29'
 tags:
 - AI
 - 开源项目
@@ -14,14 +14,14 @@ note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
 - Cloudflare 多阶段安全审计 Skill
-- AI 设计技能库：落地页设计规则
-- Cindy 开源多设备 AI Agent 客户端
-- Expo Skills 官方 AI 代理开发技能集
-- Hallmark：反 AI 模板化前端设计技能
-- OpenBot：本地优先的持久化 AI Agent 工作台
-- DeepTutor：Agent 原生个性化学习工作台
-- Impeccable：AI 编程代理的前端设计规范工具
-- Macro：AI 原生团队统一工作台
+- OpenBot：自托管 AI 同事平台
+- AI Design Skills 开源设计技能集
+- Claude-Mem：跨会话 AI Agent 记忆层
+- DeepTutor 终身个性化 AI 导师
+- Impeccable：AI 编程代理的前端设计工作流
+- OpenBot 本地优先的持久化 AI 智能体工作台
+- Claude Code Game Studios 多智能体游戏开发框架
+- Kronos：面向金融K线序列的首个开源基础模型
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -133,11 +133,11 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[AI 设计技能库：落地页设计规则]]
-- [[Cindy 开源多设备 AI Agent 客户端]]
-- [[Expo Skills 官方 AI 代理开发技能集]]
-- [[Hallmark：反 AI 模板化前端设计技能]]
-- [[OpenBot：本地优先的持久化 AI Agent 工作台]]
-- [[DeepTutor：Agent 原生个性化学习工作台]]
-- [[Impeccable：AI 编程代理的前端设计规范工具]]
-- [[Macro：AI 原生团队统一工作台]]
+- [[OpenBot：自托管 AI 同事平台]]
+- [[AI Design Skills 开源设计技能集]]
+- [[Claude-Mem：跨会话 AI Agent 记忆层]]
+- [[DeepTutor 终身个性化 AI 导师]]
+- [[Impeccable：AI 编程代理的前端设计工作流]]
+- [[OpenBot 本地优先的持久化 AI 智能体工作台]]
+- [[Claude Code Game Studios 多智能体游戏开发框架]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]

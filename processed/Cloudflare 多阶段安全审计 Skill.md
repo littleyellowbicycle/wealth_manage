@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-10-28'
+updated: '2026-10-29'
 tags:
 - 开源项目
 - AI
@@ -16,14 +16,14 @@ note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
-- AI 设计技能库：落地页设计规则
-- Cindy 开源多设备 AI Agent 客户端
-- DeepTutor：Agent 原生个性化学习工作台
-- Expo Skills 官方 AI 代理开发技能集
-- Hallmark：反 AI 模板化前端设计技能
-- Impeccable：AI 编程代理的前端设计规范工具
-- Jailbreaks 大模型提示词与代理配置库
+- OpenBot：自托管 AI 同事平台
+- AI Design Skills 开源设计技能集
+- Claude Code Game Studios 多智能体游戏开发框架
+- Claude-Mem：跨会话 AI Agent 记忆层
+- DeepTutor 终身个性化 AI 导师
+- Impeccable：AI 编程代理的前端设计工作流
 - Kronos：面向金融K线序列的首个开源基础模型
+- OpenBot 本地优先的持久化 AI 智能体工作台
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -98,11 +98,11 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
-- [[AI 设计技能库：落地页设计规则]]
-- [[Cindy 开源多设备 AI Agent 客户端]]
-- [[DeepTutor：Agent 原生个性化学习工作台]]
-- [[Expo Skills 官方 AI 代理开发技能集]]
-- [[Hallmark：反 AI 模板化前端设计技能]]
-- [[Impeccable：AI 编程代理的前端设计规范工具]]
-- [[Jailbreaks 大模型提示词与代理配置库]]
+- [[OpenBot：自托管 AI 同事平台]]
+- [[AI Design Skills 开源设计技能集]]
+- [[Claude Code Game Studios 多智能体游戏开发框架]]
+- [[Claude-Mem：跨会话 AI Agent 记忆层]]
+- [[DeepTutor 终身个性化 AI 导师]]
+- [[Impeccable：AI 编程代理的前端设计工作流]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[OpenBot 本地优先的持久化 AI 智能体工作台]]

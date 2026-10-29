@@ -3,7 +3,7 @@ title: daily_stock_analysis 项目11策略与LLM量化框架解析
 source: raw_20260624_162121_42f38fe1
 source_url: https://www.zhihu.com/question/548674391/answer/2032467444133009175
 created: '2026-06-29'
-updated: '2026-10-28'
+updated: '2026-10-29'
 tags:
 - 量化交易
 - 大语言模型

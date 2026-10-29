@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-10-28'
+updated: '2026-10-29'
 tags:
 - 开源项目
 - AI
@@ -15,14 +15,14 @@ note_type: content
 related:
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
-- AI 设计技能库：落地页设计规则
-- Cindy 开源多设备 AI Agent 客户端
-- Expo Skills 官方 AI 代理开发技能集
-- Hallmark：反 AI 模板化前端设计技能
-- Impeccable：AI 编程代理的前端设计规范工具
-- Macro：AI 原生团队统一工作台
-- OpenBot：本地优先的持久化 AI Agent 工作台
-- Superpowers 编码智能体开发框架
+- OpenBot：自托管 AI 同事平台
+- OpenBot 本地优先的持久化 AI 智能体工作台
+- AI Design Skills 开源设计技能集
+- Claude Code Game Studios 多智能体游戏开发框架
+- Claude-Mem：跨会话 AI Agent 记忆层
+- DeepTutor 终身个性化 AI 导师
+- Impeccable：AI 编程代理的前端设计工作流
+- OpenMausBot：本地优先多智能体桌面工作台
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -133,11 +133,11 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 ## 相关笔记
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[AI 设计技能库：落地页设计规则]]
-- [[Cindy 开源多设备 AI Agent 客户端]]
-- [[Expo Skills 官方 AI 代理开发技能集]]
-- [[Hallmark：反 AI 模板化前端设计技能]]
-- [[Impeccable：AI 编程代理的前端设计规范工具]]
-- [[Macro：AI 原生团队统一工作台]]
-- [[OpenBot：本地优先的持久化 AI Agent 工作台]]
-- [[Superpowers 编码智能体开发框架]]
+- [[OpenBot：自托管 AI 同事平台]]
+- [[OpenBot 本地优先的持久化 AI 智能体工作台]]
+- [[AI Design Skills 开源设计技能集]]
+- [[Claude Code Game Studios 多智能体游戏开发框架]]
+- [[Claude-Mem：跨会话 AI Agent 记忆层]]
+- [[DeepTutor 终身个性化 AI 导师]]
+- [[Impeccable：AI 编程代理的前端设计工作流]]
+- [[OpenMausBot：本地优先多智能体桌面工作台]]
