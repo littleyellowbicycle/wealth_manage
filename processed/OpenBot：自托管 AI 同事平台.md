@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-10-29'
+updated: '2026-10-30'
 tags:
 - 开源项目
 - AI
@@ -16,13 +16,13 @@ related:
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
-- OpenBot 本地优先的持久化 AI 智能体工作台
-- AI Design Skills 开源设计技能集
-- Claude-Mem：跨会话 AI Agent 记忆层
-- DeepTutor 终身个性化 AI 导师
-- Impeccable：AI 编程代理的前端设计工作流
-- Claude Code Game Studios 多智能体游戏开发框架
-- Kronos：面向金融K线序列的首个开源基础模型
+- DeepTutor 个性化学习智能体工作区
+- OpenMausBot：本地优先的多智能体工作台
+- Superpowers 智能体开发工作流
+- Expo 官方 AI Agent Skills 实践指南
+- Impeccable：AI 编码助手的设计工作流
+- Lightpanda：面向 AI 自动化的高性能无头浏览器
+- Macro：一体化 AI 团队工作空间
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -109,10 +109,10 @@ related:
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[OpenBot 本地优先的持久化 AI 智能体工作台]]
-- [[AI Design Skills 开源设计技能集]]
-- [[Claude-Mem：跨会话 AI Agent 记忆层]]
-- [[DeepTutor 终身个性化 AI 导师]]
-- [[Impeccable：AI 编程代理的前端设计工作流]]
-- [[Claude Code Game Studios 多智能体游戏开发框架]]
-- [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[DeepTutor 个性化学习智能体工作区]]
+- [[OpenMausBot：本地优先的多智能体工作台]]
+- [[Superpowers 智能体开发工作流]]
+- [[Expo 官方 AI Agent Skills 实践指南]]
+- [[Impeccable：AI 编码助手的设计工作流]]
+- [[Lightpanda：面向 AI 自动化的高性能无头浏览器]]
+- [[Macro：一体化 AI 团队工作空间]]

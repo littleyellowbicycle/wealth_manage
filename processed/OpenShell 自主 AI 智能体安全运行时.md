@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-10-29'
+updated: '2026-10-30'
 tags:
 - 开源项目
 - AI
@@ -16,13 +16,13 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- OpenBot 本地优先的持久化 AI 智能体工作台
-- AI Design Skills 开源设计技能集
-- Claude Code Game Studios 多智能体游戏开发框架
-- Claude-Mem：跨会话 AI Agent 记忆层
-- DeepTutor 终身个性化 AI 导师
-- Impeccable：AI 编程代理的前端设计工作流
-- OpenMausBot：本地优先多智能体桌面工作台
+- Claude-Mem 跨会话智能体记忆系统
+- DeepTutor 个性化学习智能体工作区
+- Expo 官方 AI Agent Skills 实践指南
+- Impeccable：AI 编码助手的设计工作流
+- Lightpanda：面向 AI 自动化的高性能无头浏览器
+- Macro：一体化 AI 团队工作空间
+- Matt Pocock AI 编程代理技能集
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -134,10 +134,10 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[OpenBot 本地优先的持久化 AI 智能体工作台]]
-- [[AI Design Skills 开源设计技能集]]
-- [[Claude Code Game Studios 多智能体游戏开发框架]]
-- [[Claude-Mem：跨会话 AI Agent 记忆层]]
-- [[DeepTutor 终身个性化 AI 导师]]
-- [[Impeccable：AI 编程代理的前端设计工作流]]
-- [[OpenMausBot：本地优先多智能体桌面工作台]]
+- [[Claude-Mem 跨会话智能体记忆系统]]
+- [[DeepTutor 个性化学习智能体工作区]]
+- [[Expo 官方 AI Agent Skills 实践指南]]
+- [[Impeccable：AI 编码助手的设计工作流]]
+- [[Lightpanda：面向 AI 自动化的高性能无头浏览器]]
+- [[Macro：一体化 AI 团队工作空间]]
+- [[Matt Pocock AI 编程代理技能集]]
