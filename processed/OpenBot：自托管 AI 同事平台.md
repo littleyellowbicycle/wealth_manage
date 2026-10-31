@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-10-30'
+updated: '2026-10-31'
 tags:
 - 开源项目
 - AI
@@ -16,13 +16,13 @@ related:
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
-- DeepTutor 个性化学习智能体工作区
-- OpenMausBot：本地优先的多智能体工作台
-- Superpowers 智能体开发工作流
-- Expo 官方 AI Agent Skills 实践指南
-- Impeccable：AI 编码助手的设计工作流
-- Lightpanda：面向 AI 自动化的高性能无头浏览器
-- Macro：一体化 AI 团队工作空间
+- DeepTutor 开源智能导师系统
+- Claude-Mem：AI Agent 持久记忆层
+- Impeccable：AI 编程代理设计控制工具
+- Lightpanda：面向 AI 智能体的无头浏览器
+- OpenMAIC：多智能体互动课堂平台
+- T3 Code：跨端 AI 编程代理控制台
+- Claude Code Game Studios 多智能体游戏开发框架
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -109,10 +109,10 @@ related:
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[DeepTutor 个性化学习智能体工作区]]
-- [[OpenMausBot：本地优先的多智能体工作台]]
-- [[Superpowers 智能体开发工作流]]
-- [[Expo 官方 AI Agent Skills 实践指南]]
-- [[Impeccable：AI 编码助手的设计工作流]]
-- [[Lightpanda：面向 AI 自动化的高性能无头浏览器]]
-- [[Macro：一体化 AI 团队工作空间]]
+- [[DeepTutor 开源智能导师系统]]
+- [[Claude-Mem：AI Agent 持久记忆层]]
+- [[Impeccable：AI 编程代理设计控制工具]]
+- [[Lightpanda：面向 AI 智能体的无头浏览器]]
+- [[OpenMAIC：多智能体互动课堂平台]]
+- [[T3 Code：跨端 AI 编程代理控制台]]
+- [[Claude Code Game Studios 多智能体游戏开发框架]]

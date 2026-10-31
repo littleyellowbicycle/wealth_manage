@@ -381,38 +381,38 @@
     },
     "开源项目": {
       "notes": [
-        "Anthropic Agent Skills 仓库指南.md",
-        "Claude-Mem 跨会话智能体记忆系统.md",
+        "Claude Code Game Studios 多智能体游戏开发框架.md",
+        "Claude-Mem：AI Agent 持久记忆层.md",
         "Cloudflare 多阶段安全审计 Skill.md",
-        "DeepTutor 个性化学习智能体工作区.md",
-        "Expo 官方 AI Agent Skills 实践指南.md",
-        "Impeccable：AI 编码助手的设计工作流.md",
+        "DeepTutor 开源智能导师系统.md",
+        "DevOps 与 SRE 开源题库.md",
+        "Impeccable：AI 编程代理设计控制工具.md",
         "Kronos：面向金融K线序列的首个开源基础模型.md",
         "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "Lightpanda：面向 AI 自动化的高性能无头浏览器.md",
-        "Macro：一体化 AI 团队工作空间.md",
-        "Matt Pocock AI 编程代理技能集.md",
+        "Lightpanda：面向 AI 智能体的无头浏览器.md",
         "OpenBot：自托管 AI 同事平台.md",
-        "OpenMausBot：本地优先的多智能体工作台.md",
+        "OpenMAIC：多智能体互动课堂平台.md",
+        "OpenMausBot 多智能体工作台.md",
         "OpenShell 自主 AI 智能体安全运行时.md",
+        "Orkas：本地优先的多智能体桌面工作台.md",
         "Qbot 开源量化交易平台与经典技术指标策略实现.md",
         "Qbot 开源量化交易闭环系统.md",
         "Qbot 量化交易平台与均线类策略实现.md",
         "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Superpowers 智能体开发工作流.md",
-        "T3 Code 跨设备智能体控制工具.md",
-        "ThinkRail：基于 pi 的智能体 IDE.md",
+        "Superpowers 编程代理开发方法论.md",
+        "T3 Code：跨端 AI 编程代理控制台.md",
         "TradingAgents 多智能体金融交易框架.md",
+        "Vorssaint macOS 菜单栏工具箱.md",
         "Wealthfolio：本地优先的个人财务追踪开源工具.md",
         "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "mattpocock skills：真实工程实践技能集.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
-        "紫微斗数开源排盘引擎与解读数据集.md",
-        "越狱提示词合集与模型指令研究.md"
+        "紫微斗数开源排盘引擎与解读数据集.md"
       ],
       "subtopics": [
         "AI",
         "量化交易",
-        "风险控制"
+        "多智能体"
       ],
       "note_count": 27
     },
@@ -527,36 +527,35 @@
       "notes": [
         "AI 供应链卡脖子环节投资框架.md",
         "AI供应链卡脖子环节挖掘框架.md",
-        "Anthropic Agent Skills 仓库指南.md",
-        "Claude-Mem 跨会话智能体记忆系统.md",
+        "Claude Code Game Studios 多智能体游戏开发框架.md",
+        "Claude-Mem：AI Agent 持久记忆层.md",
         "Cloudflare 多阶段安全审计 Skill.md",
-        "DeepTutor 个性化学习智能体工作区.md",
-        "Expo 官方 AI Agent Skills 实践指南.md",
-        "Impeccable：AI 编码助手的设计工作流.md",
+        "DeepTutor 开源智能导师系统.md",
+        "Impeccable：AI 编程代理设计控制工具.md",
         "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "Lightpanda：面向 AI 自动化的高性能无头浏览器.md",
-        "Macro：一体化 AI 团队工作空间.md",
-        "Matt Pocock AI 编程代理技能集.md",
+        "Lightpanda：面向 AI 智能体的无头浏览器.md",
         "OpenBot：自托管 AI 同事平台.md",
-        "OpenMausBot：本地优先的多智能体工作台.md",
+        "OpenMAIC：多智能体互动课堂平台.md",
+        "OpenMausBot 多智能体工作台.md",
         "OpenShell 自主 AI 智能体安全运行时.md",
+        "Orkas：本地优先的多智能体桌面工作台.md",
         "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
         "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
         "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Superpowers 智能体开发工作流.md",
-        "T3 Code 跨设备智能体控制工具.md",
-        "ThinkRail：基于 pi 的智能体 IDE.md",
+        "Superpowers 编程代理开发方法论.md",
+        "T3 Code：跨端 AI 编程代理控制台.md",
         "TradingAgents 多智能体金融交易框架.md",
+        "Vorssaint macOS 菜单栏工具箱.md",
+        "mattpocock skills：真实工程实践技能集.md",
         "紫微斗数开源排盘引擎与解读数据集.md",
-        "财报分析框架蒸馏为 AI Skill 的实践.md",
-        "越狱提示词合集与模型指令研究.md"
+        "财报分析框架蒸馏为 AI Skill 的实践.md"
       ],
       "subtopics": [
         "开源项目",
-        "风险控制",
-        "智能体平台"
+        "多智能体",
+        "风险控制"
       ],
-      "note_count": 25
+      "note_count": 24
     },
     "知乎": {
       "notes": [
@@ -1026,7 +1025,7 @@
     },
     "管理": {
       "notes": [
-        "Macro：一体化 AI 团队工作空间.md",
+        "Claude Code Game Studios 多智能体游戏开发框架.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
         "大跌复盘三件事与组合沙箱工具.md",
         "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1143,21 +1142,6 @@
       ],
       "note_count": 6
     },
-    "Agent": {
-      "notes": [
-        "Anthropic Agent Skills 仓库指南.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "开源项目",
-        "股票研究"
-      ],
-      "note_count": 5
-    },
     "量化因子": {
       "notes": [
         "CH4 因子模型 A股四因子实战拆解.md",
@@ -1170,6 +1154,21 @@
         "量化交易",
         "A股",
         "投资"
+      ],
+      "note_count": 5
+    },
+    "多智能体": {
+      "notes": [
+        "Claude Code Game Studios 多智能体游戏开发框架.md",
+        "OpenMAIC：多智能体互动课堂平台.md",
+        "OpenMausBot 多智能体工作台.md",
+        "Orkas：本地优先的多智能体桌面工作台.md",
+        "TradingAgents 多智能体金融交易框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "本地优先"
       ],
       "note_count": 5
     },
@@ -1259,23 +1258,23 @@
       ],
       "note_count": 4
     },
-    "智能体平台": {
+    "Agent": {
       "notes": [
-        "DeepTutor 个性化学习智能体工作区.md",
-        "OpenBot：自托管 AI 同事平台.md",
-        "OpenMausBot：本地优先的多智能体工作台.md",
-        "Superpowers 智能体开发工作流.md"
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md"
       ],
       "subtopics": [
-        "开源项目",
-        "AI",
-        "个性化教育"
+        "量化交易",
+        "股票研究",
+        "大语言模型"
       ],
       "note_count": 4
     },
     "自动化": {
       "notes": [
-        "Lightpanda：面向 AI 自动化的高性能无头浏览器.md",
+        "Lightpanda：面向 AI 智能体的无头浏览器.md",
         "用 OpenClaw 搭建个人股票分析 Agent.md",
         "用OpenClaw搭建个人股票分析Agent.md",
         "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1425,6 +1424,19 @@
       ],
       "note_count": 3
     },
+    "数据": {
+      "notes": [
+        "AI 时代个人量化交易可行路径与核心铁律.md",
+        "AI时代个人量化生存指南.md",
+        "紫微斗数开源排盘引擎与解读数据集.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "大语言模型",
+        "事件驱动策略"
+      ],
+      "note_count": 3
+    },
     "港股": {
       "notes": [
         "ETF懒人组合实战 中美港三地红利配置.md",
@@ -1490,6 +1502,19 @@
       ],
       "note_count": 3
     },
+    "本地优先": {
+      "notes": [
+        "OpenMausBot 多智能体工作台.md",
+        "Orkas：本地优先的多智能体桌面工作台.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "多智能体"
+      ],
+      "note_count": 3
+    },
     "backtrader": {
       "notes": [
         "Qbot 开源量化交易平台与经典技术指标策略实现.md",
@@ -1513,6 +1538,19 @@
         "量化交易",
         "Qbot",
         "backtrader"
+      ],
+      "note_count": 3
+    },
+    "方法论": {
+      "notes": [
+        "Superpowers 编程代理开发方法论.md",
+        "知乎三位投资领域高影响力答主风格速览.md",
+        "知乎三位高价值投资内容创作者推荐.md"
+      ],
+      "subtopics": [
+        "知乎",
+        "投资",
+        "散户"
       ],
       "note_count": 3
     },
@@ -1696,18 +1734,6 @@
       ],
       "note_count": 2
     },
-    "数据": {
-      "notes": [
-        "AI 时代个人量化交易可行路径与核心铁律.md",
-        "AI时代个人量化生存指南.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "大语言模型",
-        "事件驱动策略"
-      ],
-      "note_count": 2
-    },
     "事件驱动策略": {
       "notes": [
         "AI 时代个人量化交易可行路径与核心铁律.md",
@@ -1828,6 +1854,30 @@
       ],
       "note_count": 2
     },
+    "MCP": {
+      "notes": [
+        "Claude-Mem：AI Agent 持久记忆层.md",
+        "Lightpanda：面向 AI 智能体的无头浏览器.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "智能体记忆"
+      ],
+      "note_count": 2
+    },
+    "智能体平台": {
+      "notes": [
+        "DeepTutor 开源智能导师系统.md",
+        "OpenBot：自托管 AI 同事平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "RAG"
+      ],
+      "note_count": 2
+    },
     "条件单": {
       "notes": [
         "ETF 网格交易实战：标的选择、不对称网格与费率优势.md",
@@ -1876,18 +1926,6 @@
       ],
       "note_count": 2
     },
-    "本地优先": {
-      "notes": [
-        "OpenMausBot：本地优先的多智能体工作台.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "智能体平台"
-      ],
-      "note_count": 2
-    },
     "GARP策略": {
       "notes": [
         "PB-ROE框架复现：GARP策略的量化实证.md",
@@ -1921,6 +1959,18 @@
         "A股",
         "AI",
         "Serenity"
+      ],
+      "note_count": 2
+    },
+    "编程代理": {
+      "notes": [
+        "Superpowers 编程代理开发方法论.md",
+        "T3 Code：跨端 AI 编程代理控制台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "测试驱动开发"
       ],
       "note_count": 2
     },
@@ -2332,18 +2382,6 @@
       ],
       "note_count": 2
     },
-    "方法论": {
-      "notes": [
-        "知乎三位投资领域高影响力答主风格速览.md",
-        "知乎三位高价值投资内容创作者推荐.md"
-      ],
-      "subtopics": [
-        "知乎",
-        "投资",
-        "散户"
-      ],
-      "note_count": 2
-    },
     "内容创作": {
       "notes": [
         "知乎三位高价值投资内容创作者推荐.md",
@@ -2473,18 +2511,6 @@
         "投资",
         "技术分析",
         "复利"
-      ],
-      "note_count": 2
-    },
-    "提示工程": {
-      "notes": [
-        "财报分析框架蒸馏为 AI Skill 的实践.md",
-        "越狱提示词合集与模型指令研究.md"
-      ],
-      "subtopics": [
-        "AI",
-        "财报分析",
-        "知识蒸馏"
       ],
       "note_count": 2
     },
@@ -2731,28 +2757,6 @@
       ],
       "note_count": 1
     },
-    "Claude": {
-      "notes": [
-        "Anthropic Agent Skills 仓库指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Agent"
-      ],
-      "note_count": 1
-    },
-    "技能开发": {
-      "notes": [
-        "Anthropic Agent Skills 仓库指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Agent"
-      ],
-      "note_count": 1
-    },
     "慢牛": {
       "notes": [
         "A股三次冲关4000点的逻辑变迁与策略比较.md"
@@ -2874,9 +2878,31 @@
       ],
       "note_count": 1
     },
+    "游戏开发": {
+      "notes": [
+        "Claude Code Game Studios 多智能体游戏开发框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "管理"
+      ],
+      "note_count": 1
+    },
+    "Claude Code": {
+      "notes": [
+        "Claude Code Game Studios 多智能体游戏开发框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "管理"
+      ],
+      "note_count": 1
+    },
     "智能体记忆": {
       "notes": [
-        "Claude-Mem 跨会话智能体记忆系统.md"
+        "Claude-Mem：AI Agent 持久记忆层.md"
       ],
       "subtopics": [
         "开源项目",
@@ -2887,18 +2913,7 @@
     },
     "上下文工程": {
       "notes": [
-        "Claude-Mem 跨会话智能体记忆系统.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "智能体记忆"
-      ],
-      "note_count": 1
-    },
-    "向量检索": {
-      "notes": [
-        "Claude-Mem 跨会话智能体记忆系统.md"
+        "Claude-Mem：AI Agent 持久记忆层.md"
       ],
       "subtopics": [
         "开源项目",
@@ -2940,25 +2955,58 @@
       ],
       "note_count": 1
     },
-    "个性化教育": {
+    "RAG": {
       "notes": [
-        "DeepTutor 个性化学习智能体工作区.md"
+        "DeepTutor 开源智能导师系统.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "RAG"
+        "智能体平台"
       ],
       "note_count": 1
     },
-    "RAG": {
+    "教育科技": {
       "notes": [
-        "DeepTutor 个性化学习智能体工作区.md"
+        "DeepTutor 开源智能导师系统.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "个性化教育"
+        "智能体平台"
+      ],
+      "note_count": 1
+    },
+    "DevOps": {
+      "notes": [
+        "DevOps 与 SRE 开源题库.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "SRE",
+        "面试题库"
+      ],
+      "note_count": 1
+    },
+    "SRE": {
+      "notes": [
+        "DevOps 与 SRE 开源题库.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "DevOps",
+        "面试题库"
+      ],
+      "note_count": 1
+    },
+    "面试题库": {
+      "notes": [
+        "DevOps 与 SRE 开源题库.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "DevOps",
+        "SRE"
       ],
       "note_count": 1
     },
@@ -3004,69 +3052,36 @@
       ],
       "note_count": 1
     },
-    "Expo开发": {
+    "设计系统": {
       "notes": [
-        "Expo 官方 AI Agent Skills 实践指南.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "React Native"
-      ],
-      "note_count": 1
-    },
-    "React Native": {
-      "notes": [
-        "Expo 官方 AI Agent Skills 实践指南.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "Expo开发"
-      ],
-      "note_count": 1
-    },
-    "EAS": {
-      "notes": [
-        "Expo 官方 AI Agent Skills 实践指南.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "Expo开发"
-      ],
-      "note_count": 1
-    },
-    "设计工具": {
-      "notes": [
-        "Impeccable：AI 编码助手的设计工作流.md"
+        "Impeccable：AI 编程代理设计控制工具.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "前端开发"
-      ],
-      "note_count": 1
-    },
-    "前端开发": {
-      "notes": [
-        "Impeccable：AI 编码助手的设计工作流.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "设计工具"
+        "代码审查"
       ],
       "note_count": 1
     },
     "代码审查": {
       "notes": [
-        "Impeccable：AI 编码助手的设计工作流.md"
+        "Impeccable：AI 编程代理设计控制工具.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "设计工具"
+        "设计系统"
+      ],
+      "note_count": 1
+    },
+    "前端开发": {
+      "notes": [
+        "Impeccable：AI 编程代理设计控制工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "设计系统"
       ],
       "note_count": 1
     },
@@ -3116,23 +3131,12 @@
     },
     "无头浏览器": {
       "notes": [
-        "Lightpanda：面向 AI 自动化的高性能无头浏览器.md"
+        "Lightpanda：面向 AI 智能体的无头浏览器.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
         "自动化"
-      ],
-      "note_count": 1
-    },
-    "Zig": {
-      "notes": [
-        "Lightpanda：面向 AI 自动化的高性能无头浏览器.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "无头浏览器"
       ],
       "note_count": 1
     },
@@ -3169,20 +3173,9 @@
       ],
       "note_count": 1
     },
-    "团队协作": {
+    "软件工程": {
       "notes": [
-        "Macro：一体化 AI 团队工作空间.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "管理"
-      ],
-      "note_count": 1
-    },
-    "编程代理": {
-      "notes": [
-        "Matt Pocock AI 编程代理技能集.md"
+        "mattpocock skills：真实工程实践技能集.md"
       ],
       "subtopics": [
         "AI",
@@ -3193,23 +3186,12 @@
     },
     "智能体技能": {
       "notes": [
-        "Matt Pocock AI 编程代理技能集.md"
+        "mattpocock skills：真实工程实践技能集.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "编程代理"
-      ],
-      "note_count": 1
-    },
-    "软件工程": {
-      "notes": [
-        "Matt Pocock AI 编程代理技能集.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "编程代理"
+        "软件工程"
       ],
       "note_count": 1
     },
@@ -3221,6 +3203,39 @@
         "开源项目",
         "AI",
         "风险控制"
+      ],
+      "note_count": 1
+    },
+    "智能教育": {
+      "notes": [
+        "OpenMAIC：多智能体互动课堂平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "多智能体"
+      ],
+      "note_count": 1
+    },
+    "知识库": {
+      "notes": [
+        "OpenMAIC：多智能体互动课堂平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "多智能体"
+      ],
+      "note_count": 1
+    },
+    "智能体工具": {
+      "notes": [
+        "OpenMausBot 多智能体工作台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "多智能体"
       ],
       "note_count": 1
     },
@@ -3243,6 +3258,17 @@
         "开源项目",
         "AI",
         "风险控制"
+      ],
+      "note_count": 1
+    },
+    "智能体编排": {
+      "notes": [
+        "Orkas：本地优先的多智能体桌面工作台.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "多智能体"
       ],
       "note_count": 1
     },
@@ -3367,68 +3393,36 @@
       ],
       "note_count": 1
     },
-    "软件开发": {
-      "notes": [
-        "Superpowers 智能体开发工作流.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "智能体平台"
-      ],
-      "note_count": 1
-    },
     "测试驱动开发": {
       "notes": [
-        "Superpowers 智能体开发工作流.md"
+        "Superpowers 编程代理开发方法论.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "软件开发"
-      ],
-      "note_count": 1
-    },
-    "智能体控制": {
-      "notes": [
-        "T3 Code 跨设备智能体控制工具.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "远程开发"
+        "编程代理"
       ],
       "note_count": 1
     },
     "远程开发": {
       "notes": [
-        "T3 Code 跨设备智能体控制工具.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "智能体控制"
-      ],
-      "note_count": 1
-    },
-    "开发工具": {
-      "notes": [
-        "ThinkRail：基于 pi 的智能体 IDE.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目"
-      ],
-      "note_count": 1
-    },
-    "多智能体": {
-      "notes": [
-        "TradingAgents 多智能体金融交易框架.md"
+        "T3 Code：跨端 AI 编程代理控制台.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "交易"
+        "编程代理"
+      ],
+      "note_count": 1
+    },
+    "多端控制": {
+      "notes": [
+        "T3 Code：跨端 AI 编程代理控制台.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "编程代理"
       ],
       "note_count": 1
     },
@@ -3473,6 +3467,39 @@
         "V2EX",
         "Nodeseek",
         "Linux.do"
+      ],
+      "note_count": 1
+    },
+    "macOS 工具": {
+      "notes": [
+        "Vorssaint macOS 菜单栏工具箱.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "菜单栏应用"
+      ],
+      "note_count": 1
+    },
+    "菜单栏应用": {
+      "notes": [
+        "Vorssaint macOS 菜单栏工具箱.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "macOS 工具"
+      ],
+      "note_count": 1
+    },
+    "隐私优先": {
+      "notes": [
+        "Vorssaint macOS 菜单栏工具箱.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "macOS 工具"
       ],
       "note_count": 1
     },
@@ -5079,17 +5106,6 @@
       ],
       "note_count": 1
     },
-    "TypeScript": {
-      "notes": [
-        "紫微斗数开源排盘引擎与解读数据集.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "紫微斗数"
-      ],
-      "note_count": 1
-    },
     "紫金矿业": {
       "notes": [
         "紫金矿业 藏格矿业 兴业银锡 持仓成本与目标价复盘.md"
@@ -5353,6 +5369,17 @@
       ],
       "note_count": 1
     },
+    "提示工程": {
+      "notes": [
+        "财报分析框架蒸馏为 AI Skill 的实践.md"
+      ],
+      "subtopics": [
+        "财报分析",
+        "AI",
+        "知识蒸馏"
+      ],
+      "note_count": 1
+    },
     "资产泡沫": {
       "notes": [
         "账面资产与现金流：资产泡沫制造的财富幻觉.md"
@@ -5372,28 +5399,6 @@
         "超跌反弹",
         "均线",
         "地天板"
-      ],
-      "note_count": 1
-    },
-    "大模型安全": {
-      "notes": [
-        "越狱提示词合集与模型指令研究.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "提示工程"
-      ],
-      "note_count": 1
-    },
-    "系统提示词": {
-      "notes": [
-        "越狱提示词合集与模型指令研究.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "提示工程"
       ],
       "note_count": 1
     },
@@ -5691,5 +5696,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-10-30T23:43:39"
+  "last_rebuilt": "2026-10-31T23:42:12"
 }

@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-10-30'
+updated: '2026-10-31'
 tags:
 - 开源项目
 - AI
@@ -17,13 +17,13 @@ related:
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - OpenBot：自托管 AI 同事平台
-- Anthropic Agent Skills 仓库指南
-- Claude-Mem 跨会话智能体记忆系统
-- DeepTutor 个性化学习智能体工作区
-- Expo 官方 AI Agent Skills 实践指南
-- Impeccable：AI 编码助手的设计工作流
+- Claude Code Game Studios 多智能体游戏开发框架
+- Claude-Mem：AI Agent 持久记忆层
+- DeepTutor 开源智能导师系统
+- Impeccable：AI 编程代理设计控制工具
 - Kronos：面向金融K线序列的首个开源基础模型
-- Lightpanda：面向 AI 自动化的高性能无头浏览器
+- Lightpanda：面向 AI 智能体的无头浏览器
+- mattpocock skills：真实工程实践技能集
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -99,10 +99,10 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[Anthropic Agent Skills 仓库指南]]
-- [[Claude-Mem 跨会话智能体记忆系统]]
-- [[DeepTutor 个性化学习智能体工作区]]
-- [[Expo 官方 AI Agent Skills 实践指南]]
-- [[Impeccable：AI 编码助手的设计工作流]]
+- [[Claude Code Game Studios 多智能体游戏开发框架]]
+- [[Claude-Mem：AI Agent 持久记忆层]]
+- [[DeepTutor 开源智能导师系统]]
+- [[Impeccable：AI 编程代理设计控制工具]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Lightpanda：面向 AI 自动化的高性能无头浏览器]]
+- [[Lightpanda：面向 AI 智能体的无头浏览器]]
+- [[mattpocock skills：真实工程实践技能集]]
