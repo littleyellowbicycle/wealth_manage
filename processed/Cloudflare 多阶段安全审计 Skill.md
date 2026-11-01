@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-10-31'
+updated: '2026-11-01'
 tags:
 - 开源项目
 - AI
@@ -14,16 +14,16 @@ tags:
 status: processed
 note_type: content
 related:
+- AiSOC 可审计自托管 AI 安全运营中心
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - OpenBot：自托管 AI 同事平台
-- Claude Code Game Studios 多智能体游戏开发框架
-- Claude-Mem：AI Agent 持久记忆层
-- DeepTutor 开源智能导师系统
-- Impeccable：AI 编程代理设计控制工具
-- Kronos：面向金融K线序列的首个开源基础模型
-- Lightpanda：面向 AI 智能体的无头浏览器
-- mattpocock skills：真实工程实践技能集
+- AI Engineering Hub 工程学习地图
+- Claude Code 游戏开发工作室框架
+- Claude-Mem 持久化代理记忆系统
+- FreeToken 边缘端 MoE 推理引擎
+- Handy 离线语音转写项目
+- Hex 本地优先语音听写工具
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -96,13 +96,13 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 在目标代码库中启动编码代理后，可使用 `security audit this codebase`、`find security vulnerabilities in ./src` 或指定输出目录的安全审计请求。未指定目录时，完整审计默认写入 `~/security-audit-skill/<repo-name>/run-<N>`；只有明确选择且被版本控制忽略时，工作流才会在目标仓库内写入文件。
 
 ## 相关笔记
+- [[AiSOC 可审计自托管 AI 安全运营中心]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[Claude Code Game Studios 多智能体游戏开发框架]]
-- [[Claude-Mem：AI Agent 持久记忆层]]
-- [[DeepTutor 开源智能导师系统]]
-- [[Impeccable：AI 编程代理设计控制工具]]
-- [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Lightpanda：面向 AI 智能体的无头浏览器]]
-- [[mattpocock skills：真实工程实践技能集]]
+- [[AI Engineering Hub 工程学习地图]]
+- [[Claude Code 游戏开发工作室框架]]
+- [[Claude-Mem 持久化代理记忆系统]]
+- [[FreeToken 边缘端 MoE 推理引擎]]
+- [[Handy 离线语音转写项目]]
+- [[Hex 本地优先语音听写工具]]

@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-10-31'
+updated: '2026-11-01'
 tags:
 - AI
 - 开源项目
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
-- Claude Code Game Studios 多智能体游戏开发框架
-- OpenMAIC：多智能体互动课堂平台
-- OpenMausBot 多智能体工作台
-- Orkas：本地优先的多智能体桌面工作台
-- DeepTutor 开源智能导师系统
-- Lightpanda：面向 AI 智能体的无头浏览器
+- Claude Code 游戏开发工作室框架
+- OpenMausBot 本地优先多智能体工作台
 - OpenShell 自主 AI 智能体安全运行时
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - 纳指ETF策略选择方法论：数据驱动的回测决策框架
+- AI Engineering Hub 工程学习地图
+- AiSOC 可审计自托管 AI 安全运营中心
+- Claude-Mem 持久化代理记忆系统
+- Cloudflare 多阶段安全审计 Skill
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -125,12 +125,12 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Claude Code Game Studios 多智能体游戏开发框架]]
-- [[OpenMAIC：多智能体互动课堂平台]]
-- [[OpenMausBot 多智能体工作台]]
-- [[Orkas：本地优先的多智能体桌面工作台]]
-- [[DeepTutor 开源智能导师系统]]
-- [[Lightpanda：面向 AI 智能体的无头浏览器]]
+- [[Claude Code 游戏开发工作室框架]]
+- [[OpenMausBot 本地优先多智能体工作台]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
+- [[AI Engineering Hub 工程学习地图]]
+- [[AiSOC 可审计自托管 AI 安全运营中心]]
+- [[Claude-Mem 持久化代理记忆系统]]
+- [[Cloudflare 多阶段安全审计 Skill]]

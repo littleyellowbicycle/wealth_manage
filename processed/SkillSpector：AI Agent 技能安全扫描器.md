@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-10-31'
+updated: '2026-11-01'
 tags:
 - AI
 - 开源项目
@@ -15,13 +15,13 @@ related:
 - OpenShell 自主 AI 智能体安全运行时
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- Claude-Mem：AI Agent 持久记忆层
-- Impeccable：AI 编程代理设计控制工具
-- Lightpanda：面向 AI 智能体的无头浏览器
-- mattpocock skills：真实工程实践技能集
-- T3 Code：跨端 AI 编程代理控制台
-- Claude Code Game Studios 多智能体游戏开发框架
-- DeepTutor 开源智能导师系统
+- AiSOC 可审计自托管 AI 安全运营中心
+- AI Engineering Hub 工程学习地图
+- Lightpanda：AI 代理无头浏览器
+- T3 Code：本地 AI 编程代理控制台
+- Claude Code 游戏开发工作室框架
+- Claude-Mem 持久化代理记忆系统
+- FreeToken 边缘端 MoE 推理引擎
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -134,10 +134,10 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[Claude-Mem：AI Agent 持久记忆层]]
-- [[Impeccable：AI 编程代理设计控制工具]]
-- [[Lightpanda：面向 AI 智能体的无头浏览器]]
-- [[mattpocock skills：真实工程实践技能集]]
-- [[T3 Code：跨端 AI 编程代理控制台]]
-- [[Claude Code Game Studios 多智能体游戏开发框架]]
-- [[DeepTutor 开源智能导师系统]]
+- [[AiSOC 可审计自托管 AI 安全运营中心]]
+- [[AI Engineering Hub 工程学习地图]]
+- [[Lightpanda：AI 代理无头浏览器]]
+- [[T3 Code：本地 AI 编程代理控制台]]
+- [[Claude Code 游戏开发工作室框架]]
+- [[Claude-Mem 持久化代理记忆系统]]
+- [[FreeToken 边缘端 MoE 推理引擎]]
