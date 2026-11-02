@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-01'
+updated: '2026-11-02'
 tags:
 - 开源项目
 - AI
@@ -16,12 +16,12 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- AiSOC 可审计自托管 AI 安全运营中心
-- AI Engineering Hub 工程学习地图
-- Lightpanda：AI 代理无头浏览器
-- OpenMausBot 本地优先多智能体工作台
-- T3 Code：本地 AI 编程代理控制台
+- Paperclip：AI 智能体组织编排与治理
+- T3 Code 跨端 AI 智能体控制面板
+- agent-desktop：基于无障碍树的桌面智能体控制
+- claude-mem 跨会话智能体记忆系统
 - TradingAgents 多智能体金融交易框架
+- Worktrunk：面向并行 AI 编程的 Git Worktree 管理器
 - Claude Code 游戏开发工作室框架
 ---
 
@@ -134,10 +134,10 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[AiSOC 可审计自托管 AI 安全运营中心]]
-- [[AI Engineering Hub 工程学习地图]]
-- [[Lightpanda：AI 代理无头浏览器]]
-- [[OpenMausBot 本地优先多智能体工作台]]
-- [[T3 Code：本地 AI 编程代理控制台]]
+- [[Paperclip：AI 智能体组织编排与治理]]
+- [[T3 Code 跨端 AI 智能体控制面板]]
+- [[agent-desktop：基于无障碍树的桌面智能体控制]]
+- [[claude-mem 跨会话智能体记忆系统]]
 - [[TradingAgents 多智能体金融交易框架]]
+- [[Worktrunk：面向并行 AI 编程的 Git Worktree 管理器]]
 - [[Claude Code 游戏开发工作室框架]]

@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-01'
+updated: '2026-11-02'
 tags:
 - 开源项目
 - AI
@@ -16,13 +16,13 @@ related:
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
-- AiSOC 可审计自托管 AI 安全运营中心
-- AI Engineering Hub 工程学习地图
-- Lightpanda：AI 代理无头浏览器
-- T3 Code：本地 AI 编程代理控制台
+- Paperclip：AI 智能体组织编排与治理
+- T3 Code 跨端 AI 智能体控制面板
+- Worktrunk：面向并行 AI 编程的 Git Worktree 管理器
+- agent-desktop：基于无障碍树的桌面智能体控制
 - Claude Code 游戏开发工作室框架
-- Claude-Mem 持久化代理记忆系统
-- FreeToken 边缘端 MoE 推理引擎
+- claude-mem 跨会话智能体记忆系统
+- Colibri 本地 MoE 推理引擎
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -109,10 +109,10 @@ related:
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[AiSOC 可审计自托管 AI 安全运营中心]]
-- [[AI Engineering Hub 工程学习地图]]
-- [[Lightpanda：AI 代理无头浏览器]]
-- [[T3 Code：本地 AI 编程代理控制台]]
+- [[Paperclip：AI 智能体组织编排与治理]]
+- [[T3 Code 跨端 AI 智能体控制面板]]
+- [[Worktrunk：面向并行 AI 编程的 Git Worktree 管理器]]
+- [[agent-desktop：基于无障碍树的桌面智能体控制]]
 - [[Claude Code 游戏开发工作室框架]]
-- [[Claude-Mem 持久化代理记忆系统]]
-- [[FreeToken 边缘端 MoE 推理引擎]]
+- [[claude-mem 跨会话智能体记忆系统]]
+- [[Colibri 本地 MoE 推理引擎]]

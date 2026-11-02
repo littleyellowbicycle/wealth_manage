@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-01'
+updated: '2026-11-02'
 tags:
 - 开源项目
 - AI
@@ -14,16 +14,16 @@ tags:
 status: processed
 note_type: content
 related:
-- AiSOC 可审计自托管 AI 安全运营中心
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - OpenBot：自托管 AI 同事平台
-- AI Engineering Hub 工程学习地图
+- agent-desktop：基于无障碍树的桌面智能体控制
 - Claude Code 游戏开发工作室框架
-- Claude-Mem 持久化代理记忆系统
-- FreeToken 边缘端 MoE 推理引擎
-- Handy 离线语音转写项目
-- Hex 本地优先语音听写工具
+- claude-mem 跨会话智能体记忆系统
+- Colibri 本地 MoE 推理引擎
+- FreeToken 边缘原生 MoE 本地推理
+- Heretic 免训练大语言模型修改框架
+- Kornia：可微分计算机视觉库
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -96,13 +96,13 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 在目标代码库中启动编码代理后，可使用 `security audit this codebase`、`find security vulnerabilities in ./src` 或指定输出目录的安全审计请求。未指定目录时，完整审计默认写入 `~/security-audit-skill/<repo-name>/run-<N>`；只有明确选择且被版本控制忽略时，工作流才会在目标仓库内写入文件。
 
 ## 相关笔记
-- [[AiSOC 可审计自托管 AI 安全运营中心]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[AI Engineering Hub 工程学习地图]]
+- [[agent-desktop：基于无障碍树的桌面智能体控制]]
 - [[Claude Code 游戏开发工作室框架]]
-- [[Claude-Mem 持久化代理记忆系统]]
-- [[FreeToken 边缘端 MoE 推理引擎]]
-- [[Handy 离线语音转写项目]]
-- [[Hex 本地优先语音听写工具]]
+- [[claude-mem 跨会话智能体记忆系统]]
+- [[Colibri 本地 MoE 推理引擎]]
+- [[FreeToken 边缘原生 MoE 本地推理]]
+- [[Heretic 免训练大语言模型修改框架]]
+- [[Kornia：可微分计算机视觉库]]

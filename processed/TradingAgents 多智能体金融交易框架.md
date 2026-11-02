@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-11-01'
+updated: '2026-11-02'
 tags:
 - AI
 - 开源项目
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
+- agent-desktop：基于无障碍树的桌面智能体控制
 - Claude Code 游戏开发工作室框架
-- OpenMausBot 本地优先多智能体工作台
+- claude-mem 跨会话智能体记忆系统
+- Paperclip：AI 智能体组织编排与治理
+- T3 Code 跨端 AI 智能体控制面板
+- Heretic 免训练大语言模型修改框架
+- nanochat：低成本大模型训练实验框架
 - OpenShell 自主 AI 智能体安全运行时
-- 基于 bt 与 alphalens 的多因子回测框架实践
-- 纳指ETF策略选择方法论：数据驱动的回测决策框架
-- AI Engineering Hub 工程学习地图
-- AiSOC 可审计自托管 AI 安全运营中心
-- Claude-Mem 持久化代理记忆系统
-- Cloudflare 多阶段安全审计 Skill
+- Scrapling：Python 一体化网页抓取框架
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -125,12 +125,12 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[agent-desktop：基于无障碍树的桌面智能体控制]]
 - [[Claude Code 游戏开发工作室框架]]
-- [[OpenMausBot 本地优先多智能体工作台]]
+- [[claude-mem 跨会话智能体记忆系统]]
+- [[Paperclip：AI 智能体组织编排与治理]]
+- [[T3 Code 跨端 AI 智能体控制面板]]
+- [[Heretic 免训练大语言模型修改框架]]
+- [[nanochat：低成本大模型训练实验框架]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
-- [[基于 bt 与 alphalens 的多因子回测框架实践]]
-- [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
-- [[AI Engineering Hub 工程学习地图]]
-- [[AiSOC 可审计自托管 AI 安全运营中心]]
-- [[Claude-Mem 持久化代理记忆系统]]
-- [[Cloudflare 多阶段安全审计 Skill]]
+- [[Scrapling：Python 一体化网页抓取框架]]
