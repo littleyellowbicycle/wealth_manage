@@ -11,27 +11,29 @@
   "AI": [
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
-    "Claude Code 游戏开发工作室框架.md",
+    "Claude Code Game Studios 游戏开发模板.md",
+    "Claude-Mem 跨会话智能体记忆系统.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Colibri 本地 MoE 推理引擎.md",
-    "FreeToken 边缘原生 MoE 本地推理.md",
-    "Heretic 免训练大语言模型修改框架.md",
-    "Kornia：可微分计算机视觉库.md",
+    "Heretic：语言模型无训练行为改造工具.md",
+    "Hex 本地语音听写工具.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "OpenBot：自托管 AI 同事平台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
-    "Paperclip：AI 智能体组织编排与治理.md",
-    "Scrapling：Python 一体化网页抓取框架.md",
+    "Scrapling：一体化 Python 网页抓取框架.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
-    "T3 Code 跨端 AI 智能体控制面板.md",
+    "Spotify Portal AI 插件工作流.md",
     "TradingAgents 多智能体金融交易框架.md",
-    "Worktrunk：面向并行 AI 编程的 Git Worktree 管理器.md",
-    "agent-desktop：基于无障碍树的桌面智能体控制.md",
-    "claude-mem 跨会话智能体记忆系统.md",
-    "nanochat：低成本大模型训练实验框架.md",
-    "财报分析框架蒸馏为 AI Skill 的实践.md"
+    "Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI.md",
+    "agent-desktop：面向 AI 代理的跨平台桌面操作工具.md",
+    "colibri 本地 MoE 分层推理引擎.md",
+    "mattpocock skills 软件工程技能集.md",
+    "财报分析框架蒸馏为 AI Skill 的实践.md",
+    "闲鱼 AI 智能监控系统.md"
+  ],
+  "AWS": [
+    "Floci：免费开源的本地 AWS 模拟器.md"
   ],
   "Agent": [
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
@@ -109,8 +111,8 @@
   "B站学习": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md"
   ],
-  "CLI工具": [
-    "Worktrunk：面向并行 AI 编程的 Git Worktree 管理器.md"
+  "CLI": [
+    "Spotify Portal AI 插件工作流.md"
   ],
   "CRS": [
     "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md"
@@ -119,7 +121,7 @@
     "新加坡学生签作为海外金融账户入口.md"
   ],
   "Claude Code": [
-    "Claude Code 游戏开发工作室框架.md"
+    "Claude Code Game Studios 游戏开发模板.md"
   ],
   "CoCo助手": [
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -132,6 +134,9 @@
     "投资视角下的上市公司年报阅读框架.md",
     "牛市形成的三驾马车与四大规律.md",
     "牛市的形成逻辑：三驾马车与全球规律.md"
+  ],
+  "Docker": [
+    "闲鱼 AI 智能监控系统.md"
   ],
   "ETF": [
     "A股散户投资框架：ETF优先与独立择时.md",
@@ -172,10 +177,8 @@
     "Qbot 开源量化交易闭环系统.md"
   ],
   "GitHub开源": [
+    "Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI.md",
     "个人趋势跟踪量化交易系统七年实践.md"
-  ],
-  "Git工作树": [
-    "Worktrunk：面向并行 AI 编程的 Git Worktree 管理器.md"
   ],
   "KDJ": [
     "Qbot 量化交易平台与均线类策略实现.md"
@@ -190,19 +193,19 @@
   "Linux.do": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
   ],
-  "Linux桌面": [
-    "Hyprland Wayland 平铺合成器概览.md"
-  ],
   "MACD": [
     "MACD与布林线实战：短线中线技术形态选股框架.md",
     "MACD与布林线选股模式体系.md",
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
+  "MCP": [
+    "Claude-Mem 跨会话智能体记忆系统.md"
+  ],
   "MR Dang": [
     "知乎与支付宝开源投资博主汇总与抄作业哲学.md"
   ],
-  "MoE": [
-    "Colibri 本地 MoE 推理引擎.md"
+  "MoE架构": [
+    "colibri 本地 MoE 分层推理引擎.md"
   ],
   "Nodeseek": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -217,13 +220,13 @@
   "PB-ROE框架": [
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
   ],
-  "PyTorch": [
-    "Kornia：可微分计算机视觉库.md"
+  "Playwright": [
+    "闲鱼 AI 智能监控系统.md"
   ],
   "Python": [
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
-    "Scrapling：Python 一体化网页抓取框架.md",
+    "Scrapling：一体化 Python 网页抓取框架.md",
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
   ],
   "Qbot": [
@@ -251,9 +254,6 @@
   "V2EX": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
   ],
-  "Wayland": [
-    "Hyprland Wayland 平铺合成器概览.md"
-  ],
   "WorldQuant": [
     "量化投资入门三步法：从认知到实战的系统路径.md"
   ],
@@ -263,7 +263,7 @@
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
   ],
   "上下文工程": [
-    "claude-mem 跨会话智能体记忆系统.md"
+    "Claude-Mem 跨会话智能体记忆系统.md"
   ],
   "下沉市场": [
     "环南京都市圈的极致性价比生活图景.md"
@@ -361,6 +361,9 @@
   "事件驱动策略": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md"
+  ],
+  "云模拟器": [
+    "Floci：免费开源的本地 AWS 模拟器.md"
   ],
   "交易": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md",
@@ -586,11 +589,14 @@
   "反弹反转": [
     "股票承接力判断与反弹反转识别.md"
   ],
+  "反爬绕过": [
+    "Scrapling：一体化 Python 网页抓取框架.md"
+  ],
   "反身性理论": [
     "金融炼金术的智识真诚.md"
   ],
-  "可微分计算": [
-    "Kornia：可微分计算机视觉库.md"
+  "可访问性树": [
+    "agent-desktop：面向 AI 代理的跨平台桌面操作工具.md"
   ],
   "可转债": [
     "低频量化投资：指标筛选结合条件单的极简框架.md"
@@ -794,15 +800,10 @@
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
   "多智能体": [
-    "Claude Code 游戏开发工作室框架.md",
-    "Paperclip：AI 智能体组织编排与治理.md",
-    "T3 Code 跨端 AI 智能体控制面板.md",
-    "TradingAgents 多智能体金融交易框架.md",
-    "agent-desktop：基于无障碍树的桌面智能体控制.md",
-    "claude-mem 跨会话智能体记忆系统.md"
+    "TradingAgents 多智能体金融交易框架.md"
   ],
   "大模型推理": [
-    "Colibri 本地 MoE 推理引擎.md"
+    "colibri 本地 MoE 分层推理引擎.md"
   ],
   "大盘股": [
     "矿股永续增长与大盘低估的本质.md",
@@ -814,10 +815,9 @@
   "大语言模型": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md",
-    "Heretic 免训练大语言模型修改框架.md",
+    "Heretic：语言模型无训练行为改造工具.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-    "nanochat：低成本大模型训练实验框架.md"
+    "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
   ],
   "大额存单": [
     "300万存款的利息收益规划与生活方式.md"
@@ -960,39 +960,38 @@
   "库存周期": [
     "股票投资中的周期研究与自学路径.md"
   ],
-  "开发工具": [
-    "T3 Code 跨端 AI 智能体控制面板.md"
+  "开发工作流": [
+    "mattpocock skills 软件工程技能集.md"
   ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
-    "Claude Code 游戏开发工作室框架.md",
+    "Claude Code Game Studios 游戏开发模板.md",
+    "Claude-Mem 跨会话智能体记忆系统.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Colibri 本地 MoE 推理引擎.md",
-    "FreeToken 边缘原生 MoE 本地推理.md",
-    "Heretic 免训练大语言模型修改框架.md",
-    "Hyprland Wayland 平铺合成器概览.md",
-    "Kornia：可微分计算机视觉库.md",
+    "Floci：免费开源的本地 AWS 模拟器.md",
+    "Heretic：语言模型无训练行为改造工具.md",
+    "Hex 本地语音听写工具.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
     "OpenBot：自托管 AI 同事平台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
-    "Paperclip：AI 智能体组织编排与治理.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
-    "Scrapling：Python 一体化网页抓取框架.md",
+    "Scrapling：一体化 Python 网页抓取框架.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
-    "T3 Code 跨端 AI 智能体控制面板.md",
+    "Spotify Portal AI 插件工作流.md",
     "TradingAgents 多智能体金融交易框架.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-    "Worktrunk：面向并行 AI 编程的 Git Worktree 管理器.md",
-    "agent-desktop：基于无障碍树的桌面智能体控制.md",
-    "claude-mem 跨会话智能体记忆系统.md",
+    "Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI.md",
+    "agent-desktop：面向 AI 代理的跨平台桌面操作工具.md",
+    "colibri 本地 MoE 分层推理引擎.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-    "nanochat：低成本大模型训练实验框架.md",
-    "七年自建趋势跟踪交易系统实战复盘.md"
+    "mattpocock skills 软件工程技能集.md",
+    "七年自建趋势跟踪交易系统实战复盘.md",
+    "闲鱼 AI 智能监控系统.md"
   ],
   "开窍": [
     "开窍与交易认知跃迁 从归因错误到95322规律.md"
@@ -1258,9 +1257,6 @@
   "护城河": [
     "个股基本面分析三步框架.md"
   ],
-  "拒绝抑制": [
-    "Heretic 免训练大语言模型修改框架.md"
-  ],
   "持续学习": [
     "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md"
   ],
@@ -1275,9 +1271,6 @@
   ],
   "换手率": [
     "CH4因子模型：A股四维定价框架与实战应用.md"
-  ],
-  "推理优化": [
-    "nanochat：低成本大模型训练实验框架.md"
   ],
   "提示工程": [
     "财报分析框架蒸馏为 AI Skill 的实践.md"
@@ -1309,8 +1302,7 @@
   ],
   "数据": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
-    "AI时代个人量化生存指南.md",
-    "Scrapling：Python 一体化网页抓取框架.md"
+    "AI时代个人量化生存指南.md"
   ],
   "新加坡": [
     "新加坡学生签作为海外金融账户入口.md"
@@ -1334,9 +1326,6 @@
     "无脑执行投资策略：三段式仓位管理法.md",
     "极简化投资策略 年线触M5与巨无霸回撤建仓.md"
   ],
-  "无障碍树": [
-    "agent-desktop：基于无障碍树的桌面智能体控制.md"
-  ],
   "日本经验": [
     "央行放水为何引发通缩：中日美三种应对模式的对比与启示.md"
   ],
@@ -1348,6 +1337,9 @@
   ],
   "智能体平台": [
     "OpenBot：自托管 AI 同事平台.md"
+  ],
+  "智能体记忆": [
+    "Claude-Mem 跨会话智能体记忆系统.md"
   ],
   "智能网格": [
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
@@ -1361,8 +1353,14 @@
   "本地优先": [
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
-  "本地部署": [
-    "Colibri 本地 MoE 推理引擎.md"
+  "本地大模型": [
+    "colibri 本地 MoE 分层推理引擎.md"
+  ],
+  "本地开发": [
+    "Floci：免费开源的本地 AWS 模拟器.md"
+  ],
+  "本地语音听写": [
+    "Hex 本地语音听写工具.md"
   ],
   "本金安全": [
     "20万现金的阶梯式资产配置方案.md"
@@ -1411,14 +1409,8 @@
     "连跌反弹概率策略与1124建仓法.md",
     "连跌反弹统计策略与1124建仓法.md"
   ],
-  "模型修改": [
-    "Heretic 免训练大语言模型修改框架.md"
-  ],
-  "模型推理": [
-    "FreeToken 边缘原生 MoE 本地推理.md"
-  ],
-  "模型训练": [
-    "nanochat：低成本大模型训练实验框架.md"
+  "模型行为优化": [
+    "Heretic：语言模型无训练行为改造工具.md"
   ],
   "止损": [
     "BOLL短线两种高胜率策略与仓位管理.md",
@@ -1497,16 +1489,13 @@
     "涨停板操盘密码：10种形态的主力意图与留走策略.md",
     "游资庄家的真实赚钱逻辑.md"
   ],
-  "混合专家模型": [
-    "FreeToken 边缘原生 MoE 本地推理.md"
-  ],
   "港股": [
     "ETF懒人组合实战 中美港三地红利配置.md",
     "懒人ETF组合：中港美红利三足鼎立配置法.md",
     "高股息ETF精选清单：按分红频率分层配置.md"
   ],
   "游戏开发": [
-    "Claude Code 游戏开发工作室框架.md"
+    "Claude Code Game Studios 游戏开发模板.md"
   ],
   "游资庄家": [
     "游资庄家的真实赚钱逻辑.md",
@@ -1679,8 +1668,7 @@
     "国产科技主升浪在即，锂电五月迎加速段.md"
   ],
   "管理": [
-    "Hyprland Wayland 平铺合成器概览.md",
-    "Paperclip：AI 智能体组织编排与治理.md",
+    "Claude Code Game Studios 游戏开发模板.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "大跌复盘三件事与组合沙箱工具.md",
     "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1715,7 +1703,7 @@
     "Cloudflare 多阶段安全审计 Skill.md"
   ],
   "网络爬虫": [
-    "Scrapling：Python 一体化网页抓取框架.md"
+    "Scrapling：一体化 Python 网页抓取框架.md"
   ],
   "美股": [
     "无脑执行投资策略：三段式仓位管理法.md",
@@ -1773,7 +1761,8 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
-    "agent-desktop：基于无障碍树的桌面智能体控制.md",
+    "Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI.md",
+    "agent-desktop：面向 AI 代理的跨平台桌面操作工具.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1784,9 +1773,6 @@
   ],
   "自我反思": [
     "股票投资的学习门槛与能力自检.md"
-  ],
-  "自托管": [
-    "Paperclip：AI 智能体组织编排与治理.md"
   ],
   "舆情调研": [
     "散户低价国企股的舆情调研与人事博弈策略.md"
@@ -1822,9 +1808,6 @@
   "见顶信号": [
     "牛市见顶信号对比框架 2015 vs 2025.md"
   ],
-  "计算机视觉": [
-    "Kornia：可微分计算机视觉库.md"
-  ],
   "认知升级": [
     "穷富差距的本质：时间、砸钱与使用权的三重分野.md"
   ],
@@ -1837,8 +1820,8 @@
   "认知迭代": [
     "股票投资的学习门槛与能力自检.md"
   ],
-  "记忆系统": [
-    "claude-mem 跨会话智能体记忆系统.md"
+  "语音识别": [
+    "Hex 本地语音听写工具.md"
   ],
   "读书笔记": [
     "索罗斯与金融炼金术的阅读感受.md",
@@ -2007,14 +1990,17 @@
   "趣味科普": [
     "股票市场术语民间图解.md"
   ],
+  "跨平台应用": [
+    "Hex 本地语音听写工具.md"
+  ],
   "身份规划": [
     "新加坡学生签作为海外金融账户入口.md"
   ],
-  "边缘推理": [
-    "FreeToken 边缘原生 MoE 本地推理.md"
+  "软件工程": [
+    "mattpocock skills 软件工程技能集.md"
   ],
-  "远程开发": [
-    "T3 Code 跨端 AI 智能体控制面板.md"
+  "软件目录": [
+    "Spotify Portal AI 插件工作流.md"
   ],
   "连跌反弹": [
     "连跌反弹概率策略与1124建仓法.md",
@@ -2152,6 +2138,9 @@
   "长线持仓": [
     "涨停异动低价小盘股筛选与长线持有策略.md"
   ],
+  "闲鱼监控": [
+    "闲鱼 AI 智能监控系统.md"
+  ],
   "阶层跨越": [
     "穷富差距的本质：时间、砸钱与使用权的三重分野.md"
   ],
@@ -2198,7 +2187,8 @@
     "知乎炒股区优质创作者推荐与筛选方法.md",
     "职业投资者的五层投资体系框架.md",
     "财务报表分析实战指南.md",
-    "锂矿禁令与世界杯题材投资机会梳理.md"
+    "锂矿禁令与世界杯题材投资机会梳理.md",
+    "闲鱼 AI 智能监控系统.md"
   ],
   "风险提示": [
     "A股跌停地天板套利战法：30日均线偏离度筛选与地天板博弈.md",

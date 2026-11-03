@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-02'
+updated: '2026-11-03'
 tags:
 - 开源项目
 - AI
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - SkillSpector：AI Agent 技能安全扫描器
+- 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- Paperclip：AI 智能体组织编排与治理
-- T3 Code 跨端 AI 智能体控制面板
-- agent-desktop：基于无障碍树的桌面智能体控制
-- claude-mem 跨会话智能体记忆系统
+- agent-desktop：面向 AI 代理的跨平台桌面操作工具
+- Claude-Mem 跨会话智能体记忆系统
+- Spotify Portal AI 插件工作流
 - TradingAgents 多智能体金融交易框架
-- Worktrunk：面向并行 AI 编程的 Git Worktree 管理器
-- Claude Code 游戏开发工作室框架
+- Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI
+- Claude Code Game Studios 游戏开发模板
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -132,12 +132,12 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 
 ## 相关笔记
 - [[SkillSpector：AI Agent 技能安全扫描器]]
+- [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[Paperclip：AI 智能体组织编排与治理]]
-- [[T3 Code 跨端 AI 智能体控制面板]]
-- [[agent-desktop：基于无障碍树的桌面智能体控制]]
-- [[claude-mem 跨会话智能体记忆系统]]
+- [[agent-desktop：面向 AI 代理的跨平台桌面操作工具]]
+- [[Claude-Mem 跨会话智能体记忆系统]]
+- [[Spotify Portal AI 插件工作流]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Worktrunk：面向并行 AI 编程的 Git Worktree 管理器]]
-- [[Claude Code 游戏开发工作室框架]]
+- [[Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI]]
+- [[Claude Code Game Studios 游戏开发模板]]

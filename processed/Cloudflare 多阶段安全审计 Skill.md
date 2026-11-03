@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-02'
+updated: '2026-11-03'
 tags:
 - 开源项目
 - AI
@@ -17,13 +17,13 @@ related:
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - OpenBot：自托管 AI 同事平台
-- agent-desktop：基于无障碍树的桌面智能体控制
-- Claude Code 游戏开发工作室框架
-- claude-mem 跨会话智能体记忆系统
-- Colibri 本地 MoE 推理引擎
-- FreeToken 边缘原生 MoE 本地推理
-- Heretic 免训练大语言模型修改框架
-- Kornia：可微分计算机视觉库
+- 闲鱼 AI 智能监控系统
+- agent-desktop：面向 AI 代理的跨平台桌面操作工具
+- Claude Code Game Studios 游戏开发模板
+- Claude-Mem 跨会话智能体记忆系统
+- colibri 本地 MoE 分层推理引擎
+- Heretic：语言模型无训练行为改造工具
+- Hex 本地语音听写工具
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -99,10 +99,10 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[agent-desktop：基于无障碍树的桌面智能体控制]]
-- [[Claude Code 游戏开发工作室框架]]
-- [[claude-mem 跨会话智能体记忆系统]]
-- [[Colibri 本地 MoE 推理引擎]]
-- [[FreeToken 边缘原生 MoE 本地推理]]
-- [[Heretic 免训练大语言模型修改框架]]
-- [[Kornia：可微分计算机视觉库]]
+- [[闲鱼 AI 智能监控系统]]
+- [[agent-desktop：面向 AI 代理的跨平台桌面操作工具]]
+- [[Claude Code Game Studios 游戏开发模板]]
+- [[Claude-Mem 跨会话智能体记忆系统]]
+- [[colibri 本地 MoE 分层推理引擎]]
+- [[Heretic：语言模型无训练行为改造工具]]
+- [[Hex 本地语音听写工具]]

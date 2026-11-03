@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-02'
+updated: '2026-11-03'
 tags:
 - 开源项目
 - AI
@@ -15,14 +15,14 @@ note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
+- 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
-- Paperclip：AI 智能体组织编排与治理
-- T3 Code 跨端 AI 智能体控制面板
-- Worktrunk：面向并行 AI 编程的 Git Worktree 管理器
-- agent-desktop：基于无障碍树的桌面智能体控制
-- Claude Code 游戏开发工作室框架
-- claude-mem 跨会话智能体记忆系统
-- Colibri 本地 MoE 推理引擎
+- agent-desktop：面向 AI 代理的跨平台桌面操作工具
+- Spotify Portal AI 插件工作流
+- Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI
+- Claude Code Game Studios 游戏开发模板
+- Claude-Mem 跨会话智能体记忆系统
+- colibri 本地 MoE 分层推理引擎
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -108,11 +108,11 @@ related:
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
+- [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Paperclip：AI 智能体组织编排与治理]]
-- [[T3 Code 跨端 AI 智能体控制面板]]
-- [[Worktrunk：面向并行 AI 编程的 Git Worktree 管理器]]
-- [[agent-desktop：基于无障碍树的桌面智能体控制]]
-- [[Claude Code 游戏开发工作室框架]]
-- [[claude-mem 跨会话智能体记忆系统]]
-- [[Colibri 本地 MoE 推理引擎]]
+- [[agent-desktop：面向 AI 代理的跨平台桌面操作工具]]
+- [[Spotify Portal AI 插件工作流]]
+- [[Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI]]
+- [[Claude Code Game Studios 游戏开发模板]]
+- [[Claude-Mem 跨会话智能体记忆系统]]
+- [[colibri 本地 MoE 分层推理引擎]]

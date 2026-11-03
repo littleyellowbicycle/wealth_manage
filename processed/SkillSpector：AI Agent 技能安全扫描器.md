@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-02'
+updated: '2026-11-03'
 tags:
 - AI
 - 开源项目
@@ -15,13 +15,13 @@ related:
 - OpenShell 自主 AI 智能体安全运行时
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- agent-desktop：基于无障碍树的桌面智能体控制
-- Paperclip：AI 智能体组织编排与治理
-- T3 Code 跨端 AI 智能体控制面板
-- Worktrunk：面向并行 AI 编程的 Git Worktree 管理器
-- Claude Code 游戏开发工作室框架
-- claude-mem 跨会话智能体记忆系统
-- Colibri 本地 MoE 推理引擎
+- 闲鱼 AI 智能监控系统
+- agent-desktop：面向 AI 代理的跨平台桌面操作工具
+- mattpocock skills 软件工程技能集
+- Spotify Portal AI 插件工作流
+- Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI
+- Claude Code Game Studios 游戏开发模板
+- Claude-Mem 跨会话智能体记忆系统
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -134,10 +134,10 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[agent-desktop：基于无障碍树的桌面智能体控制]]
-- [[Paperclip：AI 智能体组织编排与治理]]
-- [[T3 Code 跨端 AI 智能体控制面板]]
-- [[Worktrunk：面向并行 AI 编程的 Git Worktree 管理器]]
-- [[Claude Code 游戏开发工作室框架]]
-- [[claude-mem 跨会话智能体记忆系统]]
-- [[Colibri 本地 MoE 推理引擎]]
+- [[闲鱼 AI 智能监控系统]]
+- [[agent-desktop：面向 AI 代理的跨平台桌面操作工具]]
+- [[mattpocock skills 软件工程技能集]]
+- [[Spotify Portal AI 插件工作流]]
+- [[Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI]]
+- [[Claude Code Game Studios 游戏开发模板]]
+- [[Claude-Mem 跨会话智能体记忆系统]]
