@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-03'
+updated: '2026-11-04'
 tags:
 - AI
 - 开源项目
@@ -16,12 +16,12 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- agent-desktop：面向 AI 代理的跨平台桌面操作工具
-- mattpocock skills 软件工程技能集
-- Spotify Portal AI 插件工作流
-- Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI
-- Claude Code Game Studios 游戏开发模板
-- Claude-Mem 跨会话智能体记忆系统
+- agent-desktop：基于无障碍树的 AI 桌面操作工具
+- mattpocock skills 工程化 Agent 技能集
+- Scenario Agent Skills 创作自动化技能库
+- Horizon：AI 个性化新闻雷达
+- MoneyPrinterTurbo AI 短视频自动化工作流
+- PR-Agent 开源代码审查代理
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -135,9 +135,9 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[agent-desktop：面向 AI 代理的跨平台桌面操作工具]]
-- [[mattpocock skills 软件工程技能集]]
-- [[Spotify Portal AI 插件工作流]]
-- [[Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI]]
-- [[Claude Code Game Studios 游戏开发模板]]
-- [[Claude-Mem 跨会话智能体记忆系统]]
+- [[agent-desktop：基于无障碍树的 AI 桌面操作工具]]
+- [[mattpocock skills 工程化 Agent 技能集]]
+- [[Scenario Agent Skills 创作自动化技能库]]
+- [[Horizon：AI 个性化新闻雷达]]
+- [[MoneyPrinterTurbo AI 短视频自动化工作流]]
+- [[PR-Agent 开源代码审查代理]]

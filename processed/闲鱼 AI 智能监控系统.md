@@ -3,7 +3,7 @@ title: 闲鱼 AI 智能监控系统
 source: raw_20261103_233133_b4e1a9a6
 source_url: https://github.com/Usagi-org/ai-goofish-monitor
 created: '2026-11-03'
-updated: '2026-11-03'
+updated: '2026-11-04'
 tags:
 - 开源项目
 - AI
@@ -18,12 +18,12 @@ related:
 - OpenBot：自托管 AI 同事平台
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
-- agent-desktop：面向 AI 代理的跨平台桌面操作工具
-- Claude-Mem 跨会话智能体记忆系统
-- Spotify Portal AI 插件工作流
-- TradingAgents 多智能体金融交易框架
-- Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI
-- Claude Code Game Studios 游戏开发模板
+- agent-desktop：基于无障碍树的 AI 桌面操作工具
+- Claude-Mem 持久化智能体记忆架构
+- Horizon：AI 个性化新闻雷达
+- MoneyPrinterTurbo AI 短视频自动化工作流
+- NVIDIA Auto-Ontology：企业智能体语义上下文层
+- Spec Kit：AI 编程规格驱动工具包
 ---
 
 # 闲鱼 AI 智能监控系统
@@ -174,9 +174,9 @@ npm run dev
 - [[OpenBot：自托管 AI 同事平台]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[agent-desktop：面向 AI 代理的跨平台桌面操作工具]]
-- [[Claude-Mem 跨会话智能体记忆系统]]
-- [[Spotify Portal AI 插件工作流]]
-- [[TradingAgents 多智能体金融交易框架]]
-- [[Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI]]
-- [[Claude Code Game Studios 游戏开发模板]]
+- [[agent-desktop：基于无障碍树的 AI 桌面操作工具]]
+- [[Claude-Mem 持久化智能体记忆架构]]
+- [[Horizon：AI 个性化新闻雷达]]
+- [[MoneyPrinterTurbo AI 短视频自动化工作流]]
+- [[NVIDIA Auto-Ontology：企业智能体语义上下文层]]
+- [[Spec Kit：AI 编程规格驱动工具包]]

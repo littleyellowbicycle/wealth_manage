@@ -64,6 +64,7 @@
         "房价上涨的偿债周期逻辑与房产折旧陷阱.md",
         "技术分析的局限性与均线战法升级 (2).md",
         "技术分析的局限性与均线战法升级.md",
+        "投资.md",
         "投资人视角下的上市公司年报阅读框架.md",
         "投资投研网站工具大全 62 个分类整理.md",
         "投资视角下的上市公司年报阅读框架.md",
@@ -155,7 +156,7 @@
         "资产配置",
         "交易"
       ],
-      "note_count": 147
+      "note_count": 148
     },
     "A股": {
       "notes": [
@@ -379,6 +380,46 @@
       ],
       "note_count": 40
     },
+    "开源项目": {
+      "notes": [
+        "90DaysOfDevOps 三年 DevOps 学习地图.md",
+        "Claude-Mem 持久化智能体记忆架构.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "DiscImageStudio 光盘盘面图像生成与刻录.md",
+        "Floci：开源 AWS 本地模拟器.md",
+        "Horizon：AI 个性化新闻雷达.md",
+        "Kimi K3 C99 CPU 低内存推理架构.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "MoneyPrinterTurbo AI 短视频自动化工作流.md",
+        "NVIDIA Auto-Ontology：企业智能体语义上下文层.md",
+        "OpenBot：自托管 AI 同事平台.md",
+        "OpenShell 自主 AI 智能体安全运行时.md",
+        "PR-Agent 开源代码审查代理.md",
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "Qbot 量化交易平台与均线类策略实现.md",
+        "Scenario Agent Skills 创作自动化技能库.md",
+        "Scrapling 全流程网络采集框架.md",
+        "SkillSpector：AI Agent 技能安全扫描器.md",
+        "Spec Kit：AI 编程规格驱动工具包.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+        "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md",
+        "agent-desktop：基于无障碍树的 AI 桌面操作工具.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "gstack 虚拟工程团队工作流.md",
+        "mattpocock skills 工程化 Agent 技能集.md",
+        "七年自建趋势跟踪交易系统实战复盘.md",
+        "闲鱼 AI 智能监控系统.md"
+      ],
+      "subtopics": [
+        "AI",
+        "量化交易",
+        "风险控制"
+      ],
+      "note_count": 30
+    },
     "基金": {
       "notes": [
         "20万现金的阶梯式资产配置方案.md",
@@ -487,38 +528,38 @@
       ],
       "note_count": 26
     },
-    "开源项目": {
+    "AI": {
       "notes": [
-        "Claude Code Game Studios 游戏开发模板.md",
-        "Claude-Mem 跨会话智能体记忆系统.md",
+        "AI 供应链卡脖子环节投资框架.md",
+        "AI供应链卡脖子环节挖掘框架.md",
+        "Claude-Mem 持久化智能体记忆架构.md",
         "Cloudflare 多阶段安全审计 Skill.md",
-        "Floci：免费开源的本地 AWS 模拟器.md",
-        "Heretic：语言模型无训练行为改造工具.md",
-        "Hex 本地语音听写工具.md",
+        "Horizon：AI 个性化新闻雷达.md",
+        "Kimi K3 C99 CPU 低内存推理架构.md",
         "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "MoneyPrinterTurbo AI 短视频自动化工作流.md",
+        "NVIDIA Auto-Ontology：企业智能体语义上下文层.md",
         "OpenBot：自托管 AI 同事平台.md",
         "OpenShell 自主 AI 智能体安全运行时.md",
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "Qbot 量化交易平台与均线类策略实现.md",
-        "Scrapling：一体化 Python 网页抓取框架.md",
+        "PR-Agent 开源代码审查代理.md",
+        "Scenario Agent Skills 创作自动化技能库.md",
+        "Scrapling 全流程网络采集框架.md",
+        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
+        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
         "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Spotify Portal AI 插件工作流.md",
+        "Spec Kit：AI 编程规格驱动工具包.md",
         "TradingAgents 多智能体金融交易框架.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-        "Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI.md",
-        "agent-desktop：面向 AI 代理的跨平台桌面操作工具.md",
-        "colibri 本地 MoE 分层推理引擎.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "mattpocock skills 软件工程技能集.md",
-        "七年自建趋势跟踪交易系统实战复盘.md",
+        "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md",
+        "agent-desktop：基于无障碍树的 AI 桌面操作工具.md",
+        "gstack 虚拟工程团队工作流.md",
+        "mattpocock skills 工程化 Agent 技能集.md",
+        "财报分析框架蒸馏为 AI Skill 的实践.md",
         "闲鱼 AI 智能监控系统.md"
       ],
       "subtopics": [
-        "AI",
-        "量化交易",
-        "风险控制"
+        "开源项目",
+        "风险控制",
+        "投资"
       ],
       "note_count": 25
     },
@@ -555,38 +596,6 @@
         "基本面分析"
       ],
       "note_count": 24
-    },
-    "AI": {
-      "notes": [
-        "AI 供应链卡脖子环节投资框架.md",
-        "AI供应链卡脖子环节挖掘框架.md",
-        "Claude Code Game Studios 游戏开发模板.md",
-        "Claude-Mem 跨会话智能体记忆系统.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "Heretic：语言模型无训练行为改造工具.md",
-        "Hex 本地语音听写工具.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "OpenBot：自托管 AI 同事平台.md",
-        "OpenShell 自主 AI 智能体安全运行时.md",
-        "Scrapling：一体化 Python 网页抓取框架.md",
-        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
-        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-        "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Spotify Portal AI 插件工作流.md",
-        "TradingAgents 多智能体金融交易框架.md",
-        "Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI.md",
-        "agent-desktop：面向 AI 代理的跨平台桌面操作工具.md",
-        "colibri 本地 MoE 分层推理引擎.md",
-        "mattpocock skills 软件工程技能集.md",
-        "财报分析框架蒸馏为 AI Skill 的实践.md",
-        "闲鱼 AI 智能监控系统.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "风险控制",
-        "投资"
-      ],
-      "note_count": 22
     },
     "仓位管理": {
       "notes": [
@@ -1022,7 +1031,8 @@
     },
     "管理": {
       "notes": [
-        "Claude Code Game Studios 游戏开发模板.md",
+        "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md",
+        "gstack 虚拟工程团队工作流.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
         "大跌复盘三件事与组合沙箱工具.md",
         "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1034,10 +1044,10 @@
       ],
       "subtopics": [
         "投资",
-        "交易",
-        "资产配置"
+        "开源项目",
+        "交易"
       ],
-      "note_count": 9
+      "note_count": 10
     },
     "牛市": {
       "notes": [
@@ -1107,6 +1117,22 @@
       ],
       "note_count": 6
     },
+    "Agent": {
+      "notes": [
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "Scenario Agent Skills 创作自动化技能库.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "mattpocock skills 工程化 Agent 技能集.md",
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "开源项目",
+        "股票研究"
+      ],
+      "note_count": 6
+    },
     "周期理论": {
       "notes": [
         "K线圆弧角度分析的核心观点.md",
@@ -1141,8 +1167,8 @@
     },
     "自动化": {
       "notes": [
-        "Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI.md",
-        "agent-desktop：面向 AI 代理的跨平台桌面操作工具.md",
+        "MoneyPrinterTurbo AI 短视频自动化工作流.md",
+        "agent-desktop：基于无障碍树的 AI 桌面操作工具.md",
         "用 OpenClaw 搭建个人股票分析 Agent.md",
         "用OpenClaw搭建个人股票分析Agent.md",
         "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1158,8 +1184,8 @@
       "notes": [
         "AI 时代个人量化交易可行路径与核心铁律.md",
         "AI时代个人量化生存指南.md",
-        "Heretic：语言模型无训练行为改造工具.md",
         "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "PR-Agent 开源代码审查代理.md",
         "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
       ],
       "subtopics": [
@@ -1256,25 +1282,11 @@
       ],
       "note_count": 4
     },
-    "Agent": {
-      "notes": [
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "股票研究",
-        "大语言模型"
-      ],
-      "note_count": 4
-    },
     "Python": {
       "notes": [
         "Qbot 开源量化交易平台与经典技术指标策略实现.md",
         "Qbot 开源量化交易闭环系统.md",
-        "Scrapling：一体化 Python 网页抓取框架.md",
+        "Scrapling 全流程网络采集框架.md",
         "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
       ],
       "subtopics": [
@@ -1419,6 +1431,19 @@
         "投资",
         "AI",
         "卡脖子环节"
+      ],
+      "note_count": 3
+    },
+    "数据": {
+      "notes": [
+        "AI 时代个人量化交易可行路径与核心铁律.md",
+        "AI时代个人量化生存指南.md",
+        "Scrapling 全流程网络采集框架.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "大语言模型",
+        "事件驱动策略"
       ],
       "note_count": 3
     },
@@ -1668,6 +1693,30 @@
       ],
       "note_count": 2
     },
+    "学习路径": {
+      "notes": [
+        "90DaysOfDevOps 三年 DevOps 学习地图.md",
+        "量化投资入门三步法：从认知到实战的系统路径.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "DevOps",
+        "DevSecOps"
+      ],
+      "note_count": 2
+    },
+    "MCP": {
+      "notes": [
+        "Scenario Agent Skills 创作自动化技能库.md",
+        "agent-desktop：基于无障碍树的 AI 桌面操作工具.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "自动化"
+      ],
+      "note_count": 2
+    },
     "科技股": {
       "notes": [
         "AI 供应链卡脖子环节投资框架.md",
@@ -1677,18 +1726,6 @@
         "AI",
         "投资",
         "产业链研究"
-      ],
-      "note_count": 2
-    },
-    "数据": {
-      "notes": [
-        "AI 时代个人量化交易可行路径与核心铁律.md",
-        "AI时代个人量化生存指南.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "大语言模型",
-        "事件驱动策略"
       ],
       "note_count": 2
     },
@@ -1898,13 +1935,13 @@
     },
     "GitHub开源": {
       "notes": [
-        "Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI.md",
+        "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md",
         "个人趋势跟踪量化交易系统七年实践.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "自动化"
+        "管理"
       ],
       "note_count": 2
     },
@@ -2659,14 +2696,25 @@
       ],
       "note_count": 1
     },
-    "可访问性树": {
+    "DevOps": {
       "notes": [
-        "agent-desktop：面向 AI 代理的跨平台桌面操作工具.md"
+        "90DaysOfDevOps 三年 DevOps 学习地图.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "自动化"
+        "DevSecOps",
+        "学习路径"
+      ],
+      "note_count": 1
+    },
+    "DevSecOps": {
+      "notes": [
+        "90DaysOfDevOps 三年 DevOps 学习地图.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "DevOps",
+        "学习路径"
       ],
       "note_count": 1
     },
@@ -2835,58 +2883,25 @@
       ],
       "note_count": 1
     },
-    "游戏开发": {
+    "智能体记忆": {
       "notes": [
-        "Claude Code Game Studios 游戏开发模板.md"
+        "Claude-Mem 持久化智能体记忆架构.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "管理"
-      ],
-      "note_count": 1
-    },
-    "Claude Code": {
-      "notes": [
-        "Claude Code Game Studios 游戏开发模板.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "管理"
+        "上下文工程"
       ],
       "note_count": 1
     },
     "上下文工程": {
       "notes": [
-        "Claude-Mem 跨会话智能体记忆系统.md"
+        "Claude-Mem 持久化智能体记忆架构.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
+        "开源项目",
         "智能体记忆"
-      ],
-      "note_count": 1
-    },
-    "智能体记忆": {
-      "notes": [
-        "Claude-Mem 跨会话智能体记忆系统.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "上下文工程"
-      ],
-      "note_count": 1
-    },
-    "MCP": {
-      "notes": [
-        "Claude-Mem 跨会话智能体记忆系统.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "上下文工程"
       ],
       "note_count": 1
     },
@@ -2923,36 +2938,47 @@
       ],
       "note_count": 1
     },
-    "本地大模型": {
+    "光盘刻录": {
       "notes": [
-        "colibri 本地 MoE 分层推理引擎.md"
+        "DiscImageStudio 光盘盘面图像生成与刻录.md"
       ],
       "subtopics": [
         "开源项目",
-        "AI",
-        "大模型推理"
+        "盘面成像",
+        "介质编码"
       ],
       "note_count": 1
     },
-    "大模型推理": {
+    "盘面成像": {
       "notes": [
-        "colibri 本地 MoE 分层推理引擎.md"
+        "DiscImageStudio 光盘盘面图像生成与刻录.md"
       ],
       "subtopics": [
         "开源项目",
-        "AI",
-        "本地大模型"
+        "光盘刻录",
+        "介质编码"
       ],
       "note_count": 1
     },
-    "MoE架构": {
+    "介质编码": {
       "notes": [
-        "colibri 本地 MoE 分层推理引擎.md"
+        "DiscImageStudio 光盘盘面图像生成与刻录.md"
       ],
       "subtopics": [
         "开源项目",
-        "AI",
-        "本地大模型"
+        "光盘刻录",
+        "盘面成像"
+      ],
+      "note_count": 1
+    },
+    "辅助标定": {
+      "notes": [
+        "DiscImageStudio 光盘盘面图像生成与刻录.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "光盘刻录",
+        "盘面成像"
       ],
       "note_count": 1
     },
@@ -3000,29 +3026,18 @@
     },
     "AWS": {
       "notes": [
-        "Floci：免费开源的本地 AWS 模拟器.md"
+        "Floci：开源 AWS 本地模拟器.md"
       ],
       "subtopics": [
         "开源项目",
-        "本地开发",
-        "云模拟器"
-      ],
-      "note_count": 1
-    },
-    "本地开发": {
-      "notes": [
-        "Floci：免费开源的本地 AWS 模拟器.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AWS",
-        "云模拟器"
+        "云模拟器",
+        "本地开发"
       ],
       "note_count": 1
     },
     "云模拟器": {
       "notes": [
-        "Floci：免费开源的本地 AWS 模拟器.md"
+        "Floci：开源 AWS 本地模拟器.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3031,47 +3046,102 @@
       ],
       "note_count": 1
     },
-    "模型行为优化": {
+    "本地开发": {
       "notes": [
-        "Heretic：语言模型无训练行为改造工具.md"
+        "Floci：开源 AWS 本地模拟器.md"
       ],
       "subtopics": [
         "开源项目",
-        "AI",
-        "大语言模型"
+        "AWS",
+        "云模拟器"
       ],
       "note_count": 1
     },
-    "语音识别": {
+    "CI/CD": {
       "notes": [
-        "Hex 本地语音听写工具.md"
+        "Floci：开源 AWS 本地模拟器.md"
       ],
       "subtopics": [
         "开源项目",
-        "AI",
-        "本地语音听写"
+        "AWS",
+        "云模拟器"
       ],
       "note_count": 1
     },
-    "本地语音听写": {
+    "代理工作流": {
       "notes": [
-        "Hex 本地语音听写工具.md"
+        "gstack 虚拟工程团队工作流.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "语音识别"
+        "管理"
       ],
       "note_count": 1
     },
-    "跨平台应用": {
+    "新闻聚合": {
       "notes": [
-        "Hex 本地语音听写工具.md"
+        "Horizon：AI 个性化新闻雷达.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "语音识别"
+        "信息过滤"
+      ],
+      "note_count": 1
+    },
+    "信息过滤": {
+      "notes": [
+        "Horizon：AI 个性化新闻雷达.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "新闻聚合"
+      ],
+      "note_count": 1
+    },
+    "每日简报": {
+      "notes": [
+        "Horizon：AI 个性化新闻雷达.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "新闻聚合"
+      ],
+      "note_count": 1
+    },
+    "大模型推理": {
+      "notes": [
+        "Kimi K3 C99 CPU 低内存推理架构.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "模型量化"
+      ],
+      "note_count": 1
+    },
+    "模型量化": {
+      "notes": [
+        "Kimi K3 C99 CPU 低内存推理架构.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "大模型推理"
+      ],
+      "note_count": 1
+    },
+    "C语言": {
+      "notes": [
+        "Kimi K3 C99 CPU 低内存推理架构.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "大模型推理"
       ],
       "note_count": 1
     },
@@ -3154,23 +3224,67 @@
     },
     "软件工程": {
       "notes": [
-        "mattpocock skills 软件工程技能集.md"
+        "mattpocock skills 工程化 Agent 技能集.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
-        "开发工作流"
+        "开源项目",
+        "Agent"
       ],
       "note_count": 1
     },
-    "开发工作流": {
+    "短视频生成": {
       "notes": [
-        "mattpocock skills 软件工程技能集.md"
+        "MoneyPrinterTurbo AI 短视频自动化工作流.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "自动化"
+      ],
+      "note_count": 1
+    },
+    "多模型接入": {
+      "notes": [
+        "MoneyPrinterTurbo AI 短视频自动化工作流.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "短视频生成"
+      ],
+      "note_count": 1
+    },
+    "语义层": {
+      "notes": [
+        "NVIDIA Auto-Ontology：企业智能体语义上下文层.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "软件工程"
+        "知识图谱"
+      ],
+      "note_count": 1
+    },
+    "知识图谱": {
+      "notes": [
+        "NVIDIA Auto-Ontology：企业智能体语义上下文层.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "语义层"
+      ],
+      "note_count": 1
+    },
+    "Text-to-SQL": {
+      "notes": [
+        "NVIDIA Auto-Ontology：企业智能体语义上下文层.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "语义层"
       ],
       "note_count": 1
     },
@@ -3262,6 +3376,17 @@
       ],
       "note_count": 1
     },
+    "代码审查": {
+      "notes": [
+        "PR-Agent 开源代码审查代理.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "大语言模型"
+      ],
+      "note_count": 1
+    },
     "GitHub": {
       "notes": [
         "Qbot 开源量化交易闭环系统.md"
@@ -3284,20 +3409,20 @@
       ],
       "note_count": 1
     },
-    "网络爬虫": {
+    "生成式媒体": {
       "notes": [
-        "Scrapling：一体化 Python 网页抓取框架.md"
+        "Scenario Agent Skills 创作自动化技能库.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "Python"
+        "Agent"
       ],
       "note_count": 1
     },
-    "反爬绕过": {
+    "网络爬虫": {
       "notes": [
-        "Scrapling：一体化 Python 网页抓取框架.md"
+        "Scrapling 全流程网络采集框架.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3361,25 +3486,13 @@
       ],
       "note_count": 1
     },
-    "CLI": {
+    "规格驱动开发": {
       "notes": [
-        "Spotify Portal AI 插件工作流.md"
+        "Spec Kit：AI 编程规格驱动工具包.md"
       ],
       "subtopics": [
         "开源项目",
-        "AI",
-        "软件目录"
-      ],
-      "note_count": 1
-    },
-    "软件目录": {
-      "notes": [
-        "Spotify Portal AI 插件工作流.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "CLI"
+        "AI"
       ],
       "note_count": 1
     },
@@ -3457,6 +3570,17 @@
         "开源项目",
         "资产配置",
         "个人理财"
+      ],
+      "note_count": 1
+    },
+    "CLI工具": {
+      "notes": [
+        "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "管理"
       ],
       "note_count": 1
     },
@@ -5425,17 +5549,6 @@
       ],
       "note_count": 1
     },
-    "学习路径": {
-      "notes": [
-        "量化投资入门三步法：从认知到实战的系统路径.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "因子挖掘",
-        "WorldQuant"
-      ],
-      "note_count": 1
-    },
     "因子挖掘": {
       "notes": [
         "量化投资入门三步法：从认知到实战的系统路径.md"
@@ -5642,5 +5755,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-11-03T23:45:06"
+  "last_rebuilt": "2026-11-04T23:46:07"
 }

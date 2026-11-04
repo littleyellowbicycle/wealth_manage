@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-03'
+updated: '2026-11-04'
 tags:
 - 开源项目
 - AI
@@ -17,12 +17,12 @@ related:
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- agent-desktop：面向 AI 代理的跨平台桌面操作工具
-- Claude-Mem 跨会话智能体记忆系统
-- Spotify Portal AI 插件工作流
-- TradingAgents 多智能体金融交易框架
-- Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI
-- Claude Code Game Studios 游戏开发模板
+- agent-desktop：基于无障碍树的 AI 桌面操作工具
+- Claude-Mem 持久化智能体记忆架构
+- Horizon：AI 个性化新闻雷达
+- MoneyPrinterTurbo AI 短视频自动化工作流
+- NVIDIA Auto-Ontology：企业智能体语义上下文层
+- Spec Kit：AI 编程规格驱动工具包
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -135,9 +135,9 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[agent-desktop：面向 AI 代理的跨平台桌面操作工具]]
-- [[Claude-Mem 跨会话智能体记忆系统]]
-- [[Spotify Portal AI 插件工作流]]
-- [[TradingAgents 多智能体金融交易框架]]
-- [[Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI]]
-- [[Claude Code Game Studios 游戏开发模板]]
+- [[agent-desktop：基于无障碍树的 AI 桌面操作工具]]
+- [[Claude-Mem 持久化智能体记忆架构]]
+- [[Horizon：AI 个性化新闻雷达]]
+- [[MoneyPrinterTurbo AI 短视频自动化工作流]]
+- [[NVIDIA Auto-Ontology：企业智能体语义上下文层]]
+- [[Spec Kit：AI 编程规格驱动工具包]]

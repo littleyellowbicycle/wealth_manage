@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-03'
+updated: '2026-11-04'
 tags:
 - 开源项目
 - AI
@@ -17,12 +17,12 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
-- agent-desktop：面向 AI 代理的跨平台桌面操作工具
-- Spotify Portal AI 插件工作流
-- Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI
-- Claude Code Game Studios 游戏开发模板
-- Claude-Mem 跨会话智能体记忆系统
-- colibri 本地 MoE 分层推理引擎
+- agent-desktop：基于无障碍树的 AI 桌面操作工具
+- Horizon：AI 个性化新闻雷达
+- MoneyPrinterTurbo AI 短视频自动化工作流
+- Spec Kit：AI 编程规格驱动工具包
+- Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI
+- Claude-Mem 持久化智能体记忆架构
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -110,9 +110,9 @@ related:
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[agent-desktop：面向 AI 代理的跨平台桌面操作工具]]
-- [[Spotify Portal AI 插件工作流]]
-- [[Worktrunk：并行 AI 代理的 Git Worktree 管理 CLI]]
-- [[Claude Code Game Studios 游戏开发模板]]
-- [[Claude-Mem 跨会话智能体记忆系统]]
-- [[colibri 本地 MoE 分层推理引擎]]
+- [[agent-desktop：基于无障碍树的 AI 桌面操作工具]]
+- [[Horizon：AI 个性化新闻雷达]]
+- [[MoneyPrinterTurbo AI 短视频自动化工作流]]
+- [[Spec Kit：AI 编程规格驱动工具包]]
+- [[Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI]]
+- [[Claude-Mem 持久化智能体记忆架构]]
