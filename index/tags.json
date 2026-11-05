@@ -11,38 +11,37 @@
   "AI": [
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
-    "Claude-Mem 持久化智能体记忆架构.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Horizon：AI 个性化新闻雷达.md",
-    "Kimi K3 C99 CPU 低内存推理架构.md",
+    "Garden Skills：AI 编程代理技能库.md",
+    "Google Agent Skills 云端技能库.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
-    "MoneyPrinterTurbo AI 短视频自动化工作流.md",
-    "NVIDIA Auto-Ontology：企业智能体语义上下文层.md",
+    "Matt Pocock 工程智能体技能集.md",
+    "NVIDIA Auto Ontology 企业语义层框架.md",
     "OpenBot：自托管 AI 同事平台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
-    "PR-Agent 开源代码审查代理.md",
-    "Scenario Agent Skills 创作自动化技能库.md",
-    "Scrapling 全流程网络采集框架.md",
+    "Scenario Agent Skills 多模态创作技能库.md",
+    "Scrapling 网页抓取与爬虫框架.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
-    "Spec Kit：AI 编程规格驱动工具包.md",
     "TradingAgents 多智能体金融交易框架.md",
-    "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md",
-    "agent-desktop：基于无障碍树的 AI 桌面操作工具.md",
+    "VibeVoice 开源语音模型架构与部署要点.md",
+    "Worktrunk：并行 AI 智能体的 Git Worktree 管理 CLI.md",
+    "agent-browser：AI 智能体浏览器自动化 CLI.md",
+    "agent-desktop：基于可访问性树的桌面代理控制层.md",
     "gstack 虚拟工程团队工作流.md",
-    "mattpocock skills 工程化 Agent 技能集.md",
     "财报分析框架蒸馏为 AI Skill 的实践.md",
     "闲鱼 AI 智能监控系统.md"
   ],
-  "AWS": [
-    "Floci：开源 AWS 本地模拟器.md"
+  "AWS模拟器": [
+    "Floci 开源本地 AWS 模拟器.md"
   ],
   "Agent": [
+    "Garden Skills：AI 编程代理技能库.md",
+    "Google Agent Skills 云端技能库.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "Scenario Agent Skills 创作自动化技能库.md",
+    "Scenario Agent Skills 多模态创作技能库.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-    "mattpocock skills 工程化 Agent 技能集.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md"
   ],
@@ -116,17 +115,17 @@
   "B站学习": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md"
   ],
-  "CI/CD": [
-    "Floci：开源 AWS 本地模拟器.md"
-  ],
-  "CLI工具": [
-    "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md"
+  "CLI": [
+    "Worktrunk：并行 AI 智能体的 Git Worktree 管理 CLI.md"
   ],
   "CRS": [
     "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md"
   ],
   "CRS税务": [
     "新加坡学生签作为海外金融账户入口.md"
+  ],
+  "Claude Code": [
+    "gstack 虚拟工程团队工作流.md"
   ],
   "CoCo助手": [
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -136,18 +135,12 @@
     "高派息ETF组合：Covered Call策略驱动的月度现金流方案.md"
   ],
   "C语言": [
-    "Kimi K3 C99 CPU 低内存推理架构.md"
+    "LZ4：高速无损压缩算法与工程集成.md"
   ],
   "DCF模型": [
     "投资视角下的上市公司年报阅读框架.md",
     "牛市形成的三驾马车与四大规律.md",
     "牛市的形成逻辑：三驾马车与全球规律.md"
-  ],
-  "DevOps": [
-    "90DaysOfDevOps 三年 DevOps 学习地图.md"
-  ],
-  "DevSecOps": [
-    "90DaysOfDevOps 三年 DevOps 学习地图.md"
   ],
   "Docker": [
     "闲鱼 AI 智能监控系统.md"
@@ -187,12 +180,17 @@
     "PB-ROE框架复现：GARP策略的量化实证.md",
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
   ],
+  "Git Worktree": [
+    "Worktrunk：并行 AI 智能体的 Git Worktree 管理 CLI.md"
+  ],
   "GitHub": [
     "Qbot 开源量化交易闭环系统.md"
   ],
   "GitHub开源": [
-    "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md",
     "个人趋势跟踪量化交易系统七年实践.md"
+  ],
+  "Google Cloud": [
+    "Google Agent Skills 云端技能库.md"
   ],
   "KDJ": [
     "Qbot 量化交易平台与均线类策略实现.md"
@@ -213,8 +211,10 @@
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
   "MCP": [
-    "Scenario Agent Skills 创作自动化技能库.md",
-    "agent-desktop：基于无障碍树的 AI 桌面操作工具.md"
+    "Google Agent Skills 云端技能库.md",
+    "Scenario Agent Skills 多模态创作技能库.md",
+    "Scrapling 网页抓取与爬虫框架.md",
+    "agent-desktop：基于可访问性树的桌面代理控制层.md"
   ],
   "MR Dang": [
     "知乎与支付宝开源投资博主汇总与抄作业哲学.md"
@@ -238,7 +238,7 @@
   "Python": [
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
-    "Scrapling 全流程网络采集框架.md",
+    "Scrapling 网页抓取与爬虫框架.md",
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
   ],
   "Qbot": [
@@ -255,13 +255,14 @@
     "股票投资中的周期研究与自学路径.md"
   ],
   "Rust": [
-    "Wealthfolio：本地优先的个人财务追踪开源工具.md"
+    "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+    "agent-desktop：基于可访问性树的桌面代理控制层.md"
   ],
   "Serenity": [
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md"
   ],
   "Text-to-SQL": [
-    "NVIDIA Auto-Ontology：企业智能体语义上下文层.md"
+    "NVIDIA Auto Ontology 企业语义层框架.md"
   ],
   "Transformer": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
@@ -276,9 +277,6 @@
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 量化交易平台与均线类策略实现.md",
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
-  ],
-  "上下文工程": [
-    "Claude-Mem 持久化智能体记忆架构.md"
   ],
   "下沉市场": [
     "环南京都市圈的极致性价比生活图景.md"
@@ -377,9 +375,6 @@
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md"
   ],
-  "云模拟器": [
-    "Floci：开源 AWS 本地模拟器.md"
-  ],
   "交易": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md",
     "BOLL短线两种高胜率策略与仓位管理.md",
@@ -449,9 +444,6 @@
     "县城产业兴衰研究与差异化经营案例.md",
     "县城产业兴衰研究法与多元商业逻辑.md"
   ],
-  "介质编码": [
-    "DiscImageStudio 光盘盘面图像生成与刻录.md"
-  ],
   "仓位管理": [
     "A股平台突破实战策略.md",
     "A股散户情绪逆向投资法与低估值选股框架.md",
@@ -483,12 +475,6 @@
   ],
   "代操盘教训": [
     "散户投资的人性困境：追涨杀跌与代操盘教训.md"
-  ],
-  "代理工作流": [
-    "gstack 虚拟工程团队工作流.md"
-  ],
-  "代码审查": [
-    "PR-Agent 开源代码审查代理.md"
   ],
   "代码审计": [
     "Cloudflare 多阶段安全审计 Skill.md"
@@ -526,9 +512,6 @@
   ],
   "供应链安全": [
     "SkillSpector：AI Agent 技能安全扫描器.md"
-  ],
-  "信息过滤": [
-    "Horizon：AI 个性化新闻雷达.md"
   ],
   "信用紧缩": [
     "中国房价与债务周期：顶部不可维持的底层逻辑.md"
@@ -824,13 +807,12 @@
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
   "多智能体": [
-    "TradingAgents 多智能体金融交易框架.md"
+    "TradingAgents 多智能体金融交易框架.md",
+    "agent-browser：AI 智能体浏览器自动化 CLI.md"
   ],
-  "多模型接入": [
-    "MoneyPrinterTurbo AI 短视频自动化工作流.md"
-  ],
-  "大模型推理": [
-    "Kimi K3 C99 CPU 低内存推理架构.md"
+  "多模态生成": [
+    "Garden Skills：AI 编程代理技能库.md",
+    "Scenario Agent Skills 多模态创作技能库.md"
   ],
   "大盘股": [
     "矿股永续增长与大盘低估的本质.md",
@@ -843,7 +825,6 @@
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "PR-Agent 开源代码审查代理.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
   ],
   "大额存单": [
@@ -877,7 +858,6 @@
     "炒股如同高考 持续学习才是出路.md"
   ],
   "学习路径": [
-    "90DaysOfDevOps 三年 DevOps 学习地图.md",
     "量化投资入门三步法：从认知到实战的系统路径.md"
   ],
   "宏观": [
@@ -926,6 +906,9 @@
   ],
   "家庭经营": [
     "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md"
+  ],
+  "容器化": [
+    "Floci 开源本地 AWS 模拟器.md"
   ],
   "宽基指数": [
     "科技股B浪反弹前的仓位与盘面复盘.md"
@@ -985,41 +968,45 @@
     "投资人视角下的上市公司年报阅读框架.md",
     "投资视角下的上市公司年报阅读框架.md"
   ],
+  "并行开发": [
+    "Worktrunk：并行 AI 智能体的 Git Worktree 管理 CLI.md"
+  ],
   "库存周期": [
     "股票投资中的周期研究与自学路径.md"
+  ],
+  "开发工作流": [
+    "Matt Pocock 工程智能体技能集.md"
   ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
-    "90DaysOfDevOps 三年 DevOps 学习地图.md",
-    "Claude-Mem 持久化智能体记忆架构.md",
     "Cloudflare 多阶段安全审计 Skill.md",
     "DiscImageStudio 光盘盘面图像生成与刻录.md",
-    "Floci：开源 AWS 本地模拟器.md",
-    "Horizon：AI 个性化新闻雷达.md",
-    "Kimi K3 C99 CPU 低内存推理架构.md",
+    "Floci 开源本地 AWS 模拟器.md",
+    "Garden Skills：AI 编程代理技能库.md",
+    "Google Agent Skills 云端技能库.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "MoneyPrinterTurbo AI 短视频自动化工作流.md",
-    "NVIDIA Auto-Ontology：企业智能体语义上下文层.md",
+    "LZ4：高速无损压缩算法与工程集成.md",
+    "Matt Pocock 工程智能体技能集.md",
+    "NVIDIA Auto Ontology 企业语义层框架.md",
     "OpenBot：自托管 AI 同事平台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
-    "PR-Agent 开源代码审查代理.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
-    "Scenario Agent Skills 创作自动化技能库.md",
-    "Scrapling 全流程网络采集框架.md",
+    "Scenario Agent Skills 多模态创作技能库.md",
+    "Scrapling 网页抓取与爬虫框架.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
-    "Spec Kit：AI 编程规格驱动工具包.md",
     "TradingAgents 多智能体金融交易框架.md",
+    "VibeVoice 开源语音模型架构与部署要点.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-    "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md",
-    "agent-desktop：基于无障碍树的 AI 桌面操作工具.md",
+    "Worktrunk：并行 AI 智能体的 Git Worktree 管理 CLI.md",
+    "agent-browser：AI 智能体浏览器自动化 CLI.md",
+    "agent-desktop：基于可访问性树的桌面代理控制层.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
     "gstack 虚拟工程团队工作流.md",
-    "mattpocock skills 工程化 Agent 技能集.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "闲鱼 AI 智能监控系统.md"
   ],
@@ -1291,6 +1278,9 @@
   "持续学习": [
     "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md"
   ],
+  "持续集成": [
+    "Floci 开源本地 AWS 模拟器.md"
+  ],
   "指标对比": [
     "牛市见顶信号对比框架 2015 vs 2025.md"
   ],
@@ -1333,8 +1323,7 @@
   ],
   "数据": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
-    "AI时代个人量化生存指南.md",
-    "Scrapling 全流程网络采集框架.md"
+    "AI时代个人量化生存指南.md"
   ],
   "新加坡": [
     "新加坡学生签作为海外金融账户入口.md"
@@ -1350,12 +1339,12 @@
     "国产科技与锂电赛道复盘：板块结构与短期交易思路.md",
     "国产科技主升浪在即，锂电五月迎加速段.md"
   ],
-  "新闻聚合": [
-    "Horizon：AI 个性化新闻雷达.md"
-  ],
   "方法论": [
     "知乎三位投资领域高影响力答主风格速览.md",
     "知乎三位高价值投资内容创作者推荐.md"
+  ],
+  "无损压缩": [
+    "LZ4：高速无损压缩算法与工程集成.md"
   ],
   "无脑执行": [
     "无脑执行投资策略：三段式仓位管理法.md",
@@ -1373,8 +1362,8 @@
   "智能体平台": [
     "OpenBot：自托管 AI 同事平台.md"
   ],
-  "智能体记忆": [
-    "Claude-Mem 持久化智能体记忆架构.md"
+  "智能体技能": [
+    "Matt Pocock 工程智能体技能集.md"
   ],
   "智能网格": [
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
@@ -1387,9 +1376,6 @@
   ],
   "本地优先": [
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
-  ],
-  "本地开发": [
-    "Floci：开源 AWS 本地模拟器.md"
   ],
   "本金安全": [
     "20万现金的阶梯式资产配置方案.md"
@@ -1438,9 +1424,6 @@
     "连跌反弹概率策略与1124建仓法.md",
     "连跌反弹统计策略与1124建仓法.md"
   ],
-  "模型量化": [
-    "Kimi K3 C99 CPU 低内存推理架构.md"
-  ],
   "止损": [
     "BOLL短线两种高胜率策略与仓位管理.md",
     "下跌趋势中的补仓纪律.md",
@@ -1456,9 +1439,6 @@
   "止盈": [
     "基金投资从入门到实操：选基、定投与止盈的系统方法.md",
     "支付宝基金投资四步法：选基、定投、止盈与实操建议.md"
-  ],
-  "每日简报": [
-    "Horizon：AI 个性化新闻雷达.md"
   ],
   "比亚迪": [
     "比亚迪与海油双轮做T实战记录.md"
@@ -1552,6 +1532,9 @@
     "牛市的形成逻辑：三驾马车与全球规律.md",
     "牛市见顶信号对比框架 2015 vs 2025.md"
   ],
+  "物理层编码": [
+    "DiscImageStudio 光盘盘面图像生成与刻录.md"
+  ],
   "特征工程": [
     "机器学习在量化交易中的应用要点.md"
   ],
@@ -1574,9 +1557,6 @@
     "支付宝基金投资四步法：选基、定投、止盈与实操建议.md",
     "知乎开源投资博主跟单指南.md",
     "知乎理财收藏夹：边城的个人理财资料汇总.md"
-  ],
-  "生成式媒体": [
-    "Scenario Agent Skills 创作自动化技能库.md"
   ],
   "生活成本": [
     "环南京都市圈的极致性价比生活图景.md"
@@ -1638,7 +1618,7 @@
     "股票付费内容的定价与价值审视.md"
   ],
   "知识图谱": [
-    "NVIDIA Auto-Ontology：企业智能体语义上下文层.md"
+    "NVIDIA Auto Ontology 企业语义层框架.md"
   ],
   "知识归档": [
     "寒武纪的鳄鱼知乎内容归档.md"
@@ -1651,9 +1631,6 @@
   ],
   "短线操作": [
     "连跌反弹概率策略与1124建仓法.md"
-  ],
-  "短视频生成": [
-    "MoneyPrinterTurbo AI 短视频自动化工作流.md"
   ],
   "矿业股": [
     "紫金矿业 藏格矿业 兴业银锡 持仓成本与目标价复盘.md"
@@ -1709,7 +1686,6 @@
     "国产科技主升浪在即，锂电五月迎加速段.md"
   ],
   "管理": [
-    "Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI.md",
     "gstack 虚拟工程团队工作流.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "大跌复盘三件事与组合沙箱工具.md",
@@ -1741,11 +1717,14 @@
   "经验分享": [
     "知乎高资金量交易者推荐三人.md"
   ],
+  "编程智能体": [
+    "gstack 虚拟工程团队工作流.md"
+  ],
   "网络安全": [
     "Cloudflare 多阶段安全审计 Skill.md"
   ],
   "网络爬虫": [
-    "Scrapling 全流程网络采集框架.md"
+    "Scrapling 网页抓取与爬虫框架.md"
   ],
   "美股": [
     "无脑执行投资策略：三段式仓位管理法.md",
@@ -1803,8 +1782,8 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
-    "MoneyPrinterTurbo AI 短视频自动化工作流.md",
-    "agent-desktop：基于无障碍树的 AI 桌面操作工具.md",
+    "agent-browser：AI 智能体浏览器自动化 CLI.md",
+    "agent-desktop：基于可访问性树的桌面代理控制层.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1850,9 +1829,6 @@
   "见顶信号": [
     "牛市见顶信号对比框架 2015 vs 2025.md"
   ],
-  "规格驱动开发": [
-    "Spec Kit：AI 编程规格驱动工具包.md"
-  ],
   "认知升级": [
     "穷富差距的本质：时间、砸钱与使用权的三重分野.md"
   ],
@@ -1866,7 +1842,16 @@
     "股票投资的学习门槛与能力自检.md"
   ],
   "语义层": [
-    "NVIDIA Auto-Ontology：企业智能体语义上下文层.md"
+    "NVIDIA Auto Ontology 企业语义层框架.md"
+  ],
+  "语音合成": [
+    "VibeVoice 开源语音模型架构与部署要点.md"
+  ],
+  "语音大模型": [
+    "VibeVoice 开源语音模型架构与部署要点.md"
+  ],
+  "语音识别": [
+    "VibeVoice 开源语音模型架构与部署要点.md"
   ],
   "读书笔记": [
     "索罗斯与金融炼金术的阅读感受.md",
@@ -2039,10 +2024,10 @@
     "新加坡学生签作为海外金融账户入口.md"
   ],
   "软件工程": [
-    "mattpocock skills 工程化 Agent 技能集.md"
+    "gstack 虚拟工程团队工作流.md"
   ],
-  "辅助标定": [
-    "DiscImageStudio 光盘盘面图像生成与刻录.md"
+  "软件工程方法": [
+    "Matt Pocock 工程智能体技能集.md"
   ],
   "连跌反弹": [
     "连跌反弹概率策略与1124建仓法.md",
@@ -2251,6 +2236,9 @@
     "央国企高股息组合配置思路与火电板块更新.md",
     "普通人多元资产配置实战：分红底仓加风险平价增强.md",
     "高红利白马股均线买卖策略.md"
+  ],
+  "高速压缩": [
+    "LZ4：高速无损压缩算法与工程集成.md"
   ],
   "黄金": [
     "跟随国家队买：A股最简投资策略.md",

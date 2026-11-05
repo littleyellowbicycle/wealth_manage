@@ -3,7 +3,7 @@ title: Kronos：面向金融K线序列的首个开源基础模型
 source: raw_20261020_014255_c4757d03
 source_url: https://github.com/shiyu-coder/Kronos
 created: '2026-10-20'
-updated: '2026-11-04'
+updated: '2026-11-05'
 tags:
 - AI
 - 交易
@@ -16,14 +16,14 @@ note_type: content
 related:
 - TradingAgents 多智能体金融交易框架
 - 基于 bt 与 alphalens 的多因子回测框架实践
+- VibeVoice 开源语音模型架构与部署要点
 - K线圆弧角度分析的核心观点
 - K线圆弧角度理论 金融市场的半圆数学
 - Qbot 开源量化交易平台与经典技术指标策略实现
-- Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI
 - 分钟级K线涨跌跟随策略的回测：高频交易是负和博弈
 - 2万元交易员付费课性价比存疑 B站免费资源更优
-- agent-desktop：基于无障碍树的 AI 桌面操作工具
-- BOLL短线两种高胜率策略与仓位管理
+- agent-browser：AI 智能体浏览器自动化 CLI
+- agent-desktop：基于可访问性树的桌面代理控制层
 ---
 
 # Kronos：面向金融K线序列的首个开源基础模型
@@ -99,11 +99,11 @@ License：MIT。
 ## 相关笔记
 - [[TradingAgents 多智能体金融交易框架]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
+- [[VibeVoice 开源语音模型架构与部署要点]]
 - [[K线圆弧角度分析的核心观点]]
 - [[K线圆弧角度理论 金融市场的半圆数学]]
 - [[Qbot 开源量化交易平台与经典技术指标策略实现]]
-- [[Worktrunk：面向并行 AI 代理的 Git 工作树管理 CLI]]
 - [[分钟级K线涨跌跟随策略的回测：高频交易是负和博弈]]
 - [[2万元交易员付费课性价比存疑 B站免费资源更优]]
-- [[agent-desktop：基于无障碍树的 AI 桌面操作工具]]
-- [[BOLL短线两种高胜率策略与仓位管理]]
+- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[agent-desktop：基于可访问性树的桌面代理控制层]]
