@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-05'
+updated: '2026-11-06'
 tags:
 - 开源项目
 - AI
@@ -17,12 +17,12 @@ related:
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- agent-browser：AI 智能体浏览器自动化 CLI
-- Worktrunk：并行 AI 智能体的 Git Worktree 管理 CLI
-- Garden Skills：AI 编程代理技能库
-- Matt Pocock 工程智能体技能集
+- Google Agent Skills 云端 AI 工作流技能库
 - TradingAgents 多智能体金融交易框架
-- agent-desktop：基于可访问性树的桌面代理控制层
+- Kronos：面向金融K线序列的首个开源基础模型
+- NVIDIA Auto Ontology 企业语义层
+- Ruby on Rails 框架概览
+- 面向真实工程实践的 Agent Skills 技能库
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -135,9 +135,9 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
-- [[Worktrunk：并行 AI 智能体的 Git Worktree 管理 CLI]]
-- [[Garden Skills：AI 编程代理技能库]]
-- [[Matt Pocock 工程智能体技能集]]
+- [[Google Agent Skills 云端 AI 工作流技能库]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[agent-desktop：基于可访问性树的桌面代理控制层]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[NVIDIA Auto Ontology 企业语义层]]
+- [[Ruby on Rails 框架概览]]
+- [[面向真实工程实践的 Agent Skills 技能库]]

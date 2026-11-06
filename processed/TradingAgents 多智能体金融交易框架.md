@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-11-05'
+updated: '2026-11-06'
 tags:
 - AI
 - 开源项目
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
-- agent-browser：AI 智能体浏览器自动化 CLI
-- Matt Pocock 工程智能体技能集
-- NVIDIA Auto Ontology 企业语义层框架
 - OpenShell 自主 AI 智能体安全运行时
-- Scrapling 网页抓取与爬虫框架
-- Worktrunk：并行 AI 智能体的 Git Worktree 管理 CLI
+- Ruby on Rails 框架概览
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - 纳指ETF策略选择方法论：数据驱动的回测决策框架
 - 闲鱼 AI 智能监控系统
+- Cloudflare 多阶段安全审计 Skill
+- ETF网格交易实战：标的选择与策略优化
+- Google Agent Skills 云端 AI 工作流技能库
+- NVIDIA Auto Ontology 企业语义层
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -125,12 +125,12 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
-- [[Matt Pocock 工程智能体技能集]]
-- [[NVIDIA Auto Ontology 企业语义层框架]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
-- [[Scrapling 网页抓取与爬虫框架]]
-- [[Worktrunk：并行 AI 智能体的 Git Worktree 管理 CLI]]
+- [[Ruby on Rails 框架概览]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
 - [[闲鱼 AI 智能监控系统]]
+- [[Cloudflare 多阶段安全审计 Skill]]
+- [[ETF网格交易实战：标的选择与策略优化]]
+- [[Google Agent Skills 云端 AI 工作流技能库]]
+- [[NVIDIA Auto Ontology 企业语义层]]

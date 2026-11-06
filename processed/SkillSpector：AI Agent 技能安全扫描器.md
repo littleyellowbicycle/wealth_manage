@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-05'
+updated: '2026-11-06'
 tags:
 - AI
 - 开源项目
@@ -16,12 +16,12 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- agent-browser：AI 智能体浏览器自动化 CLI
-- Garden Skills：AI 编程代理技能库
-- Google Agent Skills 云端技能库
-- Scenario Agent Skills 多模态创作技能库
-- agent-desktop：基于可访问性树的桌面代理控制层
-- Matt Pocock 工程智能体技能集
+- Google Agent Skills 云端 AI 工作流技能库
+- 面向真实工程实践的 Agent Skills 技能库
+- Kronos：面向金融K线序列的首个开源基础模型
+- NVIDIA Auto Ontology 企业语义层
+- Ruby on Rails 框架概览
+- TradingAgents 多智能体金融交易框架
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -135,9 +135,9 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
-- [[Garden Skills：AI 编程代理技能库]]
-- [[Google Agent Skills 云端技能库]]
-- [[Scenario Agent Skills 多模态创作技能库]]
-- [[agent-desktop：基于可访问性树的桌面代理控制层]]
-- [[Matt Pocock 工程智能体技能集]]
+- [[Google Agent Skills 云端 AI 工作流技能库]]
+- [[面向真实工程实践的 Agent Skills 技能库]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[NVIDIA Auto Ontology 企业语义层]]
+- [[Ruby on Rails 框架概览]]
+- [[TradingAgents 多智能体金融交易框架]]

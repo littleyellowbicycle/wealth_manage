@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-05'
+updated: '2026-11-06'
 tags:
 - 开源项目
 - AI
@@ -18,12 +18,12 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- agent-browser：AI 智能体浏览器自动化 CLI
-- agent-desktop：基于可访问性树的桌面代理控制层
-- Garden Skills：AI 编程代理技能库
-- Google Agent Skills 云端技能库
-- gstack 虚拟工程团队工作流
+- Google Agent Skills 云端 AI 工作流技能库
 - Kronos：面向金融K线序列的首个开源基础模型
+- NVIDIA Auto Ontology 企业语义层
+- Ruby on Rails 框架概览
+- TradingAgents 多智能体金融交易框架
+- 面向真实工程实践的 Agent Skills 技能库
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -100,9 +100,9 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
-- [[agent-desktop：基于可访问性树的桌面代理控制层]]
-- [[Garden Skills：AI 编程代理技能库]]
-- [[Google Agent Skills 云端技能库]]
-- [[gstack 虚拟工程团队工作流]]
+- [[Google Agent Skills 云端 AI 工作流技能库]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[NVIDIA Auto Ontology 企业语义层]]
+- [[Ruby on Rails 框架概览]]
+- [[TradingAgents 多智能体金融交易框架]]
+- [[面向真实工程实践的 Agent Skills 技能库]]

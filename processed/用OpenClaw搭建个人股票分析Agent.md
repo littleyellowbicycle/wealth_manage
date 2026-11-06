@@ -3,7 +3,7 @@ title: 用OpenClaw搭建个人股票分析Agent
 source: raw_20260624_162129_b095d6b3
 source_url: https://www.zhihu.com/question/2011480826848764785/answer/2011489116341149800
 created: '2026-06-29'
-updated: '2026-11-05'
+updated: '2026-11-06'
 tags:
 - 量化交易
 - OpenClaw
@@ -17,12 +17,12 @@ related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
 - 全面分析股票的十大维度：从股价到行业的系统框架
-- agent-browser：AI 智能体浏览器自动化 CLI
-- agent-desktop：基于可访问性树的桌面代理控制层
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- Google Agent Skills 云端技能库
-- Scenario Agent Skills 多模态创作技能库
+- Google Agent Skills 云端 AI 工作流技能库
+- 个人趋势跟踪量化交易系统七年实践
+- 个股基本面分析三步框架
+- 基本面分析的五问框架与认知劝退
 note_type: content
 ---
 
@@ -80,9 +80,9 @@ Agent会在固定时间自动抓取实时行情、结合新闻与技术面，输
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
 - [[全面分析股票的十大维度：从股价到行业的系统框架]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
-- [[agent-desktop：基于可访问性树的桌面代理控制层]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[Google Agent Skills 云端技能库]]
-- [[Scenario Agent Skills 多模态创作技能库]]
+- [[Google Agent Skills 云端 AI 工作流技能库]]
+- [[个人趋势跟踪量化交易系统七年实践]]
+- [[个股基本面分析三步框架]]
+- [[基本面分析的五问框架与认知劝退]]
