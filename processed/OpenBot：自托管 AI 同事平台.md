@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-06'
+updated: '2026-11-07'
 tags:
 - 开源项目
 - AI
@@ -17,12 +17,12 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
-- NVIDIA Auto Ontology 企业语义层
-- Google Agent Skills 云端 AI 工作流技能库
-- Kronos：面向金融K线序列的首个开源基础模型
-- Ruby on Rails 框架概览
-- TradingAgents 多智能体金融交易框架
-- 面向真实工程实践的 Agent Skills 技能库
+- agent-browser：AI 智能体浏览器自动化 CLI
+- NVKE：自托管 GPU Kubernetes 集群工厂
+- Anthropic Agent Skills 开源参考库
+- Astryx：面向人类与 Agent 的开源设计系统
+- billion-context 长会话上下文压缩
+- Google Agent Skills 技能库指南
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -110,9 +110,9 @@ related:
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[NVIDIA Auto Ontology 企业语义层]]
-- [[Google Agent Skills 云端 AI 工作流技能库]]
-- [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Ruby on Rails 框架概览]]
-- [[TradingAgents 多智能体金融交易框架]]
-- [[面向真实工程实践的 Agent Skills 技能库]]
+- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[NVKE：自托管 GPU Kubernetes 集群工厂]]
+- [[Anthropic Agent Skills 开源参考库]]
+- [[Astryx：面向人类与 Agent 的开源设计系统]]
+- [[billion-context 长会话上下文压缩]]
+- [[Google Agent Skills 技能库指南]]
