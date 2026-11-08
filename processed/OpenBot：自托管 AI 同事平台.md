@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-07'
+updated: '2026-11-08'
 tags:
 - 开源项目
 - AI
@@ -17,12 +17,12 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
-- agent-browser：AI 智能体浏览器自动化 CLI
+- agent-browser：面向 AI Agent 的浏览器自动化 CLI
+- Astryx 开源设计系统：组件、主题与 AI 工具链
 - NVKE：自托管 GPU Kubernetes 集群工厂
-- Anthropic Agent Skills 开源参考库
-- Astryx：面向人类与 Agent 的开源设计系统
-- billion-context 长会话上下文压缩
-- Google Agent Skills 技能库指南
+- Anthropic Agent Skills 仓库与实践指南
+- billion-context 长会话上下文压缩方案
+- Claude API Quickstarts 项目集
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -110,9 +110,9 @@ related:
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
+- [[Astryx 开源设计系统：组件、主题与 AI 工具链]]
 - [[NVKE：自托管 GPU Kubernetes 集群工厂]]
-- [[Anthropic Agent Skills 开源参考库]]
-- [[Astryx：面向人类与 Agent 的开源设计系统]]
-- [[billion-context 长会话上下文压缩]]
-- [[Google Agent Skills 技能库指南]]
+- [[Anthropic Agent Skills 仓库与实践指南]]
+- [[billion-context 长会话上下文压缩方案]]
+- [[Claude API Quickstarts 项目集]]

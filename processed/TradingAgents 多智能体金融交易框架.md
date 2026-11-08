@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-11-07'
+updated: '2026-11-08'
 tags:
 - AI
 - 开源项目
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
-- OpenMausBot：本地优先的多智能体桌面工作台
-- agent-browser：AI 智能体浏览器自动化 CLI
+- OpenMausBot：本地优先的多智能体工作台
 - OpenShell 自主 AI 智能体安全运行时
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - 纳指ETF策略选择方法论：数据驱动的回测决策框架
 - 闲鱼 AI 智能监控系统
-- Anthropic Agent Skills 开源参考库
-- Astryx：面向人类与 Agent 的开源设计系统
-- billion-context 长会话上下文压缩
+- agent-browser：面向 AI Agent 的浏览器自动化 CLI
+- Anthropic Agent Skills 仓库与实践指南
+- Astryx 开源设计系统：组件、主题与 AI 工具链
+- billion-context 长会话上下文压缩方案
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -125,12 +125,12 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[OpenMausBot：本地优先的多智能体桌面工作台]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[OpenMausBot：本地优先的多智能体工作台]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Anthropic Agent Skills 开源参考库]]
-- [[Astryx：面向人类与 Agent 的开源设计系统]]
-- [[billion-context 长会话上下文压缩]]
+- [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
+- [[Anthropic Agent Skills 仓库与实践指南]]
+- [[Astryx 开源设计系统：组件、主题与 AI 工具链]]
+- [[billion-context 长会话上下文压缩方案]]

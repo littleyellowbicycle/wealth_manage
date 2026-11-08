@@ -11,35 +11,30 @@
   "AI": [
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
-    "Anthropic Agent Skills 开源参考库.md",
-    "Astryx：面向人类与 Agent 的开源设计系统.md",
+    "Anthropic Agent Skills 仓库与实践指南.md",
+    "Astryx 开源设计系统：组件、主题与 AI 工具链.md",
+    "Claude API Quickstarts 项目集.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Google Agent Skills 技能库指南.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
+    "MuJoCo 多关节接触物理仿真引擎.md",
     "NVKE：自托管 GPU Kubernetes 集群工厂.md",
     "OpenBot：自托管 AI 同事平台.md",
-    "OpenMausBot：本地优先的多智能体桌面工作台.md",
+    "OpenMausBot：本地优先的多智能体工作台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
     "TradingAgents 多智能体金融交易框架.md",
-    "agent-browser：AI 智能体浏览器自动化 CLI.md",
-    "billion-context 长会话上下文压缩.md",
-    "mattpocock skills：真实工程导向的 Agent Skills 集合.md",
+    "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md",
+    "billion-context 长会话上下文压缩方案.md",
     "财报分析框架蒸馏为 AI Skill 的实践.md",
     "闲鱼 AI 智能监控系统.md"
   ],
   "Agent": [
-    "Anthropic Agent Skills 开源参考库.md",
-    "Astryx：面向人类与 Agent 的开源设计系统.md",
-    "Google Agent Skills 技能库指南.md",
+    "Anthropic Agent Skills 仓库与实践指南.md",
+    "Claude API Quickstarts 项目集.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "OpenMausBot：本地优先的多智能体桌面工作台.md",
-    "agent-browser：AI 智能体浏览器自动化 CLI.md",
-    "billion-context 长会话上下文压缩.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-    "mattpocock skills：真实工程导向的 Agent Skills 集合.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md"
   ],
@@ -113,20 +108,17 @@
   "B站学习": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md"
   ],
-  "CLI": [
-    "agent-browser：AI 智能体浏览器自动化 CLI.md"
-  ],
   "CRS": [
     "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md"
   ],
   "CRS税务": [
     "新加坡学生签作为海外金融账户入口.md"
   ],
-  "CSS框架": [
-    "Tailwind CSS 项目概览.md"
-  ],
   "Claude": [
-    "Anthropic Agent Skills 开源参考库.md"
+    "Anthropic Agent Skills 仓库与实践指南.md"
+  ],
+  "Claude API": [
+    "Claude API Quickstarts 项目集.md"
   ],
   "CoCo助手": [
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -178,7 +170,7 @@
     "PB-ROE框架复现：GARP策略的量化实证.md",
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
   ],
-  "GPU集群": [
+  "GPU": [
     "NVKE：自托管 GPU Kubernetes 集群工厂.md"
   ],
   "GitHub": [
@@ -186,12 +178,6 @@
   ],
   "GitHub开源": [
     "个人趋势跟踪量化交易系统七年实践.md"
-  ],
-  "Google Cloud": [
-    "Google Agent Skills 技能库指南.md"
-  ],
-  "Home Assistant": [
-    "LocalThings：三星家电局域网控制集成.md"
   ],
   "KDJ": [
     "Qbot 量化交易平台与均线类策略实现.md"
@@ -215,10 +201,13 @@
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
   "MCP": [
-    "Google Agent Skills 技能库指南.md"
+    "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md"
   ],
   "MR Dang": [
     "知乎与支付宝开源投资博主汇总与抄作业哲学.md"
+  ],
+  "NVIDIA": [
+    "NVKE：自托管 GPU Kubernetes 集群工厂.md"
   ],
   "Nodeseek": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -242,7 +231,6 @@
   "Python": [
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
-    "Ruff 高性能 Python 工具链.md",
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
   ],
   "Qbot": [
@@ -259,24 +247,16 @@
     "股票投资中的周期研究与自学路径.md"
   ],
   "React": [
-    "Astryx：面向人类与 Agent 的开源设计系统.md"
+    "Astryx 开源设计系统：组件、主题与 AI 工具链.md"
   ],
   "Rust": [
-    "Ruff 高性能 Python 工具链.md",
-    "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-    "Zed 高性能多人协作代码编辑器.md"
+    "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
   "Serenity": [
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md"
   ],
   "Transformer": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
-  ],
-  "UI开发": [
-    "Tailwind CSS 项目概览.md"
-  ],
-  "UI组件库": [
-    "Astryx：面向人类与 Agent 的开源设计系统.md"
   ],
   "V2EX": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -289,11 +269,11 @@
     "Qbot 量化交易平台与均线类策略实现.md",
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
   ],
-  "三星家电": [
-    "LocalThings：三星家电局域网控制集成.md"
-  ],
   "上下文压缩": [
-    "billion-context 长会话上下文压缩.md"
+    "billion-context 长会话上下文压缩方案.md"
+  ],
+  "上下文工程": [
+    "billion-context 长会话上下文压缩方案.md"
   ],
   "下沉市场": [
     "环南京都市圈的极致性价比生活图景.md"
@@ -391,9 +371,6 @@
   "事件驱动策略": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md"
-  ],
-  "云原生监控": [
-    "Prometheus 云原生监控与部署指南.md"
   ],
   "交易": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md",
@@ -499,12 +476,6 @@
   "代码审计": [
     "Cloudflare 多阶段安全审计 Skill.md"
   ],
-  "代码编辑器": [
-    "Zed 高性能多人协作代码编辑器.md"
-  ],
-  "代码质量": [
-    "Ruff 高性能 Python 工具链.md"
-  ],
   "价值投资": [
     "价值投资.md"
   ],
@@ -589,9 +560,6 @@
   "创业思考": [
     "县城产业兴衰研究法与多元商业逻辑.md"
   ],
-  "前端开发": [
-    "Tailwind CSS 项目概览.md"
-  ],
   "区块链": [
     "知乎高资金量交易者推荐三人.md"
   ],
@@ -631,8 +599,8 @@
   "反身性理论": [
     "金融炼金术的智识真诚.md"
   ],
-  "可观测性": [
-    "Prometheus 云原生监控与部署指南.md"
+  "可微物理": [
+    "MuJoCo 多关节接触物理仿真引擎.md"
   ],
   "可转债": [
     "低频量化投资：指标筛选结合条件单的极简框架.md"
@@ -838,11 +806,8 @@
   "复盘": [
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
-  "多人协作": [
-    "Zed 高性能多人协作代码编辑器.md"
-  ],
   "多智能体": [
-    "OpenMausBot：本地优先的多智能体桌面工作台.md",
+    "OpenMausBot：本地优先的多智能体工作台.md",
     "TradingAgents 多智能体金融交易框架.md"
   ],
   "大盘股": [
@@ -999,36 +964,34 @@
   "库存周期": [
     "股票投资中的周期研究与自学路径.md"
   ],
+  "开发者工具": [
+    "Astryx 开源设计系统：组件、主题与 AI 工具链.md"
+  ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
-    "Anthropic Agent Skills 开源参考库.md",
-    "Astryx：面向人类与 Agent 的开源设计系统.md",
+    "Anthropic Agent Skills 仓库与实践指南.md",
+    "Astryx 开源设计系统：组件、主题与 AI 工具链.md",
+    "Claude API Quickstarts 项目集.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Google Agent Skills 技能库指南.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "LocalThings：三星家电局域网控制集成.md",
+    "MuJoCo 多关节接触物理仿真引擎.md",
     "NVKE：自托管 GPU Kubernetes 集群工厂.md",
     "OpenBot：自托管 AI 同事平台.md",
-    "OpenMausBot：本地优先的多智能体桌面工作台.md",
+    "OpenMausBot：本地优先的多智能体工作台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
-    "Prometheus 云原生监控与部署指南.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
-    "Ruff 高性能 Python 工具链.md",
     "Sherlock 社交网络用户名检索工具.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
-    "Tailwind CSS 项目概览.md",
     "TradingAgents 多智能体金融交易框架.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-    "Zed 高性能多人协作代码编辑器.md",
-    "agent-browser：AI 智能体浏览器自动化 CLI.md",
-    "billion-context 长会话上下文压缩.md",
+    "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md",
+    "billion-context 长会话上下文压缩方案.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-    "mattpocock skills：真实工程导向的 Agent Skills 集合.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "闲鱼 AI 智能监控系统.md"
   ],
@@ -1131,7 +1094,7 @@
     "趋势与反转：先顺势后反转的交易纪律.md"
   ],
   "技能开发": [
-    "Anthropic Agent Skills 开源参考库.md"
+    "Anthropic Agent Skills 仓库与实践指南.md"
   ],
   "抄作业": [
     "散户炒股简化框架：看宏观、抄基金经理作业.md",
@@ -1345,8 +1308,7 @@
   ],
   "数据": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
-    "AI时代个人量化生存指南.md",
-    "Prometheus 云原生监控与部署指南.md"
+    "AI时代个人量化生存指南.md"
   ],
   "新加坡": [
     "新加坡学生签作为海外金融账户入口.md"
@@ -1382,9 +1344,6 @@
   "智能体平台": [
     "OpenBot：自托管 AI 同事平台.md"
   ],
-  "智能家居": [
-    "LocalThings：三星家电局域网控制集成.md"
-  ],
   "智能网格": [
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
   ],
@@ -1395,11 +1354,14 @@
     "国家队去杠杆操盘手法与沪深300ETF成交量观察策略.md"
   ],
   "本地优先": [
-    "OpenMausBot：本地优先的多智能体桌面工作台.md",
+    "OpenMausBot：本地优先的多智能体工作台.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
   "本金安全": [
     "20万现金的阶梯式资产配置方案.md"
+  ],
+  "机器人仿真": [
+    "MuJoCo 多关节接触物理仿真引擎.md"
   ],
   "机器学习": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md",
@@ -1430,6 +1392,9 @@
   ],
   "案例分析": [
     "县城产业兴衰研究与差异化经营案例.md"
+  ],
+  "桌面应用": [
+    "OpenMausBot：本地优先的多智能体工作台.md"
   ],
   "棉花": [
     "津巴布韦锂矿禁令与世界杯题材 2026 年春季投资机会梳理.md"
@@ -1553,8 +1518,8 @@
     "牛市的形成逻辑：三驾马车与全球规律.md",
     "牛市见顶信号对比框架 2015 vs 2025.md"
   ],
-  "物联网": [
-    "LocalThings：三星家电局域网控制集成.md"
+  "物理仿真": [
+    "MuJoCo 多关节接触物理仿真引擎.md"
   ],
   "特征工程": [
     "机器学习在量化交易中的应用要点.md"
@@ -1586,7 +1551,7 @@
     "环南京都市圈的低成本居住样本.md",
     "环南京都市圈的极致性价比生活图景.md"
   ],
-  "用户名搜索": [
+  "用户名检索": [
     "Sherlock 社交网络用户名检索工具.md"
   ],
   "留学跳板": [
@@ -1704,6 +1669,7 @@
     "国产科技主升浪在即，锂电五月迎加速段.md"
   ],
   "管理": [
+    "NVKE：自托管 GPU Kubernetes 集群工厂.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "大跌复盘三件事与组合沙箱工具.md",
     "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1734,8 +1700,8 @@
   "经验分享": [
     "知乎高资金量交易者推荐三人.md"
   ],
-  "编码代理": [
-    "billion-context 长会话上下文压缩.md"
+  "编码智能体": [
+    "billion-context 长会话上下文压缩方案.md"
   ],
   "网络安全": [
     "Cloudflare 多阶段安全审计 Skill.md"
@@ -1796,7 +1762,7 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
-    "agent-browser：AI 智能体浏览器自动化 CLI.md",
+    "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1853,6 +1819,9 @@
   ],
   "认知迭代": [
     "股票投资的学习门槛与能力自检.md"
+  ],
+  "设计系统": [
+    "Astryx 开源设计系统：组件、主题与 AI 工具链.md"
   ],
   "读书笔记": [
     "索罗斯与金融炼金术的阅读感受.md",
@@ -2024,9 +1993,6 @@
   "身份规划": [
     "新加坡学生签作为海外金融账户入口.md"
   ],
-  "软件工程工作流": [
-    "mattpocock skills：真实工程导向的 Agent Skills 集合.md"
-  ],
   "连跌反弹": [
     "连跌反弹概率策略与1124建仓法.md",
     "连跌反弹统计策略与1124建仓法.md"
@@ -2152,9 +2118,6 @@
   ],
   "锂矿": [
     "津巴布韦锂矿禁令与世界杯题材 2026 年春季投资机会梳理.md"
-  ],
-  "长上下文": [
-    "billion-context 长会话上下文压缩.md"
   ],
   "长期主义": [
     "大包厢：用三个月工资做长期严肃观察的训练法.md",

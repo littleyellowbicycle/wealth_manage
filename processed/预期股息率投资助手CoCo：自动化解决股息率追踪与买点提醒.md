@@ -3,7 +3,7 @@ title: 预期股息率投资助手CoCo：自动化解决股息率追踪与买点
 source: raw_20260624_162516_7190c863
 source_url: https://www.zhihu.com/question/1996963610220593950/answer/1999270859811083121
 created: '2026-06-29'
-updated: '2026-11-07'
+updated: '2026-11-08'
 tags:
 - 投资
 - 股息率
@@ -13,7 +13,7 @@ status: processed
 related:
 - 价值投资助手CoCo：基于预期股息率的辅助工具
 - 红利类ETF分类与选择指南
-- agent-browser：AI 智能体浏览器自动化 CLI
+- agent-browser：面向 AI Agent 的浏览器自动化 CLI
 - AI 供应链卡脖子环节投资框架
 - A股散户投资框架：ETF优先与独立择时
 - A股散户投资策略与ETF及板块标的梳理
@@ -57,7 +57,7 @@ note_type: content
 ## 相关笔记
 - [[价值投资助手CoCo：基于预期股息率的辅助工具]]
 - [[红利类ETF分类与选择指南]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
 - [[AI 供应链卡脖子环节投资框架]]
 - [[A股散户投资框架：ETF优先与独立择时]]
 - [[A股散户投资策略与ETF及板块标的梳理]]
