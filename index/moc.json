@@ -488,6 +488,41 @@
       ],
       "note_count": 26
     },
+    "开源项目": {
+      "notes": [
+        "Anthropic Agent Skills 技能仓库与实践.md",
+        "Astryx：面向人类与 AI 代理的开源设计系统.md",
+        "Claude Quickstarts 应用开发示例集.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "GBrain：面向 AI Agent 的可控记忆层.md",
+        "HA-MCP 用 AI 配置与维护 Home Assistant.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM 驱动的多市场股票分析工作台.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "MuJoCo 物理仿真引擎概览.md",
+        "OpenBot：自托管 AI 同事平台.md",
+        "OpenMausBot 本地优先多智能体工作台.md",
+        "OpenShell 自主 AI 智能体安全运行时.md",
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "Qbot 量化交易平台与均线类策略实现.md",
+        "RuView：WiFi CSI 边缘空间感知平台.md",
+        "Sherlock 跨社交网络用户名枚举工具.md",
+        "SkillSpector：AI Agent 技能安全扫描器.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+        "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "七年自建趋势跟踪交易系统实战复盘.md",
+        "闲鱼 AI 智能监控系统.md"
+      ],
+      "subtopics": [
+        "AI",
+        "Agent",
+        "量化交易"
+      ],
+      "note_count": 25
+    },
     "知乎": {
       "notes": [
         "A股主力操盘四阶段周期与散户陷阱.md",
@@ -522,38 +557,37 @@
       ],
       "note_count": 24
     },
-    "开源项目": {
+    "AI": {
       "notes": [
-        "Anthropic Agent Skills 仓库与实践指南.md",
-        "Astryx 开源设计系统：组件、主题与 AI 工具链.md",
-        "Claude API Quickstarts 项目集.md",
+        "AI 供应链卡脖子环节投资框架.md",
+        "AI供应链卡脖子环节挖掘框架.md",
+        "Anthropic Agent Skills 技能仓库与实践.md",
+        "Astryx：面向人类与 AI 代理的开源设计系统.md",
+        "Claude Quickstarts 应用开发示例集.md",
         "Cloudflare 多阶段安全审计 Skill.md",
+        "GBrain：面向 AI Agent 的可控记忆层.md",
+        "HA-MCP 用 AI 配置与维护 Home Assistant.md",
         "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "MuJoCo 多关节接触物理仿真引擎.md",
-        "NVKE：自托管 GPU Kubernetes 集群工厂.md",
+        "LLM 驱动的多市场股票分析工作台.md",
+        "MuJoCo 物理仿真引擎概览.md",
         "OpenBot：自托管 AI 同事平台.md",
-        "OpenMausBot：本地优先的多智能体工作台.md",
+        "OpenMausBot 本地优先多智能体工作台.md",
         "OpenShell 自主 AI 智能体安全运行时.md",
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "Qbot 量化交易平台与均线类策略实现.md",
-        "Sherlock 社交网络用户名检索工具.md",
+        "RuView：WiFi CSI 边缘空间感知平台.md",
+        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
+        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
         "SkillSpector：AI Agent 技能安全扫描器.md",
         "TradingAgents 多智能体金融交易框架.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
         "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md",
-        "billion-context 长会话上下文压缩方案.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "七年自建趋势跟踪交易系统实战复盘.md",
+        "财报分析框架蒸馏为 AI Skill 的实践.md",
         "闲鱼 AI 智能监控系统.md"
       ],
       "subtopics": [
-        "AI",
-        "量化交易",
+        "开源项目",
+        "Agent",
         "风险控制"
       ],
-      "note_count": 23
+      "note_count": 22
     },
     "仓位管理": {
       "notes": [
@@ -585,36 +619,6 @@
         "技术分析"
       ],
       "note_count": 21
-    },
-    "AI": {
-      "notes": [
-        "AI 供应链卡脖子环节投资框架.md",
-        "AI供应链卡脖子环节挖掘框架.md",
-        "Anthropic Agent Skills 仓库与实践指南.md",
-        "Astryx 开源设计系统：组件、主题与 AI 工具链.md",
-        "Claude API Quickstarts 项目集.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "MuJoCo 多关节接触物理仿真引擎.md",
-        "NVKE：自托管 GPU Kubernetes 集群工厂.md",
-        "OpenBot：自托管 AI 同事平台.md",
-        "OpenMausBot：本地优先的多智能体工作台.md",
-        "OpenShell 自主 AI 智能体安全运行时.md",
-        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
-        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-        "SkillSpector：AI Agent 技能安全扫描器.md",
-        "TradingAgents 多智能体金融交易框架.md",
-        "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md",
-        "billion-context 长会话上下文压缩方案.md",
-        "财报分析框架蒸馏为 AI Skill 的实践.md",
-        "闲鱼 AI 智能监控系统.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "风险控制",
-        "投资"
-      ],
-      "note_count": 20
     },
     "ETF": {
       "notes": [
@@ -649,6 +653,7 @@
     "股票研究": {
       "notes": [
         "A股龙头股全景图：按市场地位划分的选股清单.md",
+        "LLM 驱动的多市场股票分析工作台.md",
         "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
         "三大估值指标实战指南：PE、PB、PS.md",
         "个股基本面分析三步框架.md",
@@ -673,7 +678,7 @@
         "基本面分析",
         "估值"
       ],
-      "note_count": 19
+      "note_count": 20
     },
     "均线": {
       "notes": [
@@ -933,6 +938,28 @@
       ],
       "note_count": 12
     },
+    "Agent": {
+      "notes": [
+        "Anthropic Agent Skills 技能仓库与实践.md",
+        "Claude Quickstarts 应用开发示例集.md",
+        "GBrain：面向 AI Agent 的可控记忆层.md",
+        "HA-MCP 用 AI 配置与维护 Home Assistant.md",
+        "LLM 驱动的多市场股票分析工作台.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "OpenMausBot 本地优先多智能体工作台.md",
+        "RuView：WiFi CSI 边缘空间感知平台.md",
+        "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "MCP"
+      ],
+      "note_count": 12
+    },
     "回测": {
       "notes": [
         "ETF网格交易实战：标的选择与策略优化.md",
@@ -1019,7 +1046,7 @@
     },
     "管理": {
       "notes": [
-        "NVKE：自托管 GPU Kubernetes 集群工厂.md",
+        "GBrain：面向 AI Agent 的可控记忆层.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
         "大跌复盘三件事与组合沙箱工具.md",
         "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1101,22 +1128,6 @@
         "投资",
         "个人理财",
         "财务自由"
-      ],
-      "note_count": 6
-    },
-    "Agent": {
-      "notes": [
-        "Anthropic Agent Skills 仓库与实践指南.md",
-        "Claude API Quickstarts 项目集.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "量化交易",
-        "股票研究"
       ],
       "note_count": 6
     },
@@ -1205,9 +1216,9 @@
         "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
       ],
       "subtopics": [
+        "Agent",
         "OpenClaw",
-        "量化交易",
-        "Agent"
+        "量化交易"
       ],
       "note_count": 4
     },
@@ -1264,6 +1275,34 @@
         "投资",
         "A股",
         "金融"
+      ],
+      "note_count": 4
+    },
+    "MCP": {
+      "notes": [
+        "Claude Quickstarts 应用开发示例集.md",
+        "GBrain：面向 AI Agent 的可控记忆层.md",
+        "HA-MCP 用 AI 配置与维护 Home Assistant.md",
+        "OpenMausBot 本地优先多智能体工作台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Agent"
+      ],
+      "note_count": 4
+    },
+    "Python": {
+      "notes": [
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "Sherlock 跨社交网络用户名枚举工具.md",
+        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "开源项目",
+        "Qbot"
       ],
       "note_count": 4
     },
@@ -1483,19 +1522,6 @@
       ],
       "note_count": 3
     },
-    "Python": {
-      "notes": [
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "Qbot",
-        "backtrader"
-      ],
-      "note_count": 3
-    },
     "股息率": {
       "notes": [
         "价值投资助手CoCo：基于预期股息率的辅助工具.md",
@@ -1661,6 +1687,18 @@
         "个人理财",
         "被动收入",
         "银行存款"
+      ],
+      "note_count": 2
+    },
+    "Rust": {
+      "notes": [
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+        "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "自动化"
       ],
       "note_count": 2
     },
@@ -1856,27 +1894,15 @@
       ],
       "note_count": 2
     },
-    "多智能体": {
-      "notes": [
-        "OpenMausBot：本地优先的多智能体工作台.md",
-        "TradingAgents 多智能体金融交易框架.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "本地优先"
-      ],
-      "note_count": 2
-    },
     "本地优先": {
       "notes": [
-        "OpenMausBot：本地优先的多智能体工作台.md",
+        "OpenMausBot 本地优先多智能体工作台.md",
         "Wealthfolio：本地优先的个人财务追踪开源工具.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "多智能体"
+        "Agent"
       ],
       "note_count": 2
     },
@@ -2667,17 +2693,6 @@
       ],
       "note_count": 1
     },
-    "MCP": {
-      "notes": [
-        "agent-browser：面向 AI Agent 的浏览器自动化 CLI.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "自动化"
-      ],
-      "note_count": 1
-    },
     "卡脖子环节": {
       "notes": [
         "AI 供应链卡脖子环节投资框架.md"
@@ -2722,9 +2737,9 @@
       ],
       "note_count": 1
     },
-    "Claude": {
+    "Claude Code": {
       "notes": [
-        "Anthropic Agent Skills 仓库与实践指南.md"
+        "Anthropic Agent Skills 技能仓库与实践.md"
       ],
       "subtopics": [
         "AI",
@@ -2733,9 +2748,9 @@
       ],
       "note_count": 1
     },
-    "技能开发": {
+    "技能标准": {
       "notes": [
-        "Anthropic Agent Skills 仓库与实践指南.md"
+        "Anthropic Agent Skills 技能仓库与实践.md"
       ],
       "subtopics": [
         "AI",
@@ -2746,7 +2761,7 @@
     },
     "设计系统": {
       "notes": [
-        "Astryx 开源设计系统：组件、主题与 AI 工具链.md"
+        "Astryx：面向人类与 AI 代理的开源设计系统.md"
       ],
       "subtopics": [
         "开源项目",
@@ -2757,7 +2772,7 @@
     },
     "React": {
       "notes": [
-        "Astryx 开源设计系统：组件、主题与 AI 工具链.md"
+        "Astryx：面向人类与 AI 代理的开源设计系统.md"
       ],
       "subtopics": [
         "开源项目",
@@ -2766,9 +2781,9 @@
       ],
       "note_count": 1
     },
-    "开发者工具": {
+    "UI组件": {
       "notes": [
-        "Astryx 开源设计系统：组件、主题与 AI 工具链.md"
+        "Astryx：面向人类与 AI 代理的开源设计系统.md"
       ],
       "subtopics": [
         "开源项目",
@@ -2876,39 +2891,6 @@
       ],
       "note_count": 1
     },
-    "上下文压缩": {
-      "notes": [
-        "billion-context 长会话上下文压缩方案.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "上下文工程"
-      ],
-      "note_count": 1
-    },
-    "上下文工程": {
-      "notes": [
-        "billion-context 长会话上下文压缩方案.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "上下文压缩"
-      ],
-      "note_count": 1
-    },
-    "编码智能体": {
-      "notes": [
-        "billion-context 长会话上下文压缩方案.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "上下文压缩"
-      ],
-      "note_count": 1
-    },
     "换手情绪": {
       "notes": [
         "CH4 因子模型 A股四因子实战拆解.md"
@@ -2933,11 +2915,11 @@
     },
     "Claude API": {
       "notes": [
-        "Claude API Quickstarts 项目集.md"
+        "Claude Quickstarts 应用开发示例集.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
+        "AI",
         "Agent"
       ],
       "note_count": 1
@@ -3014,6 +2996,17 @@
       ],
       "subtopics": [
         "技术分析"
+      ],
+      "note_count": 1
+    },
+    "Home Assistant": {
+      "notes": [
+        "HA-MCP 用 AI 配置与维护 Home Assistant.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Agent"
       ],
       "note_count": 1
     },
@@ -3096,7 +3089,7 @@
     },
     "物理仿真": {
       "notes": [
-        "MuJoCo 多关节接触物理仿真引擎.md"
+        "MuJoCo 物理仿真引擎概览.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3107,7 +3100,7 @@
     },
     "机器人仿真": {
       "notes": [
-        "MuJoCo 多关节接触物理仿真引擎.md"
+        "MuJoCo 物理仿真引擎概览.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3116,47 +3109,14 @@
       ],
       "note_count": 1
     },
-    "可微物理": {
+    "强化学习": {
       "notes": [
-        "MuJoCo 多关节接触物理仿真引擎.md"
+        "MuJoCo 物理仿真引擎概览.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
         "物理仿真"
-      ],
-      "note_count": 1
-    },
-    "Kubernetes": {
-      "notes": [
-        "NVKE：自托管 GPU Kubernetes 集群工厂.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "管理"
-      ],
-      "note_count": 1
-    },
-    "GPU": {
-      "notes": [
-        "NVKE：自托管 GPU Kubernetes 集群工厂.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "管理"
-      ],
-      "note_count": 1
-    },
-    "NVIDIA": {
-      "notes": [
-        "NVKE：自托管 GPU Kubernetes 集群工厂.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "管理"
       ],
       "note_count": 1
     },
@@ -3179,17 +3139,6 @@
         "开源项目",
         "AI",
         "风险控制"
-      ],
-      "note_count": 1
-    },
-    "桌面应用": {
-      "notes": [
-        "OpenMausBot：本地优先的多智能体工作台.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "多智能体"
       ],
       "note_count": 1
     },
@@ -3281,6 +3230,39 @@
       ],
       "note_count": 1
     },
+    "WiFi感知": {
+      "notes": [
+        "RuView：WiFi CSI 边缘空间感知平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Agent"
+      ],
+      "note_count": 1
+    },
+    "边缘计算": {
+      "notes": [
+        "RuView：WiFi CSI 边缘空间感知平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Agent"
+      ],
+      "note_count": 1
+    },
+    "空间智能": {
+      "notes": [
+        "RuView：WiFi CSI 边缘空间感知平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Agent"
+      ],
+      "note_count": 1
+    },
     "Serenity": {
       "notes": [
         "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md"
@@ -3327,34 +3309,23 @@
     },
     "OSINT": {
       "notes": [
-        "Sherlock 社交网络用户名检索工具.md"
+        "Sherlock 跨社交网络用户名枚举工具.md"
       ],
       "subtopics": [
         "开源项目",
-        "用户名检索",
-        "命令行工具"
+        "用户名枚举",
+        "Python"
       ],
       "note_count": 1
     },
-    "用户名检索": {
+    "用户名枚举": {
       "notes": [
-        "Sherlock 社交网络用户名检索工具.md"
+        "Sherlock 跨社交网络用户名枚举工具.md"
       ],
       "subtopics": [
         "开源项目",
         "OSINT",
-        "命令行工具"
-      ],
-      "note_count": 1
-    },
-    "命令行工具": {
-      "notes": [
-        "Sherlock 社交网络用户名检索工具.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "OSINT",
-        "用户名检索"
+        "Python"
       ],
       "note_count": 1
     },
@@ -3366,6 +3337,17 @@
         "AI",
         "开源项目",
         "风险控制"
+      ],
+      "note_count": 1
+    },
+    "多智能体": {
+      "notes": [
+        "TradingAgents 多智能体金融交易框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "交易"
       ],
       "note_count": 1
     },
@@ -3410,17 +3392,6 @@
         "V2EX",
         "Nodeseek",
         "Linux.do"
-      ],
-      "note_count": 1
-    },
-    "Rust": {
-      "notes": [
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "资产配置",
-        "个人理财"
       ],
       "note_count": 1
     },
@@ -5617,5 +5588,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-11-08T23:39:17"
+  "last_rebuilt": "2026-11-09T23:37:09"
 }

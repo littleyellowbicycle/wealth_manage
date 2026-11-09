@@ -3,7 +3,7 @@ title: 闲鱼 AI 智能监控系统
 source: raw_20261103_233133_b4e1a9a6
 source_url: https://github.com/Usagi-org/ai-goofish-monitor
 created: '2026-11-03'
-updated: '2026-11-08'
+updated: '2026-11-09'
 tags:
 - 开源项目
 - AI
@@ -18,12 +18,12 @@ related:
 - OpenBot：自托管 AI 同事平台
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
-- Astryx 开源设计系统：组件、主题与 AI 工具链
+- Astryx：面向人类与 AI 代理的开源设计系统
 - agent-browser：面向 AI Agent 的浏览器自动化 CLI
-- OpenMausBot：本地优先的多智能体工作台
+- GBrain：面向 AI Agent 的可控记忆层
+- HA-MCP 用 AI 配置与维护 Home Assistant
+- OpenMausBot 本地优先多智能体工作台
 - TradingAgents 多智能体金融交易框架
-- Anthropic Agent Skills 仓库与实践指南
-- billion-context 长会话上下文压缩方案
 ---
 
 # 闲鱼 AI 智能监控系统
@@ -174,9 +174,9 @@ npm run dev
 - [[OpenBot：自托管 AI 同事平台]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Astryx 开源设计系统：组件、主题与 AI 工具链]]
+- [[Astryx：面向人类与 AI 代理的开源设计系统]]
 - [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
-- [[OpenMausBot：本地优先的多智能体工作台]]
+- [[GBrain：面向 AI Agent 的可控记忆层]]
+- [[HA-MCP 用 AI 配置与维护 Home Assistant]]
+- [[OpenMausBot 本地优先多智能体工作台]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Anthropic Agent Skills 仓库与实践指南]]
-- [[billion-context 长会话上下文压缩方案]]

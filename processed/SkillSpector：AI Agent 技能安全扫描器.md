@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-08'
+updated: '2026-11-09'
 tags:
 - AI
 - 开源项目
@@ -17,11 +17,11 @@ related:
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
 - agent-browser：面向 AI Agent 的浏览器自动化 CLI
-- Anthropic Agent Skills 仓库与实践指南
-- Astryx 开源设计系统：组件、主题与 AI 工具链
-- billion-context 长会话上下文压缩方案
-- Claude API Quickstarts 项目集
-- Kronos：面向金融K线序列的首个开源基础模型
+- Anthropic Agent Skills 技能仓库与实践
+- GBrain：面向 AI Agent 的可控记忆层
+- Astryx：面向人类与 AI 代理的开源设计系统
+- HA-MCP 用 AI 配置与维护 Home Assistant
+- Claude Quickstarts 应用开发示例集
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -136,8 +136,8 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
 - [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
-- [[Anthropic Agent Skills 仓库与实践指南]]
-- [[Astryx 开源设计系统：组件、主题与 AI 工具链]]
-- [[billion-context 长会话上下文压缩方案]]
-- [[Claude API Quickstarts 项目集]]
-- [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[Anthropic Agent Skills 技能仓库与实践]]
+- [[GBrain：面向 AI Agent 的可控记忆层]]
+- [[Astryx：面向人类与 AI 代理的开源设计系统]]
+- [[HA-MCP 用 AI 配置与维护 Home Assistant]]
+- [[Claude Quickstarts 应用开发示例集]]

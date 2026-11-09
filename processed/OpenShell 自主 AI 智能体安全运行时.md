@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-08'
+updated: '2026-11-09'
 tags:
 - 开源项目
 - AI
@@ -18,11 +18,11 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
 - agent-browser：面向 AI Agent 的浏览器自动化 CLI
-- Astryx 开源设计系统：组件、主题与 AI 工具链
-- OpenMausBot：本地优先的多智能体工作台
+- Astryx：面向人类与 AI 代理的开源设计系统
+- GBrain：面向 AI Agent 的可控记忆层
+- HA-MCP 用 AI 配置与维护 Home Assistant
+- OpenMausBot 本地优先多智能体工作台
 - TradingAgents 多智能体金融交易框架
-- Anthropic Agent Skills 仓库与实践指南
-- billion-context 长会话上下文压缩方案
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -136,8 +136,8 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
-- [[Astryx 开源设计系统：组件、主题与 AI 工具链]]
-- [[OpenMausBot：本地优先的多智能体工作台]]
+- [[Astryx：面向人类与 AI 代理的开源设计系统]]
+- [[GBrain：面向 AI Agent 的可控记忆层]]
+- [[HA-MCP 用 AI 配置与维护 Home Assistant]]
+- [[OpenMausBot 本地优先多智能体工作台]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Anthropic Agent Skills 仓库与实践指南]]
-- [[billion-context 长会话上下文压缩方案]]

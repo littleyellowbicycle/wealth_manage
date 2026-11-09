@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-08'
+updated: '2026-11-09'
 tags:
 - 开源项目
 - AI
@@ -18,11 +18,11 @@ related:
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
 - agent-browser：面向 AI Agent 的浏览器自动化 CLI
-- Astryx 开源设计系统：组件、主题与 AI 工具链
-- NVKE：自托管 GPU Kubernetes 集群工厂
-- Anthropic Agent Skills 仓库与实践指南
-- billion-context 长会话上下文压缩方案
-- Claude API Quickstarts 项目集
+- Astryx：面向人类与 AI 代理的开源设计系统
+- GBrain：面向 AI Agent 的可控记忆层
+- HA-MCP 用 AI 配置与维护 Home Assistant
+- RuView：WiFi CSI 边缘空间感知平台
+- Anthropic Agent Skills 技能仓库与实践
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -111,8 +111,8 @@ related:
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
-- [[Astryx 开源设计系统：组件、主题与 AI 工具链]]
-- [[NVKE：自托管 GPU Kubernetes 集群工厂]]
-- [[Anthropic Agent Skills 仓库与实践指南]]
-- [[billion-context 长会话上下文压缩方案]]
-- [[Claude API Quickstarts 项目集]]
+- [[Astryx：面向人类与 AI 代理的开源设计系统]]
+- [[GBrain：面向 AI Agent 的可控记忆层]]
+- [[HA-MCP 用 AI 配置与维护 Home Assistant]]
+- [[RuView：WiFi CSI 边缘空间感知平台]]
+- [[Anthropic Agent Skills 技能仓库与实践]]
