@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-09'
+updated: '2026-11-10'
 tags:
 - 开源项目
 - AI
@@ -17,11 +17,11 @@ related:
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- agent-browser：面向 AI Agent 的浏览器自动化 CLI
-- Astryx：面向人类与 AI 代理的开源设计系统
-- GBrain：面向 AI Agent 的可控记忆层
-- HA-MCP 用 AI 配置与维护 Home Assistant
-- OpenMausBot 本地优先多智能体工作台
+- agent-browser：AI 智能体浏览器自动化 CLI
+- Astryx 面向人类与 AI 智能体的开源设计系统
+- mattpocock skills：真实工程导向的 AI 智能体技能库
+- addyosmani agent-skills：AI 编程工程化工作流
+- HA-MCP：用 AI 配置与自动化 Home Assistant
 - TradingAgents 多智能体金融交易框架
 ---
 
@@ -135,9 +135,9 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
-- [[Astryx：面向人类与 AI 代理的开源设计系统]]
-- [[GBrain：面向 AI Agent 的可控记忆层]]
-- [[HA-MCP 用 AI 配置与维护 Home Assistant]]
-- [[OpenMausBot 本地优先多智能体工作台]]
+- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[Astryx 面向人类与 AI 智能体的开源设计系统]]
+- [[mattpocock skills：真实工程导向的 AI 智能体技能库]]
+- [[addyosmani agent-skills：AI 编程工程化工作流]]
+- [[HA-MCP：用 AI 配置与自动化 Home Assistant]]
 - [[TradingAgents 多智能体金融交易框架]]

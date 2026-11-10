@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-09'
+updated: '2026-11-10'
 tags:
 - 开源项目
 - AI
@@ -17,12 +17,12 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
-- agent-browser：面向 AI Agent 的浏览器自动化 CLI
-- Astryx：面向人类与 AI 代理的开源设计系统
-- GBrain：面向 AI Agent 的可控记忆层
-- HA-MCP 用 AI 配置与维护 Home Assistant
-- RuView：WiFi CSI 边缘空间感知平台
-- Anthropic Agent Skills 技能仓库与实践
+- addyosmani agent-skills：AI 编程工程化工作流
+- agent-browser：AI 智能体浏览器自动化 CLI
+- Astryx 面向人类与 AI 智能体的开源设计系统
+- HA-MCP：用 AI 配置与自动化 Home Assistant
+- mattpocock skills：真实工程导向的 AI 智能体技能库
+- Anthropic Agent Skills 仓库指南
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -110,9 +110,9 @@ related:
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
-- [[Astryx：面向人类与 AI 代理的开源设计系统]]
-- [[GBrain：面向 AI Agent 的可控记忆层]]
-- [[HA-MCP 用 AI 配置与维护 Home Assistant]]
-- [[RuView：WiFi CSI 边缘空间感知平台]]
-- [[Anthropic Agent Skills 技能仓库与实践]]
+- [[addyosmani agent-skills：AI 编程工程化工作流]]
+- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[Astryx 面向人类与 AI 智能体的开源设计系统]]
+- [[HA-MCP：用 AI 配置与自动化 Home Assistant]]
+- [[mattpocock skills：真实工程导向的 AI 智能体技能库]]
+- [[Anthropic Agent Skills 仓库指南]]

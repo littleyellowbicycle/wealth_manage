@@ -3,7 +3,7 @@ title: 用OpenClaw搭建个人股票分析Agent
 source: raw_20260624_162129_b095d6b3
 source_url: https://www.zhihu.com/question/2011480826848764785/answer/2011489116341149800
 created: '2026-06-29'
-updated: '2026-11-09'
+updated: '2026-11-10'
 tags:
 - 量化交易
 - OpenClaw
@@ -16,13 +16,13 @@ related:
 - 用 OpenClaw 搭建个人股票分析 Agent
 - daily_stock_analysis 项目11策略与LLM量化框架解析
 - LLM 驱动的多市场股票分析工作台
-- agent-browser：面向 AI Agent 的浏览器自动化 CLI
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
 - 全面分析股票的十大维度：从股价到行业的系统框架
+- agent-browser：AI 智能体浏览器自动化 CLI
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- Anthropic Agent Skills 技能仓库与实践
-- GBrain：面向 AI Agent 的可控记忆层
+- Anthropic Agent Skills 仓库指南
+- 个人趋势跟踪量化交易系统七年实践
 note_type: content
 ---
 
@@ -79,10 +79,10 @@ Agent会在固定时间自动抓取实时行情、结合新闻与技术面，输
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
 - [[LLM 驱动的多市场股票分析工作台]]
-- [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
 - [[全面分析股票的十大维度：从股价到行业的系统框架]]
+- [[agent-browser：AI 智能体浏览器自动化 CLI]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[Anthropic Agent Skills 技能仓库与实践]]
-- [[GBrain：面向 AI Agent 的可控记忆层]]
+- [[Anthropic Agent Skills 仓库指南]]
+- [[个人趋势跟踪量化交易系统七年实践]]

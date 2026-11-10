@@ -3,7 +3,7 @@ title: LLM 驱动的多市场股票分析工作台
 source: raw_20261109_233123_05fba0bc
 source_url: https://github.com/ZhuLinsen/daily_stock_analysis
 created: '2026-11-09'
-updated: '2026-11-09'
+updated: '2026-11-10'
 tags:
 - AI
 - 股票研究
@@ -13,15 +13,15 @@ status: processed
 note_type: content
 related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- OpenMausBot 本地优先多智能体工作台
-- agent-browser：面向 AI Agent 的浏览器自动化 CLI
-- Anthropic Agent Skills 技能仓库与实践
-- Claude Quickstarts 应用开发示例集
-- GBrain：面向 AI Agent 的可控记忆层
-- HA-MCP 用 AI 配置与维护 Home Assistant
-- RuView：WiFi CSI 边缘空间感知平台
+- Anthropic Agent Skills 仓库指南
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
+- LLM辅助量化交易 daily_stock_analysis 11策略解析
+- addyosmani agent-skills：AI 编程工程化工作流
+- agent-browser：AI 智能体浏览器自动化 CLI
+- Astryx 面向人类与 AI 智能体的开源设计系统
+- billion-context 长会话上下文压缩代理
+- Claude Quickstarts 示例项目与工程模式
 ---
 
 # LLM 驱动的多市场股票分析工作台
@@ -160,12 +160,12 @@ python main.py --serve-only
 
 ## 相关笔记
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[OpenMausBot 本地优先多智能体工作台]]
-- [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
-- [[Anthropic Agent Skills 技能仓库与实践]]
-- [[Claude Quickstarts 应用开发示例集]]
-- [[GBrain：面向 AI Agent 的可控记忆层]]
-- [[HA-MCP 用 AI 配置与维护 Home Assistant]]
-- [[RuView：WiFi CSI 边缘空间感知平台]]
+- [[Anthropic Agent Skills 仓库指南]]
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
+- [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
+- [[addyosmani agent-skills：AI 编程工程化工作流]]
+- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[Astryx 面向人类与 AI 智能体的开源设计系统]]
+- [[billion-context 长会话上下文压缩代理]]
+- [[Claude Quickstarts 示例项目与工程模式]]

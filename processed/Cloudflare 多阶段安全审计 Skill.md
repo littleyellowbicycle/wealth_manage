@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-09'
+updated: '2026-11-10'
 tags:
 - 开源项目
 - AI
@@ -18,12 +18,12 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- agent-browser：面向 AI Agent 的浏览器自动化 CLI
-- Anthropic Agent Skills 技能仓库与实践
-- Astryx：面向人类与 AI 代理的开源设计系统
-- Claude Quickstarts 应用开发示例集
-- GBrain：面向 AI Agent 的可控记忆层
-- HA-MCP 用 AI 配置与维护 Home Assistant
+- addyosmani agent-skills：AI 编程工程化工作流
+- agent-browser：AI 智能体浏览器自动化 CLI
+- Anthropic Agent Skills 仓库指南
+- Astryx 面向人类与 AI 智能体的开源设计系统
+- billion-context 长会话上下文压缩代理
+- Claude Quickstarts 示例项目与工程模式
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -100,9 +100,9 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
-- [[Anthropic Agent Skills 技能仓库与实践]]
-- [[Astryx：面向人类与 AI 代理的开源设计系统]]
-- [[Claude Quickstarts 应用开发示例集]]
-- [[GBrain：面向 AI Agent 的可控记忆层]]
-- [[HA-MCP 用 AI 配置与维护 Home Assistant]]
+- [[addyosmani agent-skills：AI 编程工程化工作流]]
+- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[Anthropic Agent Skills 仓库指南]]
+- [[Astryx 面向人类与 AI 智能体的开源设计系统]]
+- [[billion-context 长会话上下文压缩代理]]
+- [[Claude Quickstarts 示例项目与工程模式]]

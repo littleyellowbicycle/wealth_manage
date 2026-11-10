@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-09'
+updated: '2026-11-10'
 tags:
 - AI
 - 开源项目
@@ -16,12 +16,12 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- agent-browser：面向 AI Agent 的浏览器自动化 CLI
-- Anthropic Agent Skills 技能仓库与实践
-- GBrain：面向 AI Agent 的可控记忆层
-- Astryx：面向人类与 AI 代理的开源设计系统
-- HA-MCP 用 AI 配置与维护 Home Assistant
-- Claude Quickstarts 应用开发示例集
+- addyosmani agent-skills：AI 编程工程化工作流
+- agent-browser：AI 智能体浏览器自动化 CLI
+- mattpocock skills：真实工程导向的 AI 智能体技能库
+- Anthropic Agent Skills 仓库指南
+- Astryx 面向人类与 AI 智能体的开源设计系统
+- HA-MCP：用 AI 配置与自动化 Home Assistant
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -135,9 +135,9 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[agent-browser：面向 AI Agent 的浏览器自动化 CLI]]
-- [[Anthropic Agent Skills 技能仓库与实践]]
-- [[GBrain：面向 AI Agent 的可控记忆层]]
-- [[Astryx：面向人类与 AI 代理的开源设计系统]]
-- [[HA-MCP 用 AI 配置与维护 Home Assistant]]
-- [[Claude Quickstarts 应用开发示例集]]
+- [[addyosmani agent-skills：AI 编程工程化工作流]]
+- [[agent-browser：AI 智能体浏览器自动化 CLI]]
+- [[mattpocock skills：真实工程导向的 AI 智能体技能库]]
+- [[Anthropic Agent Skills 仓库指南]]
+- [[Astryx 面向人类与 AI 智能体的开源设计系统]]
+- [[HA-MCP：用 AI 配置与自动化 Home Assistant]]
