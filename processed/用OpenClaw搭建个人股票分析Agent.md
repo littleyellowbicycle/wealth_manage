@@ -3,7 +3,7 @@ title: 用OpenClaw搭建个人股票分析Agent
 source: raw_20260624_162129_b095d6b3
 source_url: https://www.zhihu.com/question/2011480826848764785/answer/2011489116341149800
 created: '2026-06-29'
-updated: '2026-11-10'
+updated: '2026-11-11'
 tags:
 - 量化交易
 - OpenClaw
@@ -18,11 +18,11 @@ related:
 - LLM 驱动的多市场股票分析工作台
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
 - 全面分析股票的十大维度：从股价到行业的系统框架
-- agent-browser：AI 智能体浏览器自动化 CLI
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- Anthropic Agent Skills 仓库指南
 - 个人趋势跟踪量化交易系统七年实践
+- 个股基本面分析三步框架
+- 基本面分析的五问框架与认知劝退
 note_type: content
 ---
 
@@ -81,8 +81,8 @@ Agent会在固定时间自动抓取实时行情、结合新闻与技术面，输
 - [[LLM 驱动的多市场股票分析工作台]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
 - [[全面分析股票的十大维度：从股价到行业的系统框架]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[Anthropic Agent Skills 仓库指南]]
 - [[个人趋势跟踪量化交易系统七年实践]]
+- [[个股基本面分析三步框架]]
+- [[基本面分析的五问框架与认知劝退]]

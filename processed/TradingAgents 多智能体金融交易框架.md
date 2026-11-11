@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-11-10'
+updated: '2026-11-11'
 tags:
 - AI
 - 开源项目
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
-- Claude Quickstarts 示例项目与工程模式
-- agent-browser：AI 智能体浏览器自动化 CLI
-- Astryx 面向人类与 AI 智能体的开源设计系统
-- mattpocock skills：真实工程导向的 AI 智能体技能库
 - OpenShell 自主 AI 智能体安全运行时
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - 纳指ETF策略选择方法论：数据驱动的回测决策框架
 - 闲鱼 AI 智能监控系统
-- addyosmani agent-skills：AI 编程工程化工作流
+- Cloudflare 多阶段安全审计 Skill
+- ETF网格交易实战：标的选择与策略优化
+- LLM 驱动的多市场股票分析工作台
+- OpenBot：自托管 AI 同事平台
+- SkillSpector：AI Agent 技能安全扫描器
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -125,12 +125,12 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Claude Quickstarts 示例项目与工程模式]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
-- [[Astryx 面向人类与 AI 智能体的开源设计系统]]
-- [[mattpocock skills：真实工程导向的 AI 智能体技能库]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
 - [[闲鱼 AI 智能监控系统]]
-- [[addyosmani agent-skills：AI 编程工程化工作流]]
+- [[Cloudflare 多阶段安全审计 Skill]]
+- [[ETF网格交易实战：标的选择与策略优化]]
+- [[LLM 驱动的多市场股票分析工作台]]
+- [[OpenBot：自托管 AI 同事平台]]
+- [[SkillSpector：AI Agent 技能安全扫描器]]

@@ -3,7 +3,7 @@ title: LLM 驱动的多市场股票分析工作台
 source: raw_20261109_233123_05fba0bc
 source_url: https://github.com/ZhuLinsen/daily_stock_analysis
 created: '2026-11-09'
-updated: '2026-11-10'
+updated: '2026-11-11'
 tags:
 - AI
 - 股票研究
@@ -13,15 +13,15 @@ status: processed
 note_type: content
 related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- Anthropic Agent Skills 仓库指南
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
-- addyosmani agent-skills：AI 编程工程化工作流
-- agent-browser：AI 智能体浏览器自动化 CLI
-- Astryx 面向人类与 AI 智能体的开源设计系统
-- billion-context 长会话上下文压缩代理
-- Claude Quickstarts 示例项目与工程模式
+- Cloudflare 多阶段安全审计 Skill
+- Kronos：面向金融K线序列的首个开源基础模型
+- OpenBot：自托管 AI 同事平台
+- OpenShell 自主 AI 智能体安全运行时
+- SkillSpector：AI Agent 技能安全扫描器
+- Sure 开源个人理财应用
 ---
 
 # LLM 驱动的多市场股票分析工作台
@@ -160,12 +160,12 @@ python main.py --serve-only
 
 ## 相关笔记
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[Anthropic Agent Skills 仓库指南]]
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
-- [[addyosmani agent-skills：AI 编程工程化工作流]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
-- [[Astryx 面向人类与 AI 智能体的开源设计系统]]
-- [[billion-context 长会话上下文压缩代理]]
-- [[Claude Quickstarts 示例项目与工程模式]]
+- [[Cloudflare 多阶段安全审计 Skill]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[OpenBot：自托管 AI 同事平台]]
+- [[OpenShell 自主 AI 智能体安全运行时]]
+- [[SkillSpector：AI Agent 技能安全扫描器]]
+- [[Sure 开源个人理财应用]]

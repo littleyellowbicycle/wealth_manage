@@ -11,14 +11,9 @@
   "AI": [
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
-    "Anthropic Agent Skills 仓库指南.md",
-    "Astryx 面向人类与 AI 智能体的开源设计系统.md",
-    "Claude Quickstarts 示例项目与工程模式.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "HA-MCP：用 AI 配置与自动化 Home Assistant.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM 驱动的多市场股票分析工作台.md",
-    "MuJoCo 通用物理仿真引擎.md",
     "OpenBot：自托管 AI 同事平台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
@@ -26,15 +21,10 @@
     "SkillSpector：AI Agent 技能安全扫描器.md",
     "Sure 开源个人理财应用.md",
     "TradingAgents 多智能体金融交易框架.md",
-    "addyosmani agent-skills：AI 编程工程化工作流.md",
-    "agent-browser：AI 智能体浏览器自动化 CLI.md",
-    "billion-context 长会话上下文压缩代理.md",
-    "mattpocock skills：真实工程导向的 AI 智能体技能库.md",
     "财报分析框架蒸馏为 AI Skill 的实践.md",
     "闲鱼 AI 智能监控系统.md"
   ],
   "Agent": [
-    "Anthropic Agent Skills 仓库指南.md",
     "LLM 驱动的多市场股票分析工作台.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
@@ -117,12 +107,6 @@
   "CRS税务": [
     "新加坡学生签作为海外金融账户入口.md"
   ],
-  "Claude API": [
-    "Claude Quickstarts 示例项目与工程模式.md"
-  ],
-  "Claude Code": [
-    "Anthropic Agent Skills 仓库指南.md"
-  ],
   "CoCo助手": [
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
   ],
@@ -179,9 +163,6 @@
   "GitHub开源": [
     "个人趋势跟踪量化交易系统七年实践.md"
   ],
-  "Home Assistant": [
-    "HA-MCP：用 AI 配置与自动化 Home Assistant.md"
-  ],
   "KDJ": [
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
@@ -200,18 +181,11 @@
     "MACD与布林线选股模式体系.md",
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
-  "MCP": [
-    "HA-MCP：用 AI 配置与自动化 Home Assistant.md",
-    "agent-browser：AI 智能体浏览器自动化 CLI.md"
-  ],
   "MR Dang": [
     "知乎与支付宝开源投资博主汇总与抄作业哲学.md"
   ],
   "Nodeseek": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
-  ],
-  "OSINT": [
-    "Sherlock 跨社交网络用户名检索工具.md"
   ],
   "OpenClaw": [
     "用 OpenClaw 搭建个人股票分析 Agent.md",
@@ -244,11 +218,7 @@
   "RPS动量": [
     "股票投资中的周期研究与自学路径.md"
   ],
-  "React": [
-    "Astryx 面向人类与 AI 智能体的开源设计系统.md"
-  ],
   "Rust": [
-    "Topcoat：Rust 全栈 Web 框架.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
   "Serenity": [
@@ -256,9 +226,6 @@
   ],
   "Transformer": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
-  ],
-  "TypeScript": [
-    "Astryx 面向人类与 AI 智能体的开源设计系统.md"
   ],
   "V2EX": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -270,9 +237,6 @@
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 量化交易平台与均线类策略实现.md",
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
-  ],
-  "上下文压缩": [
-    "billion-context 长会话上下文压缩代理.md"
   ],
   "下沉市场": [
     "环南京都市圈的极致性价比生活图景.md"
@@ -531,9 +495,6 @@
     "改良版永久投资组合 五资产等权配置方案.md",
     "桥水全天候策略与风险平价：原理、复现与收益来源.md",
     "桥水全天候策略与风险平价：底层逻辑、策略复现与高收益来源.md"
-  ],
-  "全栈框架": [
-    "Topcoat：Rust 全栈 Web 框架.md"
   ],
   "兴业银锡": [
     "紫金矿业 藏格矿业 兴业银锡 持仓成本与目标价复盘.md"
@@ -804,7 +765,6 @@
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
   "多智能体": [
-    "Claude Quickstarts 示例项目与工程模式.md",
     "TradingAgents 多智能体金融交易框架.md"
   ],
   "大盘股": [
@@ -961,49 +921,29 @@
   "库存周期": [
     "股票投资中的周期研究与自学路径.md"
   ],
-  "开发流程": [
-    "addyosmani agent-skills：AI 编程工程化工作流.md"
-  ],
-  "开发者工具": [
-    "mattpocock skills：真实工程导向的 AI 智能体技能库.md"
-  ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
-    "Anthropic Agent Skills 仓库指南.md",
-    "Astryx 面向人类与 AI 智能体的开源设计系统.md",
-    "Claude Quickstarts 示例项目与工程模式.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "HA-MCP：用 AI 配置与自动化 Home Assistant.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM 驱动的多市场股票分析工作台.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "MuJoCo 通用物理仿真引擎.md",
     "OpenBot：自托管 AI 同事平台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
-    "Sherlock 跨社交网络用户名检索工具.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
     "Sure 开源个人理财应用.md",
-    "Topcoat：Rust 全栈 Web 框架.md",
     "TradingAgents 多智能体金融交易框架.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-    "addyosmani agent-skills：AI 编程工程化工作流.md",
-    "agent-browser：AI 智能体浏览器自动化 CLI.md",
-    "billion-context 长会话上下文压缩代理.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-    "mattpocock skills：真实工程导向的 AI 智能体技能库.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "闲鱼 AI 智能监控系统.md"
   ],
   "开窍": [
     "开窍与交易认知跃迁 从归因错误到95322规律.md"
-  ],
-  "强化学习": [
-    "MuJoCo 通用物理仿真引擎.md"
   ],
   "归因错误": [
     "开窍与交易认知跃迁 从归因错误到95322规律.md"
@@ -1099,9 +1039,6 @@
     "超跌反弹战法：30日均线偏离度筛选与地天板操作.md",
     "趋势与反转：交易者必须敬畏惯性.md",
     "趋势与反转：先顺势后反转的交易纪律.md"
-  ],
-  "技能开发": [
-    "Anthropic Agent Skills 仓库指南.md"
   ],
   "抄作业": [
     "散户炒股简化框架：看宏观、抄基金经理作业.md",
@@ -1351,20 +1288,11 @@
   "智能体平台": [
     "OpenBot：自托管 AI 同事平台.md"
   ],
-  "智能体技能": [
-    "mattpocock skills：真实工程导向的 AI 智能体技能库.md"
-  ],
-  "智能家居": [
-    "HA-MCP：用 AI 配置与自动化 Home Assistant.md"
-  ],
   "智能网格": [
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
   ],
   "最佳实践": [
     "Example 域名：文档示例专用保留域名.md"
-  ],
-  "服务端渲染": [
-    "Topcoat：Rust 全栈 Web 框架.md"
   ],
   "期货": [
     "国家队去杠杆操盘手法与沪深300ETF成交量观察策略.md"
@@ -1374,9 +1302,6 @@
   ],
   "本金安全": [
     "20万现金的阶梯式资产配置方案.md"
-  ],
-  "机器人仿真": [
-    "MuJoCo 通用物理仿真引擎.md"
   ],
   "机器学习": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md",
@@ -1530,9 +1455,6 @@
     "牛市的形成逻辑：三驾马车与全球规律.md",
     "牛市见顶信号对比框架 2015 vs 2025.md"
   ],
-  "物理仿真": [
-    "MuJoCo 通用物理仿真引擎.md"
-  ],
   "特征工程": [
     "机器学习在量化交易中的应用要点.md"
   ],
@@ -1562,9 +1484,6 @@
   "生活方式": [
     "环南京都市圈的低成本居住样本.md",
     "环南京都市圈的极致性价比生活图景.md"
-  ],
-  "用户名检索": [
-    "Sherlock 跨社交网络用户名检索工具.md"
   ],
   "留学跳板": [
     "新加坡学生签作为海外金融账户入口.md"
@@ -1640,9 +1559,6 @@
   ],
   "磷化工": [
     "中粮糖业与云天化高股息标的观察.md"
-  ],
-  "社交网络": [
-    "Sherlock 跨社交网络用户名检索工具.md"
   ],
   "私有化部署": [
     "OpenBot：自托管 AI 同事平台.md"
@@ -1774,7 +1690,6 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
-    "agent-browser：AI 智能体浏览器自动化 CLI.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1834,9 +1749,6 @@
   ],
   "认知迭代": [
     "股票投资的学习门槛与能力自检.md"
-  ],
-  "设计系统": [
-    "Astryx 面向人类与 AI 智能体的开源设计系统.md"
   ],
   "读书笔记": [
     "索罗斯与金融炼金术的阅读感受.md",
@@ -2008,10 +1920,6 @@
   "身份规划": [
     "新加坡学生签作为海外金融账户入口.md"
   ],
-  "软件工程": [
-    "addyosmani agent-skills：AI 编程工程化工作流.md",
-    "mattpocock skills：真实工程导向的 AI 智能体技能库.md"
-  ],
   "连跌反弹": [
     "连跌反弹概率策略与1124建仓法.md",
     "连跌反弹统计策略与1124建仓法.md"
@@ -2138,9 +2046,6 @@
   ],
   "锂矿": [
     "津巴布韦锂矿禁令与世界杯题材 2026 年春季投资机会梳理.md"
-  ],
-  "长上下文": [
-    "billion-context 长会话上下文压缩代理.md"
   ],
   "长期主义": [
     "大包厢：用三个月工资做长期严肃观察的训练法.md",

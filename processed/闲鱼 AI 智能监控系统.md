@@ -3,7 +3,7 @@ title: 闲鱼 AI 智能监控系统
 source: raw_20261103_233133_b4e1a9a6
 source_url: https://github.com/Usagi-org/ai-goofish-monitor
 created: '2026-11-03'
-updated: '2026-11-10'
+updated: '2026-11-11'
 tags:
 - 开源项目
 - AI
@@ -17,13 +17,13 @@ related:
 - OpenShell 自主 AI 智能体安全运行时
 - OpenBot：自托管 AI 同事平台
 - SkillSpector：AI Agent 技能安全扫描器
-- Astryx 面向人类与 AI 智能体的开源设计系统
 - Cloudflare 多阶段安全审计 Skill
-- agent-browser：AI 智能体浏览器自动化 CLI
-- mattpocock skills：真实工程导向的 AI 智能体技能库
-- addyosmani agent-skills：AI 编程工程化工作流
-- HA-MCP：用 AI 配置与自动化 Home Assistant
 - TradingAgents 多智能体金融交易框架
+- Kronos：面向金融K线序列的首个开源基础模型
+- LLM 驱动的多市场股票分析工作台
+- Sure 开源个人理财应用
+- AI 供应链卡脖子环节投资框架
+- AI 时代个人量化交易可行路径与核心铁律
 ---
 
 # 闲鱼 AI 智能监控系统
@@ -173,10 +173,10 @@ npm run dev
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
-- [[Astryx 面向人类与 AI 智能体的开源设计系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[agent-browser：AI 智能体浏览器自动化 CLI]]
-- [[mattpocock skills：真实工程导向的 AI 智能体技能库]]
-- [[addyosmani agent-skills：AI 编程工程化工作流]]
-- [[HA-MCP：用 AI 配置与自动化 Home Assistant]]
 - [[TradingAgents 多智能体金融交易框架]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[LLM 驱动的多市场股票分析工作台]]
+- [[Sure 开源个人理财应用]]
+- [[AI 供应链卡脖子环节投资框架]]
+- [[AI 时代个人量化交易可行路径与核心铁律]]
