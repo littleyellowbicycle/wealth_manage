@@ -11,16 +11,24 @@
   "AI": [
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
+    "Agent Skills：AI 编程代理工程工作流.md",
+    "Astryx 开源设计系统.md",
     "Cloudflare 多阶段安全审计 Skill.md",
+    "Codex Security 漏洞扫描与修复闭环.md",
+    "Free Claude Code 多模型编程网关.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM 驱动的多市场股票分析工作台.md",
+    "Modern Web Guidance 现代 Web 编码指南.md",
     "OpenBot：自托管 AI 同事平台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
+    "Qwen Code 开源编程智能体.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
     "Sure 开源个人理财应用.md",
+    "TensorFold 本地大模型推理引擎.md",
     "TradingAgents 多智能体金融交易框架.md",
+    "llama.cpp 本地大模型推理框架.md",
     "财报分析框架蒸馏为 AI Skill 的实践.md",
     "闲鱼 AI 智能监控系统.md"
   ],
@@ -37,6 +45,9 @@
   ],
   "Alpha策略": [
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md"
+  ],
+  "Apple Watch": [
+    "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md"
   ],
   "A股": [
     "A股三次冲关4000点的逻辑变迁与策略比较.md",
@@ -101,6 +112,9 @@
   "B站学习": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md"
   ],
+  "C++": [
+    "llama.cpp 本地大模型推理框架.md"
+  ],
   "CRS": [
     "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md"
   ],
@@ -163,6 +177,12 @@
   "GitHub开源": [
     "个人趋势跟踪量化交易系统七年实践.md"
   ],
+  "Hermes 表盘": [
+    "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md"
+  ],
+  "JavaScript": [
+    "Node.js 项目概览与发布治理.md"
+  ],
   "KDJ": [
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
@@ -172,6 +192,9 @@
   "K线理论": [
     "K线圆弧角度分析的核心观点.md",
     "K线圆弧角度理论 金融市场的半圆数学.md"
+  ],
+  "LLM推理": [
+    "TensorFold 本地大模型推理引擎.md"
   ],
   "Linux.do": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -183,6 +206,10 @@
   ],
   "MR Dang": [
     "知乎与支付宝开源投资博主汇总与抄作业哲学.md"
+  ],
+  "Node.js": [
+    "Node.js 项目概览与发布治理.md",
+    "nvm：Node.js 多版本管理与环境切换.md"
   ],
   "Nodeseek": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -196,6 +223,9 @@
   ],
   "PB-ROE框架": [
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
+  ],
+  "POSIX Shell": [
+    "nvm：Node.js 多版本管理与环境切换.md"
   ],
   "Playwright": [
     "闲鱼 AI 智能监控系统.md"
@@ -218,6 +248,9 @@
   "RPS动量": [
     "股票投资中的周期研究与自学路径.md"
   ],
+  "React": [
+    "Astryx 开源设计系统.md"
+  ],
   "Rust": [
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
@@ -227,8 +260,14 @@
   "Transformer": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
   ],
+  "TypeScript": [
+    "Astryx 开源设计系统.md"
+  ],
   "V2EX": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
+  ],
+  "Web开发": [
+    "Modern Web Guidance 现代 Web 编码指南.md"
   ],
   "WorldQuant": [
     "量化投资入门三步法：从认知到实战的系统路径.md"
@@ -237,6 +276,9 @@
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 量化交易平台与均线类策略实现.md",
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
+  ],
+  "watchOS": [
+    "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md"
   ],
   "下沉市场": [
     "环南京都市圈的极致性价比生活图景.md"
@@ -437,8 +479,14 @@
   "代操盘教训": [
     "散户投资的人性困境：追涨杀跌与代操盘教训.md"
   ],
+  "代码安全": [
+    "Codex Security 漏洞扫描与修复闭环.md"
+  ],
   "代码审计": [
     "Cloudflare 多阶段安全审计 Skill.md"
+  ],
+  "代码智能体": [
+    "Qwen Code 开源编程智能体.md"
   ],
   "价值投资": [
     "价值投资.md"
@@ -473,6 +521,9 @@
   ],
   "供应链安全": [
     "SkillSpector：AI Agent 技能安全扫描器.md"
+  ],
+  "侧载": [
+    "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md"
   ],
   "信用紧缩": [
     "中国房价与债务周期：顶部不可维持的底层逻辑.md"
@@ -562,6 +613,9 @@
   ],
   "反身性理论": [
     "金融炼金术的智识真诚.md"
+  ],
+  "发布周期": [
+    "Node.js 项目概览与发布治理.md"
   ],
   "可转债": [
     "低频量化投资：指标筛选结合条件单的极简框架.md"
@@ -765,7 +819,11 @@
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
   "多智能体": [
+    "Agent Skills：AI 编程代理工程工作流.md",
     "TradingAgents 多智能体金融交易框架.md"
+  ],
+  "大模型推理": [
+    "llama.cpp 本地大模型推理框架.md"
   ],
   "大盘股": [
     "矿股永续增长与大盘低估的本质.md",
@@ -921,24 +979,44 @@
   "库存周期": [
     "股票投资中的周期研究与自学路径.md"
   ],
+  "开发工作流": [
+    "Agent Skills：AI 编程代理工程工作流.md"
+  ],
+  "开发工具": [
+    "Modern Web Guidance 现代 Web 编码指南.md"
+  ],
+  "开发者工具": [
+    "Free Claude Code 多模型编程网关.md"
+  ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
+    "Agent Skills：AI 编程代理工程工作流.md",
+    "Astryx 开源设计系统.md",
     "Cloudflare 多阶段安全审计 Skill.md",
+    "Codex Security 漏洞扫描与修复闭环.md",
+    "Free Claude Code 多模型编程网关.md",
+    "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM 驱动的多市场股票分析工作台.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+    "Modern Web Guidance 现代 Web 编码指南.md",
+    "Node.js 项目概览与发布治理.md",
     "OpenBot：自托管 AI 同事平台.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
+    "Qwen Code 开源编程智能体.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
     "Sure 开源个人理财应用.md",
+    "TensorFold 本地大模型推理引擎.md",
     "TradingAgents 多智能体金融交易框架.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+    "llama.cpp 本地大模型推理框架.md",
+    "nvm：Node.js 多版本管理与环境切换.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "闲鱼 AI 智能监控系统.md"
   ],
@@ -1300,6 +1378,9 @@
   "本地优先": [
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
+  "本地部署": [
+    "TensorFold 本地大模型推理引擎.md"
+  ],
   "本金安全": [
     "20万现金的阶梯式资产配置方案.md"
   ],
@@ -1346,6 +1427,13 @@
   "概率统计": [
     "连跌反弹概率策略与1124建仓法.md",
     "连跌反弹统计策略与1124建仓法.md"
+  ],
+  "模型路由": [
+    "Free Claude Code 多模型编程网关.md"
+  ],
+  "模型量化": [
+    "TensorFold 本地大模型推理引擎.md",
+    "llama.cpp 本地大模型推理框架.md"
   ],
   "止损": [
     "BOLL短线两种高胜率策略与仓位管理.md",
@@ -1432,6 +1520,9 @@
   "游资庄家": [
     "游资庄家的真实赚钱逻辑.md",
     "游资庄家盈利真相与散户亏损根源.md"
+  ],
+  "漏洞扫描": [
+    "Codex Security 漏洞扫描与修复闭环.md"
   ],
   "漏洞挖掘": [
     "Cloudflare 多阶段安全审计 Skill.md"
@@ -1600,6 +1691,7 @@
     "国产科技主升浪在即，锂电五月迎加速段.md"
   ],
   "管理": [
+    "nvm：Node.js 多版本管理与环境切换.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "大跌复盘三件事与组合沙箱工具.md",
     "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1629,6 +1721,12 @@
   ],
   "经验分享": [
     "知乎高资金量交易者推荐三人.md"
+  ],
+  "编码代理": [
+    "Modern Web Guidance 现代 Web 编码指南.md"
+  ],
+  "编程助手": [
+    "Free Claude Code 多模型编程网关.md"
   ],
   "网络安全": [
     "Cloudflare 多阶段安全审计 Skill.md"
@@ -1690,6 +1788,7 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
+    "Codex Security 漏洞扫描与修复闭环.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1749,6 +1848,9 @@
   ],
   "认知迭代": [
     "股票投资的学习门槛与能力自检.md"
+  ],
+  "设计系统": [
+    "Astryx 开源设计系统.md"
   ],
   "读书笔记": [
     "索罗斯与金融炼金术的阅读感受.md",
@@ -1919,6 +2021,9 @@
   ],
   "身份规划": [
     "新加坡学生签作为海外金融账户入口.md"
+  ],
+  "软件工程": [
+    "Agent Skills：AI 编程代理工程工作流.md"
   ],
   "连跌反弹": [
     "连跌反弹概率策略与1124建仓法.md",

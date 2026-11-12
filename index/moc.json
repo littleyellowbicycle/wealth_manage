@@ -380,6 +380,43 @@
       ],
       "note_count": 40
     },
+    "开源项目": {
+      "notes": [
+        "Agent Skills：AI 编程代理工程工作流.md",
+        "Astryx 开源设计系统.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "Codex Security 漏洞扫描与修复闭环.md",
+        "Free Claude Code 多模型编程网关.md",
+        "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM 驱动的多市场股票分析工作台.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "Modern Web Guidance 现代 Web 编码指南.md",
+        "Node.js 项目概览与发布治理.md",
+        "OpenBot：自托管 AI 同事平台.md",
+        "OpenShell 自主 AI 智能体安全运行时.md",
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "Qbot 量化交易平台与均线类策略实现.md",
+        "Qwen Code 开源编程智能体.md",
+        "SkillSpector：AI Agent 技能安全扫描器.md",
+        "Sure 开源个人理财应用.md",
+        "TensorFold 本地大模型推理引擎.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "llama.cpp 本地大模型推理框架.md",
+        "nvm：Node.js 多版本管理与环境切换.md",
+        "七年自建趋势跟踪交易系统实战复盘.md",
+        "闲鱼 AI 智能监控系统.md"
+      ],
+      "subtopics": [
+        "AI",
+        "量化交易",
+        "风险控制"
+      ],
+      "note_count": 27
+    },
     "基金": {
       "notes": [
         "20万现金的阶梯式资产配置方案.md",
@@ -521,6 +558,38 @@
         "基本面分析"
       ],
       "note_count": 24
+    },
+    "AI": {
+      "notes": [
+        "AI 供应链卡脖子环节投资框架.md",
+        "AI供应链卡脖子环节挖掘框架.md",
+        "Agent Skills：AI 编程代理工程工作流.md",
+        "Astryx 开源设计系统.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "Codex Security 漏洞扫描与修复闭环.md",
+        "Free Claude Code 多模型编程网关.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM 驱动的多市场股票分析工作台.md",
+        "Modern Web Guidance 现代 Web 编码指南.md",
+        "OpenBot：自托管 AI 同事平台.md",
+        "OpenShell 自主 AI 智能体安全运行时.md",
+        "Qwen Code 开源编程智能体.md",
+        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
+        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
+        "SkillSpector：AI Agent 技能安全扫描器.md",
+        "Sure 开源个人理财应用.md",
+        "TensorFold 本地大模型推理引擎.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "llama.cpp 本地大模型推理框架.md",
+        "财报分析框架蒸馏为 AI Skill 的实践.md",
+        "闲鱼 AI 智能监控系统.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "风险控制",
+        "投资"
+      ],
+      "note_count": 22
     },
     "仓位管理": {
       "notes": [
@@ -778,32 +847,6 @@
       ],
       "note_count": 17
     },
-    "开源项目": {
-      "notes": [
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "LLM 驱动的多市场股票分析工作台.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "OpenBot：自托管 AI 同事平台.md",
-        "OpenShell 自主 AI 智能体安全运行时.md",
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "Qbot 量化交易平台与均线类策略实现.md",
-        "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Sure 开源个人理财应用.md",
-        "TradingAgents 多智能体金融交易框架.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "七年自建趋势跟踪交易系统实战复盘.md",
-        "闲鱼 AI 智能监控系统.md"
-      ],
-      "subtopics": [
-        "AI",
-        "量化交易",
-        "风险控制"
-      ],
-      "note_count": 16
-    },
     "金融": {
       "notes": [
         "2万元交易员付费课性价比存疑 B站免费资源更优.md",
@@ -828,30 +871,6 @@
         "A股"
       ],
       "note_count": 15
-    },
-    "AI": {
-      "notes": [
-        "AI 供应链卡脖子环节投资框架.md",
-        "AI供应链卡脖子环节挖掘框架.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "LLM 驱动的多市场股票分析工作台.md",
-        "OpenBot：自托管 AI 同事平台.md",
-        "OpenShell 自主 AI 智能体安全运行时.md",
-        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
-        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-        "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Sure 开源个人理财应用.md",
-        "TradingAgents 多智能体金融交易框架.md",
-        "财报分析框架蒸馏为 AI Skill 的实践.md",
-        "闲鱼 AI 智能监控系统.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "风险控制",
-        "投资"
-      ],
-      "note_count": 14
     },
     "估值": {
       "notes": [
@@ -1007,6 +1026,25 @@
       ],
       "note_count": 10
     },
+    "管理": {
+      "notes": [
+        "nvm：Node.js 多版本管理与环境切换.md",
+        "七年自建趋势跟踪交易系统实战复盘.md",
+        "大跌复盘三件事与组合沙箱工具.md",
+        "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
+        "寒武纪的鳄鱼知乎内容归档.md",
+        "散户更适合右侧交易而非左侧交易 (2).md",
+        "散户更适合右侧交易而非左侧交易.md",
+        "普通家庭抗周期生存指南：二十条核心法则.md",
+        "知乎理财收藏夹：边城的个人理财资料汇总.md"
+      ],
+      "subtopics": [
+        "投资",
+        "交易",
+        "资产配置"
+      ],
+      "note_count": 9
+    },
     "牛市": {
       "notes": [
         "A股散户投资策略与ETF及板块标的梳理.md",
@@ -1022,24 +1060,6 @@
         "投资",
         "A股",
         "板块轮动"
-      ],
-      "note_count": 8
-    },
-    "管理": {
-      "notes": [
-        "七年自建趋势跟踪交易系统实战复盘.md",
-        "大跌复盘三件事与组合沙箱工具.md",
-        "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
-        "寒武纪的鳄鱼知乎内容归档.md",
-        "散户更适合右侧交易而非左侧交易 (2).md",
-        "散户更适合右侧交易而非左侧交易.md",
-        "普通家庭抗周期生存指南：二十条核心法则.md",
-        "知乎理财收藏夹：边城的个人理财资料汇总.md"
-      ],
-      "subtopics": [
-        "投资",
-        "交易",
-        "资产配置"
       ],
       "note_count": 8
     },
@@ -1238,6 +1258,20 @@
         "投资",
         "A股",
         "金融"
+      ],
+      "note_count": 4
+    },
+    "自动化": {
+      "notes": [
+        "Codex Security 漏洞扫描与修复闭环.md",
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md",
+        "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
+      ],
+      "subtopics": [
+        "OpenClaw",
+        "量化交易",
+        "Agent"
       ],
       "note_count": 4
     },
@@ -1587,19 +1621,6 @@
       ],
       "note_count": 3
     },
-    "自动化": {
-      "notes": [
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md",
-        "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
-      ],
-      "subtopics": [
-        "OpenClaw",
-        "量化交易",
-        "Agent"
-      ],
-      "note_count": 3
-    },
     "财务自由": {
       "notes": [
         "穷人翻身的最大可能性：用30万存款撬动财务自由.md",
@@ -1648,6 +1669,18 @@
         "个人理财",
         "被动收入",
         "银行存款"
+      ],
+      "note_count": 2
+    },
+    "多智能体": {
+      "notes": [
+        "Agent Skills：AI 编程代理工程工作流.md",
+        "TradingAgents 多智能体金融交易框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "软件工程"
       ],
       "note_count": 2
     },
@@ -1840,6 +1873,30 @@
         "技术分析",
         "K线理论",
         "金融"
+      ],
+      "note_count": 2
+    },
+    "模型量化": {
+      "notes": [
+        "TensorFold 本地大模型推理引擎.md",
+        "llama.cpp 本地大模型推理框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "大模型推理"
+      ],
+      "note_count": 2
+    },
+    "Node.js": {
+      "notes": [
+        "Node.js 项目概览与发布治理.md",
+        "nvm：Node.js 多版本管理与环境切换.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "JavaScript",
+        "发布周期"
       ],
       "note_count": 2
     },
@@ -2630,6 +2687,28 @@
       ],
       "note_count": 1
     },
+    "软件工程": {
+      "notes": [
+        "Agent Skills：AI 编程代理工程工作流.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "多智能体"
+      ],
+      "note_count": 1
+    },
+    "开发工作流": {
+      "notes": [
+        "Agent Skills：AI 编程代理工程工作流.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "多智能体"
+      ],
+      "note_count": 1
+    },
     "卡脖子环节": {
       "notes": [
         "AI 供应链卡脖子环节投资框架.md"
@@ -2671,6 +2750,39 @@
         "AI",
         "投资",
         "卡脖子"
+      ],
+      "note_count": 1
+    },
+    "设计系统": {
+      "notes": [
+        "Astryx 开源设计系统.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "React"
+      ],
+      "note_count": 1
+    },
+    "React": {
+      "notes": [
+        "Astryx 开源设计系统.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "设计系统"
+      ],
+      "note_count": 1
+    },
+    "TypeScript": {
+      "notes": [
+        "Astryx 开源设计系统.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "设计系统"
       ],
       "note_count": 1
     },
@@ -2828,6 +2940,28 @@
       ],
       "note_count": 1
     },
+    "代码安全": {
+      "notes": [
+        "Codex Security 漏洞扫描与修复闭环.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "漏洞扫描"
+      ],
+      "note_count": 1
+    },
+    "漏洞扫描": {
+      "notes": [
+        "Codex Security 漏洞扫描与修复闭环.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "代码安全"
+      ],
+      "note_count": 1
+    },
     "不对称网格": {
       "notes": [
         "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
@@ -2867,6 +3001,83 @@
       ],
       "subtopics": [
         "技术分析"
+      ],
+      "note_count": 1
+    },
+    "编程助手": {
+      "notes": [
+        "Free Claude Code 多模型编程网关.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "模型路由"
+      ],
+      "note_count": 1
+    },
+    "模型路由": {
+      "notes": [
+        "Free Claude Code 多模型编程网关.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "编程助手"
+      ],
+      "note_count": 1
+    },
+    "开发者工具": {
+      "notes": [
+        "Free Claude Code 多模型编程网关.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "编程助手"
+      ],
+      "note_count": 1
+    },
+    "Apple Watch": {
+      "notes": [
+        "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "watchOS",
+        "侧载"
+      ],
+      "note_count": 1
+    },
+    "watchOS": {
+      "notes": [
+        "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Apple Watch",
+        "侧载"
+      ],
+      "note_count": 1
+    },
+    "侧载": {
+      "notes": [
+        "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Apple Watch",
+        "watchOS"
+      ],
+      "note_count": 1
+    },
+    "Hermes 表盘": {
+      "notes": [
+        "HermesEnabler 2：Apple Watch Hermes 表盘启用工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Apple Watch",
+        "watchOS"
       ],
       "note_count": 1
     },
@@ -2914,6 +3125,28 @@
       ],
       "note_count": 1
     },
+    "大模型推理": {
+      "notes": [
+        "llama.cpp 本地大模型推理框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "模型量化"
+      ],
+      "note_count": 1
+    },
+    "C++": {
+      "notes": [
+        "llama.cpp 本地大模型推理框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "大模型推理"
+      ],
+      "note_count": 1
+    },
     "抓妖模式": {
       "notes": [
         "MACD与布林线实战：短线中线技术形态选股框架.md"
@@ -2944,6 +3177,72 @@
         "技术分析",
         "MACD",
         "布林线"
+      ],
+      "note_count": 1
+    },
+    "Web开发": {
+      "notes": [
+        "Modern Web Guidance 现代 Web 编码指南.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "编码代理"
+      ],
+      "note_count": 1
+    },
+    "编码代理": {
+      "notes": [
+        "Modern Web Guidance 现代 Web 编码指南.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "Web开发"
+      ],
+      "note_count": 1
+    },
+    "开发工具": {
+      "notes": [
+        "Modern Web Guidance 现代 Web 编码指南.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "Web开发"
+      ],
+      "note_count": 1
+    },
+    "JavaScript": {
+      "notes": [
+        "Node.js 项目概览与发布治理.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Node.js",
+        "发布周期"
+      ],
+      "note_count": 1
+    },
+    "发布周期": {
+      "notes": [
+        "Node.js 项目概览与发布治理.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Node.js",
+        "JavaScript"
+      ],
+      "note_count": 1
+    },
+    "POSIX Shell": {
+      "notes": [
+        "nvm：Node.js 多版本管理与环境切换.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "Node.js",
+        "管理"
       ],
       "note_count": 1
     },
@@ -3057,6 +3356,16 @@
       ],
       "note_count": 1
     },
+    "代码智能体": {
+      "notes": [
+        "Qwen Code 开源编程智能体.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI"
+      ],
+      "note_count": 1
+    },
     "Serenity": {
       "notes": [
         "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md"
@@ -3123,14 +3432,25 @@
       ],
       "note_count": 1
     },
-    "多智能体": {
+    "LLM推理": {
       "notes": [
-        "TradingAgents 多智能体金融交易框架.md"
+        "TensorFold 本地大模型推理引擎.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "交易"
+        "本地部署"
+      ],
+      "note_count": 1
+    },
+    "本地部署": {
+      "notes": [
+        "TensorFold 本地大模型推理引擎.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "LLM推理"
       ],
       "note_count": 1
     },
@@ -5393,5 +5713,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-11-11T23:31:41"
+  "last_rebuilt": "2026-11-12T23:43:19"
 }

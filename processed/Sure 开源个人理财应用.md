@@ -3,7 +3,7 @@ title: Sure 开源个人理财应用
 source: raw_20261110_233132_692bb41e
 source_url: https://github.com/we-promise/sure
 created: '2026-11-10'
-updated: '2026-11-11'
+updated: '2026-11-12'
 tags:
 - 开源项目
 - 个人理财
@@ -15,14 +15,14 @@ note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
 - Wealthfolio：本地优先的个人财务追踪开源工具
+- Astryx 开源设计系统
+- Qwen Code 开源编程智能体
+- Agent Skills：AI 编程代理工程工作流
 - Cloudflare 多阶段安全审计 Skill
+- Codex Security 漏洞扫描与修复闭环
+- Free Claude Code 多模型编程网关
+- llama.cpp 本地大模型推理框架
 - LLM 驱动的多市场股票分析工作台
-- OpenBot：自托管 AI 同事平台
-- OpenShell 自主 AI 智能体安全运行时
-- SkillSpector：AI Agent 技能安全扫描器
-- TradingAgents 多智能体金融交易框架
-- 账面资产与现金流：资产泡沫制造的财富幻觉
-- 闲鱼 AI 智能监控系统
 ---
 
 # Sure 开源个人理财应用
@@ -108,11 +108,11 @@ Sure 已被明确描述为数据密集型应用，复杂请求可能出现性能
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
 - [[Wealthfolio：本地优先的个人财务追踪开源工具]]
+- [[Astryx 开源设计系统]]
+- [[Qwen Code 开源编程智能体]]
+- [[Agent Skills：AI 编程代理工程工作流]]
 - [[Cloudflare 多阶段安全审计 Skill]]
+- [[Codex Security 漏洞扫描与修复闭环]]
+- [[Free Claude Code 多模型编程网关]]
+- [[llama.cpp 本地大模型推理框架]]
 - [[LLM 驱动的多市场股票分析工作台]]
-- [[OpenBot：自托管 AI 同事平台]]
-- [[OpenShell 自主 AI 智能体安全运行时]]
-- [[SkillSpector：AI Agent 技能安全扫描器]]
-- [[TradingAgents 多智能体金融交易框架]]
-- [[账面资产与现金流：资产泡沫制造的财富幻觉]]
-- [[闲鱼 AI 智能监控系统]]

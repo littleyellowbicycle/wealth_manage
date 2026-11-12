@@ -3,7 +3,7 @@ title: LLM 驱动的多市场股票分析工作台
 source: raw_20261109_233123_05fba0bc
 source_url: https://github.com/ZhuLinsen/daily_stock_analysis
 created: '2026-11-09'
-updated: '2026-11-11'
+updated: '2026-11-12'
 tags:
 - AI
 - 股票研究
@@ -16,12 +16,12 @@ related:
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
+- Agent Skills：AI 编程代理工程工作流
+- Astryx 开源设计系统
 - Cloudflare 多阶段安全审计 Skill
+- Codex Security 漏洞扫描与修复闭环
+- Free Claude Code 多模型编程网关
 - Kronos：面向金融K线序列的首个开源基础模型
-- OpenBot：自托管 AI 同事平台
-- OpenShell 自主 AI 智能体安全运行时
-- SkillSpector：AI Agent 技能安全扫描器
-- Sure 开源个人理财应用
 ---
 
 # LLM 驱动的多市场股票分析工作台
@@ -163,9 +163,9 @@ python main.py --serve-only
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
+- [[Agent Skills：AI 编程代理工程工作流]]
+- [[Astryx 开源设计系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
+- [[Codex Security 漏洞扫描与修复闭环]]
+- [[Free Claude Code 多模型编程网关]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[OpenBot：自托管 AI 同事平台]]
-- [[OpenShell 自主 AI 智能体安全运行时]]
-- [[SkillSpector：AI Agent 技能安全扫描器]]
-- [[Sure 开源个人理财应用]]

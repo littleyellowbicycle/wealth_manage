@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-11'
+updated: '2026-11-12'
 tags:
 - 开源项目
 - AI
@@ -18,11 +18,12 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
+- Agent Skills：AI 编程代理工程工作流
+- Astryx 开源设计系统
+- Codex Security 漏洞扫描与修复闭环
+- Free Claude Code 多模型编程网关
 - Kronos：面向金融K线序列的首个开源基础模型
-- LLM 驱动的多市场股票分析工作台
-- Sure 开源个人理财应用
-- TradingAgents 多智能体金融交易框架
-- 财报分析框架蒸馏为 AI Skill 的实践
+- llama.cpp 本地大模型推理框架
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -99,8 +100,9 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
+- [[Agent Skills：AI 编程代理工程工作流]]
+- [[Astryx 开源设计系统]]
+- [[Codex Security 漏洞扫描与修复闭环]]
+- [[Free Claude Code 多模型编程网关]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[LLM 驱动的多市场股票分析工作台]]
-- [[Sure 开源个人理财应用]]
-- [[TradingAgents 多智能体金融交易框架]]
-- [[财报分析框架蒸馏为 AI Skill 的实践]]
+- [[llama.cpp 本地大模型推理框架]]

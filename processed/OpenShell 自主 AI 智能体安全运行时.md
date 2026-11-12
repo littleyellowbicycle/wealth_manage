@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-11'
+updated: '2026-11-12'
 tags:
 - 开源项目
 - AI
@@ -17,12 +17,12 @@ related:
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
+- Agent Skills：AI 编程代理工程工作流
+- Qwen Code 开源编程智能体
 - TradingAgents 多智能体金融交易框架
-- Kronos：面向金融K线序列的首个开源基础模型
-- LLM 驱动的多市场股票分析工作台
-- Sure 开源个人理财应用
-- AI 供应链卡脖子环节投资框架
-- AI 时代个人量化交易可行路径与核心铁律
+- Astryx 开源设计系统
+- Codex Security 漏洞扫描与修复闭环
+- Free Claude Code 多模型编程网关
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -135,9 +135,9 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
+- [[Agent Skills：AI 编程代理工程工作流]]
+- [[Qwen Code 开源编程智能体]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[LLM 驱动的多市场股票分析工作台]]
-- [[Sure 开源个人理财应用]]
-- [[AI 供应链卡脖子环节投资框架]]
-- [[AI 时代个人量化交易可行路径与核心铁律]]
+- [[Astryx 开源设计系统]]
+- [[Codex Security 漏洞扫描与修复闭环]]
+- [[Free Claude Code 多模型编程网关]]

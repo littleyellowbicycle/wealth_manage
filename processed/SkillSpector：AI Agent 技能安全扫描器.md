@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-11'
+updated: '2026-11-12'
 tags:
 - AI
 - 开源项目
@@ -16,12 +16,12 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
+- Agent Skills：AI 编程代理工程工作流
+- Astryx 开源设计系统
+- Codex Security 漏洞扫描与修复闭环
+- Free Claude Code 多模型编程网关
 - Kronos：面向金融K线序列的首个开源基础模型
-- LLM 驱动的多市场股票分析工作台
-- Sure 开源个人理财应用
-- TradingAgents 多智能体金融交易框架
-- AI 供应链卡脖子环节投资框架
-- AI 时代个人量化交易可行路径与核心铁律
+- llama.cpp 本地大模型推理框架
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -135,9 +135,9 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
+- [[Agent Skills：AI 编程代理工程工作流]]
+- [[Astryx 开源设计系统]]
+- [[Codex Security 漏洞扫描与修复闭环]]
+- [[Free Claude Code 多模型编程网关]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[LLM 驱动的多市场股票分析工作台]]
-- [[Sure 开源个人理财应用]]
-- [[TradingAgents 多智能体金融交易框架]]
-- [[AI 供应链卡脖子环节投资框架]]
-- [[AI 时代个人量化交易可行路径与核心铁律]]
+- [[llama.cpp 本地大模型推理框架]]
