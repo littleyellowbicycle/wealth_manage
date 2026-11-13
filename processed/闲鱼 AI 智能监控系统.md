@@ -3,7 +3,7 @@ title: 闲鱼 AI 智能监控系统
 source: raw_20261103_233133_b4e1a9a6
 source_url: https://github.com/Usagi-org/ai-goofish-monitor
 created: '2026-11-03'
-updated: '2026-11-12'
+updated: '2026-11-13'
 tags:
 - 开源项目
 - AI
@@ -15,15 +15,15 @@ status: processed
 note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
+- Claude Trading Skills：个人投资者 AI 交易工作流
 - OpenBot：自托管 AI 同事平台
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
-- Agent Skills：AI 编程代理工程工作流
-- Astryx 开源设计系统
-- Qwen Code 开源编程智能体
+- Buzz 人类与 AI 智能体协作工作区
+- Chrome DevTools MCP：AI 代理的浏览器调试工具
+- Plannotator：AI 编程代理审阅与反馈中枢
 - TradingAgents 多智能体金融交易框架
-- Codex Security 漏洞扫描与修复闭环
-- Free Claude Code 多模型编程网关
+- Uptime Kuma 开源自托管监控方案
 ---
 
 # 闲鱼 AI 智能监控系统
@@ -171,12 +171,12 @@ npm run dev
 
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Agent Skills：AI 编程代理工程工作流]]
-- [[Astryx 开源设计系统]]
-- [[Qwen Code 开源编程智能体]]
+- [[Buzz 人类与 AI 智能体协作工作区]]
+- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
+- [[Plannotator：AI 编程代理审阅与反馈中枢]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Codex Security 漏洞扫描与修复闭环]]
-- [[Free Claude Code 多模型编程网关]]
+- [[Uptime Kuma 开源自托管监控方案]]

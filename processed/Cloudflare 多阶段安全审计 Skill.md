@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-12'
+updated: '2026-11-13'
 tags:
 - 开源项目
 - AI
@@ -16,14 +16,14 @@ note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
+- Claude Trading Skills：个人投资者 AI 交易工作流
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- Agent Skills：AI 编程代理工程工作流
-- Astryx 开源设计系统
-- Codex Security 漏洞扫描与修复闭环
-- Free Claude Code 多模型编程网关
+- Buzz 人类与 AI 智能体协作工作区
+- Chrome DevTools MCP：AI 代理的浏览器调试工具
+- Codex Security 漏洞扫描与修复工作流
 - Kronos：面向金融K线序列的首个开源基础模型
-- llama.cpp 本地大模型推理框架
+- LLM 驱动的多市场股票分析工作台
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -98,11 +98,11 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Agent Skills：AI 编程代理工程工作流]]
-- [[Astryx 开源设计系统]]
-- [[Codex Security 漏洞扫描与修复闭环]]
-- [[Free Claude Code 多模型编程网关]]
+- [[Buzz 人类与 AI 智能体协作工作区]]
+- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
+- [[Codex Security 漏洞扫描与修复工作流]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[llama.cpp 本地大模型推理框架]]
+- [[LLM 驱动的多市场股票分析工作台]]

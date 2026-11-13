@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-11-12'
+updated: '2026-11-13'
 tags:
 - AI
 - 开源项目
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
-- Agent Skills：AI 编程代理工程工作流
-- llama.cpp 本地大模型推理框架
+- Claude Trading Skills：个人投资者 AI 交易工作流
+- Buzz 人类与 AI 智能体协作工作区
 - OpenShell 自主 AI 智能体安全运行时
-- Qwen Code 开源编程智能体
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - 纳指ETF策略选择方法论：数据驱动的回测决策框架
 - 闲鱼 AI 智能监控系统
-- Astryx 开源设计系统
+- Chrome DevTools MCP：AI 代理的浏览器调试工具
 - Cloudflare 多阶段安全审计 Skill
+- Codex Security 漏洞扫描与修复工作流
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -125,12 +125,12 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[Agent Skills：AI 编程代理工程工作流]]
-- [[llama.cpp 本地大模型推理框架]]
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
+- [[Buzz 人类与 AI 智能体协作工作区]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
-- [[Qwen Code 开源编程智能体]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Astryx 开源设计系统]]
+- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
 - [[Cloudflare 多阶段安全审计 Skill]]
+- [[Codex Security 漏洞扫描与修复工作流]]

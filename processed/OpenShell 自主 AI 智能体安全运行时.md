@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-12'
+updated: '2026-11-13'
 tags:
 - 开源项目
 - AI
@@ -15,14 +15,14 @@ note_type: content
 related:
 - SkillSpector：AI Agent 技能安全扫描器
 - 闲鱼 AI 智能监控系统
+- Claude Trading Skills：个人投资者 AI 交易工作流
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- Agent Skills：AI 编程代理工程工作流
-- Qwen Code 开源编程智能体
+- Buzz 人类与 AI 智能体协作工作区
+- Chrome DevTools MCP：AI 代理的浏览器调试工具
+- Plannotator：AI 编程代理审阅与反馈中枢
 - TradingAgents 多智能体金融交易框架
-- Astryx 开源设计系统
-- Codex Security 漏洞扫描与修复闭环
-- Free Claude Code 多模型编程网关
+- Codex Security 漏洞扫描与修复工作流
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -133,11 +133,11 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 ## 相关笔记
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[闲鱼 AI 智能监控系统]]
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[Agent Skills：AI 编程代理工程工作流]]
-- [[Qwen Code 开源编程智能体]]
+- [[Buzz 人类与 AI 智能体协作工作区]]
+- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
+- [[Plannotator：AI 编程代理审阅与反馈中枢]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Astryx 开源设计系统]]
-- [[Codex Security 漏洞扫描与修复闭环]]
-- [[Free Claude Code 多模型编程网关]]
+- [[Codex Security 漏洞扫描与修复工作流]]

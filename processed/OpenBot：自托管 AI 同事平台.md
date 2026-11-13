@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-12'
+updated: '2026-11-13'
 tags:
 - 开源项目
 - AI
@@ -13,16 +13,16 @@ tags:
 status: processed
 note_type: content
 related:
+- Claude Trading Skills：个人投资者 AI 交易工作流
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
-- Agent Skills：AI 编程代理工程工作流
-- Astryx 开源设计系统
-- Codex Security 漏洞扫描与修复闭环
-- Free Claude Code 多模型编程网关
+- Buzz 人类与 AI 智能体协作工作区
+- Chrome DevTools MCP：AI 代理的浏览器调试工具
+- Plannotator：AI 编程代理审阅与反馈中枢
+- Codex Security 漏洞扫描与修复工作流
 - Kronos：面向金融K线序列的首个开源基础模型
-- llama.cpp 本地大模型推理框架
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -106,13 +106,13 @@ related:
 - 原始材料采集时：约 7,879 Stars，并曾位列当日仓库趋势第 3；该数据仅反映当时热度，不代表生产成熟度。
 
 ## 相关笔记
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Agent Skills：AI 编程代理工程工作流]]
-- [[Astryx 开源设计系统]]
-- [[Codex Security 漏洞扫描与修复闭环]]
-- [[Free Claude Code 多模型编程网关]]
+- [[Buzz 人类与 AI 智能体协作工作区]]
+- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
+- [[Plannotator：AI 编程代理审阅与反馈中枢]]
+- [[Codex Security 漏洞扫描与修复工作流]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[llama.cpp 本地大模型推理框架]]

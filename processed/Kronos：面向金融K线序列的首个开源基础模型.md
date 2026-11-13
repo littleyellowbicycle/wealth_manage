@@ -3,7 +3,7 @@ title: Kronos：面向金融K线序列的首个开源基础模型
 source: raw_20261020_014255_c4757d03
 source_url: https://github.com/shiyu-coder/Kronos
 created: '2026-10-20'
-updated: '2026-11-12'
+updated: '2026-11-13'
 tags:
 - AI
 - 交易
@@ -16,14 +16,14 @@ note_type: content
 related:
 - TradingAgents 多智能体金融交易框架
 - Sure 开源个人理财应用
+- Claude Trading Skills：个人投资者 AI 交易工作流
 - 基于 bt 与 alphalens 的多因子回测框架实践
-- Astryx 开源设计系统
-- Free Claude Code 多模型编程网关
 - K线圆弧角度分析的核心观点
 - K线圆弧角度理论 金融市场的半圆数学
-- llama.cpp 本地大模型推理框架
 - Qbot 开源量化交易平台与经典技术指标策略实现
-- Qwen Code 开源编程智能体
+- 分钟级K线涨跌跟随策略的回测：高频交易是负和博弈
+- 2万元交易员付费课性价比存疑 B站免费资源更优
+- BOLL短线两种高胜率策略与仓位管理
 ---
 
 # Kronos：面向金融K线序列的首个开源基础模型
@@ -99,11 +99,11 @@ License：MIT。
 ## 相关笔记
 - [[TradingAgents 多智能体金融交易框架]]
 - [[Sure 开源个人理财应用]]
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
-- [[Astryx 开源设计系统]]
-- [[Free Claude Code 多模型编程网关]]
 - [[K线圆弧角度分析的核心观点]]
 - [[K线圆弧角度理论 金融市场的半圆数学]]
-- [[llama.cpp 本地大模型推理框架]]
 - [[Qbot 开源量化交易平台与经典技术指标策略实现]]
-- [[Qwen Code 开源编程智能体]]
+- [[分钟级K线涨跌跟随策略的回测：高频交易是负和博弈]]
+- [[2万元交易员付费课性价比存疑 B站免费资源更优]]
+- [[BOLL短线两种高胜率策略与仓位管理]]

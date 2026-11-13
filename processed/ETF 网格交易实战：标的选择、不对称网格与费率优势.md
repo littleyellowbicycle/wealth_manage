@@ -3,7 +3,7 @@ title: ETF 网格交易实战：标的选择、不对称网格与费率优势
 source: raw_20260624_162218_5e57bfde
 source_url: https://www.zhihu.com/question/589099433/answer/2976954684
 created: '2026-06-29'
-updated: '2026-10-17'
+updated: '2026-11-13'
 tags:
 - 交易
 - ETF
@@ -22,7 +22,7 @@ related:
 - 红利类ETF分类与选择指南
 - A股散户投资框架：ETF优先与独立择时
 - CH4因子模型：A股四维定价框架与实战应用
-- MACD与布林线实战：短线中线技术形态选股框架
+- Claude Trading Skills：个人投资者 AI 交易工作流
 note_type: content
 ---
 
@@ -69,4 +69,4 @@ ETF 网格对成本极度敏感，费率是策略能否跑赢的重要前提：
 - [[红利类ETF分类与选择指南]]
 - [[A股散户投资框架：ETF优先与独立择时]]
 - [[CH4因子模型：A股四维定价框架与实战应用]]
-- [[MACD与布林线实战：短线中线技术形态选股框架]]
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]

@@ -3,7 +3,7 @@ title: Wealthfolio：本地优先的个人财务追踪开源工具
 source: raw_20260710_162019_0d26dff2
 source_url: ''
 created: '2026-10-17'
-updated: '2026-11-12'
+updated: '2026-11-13'
 tags:
 - 开源项目
 - 资产配置
@@ -19,10 +19,10 @@ related:
 - 普通人多元资产配置实战：分红底仓加风险平价增强
 - 普通人投资ETF的胜率逻辑与品种选择
 - 美股长线持仓为主、A股以指数ETF间接配置的实盘思路
-- Astryx 开源设计系统
-- HermesEnabler 2：Apple Watch Hermes 表盘启用工具
+- Chrome DevTools MCP：AI 代理的浏览器调试工具
+- Claude Trading Skills：个人投资者 AI 交易工作流
 - Kronos：面向金融K线序列的首个开源基础模型
-- llama.cpp 本地大模型推理框架
+- Qbot 开源量化交易平台与经典技术指标策略实现
 ---
 
 # Wealthfolio：本地优先的个人财务追踪开源工具
@@ -62,7 +62,7 @@ related:
 - [[普通人多元资产配置实战：分红底仓加风险平价增强]]
 - [[普通人投资ETF的胜率逻辑与品种选择]]
 - [[美股长线持仓为主、A股以指数ETF间接配置的实盘思路]]
-- [[Astryx 开源设计系统]]
-- [[HermesEnabler 2：Apple Watch Hermes 表盘启用工具]]
+- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[llama.cpp 本地大模型推理框架]]
+- [[Qbot 开源量化交易平台与经典技术指标策略实现]]

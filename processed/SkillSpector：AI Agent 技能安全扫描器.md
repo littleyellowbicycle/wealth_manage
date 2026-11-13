@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-12'
+updated: '2026-11-13'
 tags:
 - AI
 - 开源项目
@@ -13,15 +13,15 @@ status: processed
 note_type: content
 related:
 - OpenShell 自主 AI 智能体安全运行时
+- Claude Trading Skills：个人投资者 AI 交易工作流
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- Agent Skills：AI 编程代理工程工作流
-- Astryx 开源设计系统
-- Codex Security 漏洞扫描与修复闭环
-- Free Claude Code 多模型编程网关
-- Kronos：面向金融K线序列的首个开源基础模型
-- llama.cpp 本地大模型推理框架
+- Buzz 人类与 AI 智能体协作工作区
+- Chrome DevTools MCP：AI 代理的浏览器调试工具
+- OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查
+- Plannotator：AI 编程代理审阅与反馈中枢
+- Codex Security 漏洞扫描与修复工作流
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -132,12 +132,12 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 
 ## 相关笔记
 - [[OpenShell 自主 AI 智能体安全运行时]]
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Agent Skills：AI 编程代理工程工作流]]
-- [[Astryx 开源设计系统]]
-- [[Codex Security 漏洞扫描与修复闭环]]
-- [[Free Claude Code 多模型编程网关]]
-- [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[llama.cpp 本地大模型推理框架]]
+- [[Buzz 人类与 AI 智能体协作工作区]]
+- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
+- [[OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查]]
+- [[Plannotator：AI 编程代理审阅与反馈中枢]]
+- [[Codex Security 漏洞扫描与修复工作流]]
