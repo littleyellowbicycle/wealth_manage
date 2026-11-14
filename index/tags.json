@@ -9,26 +9,27 @@
     "A股三次冲关4000点的逻辑变迁与策略比较.md"
   ],
   "AI": [
+    "AG-UI 智能体前端交互协议.md",
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
-    "Buzz 人类与 AI 智能体协作工作区.md",
-    "Chrome DevTools MCP：AI 代理的浏览器调试工具.md",
+    "Chrome DevTools MCP 浏览器代理指南.md",
     "Claude Trading Skills：个人投资者 AI 交易工作流.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Codex Security 漏洞扫描与修复工作流.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM 驱动的多市场股票分析工作台.md",
-    "Modern Web Guidance 编码代理知识库.md",
+    "LoopForge 自托管编码智能体交付编排.md",
+    "Modern Web Guidance：面向编码智能体的现代 Web 指南.md",
     "OpenBot：自托管 AI 同事平台.md",
-    "OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查.md",
+    "OpenCodeReview 混合架构代码审查.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
-    "Plannotator：AI 编程代理审阅与反馈中枢.md",
+    "Plannotator：AI 编程代理评审工作台.md",
+    "Qwen Code：开源终端 AI 编程代理.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
     "Sure 开源个人理财应用.md",
     "TradingAgents 多智能体金融交易框架.md",
-    "Veyra 实时 GPU 视频增强与串流工具.md",
+    "Veyra 实时视频增强与流媒体处理.md",
     "财报分析框架蒸馏为 AI Skill 的实践.md",
     "闲鱼 AI 智能监控系统.md"
   ],
@@ -128,7 +129,6 @@
     "牛市的形成逻辑：三驾马车与全球规律.md"
   ],
   "Docker": [
-    "Uptime Kuma 开源自托管监控方案.md",
     "闲鱼 AI 智能监控系统.md"
   ],
   "ETF": [
@@ -167,16 +167,13 @@
     "PB-ROE框架复现：基于招商量化精选的GARP策略拆解.md"
   ],
   "GPU加速": [
-    "Veyra 实时 GPU 视频增强与串流工具.md"
+    "Veyra 实时视频增强与流媒体处理.md"
   ],
   "GitHub": [
     "Qbot 开源量化交易闭环系统.md"
   ],
   "GitHub开源": [
     "个人趋势跟踪量化交易系统七年实践.md"
-  ],
-  "Go": [
-    "Tailcat 去控制平面点对点隧道.md"
   ],
   "KDJ": [
     "Qbot 量化交易平台与均线类策略实现.md"
@@ -188,9 +185,6 @@
     "K线圆弧角度分析的核心观点.md",
     "K线圆弧角度理论 金融市场的半圆数学.md"
   ],
-  "LLM智能体": [
-    "OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查.md"
-  ],
   "Linux.do": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
   ],
@@ -200,16 +194,13 @@
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
   "MCP": [
-    "Chrome DevTools MCP：AI 代理的浏览器调试工具.md"
+    "Chrome DevTools MCP 浏览器代理指南.md"
   ],
   "MR Dang": [
     "知乎与支付宝开源投资博主汇总与抄作业哲学.md"
   ],
   "Nodeseek": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
-  ],
-  "Nostr": [
-    "Buzz 人类与 AI 智能体协作工作区.md"
   ],
   "OpenClaw": [
     "用 OpenClaw 搭建个人股票分析 Agent.md",
@@ -243,6 +234,7 @@
     "股票投资中的周期研究与自学路径.md"
   ],
   "Rust": [
+    "Airgorah：Linux WiFi 安全审计工具.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
   "Serenity": [
@@ -254,8 +246,11 @@
   "V2EX": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
   ],
-  "WireGuard": [
-    "Tailcat 去控制平面点对点隧道.md"
+  "Web开发": [
+    "Modern Web Guidance：面向编码智能体的现代 Web 指南.md"
+  ],
+  "WiFi安全": [
+    "Airgorah：Linux WiFi 安全审计工具.md"
   ],
   "WorldQuant": [
     "量化投资入门三步法：从认知到实战的系统路径.md"
@@ -360,6 +355,7 @@
     "金融炼金术的智识真诚.md"
   ],
   "事件驱动策略": [
+    "AG-UI 智能体前端交互协议.md",
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md"
   ],
@@ -433,6 +429,9 @@
     "县城产业兴衰研究与差异化经营案例.md",
     "县城产业兴衰研究法与多元商业逻辑.md"
   ],
+  "人机协作": [
+    "Plannotator：AI 编程代理评审工作台.md"
+  ],
   "仓位管理": [
     "A股平台突破实战策略.md",
     "A股散户情绪逆向投资法与低估值选股框架.md",
@@ -465,12 +464,9 @@
   "代操盘教训": [
     "散户投资的人性困境：追涨杀跌与代操盘教训.md"
   ],
-  "代码安全": [
-    "Codex Security 漏洞扫描与修复工作流.md"
-  ],
   "代码审查": [
-    "OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查.md",
-    "Plannotator：AI 编程代理审阅与反馈中枢.md"
+    "OpenCodeReview 混合架构代码审查.md",
+    "Plannotator：AI 编程代理评审工作台.md"
   ],
   "代码审计": [
     "Cloudflare 多阶段安全审计 Skill.md"
@@ -559,6 +555,9 @@
   "创业思考": [
     "县城产业兴衰研究法与多元商业逻辑.md"
   ],
+  "前端集成": [
+    "AG-UI 智能体前端交互协议.md"
+  ],
   "区块链": [
     "知乎高资金量交易者推荐三人.md"
   ],
@@ -598,9 +597,6 @@
   "反身性理论": [
     "金融炼金术的智识真诚.md"
   ],
-  "可用性监控": [
-    "Uptime Kuma 开源自托管监控方案.md"
-  ],
   "可转债": [
     "低频量化投资：指标筛选结合条件单的极简框架.md"
   ],
@@ -617,6 +613,9 @@
     "有色化工资源股配置计划与布林线交易纪律.md",
     "矿股的永续增长与低估值悖论.md",
     "风兮投资体系：周期轮动框架与低估成长实践.md"
+  ],
+  "命令行工具": [
+    "Qwen Code：开源终端 AI 编程代理.md"
   ],
   "哈利布朗": [
     "改良版永久投资组合 五资产等权配置方案.md"
@@ -803,6 +802,7 @@
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
   "多智能体": [
+    "Qwen Code：开源终端 AI 编程代理.md",
     "TradingAgents 多智能体金融交易框架.md"
   ],
   "大盘股": [
@@ -886,8 +886,8 @@
     "黄金两阶段投资策略：持有与兑现的择时框架.md",
     "黄金投资的两阶段策略：从坚定持有到天价清仓.md"
   ],
-  "实时处理": [
-    "Veyra 实时 GPU 视频增强与串流工具.md"
+  "实时增强": [
+    "Veyra 实时视频增强与流媒体处理.md"
   ],
   "实盘": [
     "知乎三位高价值投资内容创作者推荐.md"
@@ -918,6 +918,9 @@
   ],
   "居民杠杆": [
     "中国房价周期与资产折旧陷阱.md"
+  ],
+  "工作流编排": [
+    "LoopForge 自托管编码智能体交付编排.md"
   ],
   "差异化经营": [
     "县城产业兴衰研究与差异化经营案例.md"
@@ -962,35 +965,33 @@
   "库存周期": [
     "股票投资中的周期研究与自学路径.md"
   ],
-  "开发者工具": [
-    "Modern Web Guidance 编码代理知识库.md"
-  ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
-    "Buzz 人类与 AI 智能体协作工作区.md",
-    "Chrome DevTools MCP：AI 代理的浏览器调试工具.md",
+    "AG-UI 智能体前端交互协议.md",
+    "Airgorah：Linux WiFi 安全审计工具.md",
+    "Chrome DevTools MCP 浏览器代理指南.md",
     "Claude Trading Skills：个人投资者 AI 交易工作流.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Codex Security 漏洞扫描与修复工作流.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM 驱动的多市场股票分析工作台.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "Modern Web Guidance 编码代理知识库.md",
+    "LoopForge 自托管编码智能体交付编排.md",
+    "Modern Web Guidance：面向编码智能体的现代 Web 指南.md",
     "OpenBot：自托管 AI 同事平台.md",
-    "OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查.md",
+    "OpenCodeReview 混合架构代码审查.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
-    "Plannotator：AI 编程代理审阅与反馈中枢.md",
+    "Plannotator：AI 编程代理评审工作台.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
+    "Qwen Code：开源终端 AI 编程代理.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
     "Sure 开源个人理财应用.md",
-    "Tailcat 去控制平面点对点隧道.md",
     "TradingAgents 多智能体金融交易框架.md",
-    "Uptime Kuma 开源自托管监控方案.md",
-    "Veyra 实时 GPU 视频增强与串流工具.md",
+    "Uptime Kuma 自托管监控与部署指南.md",
+    "Veyra 实时视频增强与流媒体处理.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
@@ -1011,8 +1012,8 @@
   "徐翔": [
     "徐翔交易体系拆解：跟庄逻辑与庄家食物链.md"
   ],
-  "性能分析": [
-    "Chrome DevTools MCP：AI 代理的浏览器调试工具.md"
+  "性能调试": [
+    "Chrome DevTools MCP 浏览器代理指南.md"
   ],
   "慢牛": [
     "A股三次冲关4000点的逻辑变迁与策略比较.md"
@@ -1342,8 +1343,8 @@
   "时序预测": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
   ],
-  "智能体协作": [
-    "Buzz 人类与 AI 智能体协作工作区.md"
+  "智能体协议": [
+    "AG-UI 智能体前端交互协议.md"
   ],
   "智能体平台": [
     "OpenBot：自托管 AI 同事平台.md"
@@ -1353,6 +1354,9 @@
   ],
   "最佳实践": [
     "Example 域名：文档示例专用保留域名.md"
+  ],
+  "服务监控": [
+    "Uptime Kuma 自托管监控与部署指南.md"
   ],
   "期货": [
     "国家队去杠杆操盘手法与沪深300ETF成交量观察策略.md"
@@ -1463,7 +1467,7 @@
     "主力猎取的是流动性而非散户本身.md"
   ],
   "浏览器兼容性": [
-    "Modern Web Guidance 编码代理知识库.md"
+    "Modern Web Guidance：面向编码智能体的现代 Web 指南.md"
   ],
   "海外券商": [
     "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md"
@@ -1508,9 +1512,6 @@
   "炒股大V": [
     "知乎炒股大V年度盘点与交易风格分类.md"
   ],
-  "点对点网络": [
-    "Tailcat 去控制平面点对点隧道.md"
-  ],
   "牛市": [
     "A股散户投资策略与ETF及板块标的梳理.md",
     "A股本轮牛市的内外部结构与板块轮动节奏.md",
@@ -1524,6 +1525,9 @@
   "特征工程": [
     "机器学习在量化交易中的应用要点.md"
   ],
+  "状态页": [
+    "Uptime Kuma 自托管监控与部署指南.md"
+  ],
   "独立思考": [
     "A股散户投资框架：ETF优先与独立择时.md",
     "价值投资声誉困境与巴菲特的核心能力.md"
@@ -1531,9 +1535,6 @@
   "环南京都市圈": [
     "环南京都市圈的低成本居住样本.md",
     "环南京都市圈的极致性价比生活图景.md"
-  ],
-  "现代Web标准": [
-    "Modern Web Guidance 编码代理知识库.md"
   ],
   "现金流": [
     "账面资产与现金流：资产泡沫制造的财富幻觉.md",
@@ -1669,7 +1670,6 @@
     "国产科技主升浪在即，锂电五月迎加速段.md"
   ],
   "管理": [
-    "Codex Security 漏洞扫描与修复工作流.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "大跌复盘三件事与组合沙箱工具.md",
     "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1700,7 +1700,12 @@
   "经验分享": [
     "知乎高资金量交易者推荐三人.md"
   ],
+  "编码智能体": [
+    "LoopForge 自托管编码智能体交付编排.md",
+    "Modern Web Guidance：面向编码智能体的现代 Web 指南.md"
+  ],
   "网络安全": [
+    "Airgorah：Linux WiFi 安全审计工具.md",
     "Cloudflare 多阶段安全审计 Skill.md"
   ],
   "美股": [
@@ -1760,7 +1765,7 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
-    "Chrome DevTools MCP：AI 代理的浏览器调试工具.md",
+    "Chrome DevTools MCP 浏览器代理指南.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "预期股息率投资助手CoCo：自动化解决股息率追踪与买点提醒.md"
@@ -1773,9 +1778,9 @@
     "股票投资的学习门槛与能力自检.md"
   ],
   "自托管": [
-    "Buzz 人类与 AI 智能体协作工作区.md",
+    "LoopForge 自托管编码智能体交付编排.md",
     "Sure 开源个人理财应用.md",
-    "Uptime Kuma 开源自托管监控方案.md"
+    "Uptime Kuma 自托管监控与部署指南.md"
   ],
   "舆情调研": [
     "散户低价国企股的舆情调研与人事博弈策略.md"
@@ -1811,8 +1816,8 @@
   "见顶信号": [
     "牛市见顶信号对比框架 2015 vs 2025.md"
   ],
-  "视频增强": [
-    "Veyra 实时 GPU 视频增强与串流工具.md"
+  "视频处理": [
+    "Veyra 实时视频增强与流媒体处理.md"
   ],
   "认知升级": [
     "穷富差距的本质：时间、砸钱与使用权的三重分野.md"
@@ -1997,7 +2002,7 @@
     "新加坡学生签作为海外金融账户入口.md"
   ],
   "软件工程": [
-    "OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查.md"
+    "OpenCodeReview 混合架构代码审查.md"
   ],
   "连跌反弹": [
     "连跌反弹概率策略与1124建仓法.md",
@@ -2141,6 +2146,9 @@
   ],
   "阶层跨越": [
     "穷富差距的本质：时间、砸钱与使用权的三重分野.md"
+  ],
+  "隐私保护": [
+    "Plannotator：AI 编程代理评审工作台.md"
   ],
   "雪球网": [
     "沃尔特·施洛斯 简单可复制的价值投资大师.md"

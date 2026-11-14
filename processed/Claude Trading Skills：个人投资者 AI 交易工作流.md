@@ -3,7 +3,7 @@ title: Claude Trading Skills：个人投资者 AI 交易工作流
 source: raw_20261113_233155_da42709b
 source_url: https://github.com/tradermonty/claude-trading-skills
 created: '2026-11-13'
-updated: '2026-11-13'
+updated: '2026-11-14'
 tags:
 - 开源项目
 - AI
@@ -19,9 +19,9 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - Kronos：面向金融K线序列的首个开源基础模型
 - TradingAgents 多智能体金融交易框架
-- Buzz 人类与 AI 智能体协作工作区
-- Chrome DevTools MCP：AI 代理的浏览器调试工具
-- Codex Security 漏洞扫描与修复工作流
+- Plannotator：AI 编程代理评审工作台
+- Qwen Code：开源终端 AI 编程代理
+- Sure 开源个人理财应用
 ---
 
 # Claude Trading Skills：个人投资者 AI 交易工作流
@@ -129,6 +129,6 @@ related:
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Buzz 人类与 AI 智能体协作工作区]]
-- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
-- [[Codex Security 漏洞扫描与修复工作流]]
+- [[Plannotator：AI 编程代理评审工作台]]
+- [[Qwen Code：开源终端 AI 编程代理]]
+- [[Sure 开源个人理财应用]]

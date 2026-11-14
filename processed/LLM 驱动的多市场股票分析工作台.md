@@ -3,7 +3,7 @@ title: LLM 驱动的多市场股票分析工作台
 source: raw_20261109_233123_05fba0bc
 source_url: https://github.com/ZhuLinsen/daily_stock_analysis
 created: '2026-11-09'
-updated: '2026-11-13'
+updated: '2026-11-14'
 tags:
 - AI
 - 股票研究
@@ -16,12 +16,12 @@ related:
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
-- OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查
-- Buzz 人类与 AI 智能体协作工作区
-- Chrome DevTools MCP：AI 代理的浏览器调试工具
+- Plannotator：AI 编程代理评审工作台
+- AG-UI 智能体前端交互协议
+- Chrome DevTools MCP 浏览器代理指南
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - Cloudflare 多阶段安全审计 Skill
-- Codex Security 漏洞扫描与修复工作流
+- Kronos：面向金融K线序列的首个开源基础模型
 ---
 
 # LLM 驱动的多市场股票分析工作台
@@ -163,9 +163,9 @@ python main.py --serve-only
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
-- [[OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查]]
-- [[Buzz 人类与 AI 智能体协作工作区]]
-- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
+- [[Plannotator：AI 编程代理评审工作台]]
+- [[AG-UI 智能体前端交互协议]]
+- [[Chrome DevTools MCP 浏览器代理指南]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Codex Security 漏洞扫描与修复工作流]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]

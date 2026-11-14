@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-13'
+updated: '2026-11-14'
 tags:
 - 开源项目
 - AI
@@ -19,9 +19,9 @@ related:
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- Buzz 人类与 AI 智能体协作工作区
-- Chrome DevTools MCP：AI 代理的浏览器调试工具
-- Codex Security 漏洞扫描与修复工作流
+- Airgorah：Linux WiFi 安全审计工具
+- AG-UI 智能体前端交互协议
+- Chrome DevTools MCP 浏览器代理指南
 - Kronos：面向金融K线序列的首个开源基础模型
 - LLM 驱动的多市场股票分析工作台
 ---
@@ -101,8 +101,8 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Buzz 人类与 AI 智能体协作工作区]]
-- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
-- [[Codex Security 漏洞扫描与修复工作流]]
+- [[Airgorah：Linux WiFi 安全审计工具]]
+- [[AG-UI 智能体前端交互协议]]
+- [[Chrome DevTools MCP 浏览器代理指南]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
 - [[LLM 驱动的多市场股票分析工作台]]

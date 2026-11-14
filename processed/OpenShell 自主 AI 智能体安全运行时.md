@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-13'
+updated: '2026-11-14'
 tags:
 - 开源项目
 - AI
@@ -18,11 +18,11 @@ related:
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- Buzz 人类与 AI 智能体协作工作区
-- Chrome DevTools MCP：AI 代理的浏览器调试工具
-- Plannotator：AI 编程代理审阅与反馈中枢
-- TradingAgents 多智能体金融交易框架
-- Codex Security 漏洞扫描与修复工作流
+- AG-UI 智能体前端交互协议
+- LoopForge 自托管编码智能体交付编排
+- Modern Web Guidance：面向编码智能体的现代 Web 指南
+- Plannotator：AI 编程代理评审工作台
+- Qwen Code：开源终端 AI 编程代理
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -136,8 +136,8 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[Buzz 人类与 AI 智能体协作工作区]]
-- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
-- [[Plannotator：AI 编程代理审阅与反馈中枢]]
-- [[TradingAgents 多智能体金融交易框架]]
-- [[Codex Security 漏洞扫描与修复工作流]]
+- [[AG-UI 智能体前端交互协议]]
+- [[LoopForge 自托管编码智能体交付编排]]
+- [[Modern Web Guidance：面向编码智能体的现代 Web 指南]]
+- [[Plannotator：AI 编程代理评审工作台]]
+- [[Qwen Code：开源终端 AI 编程代理]]

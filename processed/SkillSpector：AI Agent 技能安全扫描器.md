@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-13'
+updated: '2026-11-14'
 tags:
 - AI
 - 开源项目
@@ -17,11 +17,11 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- Buzz 人类与 AI 智能体协作工作区
-- Chrome DevTools MCP：AI 代理的浏览器调试工具
-- OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查
-- Plannotator：AI 编程代理审阅与反馈中枢
-- Codex Security 漏洞扫描与修复工作流
+- Plannotator：AI 编程代理评审工作台
+- Qwen Code：开源终端 AI 编程代理
+- AG-UI 智能体前端交互协议
+- Chrome DevTools MCP 浏览器代理指南
+- Kronos：面向金融K线序列的首个开源基础模型
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -136,8 +136,8 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Buzz 人类与 AI 智能体协作工作区]]
-- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
-- [[OpenCodeReview：确定性流水线与 LLM Agent 混合代码审查]]
-- [[Plannotator：AI 编程代理审阅与反馈中枢]]
-- [[Codex Security 漏洞扫描与修复工作流]]
+- [[Plannotator：AI 编程代理评审工作台]]
+- [[Qwen Code：开源终端 AI 编程代理]]
+- [[AG-UI 智能体前端交互协议]]
+- [[Chrome DevTools MCP 浏览器代理指南]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]

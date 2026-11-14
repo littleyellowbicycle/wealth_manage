@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-13'
+updated: '2026-11-14'
 tags:
 - 开源项目
 - AI
@@ -18,11 +18,11 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - 闲鱼 AI 智能监控系统
 - Cloudflare 多阶段安全审计 Skill
-- Buzz 人类与 AI 智能体协作工作区
-- Chrome DevTools MCP：AI 代理的浏览器调试工具
-- Plannotator：AI 编程代理审阅与反馈中枢
-- Codex Security 漏洞扫描与修复工作流
-- Kronos：面向金融K线序列的首个开源基础模型
+- LoopForge 自托管编码智能体交付编排
+- Plannotator：AI 编程代理评审工作台
+- Qwen Code：开源终端 AI 编程代理
+- AG-UI 智能体前端交互协议
+- Chrome DevTools MCP 浏览器代理指南
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -111,8 +111,8 @@ related:
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[闲鱼 AI 智能监控系统]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[Buzz 人类与 AI 智能体协作工作区]]
-- [[Chrome DevTools MCP：AI 代理的浏览器调试工具]]
-- [[Plannotator：AI 编程代理审阅与反馈中枢]]
-- [[Codex Security 漏洞扫描与修复工作流]]
-- [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[LoopForge 自托管编码智能体交付编排]]
+- [[Plannotator：AI 编程代理评审工作台]]
+- [[Qwen Code：开源终端 AI 编程代理]]
+- [[AG-UI 智能体前端交互协议]]
+- [[Chrome DevTools MCP 浏览器代理指南]]
