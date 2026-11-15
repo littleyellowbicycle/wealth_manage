@@ -3,7 +3,7 @@ title: Kronos：面向金融K线序列的首个开源基础模型
 source: raw_20261020_014255_c4757d03
 source_url: https://github.com/shiyu-coder/Kronos
 created: '2026-10-20'
-updated: '2026-11-14'
+updated: '2026-11-15'
 tags:
 - AI
 - 交易
@@ -20,9 +20,9 @@ related:
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - K线圆弧角度分析的核心观点
 - K线圆弧角度理论 金融市场的半圆数学
-- Modern Web Guidance：面向编码智能体的现代 Web 指南
 - Qbot 开源量化交易平台与经典技术指标策略实现
-- Qwen Code：开源终端 AI 编程代理
+- TensorFold：跨 Metal 与 CUDA 的本地大模型推理引擎
+- Univer：可扩展的开源 Office SDK
 - 分钟级K线涨跌跟随策略的回测：高频交易是负和博弈
 ---
 
@@ -103,7 +103,7 @@ License：MIT。
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[K线圆弧角度分析的核心观点]]
 - [[K线圆弧角度理论 金融市场的半圆数学]]
-- [[Modern Web Guidance：面向编码智能体的现代 Web 指南]]
 - [[Qbot 开源量化交易平台与经典技术指标策略实现]]
-- [[Qwen Code：开源终端 AI 编程代理]]
+- [[TensorFold：跨 Metal 与 CUDA 的本地大模型推理引擎]]
+- [[Univer：可扩展的开源 Office SDK]]
 - [[分钟级K线涨跌跟随策略的回测：高频交易是负和博弈]]

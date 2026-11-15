@@ -3,7 +3,7 @@ title: 闲鱼 AI 智能监控系统
 source: raw_20261103_233133_b4e1a9a6
 source_url: https://github.com/Usagi-org/ai-goofish-monitor
 created: '2026-11-03'
-updated: '2026-11-14'
+updated: '2026-11-15'
 tags:
 - 开源项目
 - AI
@@ -19,11 +19,11 @@ related:
 - OpenBot：自托管 AI 同事平台
 - SkillSpector：AI Agent 技能安全扫描器
 - Cloudflare 多阶段安全审计 Skill
-- AG-UI 智能体前端交互协议
-- LoopForge 自托管编码智能体交付编排
-- Modern Web Guidance：面向编码智能体的现代 Web 指南
-- Plannotator：AI 编程代理评审工作台
-- Qwen Code：开源终端 AI 编程代理
+- AG-UI 智能体交互协议概览
+- Caveman 编程智能体 Token 优化方案
+- Modern Web Guidance：编程智能体的现代 Web 开发指南
+- OpenCodeReview 混合架构 AI 代码审查
+- Plannotator：AI 编程代理本地评审工作台
 ---
 
 # 闲鱼 AI 智能监控系统
@@ -175,8 +175,8 @@ npm run dev
 - [[OpenBot：自托管 AI 同事平台]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[AG-UI 智能体前端交互协议]]
-- [[LoopForge 自托管编码智能体交付编排]]
-- [[Modern Web Guidance：面向编码智能体的现代 Web 指南]]
-- [[Plannotator：AI 编程代理评审工作台]]
-- [[Qwen Code：开源终端 AI 编程代理]]
+- [[AG-UI 智能体交互协议概览]]
+- [[Caveman 编程智能体 Token 优化方案]]
+- [[Modern Web Guidance：编程智能体的现代 Web 开发指南]]
+- [[OpenCodeReview 混合架构 AI 代码审查]]
+- [[Plannotator：AI 编程代理本地评审工作台]]

@@ -3,7 +3,7 @@ title: Sure 开源个人理财应用
 source: raw_20261110_233132_692bb41e
 source_url: https://github.com/we-promise/sure
 created: '2026-11-10'
-updated: '2026-11-14'
+updated: '2026-11-15'
 tags:
 - 开源项目
 - 个人理财
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
-- LoopForge 自托管编码智能体交付编排
 - Wealthfolio：本地优先的个人财务追踪开源工具
 - Claude Trading Skills：个人投资者 AI 交易工作流
-- Qwen Code：开源终端 AI 编程代理
-- AG-UI 智能体前端交互协议
+- Univer：可扩展的开源 Office SDK
+- AG-UI 智能体交互协议概览
+- Caveman 编程智能体 Token 优化方案
 - Chrome DevTools MCP 浏览器代理指南
+- Claude-BugHunter 授权外部安全测试技能包
 - Cloudflare 多阶段安全审计 Skill
-- LLM 驱动的多市场股票分析工作台
-- Modern Web Guidance：面向编码智能体的现代 Web 指南
+- ggml 轻量级跨平台机器学习张量库
 ---
 
 # Sure 开源个人理财应用
@@ -107,12 +107,12 @@ Sure 已被明确描述为数据密集型应用，复杂请求可能出现性能
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[LoopForge 自托管编码智能体交付编排]]
 - [[Wealthfolio：本地优先的个人财务追踪开源工具]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[Qwen Code：开源终端 AI 编程代理]]
-- [[AG-UI 智能体前端交互协议]]
+- [[Univer：可扩展的开源 Office SDK]]
+- [[AG-UI 智能体交互协议概览]]
+- [[Caveman 编程智能体 Token 优化方案]]
 - [[Chrome DevTools MCP 浏览器代理指南]]
+- [[Claude-BugHunter 授权外部安全测试技能包]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[LLM 驱动的多市场股票分析工作台]]
-- [[Modern Web Guidance：面向编码智能体的现代 Web 指南]]
+- [[ggml 轻量级跨平台机器学习张量库]]

@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-11-14'
+updated: '2026-11-15'
 tags:
 - AI
 - 开源项目
@@ -15,10 +15,10 @@ note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
 - Claude Trading Skills：个人投资者 AI 交易工作流
-- Qwen Code：开源终端 AI 编程代理
-- AG-UI 智能体前端交互协议
-- LoopForge 自托管编码智能体交付编排
-- Modern Web Guidance：面向编码智能体的现代 Web 指南
+- AG-UI 智能体交互协议概览
+- Caveman 编程智能体 Token 优化方案
+- Modern Web Guidance：编程智能体的现代 Web 开发指南
+- NVIDIA SkillEvaluator 三级技能评估框架
 - OpenShell 自主 AI 智能体安全运行时
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - 纳指ETF策略选择方法论：数据驱动的回测决策框架
@@ -126,10 +126,10 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[Qwen Code：开源终端 AI 编程代理]]
-- [[AG-UI 智能体前端交互协议]]
-- [[LoopForge 自托管编码智能体交付编排]]
-- [[Modern Web Guidance：面向编码智能体的现代 Web 指南]]
+- [[AG-UI 智能体交互协议概览]]
+- [[Caveman 编程智能体 Token 优化方案]]
+- [[Modern Web Guidance：编程智能体的现代 Web 开发指南]]
+- [[NVIDIA SkillEvaluator 三级技能评估框架]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]

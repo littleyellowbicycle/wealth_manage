@@ -3,7 +3,7 @@ title: Wealthfolio：本地优先的个人财务追踪开源工具
 source: raw_20260710_162019_0d26dff2
 source_url: ''
 created: '2026-10-17'
-updated: '2026-11-14'
+updated: '2026-11-15'
 tags:
 - 开源项目
 - 资产配置
@@ -14,7 +14,6 @@ status: processed
 note_type: content
 related:
 - Sure 开源个人理财应用
-- Airgorah：Linux WiFi 安全审计工具
 - 知乎理财收藏夹：边城的个人理财资料汇总
 - 20万现金的阶梯式资产配置方案
 - 普通人多元资产配置实战：分红底仓加风险平价增强
@@ -22,6 +21,7 @@ related:
 - 美股长线持仓为主、A股以指数ETF间接配置的实盘思路
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - Kronos：面向金融K线序列的首个开源基础模型
+- Plannotator：AI 编程代理本地评审工作台
 - Qbot 开源量化交易平台与经典技术指标策略实现
 ---
 
@@ -57,7 +57,6 @@ related:
 
 ## 相关笔记
 - [[Sure 开源个人理财应用]]
-- [[Airgorah：Linux WiFi 安全审计工具]]
 - [[知乎理财收藏夹：边城的个人理财资料汇总]]
 - [[20万现金的阶梯式资产配置方案]]
 - [[普通人多元资产配置实战：分红底仓加风险平价增强]]
@@ -65,4 +64,5 @@ related:
 - [[美股长线持仓为主、A股以指数ETF间接配置的实盘思路]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[Plannotator：AI 编程代理本地评审工作台]]
 - [[Qbot 开源量化交易平台与经典技术指标策略实现]]

@@ -381,6 +381,84 @@
       ],
       "note_count": 40
     },
+    "开源项目": {
+      "notes": [
+        "AG-UI 智能体交互协议概览.md",
+        "Caveman 编程智能体 Token 优化方案.md",
+        "Chrome DevTools MCP 浏览器代理指南.md",
+        "Claude Trading Skills：个人投资者 AI 交易工作流.md",
+        "Claude-BugHunter 授权外部安全测试技能包.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "Google Stitch Agent Skills 套件.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM 驱动的多市场股票分析工作台.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "LoopForge：自托管编码代理交付编排平台.md",
+        "Modern Web Guidance：编程智能体的现代 Web 开发指南.md",
+        "NVIDIA SkillEvaluator 三级技能评估框架.md",
+        "OpenBot：自托管 AI 同事平台.md",
+        "OpenCodeReview 混合架构 AI 代码审查.md",
+        "OpenShell 自主 AI 智能体安全运行时.md",
+        "Plannotator：AI 编程代理本地评审工作台.md",
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "Qbot 量化交易平台与均线类策略实现.md",
+        "SkillSpector：AI Agent 技能安全扫描器.md",
+        "Sure 开源个人理财应用.md",
+        "TensorFold：跨 Metal 与 CUDA 的本地大模型推理引擎.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "Univer：可扩展的开源 Office SDK.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "ggml 轻量级跨平台机器学习张量库.md",
+        "七年自建趋势跟踪交易系统实战复盘.md",
+        "闲鱼 AI 智能监控系统.md"
+      ],
+      "subtopics": [
+        "AI",
+        "风险控制",
+        "量化交易"
+      ],
+      "note_count": 30
+    },
+    "AI": {
+      "notes": [
+        "AG-UI 智能体交互协议概览.md",
+        "AI 供应链卡脖子环节投资框架.md",
+        "AI供应链卡脖子环节挖掘框架.md",
+        "Caveman 编程智能体 Token 优化方案.md",
+        "Chrome DevTools MCP 浏览器代理指南.md",
+        "Claude Trading Skills：个人投资者 AI 交易工作流.md",
+        "Claude-BugHunter 授权外部安全测试技能包.md",
+        "Cloudflare 多阶段安全审计 Skill.md",
+        "Google Stitch Agent Skills 套件.md",
+        "Kronos：面向金融K线序列的首个开源基础模型.md",
+        "LLM 驱动的多市场股票分析工作台.md",
+        "LoopForge：自托管编码代理交付编排平台.md",
+        "Modern Web Guidance：编程智能体的现代 Web 开发指南.md",
+        "NVIDIA SkillEvaluator 三级技能评估框架.md",
+        "OpenBot：自托管 AI 同事平台.md",
+        "OpenCodeReview 混合架构 AI 代码审查.md",
+        "OpenShell 自主 AI 智能体安全运行时.md",
+        "Plannotator：AI 编程代理本地评审工作台.md",
+        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
+        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
+        "SkillSpector：AI Agent 技能安全扫描器.md",
+        "Sure 开源个人理财应用.md",
+        "TensorFold：跨 Metal 与 CUDA 的本地大模型推理引擎.md",
+        "TradingAgents 多智能体金融交易框架.md",
+        "Univer：可扩展的开源 Office SDK.md",
+        "ggml 轻量级跨平台机器学习张量库.md",
+        "财报分析框架蒸馏为 AI Skill 的实践.md",
+        "闲鱼 AI 智能监控系统.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "风险控制",
+        "投资"
+      ],
+      "note_count": 28
+    },
     "风险控制": {
       "notes": [
         "20万现金的阶梯式资产配置方案.md",
@@ -415,43 +493,6 @@
         "投资",
         "A股",
         "开源项目"
-      ],
-      "note_count": 27
-    },
-    "开源项目": {
-      "notes": [
-        "AG-UI 智能体前端交互协议.md",
-        "Airgorah：Linux WiFi 安全审计工具.md",
-        "Chrome DevTools MCP 浏览器代理指南.md",
-        "Claude Trading Skills：个人投资者 AI 交易工作流.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "LLM 驱动的多市场股票分析工作台.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "LoopForge 自托管编码智能体交付编排.md",
-        "Modern Web Guidance：面向编码智能体的现代 Web 指南.md",
-        "OpenBot：自托管 AI 同事平台.md",
-        "OpenCodeReview 混合架构代码审查.md",
-        "OpenShell 自主 AI 智能体安全运行时.md",
-        "Plannotator：AI 编程代理评审工作台.md",
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "Qbot 量化交易平台与均线类策略实现.md",
-        "Qwen Code：开源终端 AI 编程代理.md",
-        "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Sure 开源个人理财应用.md",
-        "TradingAgents 多智能体金融交易框架.md",
-        "Uptime Kuma 自托管监控与部署指南.md",
-        "Veyra 实时视频增强与流媒体处理.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "七年自建趋势跟踪交易系统实战复盘.md",
-        "闲鱼 AI 智能监控系统.md"
-      ],
-      "subtopics": [
-        "AI",
-        "风险控制",
-        "量化交易"
       ],
       "note_count": 27
     },
@@ -560,39 +601,6 @@
         "基本面分析"
       ],
       "note_count": 24
-    },
-    "AI": {
-      "notes": [
-        "AG-UI 智能体前端交互协议.md",
-        "AI 供应链卡脖子环节投资框架.md",
-        "AI供应链卡脖子环节挖掘框架.md",
-        "Chrome DevTools MCP 浏览器代理指南.md",
-        "Claude Trading Skills：个人投资者 AI 交易工作流.md",
-        "Cloudflare 多阶段安全审计 Skill.md",
-        "Kronos：面向金融K线序列的首个开源基础模型.md",
-        "LLM 驱动的多市场股票分析工作台.md",
-        "LoopForge 自托管编码智能体交付编排.md",
-        "Modern Web Guidance：面向编码智能体的现代 Web 指南.md",
-        "OpenBot：自托管 AI 同事平台.md",
-        "OpenCodeReview 混合架构代码审查.md",
-        "OpenShell 自主 AI 智能体安全运行时.md",
-        "Plannotator：AI 编程代理评审工作台.md",
-        "Qwen Code：开源终端 AI 编程代理.md",
-        "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
-        "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
-        "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Sure 开源个人理财应用.md",
-        "TradingAgents 多智能体金融交易框架.md",
-        "Veyra 实时视频增强与流媒体处理.md",
-        "财报分析框架蒸馏为 AI Skill 的实践.md",
-        "闲鱼 AI 智能监控系统.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "风险控制",
-        "投资"
-      ],
-      "note_count": 23
     },
     "仓位管理": {
       "notes": [
@@ -1115,6 +1123,22 @@
       ],
       "note_count": 6
     },
+    "Agent": {
+      "notes": [
+        "Google Stitch Agent Skills 套件.md",
+        "LLM 驱动的多市场股票分析工作台.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "股票研究",
+        "开源项目"
+      ],
+      "note_count": 6
+    },
     "周期理论": {
       "notes": [
         "K线圆弧角度分析的核心观点.md",
@@ -1159,21 +1183,6 @@
         "量化交易",
         "A股",
         "投资"
-      ],
-      "note_count": 5
-    },
-    "Agent": {
-      "notes": [
-        "LLM 驱动的多市场股票分析工作台.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md"
-      ],
-      "subtopics": [
-        "量化交易",
-        "股票研究",
-        "开源项目"
       ],
       "note_count": 5
     },
@@ -1404,7 +1413,7 @@
     },
     "事件驱动策略": {
       "notes": [
-        "AG-UI 智能体前端交互协议.md",
+        "AG-UI 智能体交互协议概览.md",
         "AI 时代个人量化交易可行路径与核心铁律.md",
         "AI时代个人量化生存指南.md"
       ],
@@ -1464,19 +1473,6 @@
         "量化交易",
         "时序预测",
         "Transformer"
-      ],
-      "note_count": 3
-    },
-    "自托管": {
-      "notes": [
-        "LoopForge 自托管编码智能体交付编排.md",
-        "Sure 开源个人理财应用.md",
-        "Uptime Kuma 自托管监控与部署指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "编码智能体"
       ],
       "note_count": 3
     },
@@ -1724,30 +1720,6 @@
       ],
       "note_count": 2
     },
-    "网络安全": {
-      "notes": [
-        "Airgorah：Linux WiFi 安全审计工具.md",
-        "Cloudflare 多阶段安全审计 Skill.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "WiFi安全",
-        "Rust"
-      ],
-      "note_count": 2
-    },
-    "Rust": {
-      "notes": [
-        "Airgorah：Linux WiFi 安全审计工具.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "WiFi安全",
-        "网络安全"
-      ],
-      "note_count": 2
-    },
     "市场分析": {
       "notes": [
         "A股三次冲关4000点的逻辑变迁与策略比较.md",
@@ -1856,6 +1828,30 @@
       ],
       "note_count": 2
     },
+    "MCP": {
+      "notes": [
+        "Chrome DevTools MCP 浏览器代理指南.md",
+        "Google Stitch Agent Skills 套件.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "自动化"
+      ],
+      "note_count": 2
+    },
+    "网络安全": {
+      "notes": [
+        "Claude-BugHunter 授权外部安全测试技能包.md",
+        "Cloudflare 多阶段安全审计 Skill.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "漏洞赏金"
+      ],
+      "note_count": 2
+    },
     "条件单": {
       "notes": [
         "ETF 网格交易实战：标的选择、不对称网格与费率优势.md",
@@ -1904,26 +1900,14 @@
       ],
       "note_count": 2
     },
-    "编码智能体": {
-      "notes": [
-        "LoopForge 自托管编码智能体交付编排.md",
-        "Modern Web Guidance：面向编码智能体的现代 Web 指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "工作流编排"
-      ],
-      "note_count": 2
-    },
     "代码审查": {
       "notes": [
-        "OpenCodeReview 混合架构代码审查.md",
-        "Plannotator：AI 编程代理评审工作台.md"
+        "OpenCodeReview 混合架构 AI 代码审查.md",
+        "Plannotator：AI 编程代理本地评审工作台.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
+        "AI",
         "软件工程"
       ],
       "note_count": 2
@@ -1949,18 +1933,6 @@
         "量化交易",
         "开源项目",
         "Python"
-      ],
-      "note_count": 2
-    },
-    "多智能体": {
-      "notes": [
-        "Qwen Code：开源终端 AI 编程代理.md",
-        "TradingAgents 多智能体金融交易框架.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "命令行工具"
       ],
       "note_count": 2
     },
@@ -2729,7 +2701,7 @@
     },
     "智能体协议": {
       "notes": [
-        "AG-UI 智能体前端交互协议.md"
+        "AG-UI 智能体交互协议概览.md"
       ],
       "subtopics": [
         "AI",
@@ -2740,7 +2712,7 @@
     },
     "前端集成": {
       "notes": [
-        "AG-UI 智能体前端交互协议.md"
+        "AG-UI 智能体交互协议概览.md"
       ],
       "subtopics": [
         "AI",
@@ -2757,17 +2729,6 @@
         "AI",
         "投资",
         "产业链研究"
-      ],
-      "note_count": 1
-    },
-    "WiFi安全": {
-      "notes": [
-        "Airgorah：Linux WiFi 安全审计工具.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "网络安全",
-        "Rust"
       ],
       "note_count": 1
     },
@@ -2903,6 +2864,39 @@
       ],
       "note_count": 1
     },
+    "编程智能体": {
+      "notes": [
+        "Caveman 编程智能体 Token 优化方案.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Token 优化"
+      ],
+      "note_count": 1
+    },
+    "Token 优化": {
+      "notes": [
+        "Caveman 编程智能体 Token 优化方案.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "编程智能体"
+      ],
+      "note_count": 1
+    },
+    "成本控制": {
+      "notes": [
+        "Caveman 编程智能体 Token 优化方案.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "编程智能体"
+      ],
+      "note_count": 1
+    },
     "换手情绪": {
       "notes": [
         "CH4 因子模型 A股四因子实战拆解.md"
@@ -2925,25 +2919,36 @@
       ],
       "note_count": 1
     },
-    "MCP": {
+    "开发者工具": {
       "notes": [
         "Chrome DevTools MCP 浏览器代理指南.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "自动化"
+        "AI",
+        "MCP"
       ],
       "note_count": 1
     },
-    "性能调试": {
+    "漏洞赏金": {
       "notes": [
-        "Chrome DevTools MCP 浏览器代理指南.md"
+        "Claude-BugHunter 授权外部安全测试技能包.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "MCP"
+        "AI",
+        "网络安全"
+      ],
+      "note_count": 1
+    },
+    "红队测试": {
+      "notes": [
+        "Claude-BugHunter 授权外部安全测试技能包.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "网络安全"
       ],
       "note_count": 1
     },
@@ -3011,6 +3016,50 @@
       ],
       "note_count": 1
     },
+    "张量计算": {
+      "notes": [
+        "ggml 轻量级跨平台机器学习张量库.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "模型量化"
+      ],
+      "note_count": 1
+    },
+    "模型量化": {
+      "notes": [
+        "ggml 轻量级跨平台机器学习张量库.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "张量计算"
+      ],
+      "note_count": 1
+    },
+    "跨平台计算": {
+      "notes": [
+        "ggml 轻量级跨平台机器学习张量库.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "张量计算"
+      ],
+      "note_count": 1
+    },
+    "UI设计": {
+      "notes": [
+        "Google Stitch Agent Skills 套件.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Agent"
+      ],
+      "note_count": 1
+    },
     "时序预测": {
       "notes": [
         "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
@@ -3055,14 +3104,25 @@
       ],
       "note_count": 1
     },
-    "工作流编排": {
+    "编码代理": {
       "notes": [
-        "LoopForge 自托管编码智能体交付编排.md"
+        "LoopForge：自托管编码代理交付编排平台.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "编码智能体"
+        "工作流编排"
+      ],
+      "note_count": 1
+    },
+    "工作流编排": {
+      "notes": [
+        "LoopForge：自托管编码代理交付编排平台.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "编码代理"
       ],
       "note_count": 1
     },
@@ -3099,25 +3159,69 @@
       ],
       "note_count": 1
     },
-    "Web开发": {
+    "代码智能体": {
       "notes": [
-        "Modern Web Guidance：面向编码智能体的现代 Web 指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "编码智能体"
-      ],
-      "note_count": 1
-    },
-    "浏览器兼容性": {
-      "notes": [
-        "Modern Web Guidance：面向编码智能体的现代 Web 指南.md"
+        "Modern Web Guidance：编程智能体的现代 Web 开发指南.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
         "Web开发"
+      ],
+      "note_count": 1
+    },
+    "Web开发": {
+      "notes": [
+        "Modern Web Guidance：编程智能体的现代 Web 开发指南.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "代码智能体"
+      ],
+      "note_count": 1
+    },
+    "前端工程": {
+      "notes": [
+        "Modern Web Guidance：编程智能体的现代 Web 开发指南.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "代码智能体"
+      ],
+      "note_count": 1
+    },
+    "智能体评估": {
+      "notes": [
+        "NVIDIA SkillEvaluator 三级技能评估框架.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "技能质量"
+      ],
+      "note_count": 1
+    },
+    "技能质量": {
+      "notes": [
+        "NVIDIA SkillEvaluator 三级技能评估框架.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "智能体评估"
+      ],
+      "note_count": 1
+    },
+    "持续集成": {
+      "notes": [
+        "NVIDIA SkillEvaluator 三级技能评估框架.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "智能体评估"
       ],
       "note_count": 1
     },
@@ -3145,11 +3249,22 @@
     },
     "软件工程": {
       "notes": [
-        "OpenCodeReview 混合架构代码审查.md"
+        "OpenCodeReview 混合架构 AI 代码审查.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
+        "AI",
+        "代码审查"
+      ],
+      "note_count": 1
+    },
+    "静态分析": {
+      "notes": [
+        "OpenCodeReview 混合架构 AI 代码审查.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
         "代码审查"
       ],
       "note_count": 1
@@ -3220,24 +3335,13 @@
       ],
       "note_count": 1
     },
-    "隐私保护": {
-      "notes": [
-        "Plannotator：AI 编程代理评审工作台.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "代码审查"
-      ],
-      "note_count": 1
-    },
     "人机协作": {
       "notes": [
-        "Plannotator：AI 编程代理评审工作台.md"
+        "Plannotator：AI 编程代理本地评审工作台.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
+        "AI",
         "代码审查"
       ],
       "note_count": 1
@@ -3261,17 +3365,6 @@
         "量化交易",
         "backtrader",
         "MACD"
-      ],
-      "note_count": 1
-    },
-    "命令行工具": {
-      "notes": [
-        "Qwen Code：开源终端 AI 编程代理.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "多智能体"
       ],
       "note_count": 1
     },
@@ -3330,25 +3423,80 @@
       ],
       "note_count": 1
     },
-    "服务监控": {
+    "自托管": {
       "notes": [
-        "Uptime Kuma 自托管监控与部署指南.md"
+        "Sure 开源个人理财应用.md"
       ],
       "subtopics": [
         "开源项目",
-        "自托管",
-        "状态页"
+        "个人理财",
+        "AI"
       ],
       "note_count": 1
     },
-    "状态页": {
+    "大模型推理": {
       "notes": [
-        "Uptime Kuma 自托管监控与部署指南.md"
+        "TensorFold：跨 Metal 与 CUDA 的本地大模型推理引擎.md"
       ],
       "subtopics": [
         "开源项目",
-        "自托管",
-        "服务监控"
+        "AI",
+        "模型部署"
+      ],
+      "note_count": 1
+    },
+    "模型部署": {
+      "notes": [
+        "TensorFold：跨 Metal 与 CUDA 的本地大模型推理引擎.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "大模型推理"
+      ],
+      "note_count": 1
+    },
+    "多智能体": {
+      "notes": [
+        "TradingAgents 多智能体金融交易框架.md"
+      ],
+      "subtopics": [
+        "AI",
+        "开源项目",
+        "交易"
+      ],
+      "note_count": 1
+    },
+    "Office SDK": {
+      "notes": [
+        "Univer：可扩展的开源 Office SDK.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "电子表格"
+      ],
+      "note_count": 1
+    },
+    "电子表格": {
+      "notes": [
+        "Univer：可扩展的开源 Office SDK.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Office SDK"
+      ],
+      "note_count": 1
+    },
+    "文档编辑": {
+      "notes": [
+        "Univer：可扩展的开源 Office SDK.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Office SDK"
       ],
       "note_count": 1
     },
@@ -3396,40 +3544,18 @@
       ],
       "note_count": 1
     },
-    "视频处理": {
-      "notes": [
-        "Veyra 实时视频增强与流媒体处理.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "GPU加速"
-      ],
-      "note_count": 1
-    },
-    "GPU加速": {
-      "notes": [
-        "Veyra 实时视频增强与流媒体处理.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "视频处理"
-      ],
-      "note_count": 1
-    },
-    "实时增强": {
-      "notes": [
-        "Veyra 实时视频增强与流媒体处理.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "视频处理"
-      ],
-      "note_count": 1
-    },
     "本地优先": {
+      "notes": [
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "资产配置",
+        "个人理财"
+      ],
+      "note_count": 1
+    },
+    "Rust": {
       "notes": [
         "Wealthfolio：本地优先的个人财务追踪开源工具.md"
       ],
@@ -5633,5 +5759,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-11-14T23:53:02"
+  "last_rebuilt": "2026-11-15T23:41:41"
 }

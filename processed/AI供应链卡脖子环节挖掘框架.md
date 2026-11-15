@@ -3,7 +3,7 @@ title: AI供应链卡脖子环节挖掘框架
 source: raw_20260624_162424_67ad2e00
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2045090338327588976
 created: '2026-06-29'
-updated: '2026-11-14'
+updated: '2026-11-15'
 tags:
 - AI
 - 投资
@@ -21,7 +21,7 @@ related:
 - A股题材投资逻辑与产业链选股框架
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- OpenBot：自托管 AI 同事平台
+- NVIDIA SkillEvaluator 三级技能评估框架
 note_type: content
 ---
 
@@ -117,4 +117,4 @@ A股这条线已被市场提前反应，龙头早已上天；美股AXTI则是更
 - [[A股题材投资逻辑与产业链选股框架]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[OpenBot：自托管 AI 同事平台]]
+- [[NVIDIA SkillEvaluator 三级技能评估框架]]
