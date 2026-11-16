@@ -3,7 +3,7 @@ title: 用 OpenClaw 搭建个人股票分析 Agent
 source: raw_20260624_162450_58303955
 source_url: https://www.zhihu.com/question/2011480826848764785/answer/2011489116341149800
 created: '2026-06-29'
-updated: '2026-11-15'
+updated: '2026-11-16'
 tags:
 - OpenClaw
 - 量化交易
@@ -16,11 +16,11 @@ related:
 - 用OpenClaw搭建个人股票分析Agent
 - daily_stock_analysis 项目11策略与LLM量化框架解析
 - LLM 驱动的多市场股票分析工作台
+- Last30Days：多平台近期研究 Agent
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
 - 全面分析股票的十大维度：从股价到行业的系统框架
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- Google Stitch Agent Skills 套件
 - 个人趋势跟踪量化交易系统七年实践
 - 个股基本面分析三步框架
 note_type: content
@@ -69,10 +69,10 @@ note_type: content
 - [[用OpenClaw搭建个人股票分析Agent]]
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
 - [[LLM 驱动的多市场股票分析工作台]]
+- [[Last30Days：多平台近期研究 Agent]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
 - [[全面分析股票的十大维度：从股价到行业的系统框架]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[Google Stitch Agent Skills 套件]]
 - [[个人趋势跟踪量化交易系统七年实践]]
 - [[个股基本面分析三步框架]]

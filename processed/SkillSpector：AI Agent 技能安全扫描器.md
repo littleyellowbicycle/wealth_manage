@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-15'
+updated: '2026-11-16'
 tags:
 - AI
 - 开源项目
@@ -17,11 +17,11 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- Claude-BugHunter 授权外部安全测试技能包
-- Google Stitch Agent Skills 套件
-- NVIDIA SkillEvaluator 三级技能评估框架
-- OpenCodeReview 混合架构 AI 代码审查
-- Plannotator：AI 编程代理本地评审工作台
+- Google Stitch Skills 开源技能库
+- Last30Days：多平台近期研究 Agent
+- Plannotator：AI 编程代理评审工作台
+- Univer 开源 AI Office SDK 架构与落地
+- AG-UI 智能体用户交互协议
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -136,8 +136,8 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Claude-BugHunter 授权外部安全测试技能包]]
-- [[Google Stitch Agent Skills 套件]]
-- [[NVIDIA SkillEvaluator 三级技能评估框架]]
-- [[OpenCodeReview 混合架构 AI 代码审查]]
-- [[Plannotator：AI 编程代理本地评审工作台]]
+- [[Google Stitch Skills 开源技能库]]
+- [[Last30Days：多平台近期研究 Agent]]
+- [[Plannotator：AI 编程代理评审工作台]]
+- [[Univer 开源 AI Office SDK 架构与落地]]
+- [[AG-UI 智能体用户交互协议]]

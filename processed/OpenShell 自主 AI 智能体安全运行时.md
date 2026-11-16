@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-15'
+updated: '2026-11-16'
 tags:
 - 开源项目
 - AI
@@ -18,11 +18,11 @@ related:
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - Cloudflare 多阶段安全审计 Skill
 - OpenBot：自托管 AI 同事平台
-- AG-UI 智能体交互协议概览
-- Caveman 编程智能体 Token 优化方案
-- Claude-BugHunter 授权外部安全测试技能包
-- Modern Web Guidance：编程智能体的现代 Web 开发指南
-- OpenCodeReview 混合架构 AI 代码审查
+- AG-UI 智能体用户交互协议
+- PaperOrchestra 多智能体论文写作框架
+- Plannotator：AI 编程代理评审工作台
+- TradingAgents 多智能体金融交易框架
+- Univer 开源 AI Office SDK 架构与落地
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -136,8 +136,8 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[AG-UI 智能体交互协议概览]]
-- [[Caveman 编程智能体 Token 优化方案]]
-- [[Claude-BugHunter 授权外部安全测试技能包]]
-- [[Modern Web Guidance：编程智能体的现代 Web 开发指南]]
-- [[OpenCodeReview 混合架构 AI 代码审查]]
+- [[AG-UI 智能体用户交互协议]]
+- [[PaperOrchestra 多智能体论文写作框架]]
+- [[Plannotator：AI 编程代理评审工作台]]
+- [[TradingAgents 多智能体金融交易框架]]
+- [[Univer 开源 AI Office SDK 架构与落地]]

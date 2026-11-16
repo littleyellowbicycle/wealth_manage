@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-15'
+updated: '2026-11-16'
 tags:
 - 开源项目
 - AI
@@ -14,16 +14,16 @@ tags:
 status: processed
 note_type: content
 related:
-- Claude-BugHunter 授权外部安全测试技能包
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- AG-UI 智能体交互协议概览
-- Caveman 编程智能体 Token 优化方案
-- Chrome DevTools MCP 浏览器代理指南
-- ggml 轻量级跨平台机器学习张量库
+- ffmpeg-skill 代理驱动的本地视频编辑引擎
+- AG-UI 智能体用户交互协议
+- Chrome DevTools MCP 浏览器代理工具
+- Google Stitch Skills 开源技能库
+- Kronos：面向金融K线序列的首个开源基础模型
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -96,13 +96,13 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 在目标代码库中启动编码代理后，可使用 `security audit this codebase`、`find security vulnerabilities in ./src` 或指定输出目录的安全审计请求。未指定目录时，完整审计默认写入 `~/security-audit-skill/<repo-name>/run-<N>`；只有明确选择且被版本控制忽略时，工作流才会在目标仓库内写入文件。
 
 ## 相关笔记
-- [[Claude-BugHunter 授权外部安全测试技能包]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[AG-UI 智能体交互协议概览]]
-- [[Caveman 编程智能体 Token 优化方案]]
-- [[Chrome DevTools MCP 浏览器代理指南]]
-- [[ggml 轻量级跨平台机器学习张量库]]
+- [[ffmpeg-skill 代理驱动的本地视频编辑引擎]]
+- [[AG-UI 智能体用户交互协议]]
+- [[Chrome DevTools MCP 浏览器代理工具]]
+- [[Google Stitch Skills 开源技能库]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]
