@@ -3,7 +3,7 @@ title: Claude Trading Skills：个人投资者 AI 交易工作流
 source: raw_20261113_233155_da42709b
 source_url: https://github.com/tradermonty/claude-trading-skills
 created: '2026-11-13'
-updated: '2026-11-16'
+updated: '2026-11-17'
 tags:
 - 开源项目
 - AI
@@ -12,6 +12,8 @@ tags:
 status: processed
 note_type: content
 related:
+- Claude-BugHunter 开源安全技能包
+- ECC：AI 编程代理工程系统
 - OpenBot：自托管 AI 同事平台
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
@@ -19,9 +21,7 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - Kronos：面向金融K线序列的首个开源基础模型
 - TradingAgents 多智能体金融交易框架
-- Google Stitch Skills 开源技能库
-- Plannotator：AI 编程代理评审工作台
-- Sure 开源个人理财应用
+- Google Stitch Skills 开源项目解析
 ---
 
 # Claude Trading Skills：个人投资者 AI 交易工作流
@@ -122,6 +122,8 @@ related:
 - 文档站：https://tradermonty.github.io/claude-trading-skills/
 
 ## 相关笔记
+- [[Claude-BugHunter 开源安全技能包]]
+- [[ECC：AI 编程代理工程系统]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
@@ -129,6 +131,4 @@ related:
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
 - [[TradingAgents 多智能体金融交易框架]]
-- [[Google Stitch Skills 开源技能库]]
-- [[Plannotator：AI 编程代理评审工作台]]
-- [[Sure 开源个人理财应用]]
+- [[Google Stitch Skills 开源项目解析]]

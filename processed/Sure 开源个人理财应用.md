@@ -3,7 +3,7 @@ title: Sure 开源个人理财应用
 source: raw_20261110_233132_692bb41e
 source_url: https://github.com/we-promise/sure
 created: '2026-11-10'
-updated: '2026-11-16'
+updated: '2026-11-17'
 tags:
 - 开源项目
 - 个人理财
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
+- Univer Office SDK：开源 AI 办公应用底座
 - Wealthfolio：本地优先的个人财务追踪开源工具
 - Claude Trading Skills：个人投资者 AI 交易工作流
-- Google Stitch Skills 开源技能库
-- Univer 开源 AI Office SDK 架构与落地
-- AG-UI 智能体用户交互协议
-- Chrome DevTools MCP 浏览器代理工具
+- Claude-BugHunter 开源安全技能包
+- Google Stitch Skills 开源项目解析
+- AG-UI 智能体交互协议
 - Cloudflare 多阶段安全审计 Skill
-- ffmpeg-skill 代理驱动的本地视频编辑引擎
-- Last30Days：多平台近期研究 Agent
+- Cursor 插件生态与仓库规范
+- ECC：AI 编程代理工程系统
 ---
 
 # Sure 开源个人理财应用
@@ -107,12 +107,12 @@ Sure 已被明确描述为数据密集型应用，复杂请求可能出现性能
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[Univer Office SDK：开源 AI 办公应用底座]]
 - [[Wealthfolio：本地优先的个人财务追踪开源工具]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[Google Stitch Skills 开源技能库]]
-- [[Univer 开源 AI Office SDK 架构与落地]]
-- [[AG-UI 智能体用户交互协议]]
-- [[Chrome DevTools MCP 浏览器代理工具]]
+- [[Claude-BugHunter 开源安全技能包]]
+- [[Google Stitch Skills 开源项目解析]]
+- [[AG-UI 智能体交互协议]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[ffmpeg-skill 代理驱动的本地视频编辑引擎]]
-- [[Last30Days：多平台近期研究 Agent]]
+- [[Cursor 插件生态与仓库规范]]
+- [[ECC：AI 编程代理工程系统]]

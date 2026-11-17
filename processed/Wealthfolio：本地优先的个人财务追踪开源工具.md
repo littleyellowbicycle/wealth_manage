@@ -3,7 +3,7 @@ title: Wealthfolio：本地优先的个人财务追踪开源工具
 source: raw_20260710_162019_0d26dff2
 source_url: ''
 created: '2026-10-17'
-updated: '2026-11-16'
+updated: '2026-11-17'
 tags:
 - 开源项目
 - 资产配置
@@ -19,10 +19,10 @@ related:
 - 普通人多元资产配置实战：分红底仓加风险平价增强
 - 普通人投资ETF的胜率逻辑与品种选择
 - 美股长线持仓为主、A股以指数ETF间接配置的实盘思路
-- Chrome DevTools MCP 浏览器代理工具
 - Claude Trading Skills：个人投资者 AI 交易工作流
-- ffmpeg-skill 代理驱动的本地视频编辑引擎
-- Google Stitch Skills 开源技能库
+- Claude-BugHunter 开源安全技能包
+- Google Stitch Skills 开源项目解析
+- Kronos：面向金融K线序列的首个开源基础模型
 ---
 
 # Wealthfolio：本地优先的个人财务追踪开源工具
@@ -62,7 +62,7 @@ related:
 - [[普通人多元资产配置实战：分红底仓加风险平价增强]]
 - [[普通人投资ETF的胜率逻辑与品种选择]]
 - [[美股长线持仓为主、A股以指数ETF间接配置的实盘思路]]
-- [[Chrome DevTools MCP 浏览器代理工具]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[ffmpeg-skill 代理驱动的本地视频编辑引擎]]
-- [[Google Stitch Skills 开源技能库]]
+- [[Claude-BugHunter 开源安全技能包]]
+- [[Google Stitch Skills 开源项目解析]]
+- [[Kronos：面向金融K线序列的首个开源基础模型]]

@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-16'
+updated: '2026-11-17'
 tags:
 - AI
 - 开源项目
@@ -12,16 +12,16 @@ tags:
 status: processed
 note_type: content
 related:
+- Claude-BugHunter 开源安全技能包
 - OpenShell 自主 AI 智能体安全运行时
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - Cloudflare 多阶段安全审计 Skill
+- ECC：AI 编程代理工程系统
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- Google Stitch Skills 开源技能库
-- Last30Days：多平台近期研究 Agent
-- Plannotator：AI 编程代理评审工作台
-- Univer 开源 AI Office SDK 架构与落地
-- AG-UI 智能体用户交互协议
+- last30days 跨平台近 30 天情报研究技能
+- OpenCodeReview 混合式 AI 代码审查架构
+- Plannotator：AI 编程代理的人机评审工作台
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -131,13 +131,13 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - 适用场景：安装前审查、[[持续集成]] 安全门禁、技能目录批量审计、[[MCP]] 运行时拦截以及 NVIDIA Verified Skills 发布流水线。
 
 ## 相关笔记
+- [[Claude-BugHunter 开源安全技能包]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[Cloudflare 多阶段安全审计 Skill]]
+- [[ECC：AI 编程代理工程系统]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Google Stitch Skills 开源技能库]]
-- [[Last30Days：多平台近期研究 Agent]]
-- [[Plannotator：AI 编程代理评审工作台]]
-- [[Univer 开源 AI Office SDK 架构与落地]]
-- [[AG-UI 智能体用户交互协议]]
+- [[last30days 跨平台近 30 天情报研究技能]]
+- [[OpenCodeReview 混合式 AI 代码审查架构]]
+- [[Plannotator：AI 编程代理的人机评审工作台]]

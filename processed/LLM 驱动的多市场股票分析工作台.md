@@ -3,7 +3,7 @@ title: LLM 驱动的多市场股票分析工作台
 source: raw_20261109_233123_05fba0bc
 source_url: https://github.com/ZhuLinsen/daily_stock_analysis
 created: '2026-11-09'
-updated: '2026-11-16'
+updated: '2026-11-17'
 tags:
 - AI
 - 股票研究
@@ -13,15 +13,15 @@ status: processed
 note_type: content
 related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- Google Stitch Skills 开源技能库
-- Last30Days：多平台近期研究 Agent
-- NVIDIA SkillEvaluator 三层评估框架
+- OpenCodeReview 混合式 AI 代码审查架构
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
-- ffmpeg-skill 代理驱动的本地视频编辑引擎
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
-- Plannotator：AI 编程代理评审工作台
-- AG-UI 智能体用户交互协议
+- Plannotator：AI 编程代理的人机评审工作台
+- AG-UI 智能体交互协议
+- Claude Trading Skills：个人投资者 AI 交易工作流
+- Claude-BugHunter 开源安全技能包
+- Cloudflare 多阶段安全审计 Skill
 ---
 
 # LLM 驱动的多市场股票分析工作台
@@ -160,12 +160,12 @@ python main.py --serve-only
 
 ## 相关笔记
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[Google Stitch Skills 开源技能库]]
-- [[Last30Days：多平台近期研究 Agent]]
-- [[NVIDIA SkillEvaluator 三层评估框架]]
+- [[OpenCodeReview 混合式 AI 代码审查架构]]
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
-- [[ffmpeg-skill 代理驱动的本地视频编辑引擎]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
-- [[Plannotator：AI 编程代理评审工作台]]
-- [[AG-UI 智能体用户交互协议]]
+- [[Plannotator：AI 编程代理的人机评审工作台]]
+- [[AG-UI 智能体交互协议]]
+- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
+- [[Claude-BugHunter 开源安全技能包]]
+- [[Cloudflare 多阶段安全审计 Skill]]
