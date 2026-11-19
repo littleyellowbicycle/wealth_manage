@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-17'
+updated: '2026-11-19'
 tags:
 - AI
 - 开源项目
@@ -19,9 +19,9 @@ related:
 - ECC：AI 编程代理工程系统
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
-- last30days 跨平台近 30 天情报研究技能
-- OpenCodeReview 混合式 AI 代码审查架构
-- Plannotator：AI 编程代理的人机评审工作台
+- 移动应用商店合规预提交检查
+- Appwrite：面向 AI Agent 的开源后端平台
+- NVIDIA SkillEvaluator：Agent 技能评估框架
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -138,6 +138,6 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[ECC：AI 编程代理工程系统]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
-- [[last30days 跨平台近 30 天情报研究技能]]
-- [[OpenCodeReview 混合式 AI 代码审查架构]]
-- [[Plannotator：AI 编程代理的人机评审工作台]]
+- [[移动应用商店合规预提交检查]]
+- [[Appwrite：面向 AI Agent 的开源后端平台]]
+- [[NVIDIA SkillEvaluator：Agent 技能评估框架]]

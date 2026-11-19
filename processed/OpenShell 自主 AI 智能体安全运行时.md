@@ -3,7 +3,7 @@ title: OpenShell 自主 AI 智能体安全运行时
 source: raw_20261023_233106_90e2b0e8
 source_url: https://github.com/NVIDIA/OpenShell
 created: '2026-10-23'
-updated: '2026-11-17'
+updated: '2026-11-19'
 tags:
 - 开源项目
 - AI
@@ -20,9 +20,9 @@ related:
 - Cloudflare 多阶段安全审计 Skill
 - ECC：AI 编程代理工程系统
 - OpenBot：自托管 AI 同事平台
-- AG-UI 智能体交互协议
-- LoopForge 编码智能体交付编排
-- OpenCodeReview 混合式 AI 代码审查架构
+- 移动应用商店合规预提交检查
+- Firecrawl：AI 智能体的网页数据基础设施
+- n8n：AI智能体与工作流自动化平台
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -138,6 +138,6 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[ECC：AI 编程代理工程系统]]
 - [[OpenBot：自托管 AI 同事平台]]
-- [[AG-UI 智能体交互协议]]
-- [[LoopForge 编码智能体交付编排]]
-- [[OpenCodeReview 混合式 AI 代码审查架构]]
+- [[移动应用商店合规预提交检查]]
+- [[Firecrawl：AI 智能体的网页数据基础设施]]
+- [[n8n：AI智能体与工作流自动化平台]]

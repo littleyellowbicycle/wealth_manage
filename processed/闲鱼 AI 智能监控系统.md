@@ -3,7 +3,7 @@ title: 闲鱼 AI 智能监控系统
 source: raw_20261103_233133_b4e1a9a6
 source_url: https://github.com/Usagi-org/ai-goofish-monitor
 created: '2026-11-03'
-updated: '2026-11-17'
+updated: '2026-11-19'
 tags:
 - 开源项目
 - AI
@@ -21,9 +21,9 @@ related:
 - SkillSpector：AI Agent 技能安全扫描器
 - Claude-BugHunter 开源安全技能包
 - Cloudflare 多阶段安全审计 Skill
-- AG-UI 智能体交互协议
-- LoopForge 编码智能体交付编排
-- OpenCodeReview 混合式 AI 代码审查架构
+- 移动应用商店合规预提交检查
+- Firecrawl：AI 智能体的网页数据基础设施
+- n8n：AI智能体与工作流自动化平台
 ---
 
 # 闲鱼 AI 智能监控系统
@@ -177,6 +177,6 @@ npm run dev
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[Claude-BugHunter 开源安全技能包]]
 - [[Cloudflare 多阶段安全审计 Skill]]
-- [[AG-UI 智能体交互协议]]
-- [[LoopForge 编码智能体交付编排]]
-- [[OpenCodeReview 混合式 AI 代码审查架构]]
+- [[移动应用商店合规预提交检查]]
+- [[Firecrawl：AI 智能体的网页数据基础设施]]
+- [[n8n：AI智能体与工作流自动化平台]]

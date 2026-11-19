@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-17'
+updated: '2026-11-19'
 tags:
 - 开源项目
 - AI
@@ -20,10 +20,10 @@ related:
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - ECC：AI 编程代理工程系统
 - OpenBot：自托管 AI 同事平台
+- 移动应用商店合规预提交检查
 - 闲鱼 AI 智能监控系统
-- AG-UI 智能体交互协议
-- Cursor 插件生态与仓库规范
-- Google Stitch Skills 开源项目解析
+- last30days 跨平台近期动态研究 Skill
+- AFFiNE：本地优先的开源知识协作平台
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -102,7 +102,7 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[ECC：AI 编程代理工程系统]]
 - [[OpenBot：自托管 AI 同事平台]]
+- [[移动应用商店合规预提交检查]]
 - [[闲鱼 AI 智能监控系统]]
-- [[AG-UI 智能体交互协议]]
-- [[Cursor 插件生态与仓库规范]]
-- [[Google Stitch Skills 开源项目解析]]
+- [[last30days 跨平台近期动态研究 Skill]]
+- [[AFFiNE：本地优先的开源知识协作平台]]

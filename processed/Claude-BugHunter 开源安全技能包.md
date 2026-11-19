@@ -3,7 +3,7 @@ title: Claude-BugHunter 开源安全技能包
 source: raw_20261117_233107_6110015a
 source_url: https://github.com/elementalsouls/Claude-BugHunter
 created: '2026-11-17'
-updated: '2026-11-17'
+updated: '2026-11-19'
 tags:
 - AI
 - 开源项目
@@ -20,10 +20,10 @@ related:
 - OpenShell 自主 AI 智能体安全运行时
 - ECC：AI 编程代理工程系统
 - OpenBot：自托管 AI 同事平台
+- 移动应用商店合规预提交检查
 - 闲鱼 AI 智能监控系统
-- Google Stitch Skills 开源项目解析
-- Kronos：面向金融K线序列的首个开源基础模型
-- last30days 跨平台近 30 天情报研究技能
+- Stitch Agent Skills 开源技能套件
+- AFFiNE：本地优先的开源知识协作平台
 ---
 
 # Claude-BugHunter 开源安全技能包
@@ -115,7 +115,7 @@ Anthropic 的运行时网络安全策略可能拒绝部分漏洞利用或进攻�
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[ECC：AI 编程代理工程系统]]
 - [[OpenBot：自托管 AI 同事平台]]
+- [[移动应用商店合规预提交检查]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Google Stitch Skills 开源项目解析]]
-- [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[last30days 跨平台近 30 天情报研究技能]]
+- [[Stitch Agent Skills 开源技能套件]]
+- [[AFFiNE：本地优先的开源知识协作平台]]

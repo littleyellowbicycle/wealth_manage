@@ -3,7 +3,7 @@ title: LLM 驱动的多市场股票分析工作台
 source: raw_20261109_233123_05fba0bc
 source_url: https://github.com/ZhuLinsen/daily_stock_analysis
 created: '2026-11-09'
-updated: '2026-11-17'
+updated: '2026-11-19'
 tags:
 - AI
 - 股票研究
@@ -13,15 +13,15 @@ status: processed
 note_type: content
 related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- OpenCodeReview 混合式 AI 代码审查架构
+- Diagram Design：用 AI 生成品牌一致的编辑型图表
+- NVIDIA SkillEvaluator：Agent 技能评估框架
+- Stitch Agent Skills 开源技能套件
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
+- Cursor 插件市场与工程化工作流
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
-- Plannotator：AI 编程代理的人机评审工作台
-- AG-UI 智能体交互协议
-- Claude Trading Skills：个人投资者 AI 交易工作流
-- Claude-BugHunter 开源安全技能包
-- Cloudflare 多阶段安全审计 Skill
+- AFFiNE：本地优先的开源知识协作平台
+- Appwrite：面向 AI Agent 的开源后端平台
 ---
 
 # LLM 驱动的多市场股票分析工作台
@@ -160,12 +160,12 @@ python main.py --serve-only
 
 ## 相关笔记
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[OpenCodeReview 混合式 AI 代码审查架构]]
+- [[Diagram Design：用 AI 生成品牌一致的编辑型图表]]
+- [[NVIDIA SkillEvaluator：Agent 技能评估框架]]
+- [[Stitch Agent Skills 开源技能套件]]
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
+- [[Cursor 插件市场与工程化工作流]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
-- [[Plannotator：AI 编程代理的人机评审工作台]]
-- [[AG-UI 智能体交互协议]]
-- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[Claude-BugHunter 开源安全技能包]]
-- [[Cloudflare 多阶段安全审计 Skill]]
+- [[AFFiNE：本地优先的开源知识协作平台]]
+- [[Appwrite：面向 AI Agent 的开源后端平台]]
