@@ -3,7 +3,7 @@ title: 用OpenClaw搭建个人股票分析Agent
 source: raw_20260624_162129_b095d6b3
 source_url: https://www.zhihu.com/question/2011480826848764785/answer/2011489116341149800
 created: '2026-06-29'
-updated: '2026-11-19'
+updated: '2026-11-20'
 tags:
 - 量化交易
 - OpenClaw
@@ -20,8 +20,8 @@ related:
 - 全面分析股票的十大维度：从股价到行业的系统框架
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- NVIDIA SkillEvaluator：Agent 技能评估框架
-- Stitch Agent Skills 开源技能套件
+- Google Stitch Agent Skills 工具集
+- OpenSRE：CI CD 故障归因与自动修复 Agent
 - 个人趋势跟踪量化交易系统七年实践
 note_type: content
 ---
@@ -83,6 +83,6 @@ Agent会在固定时间自动抓取实时行情、结合新闻与技术面，输
 - [[全面分析股票的十大维度：从股价到行业的系统框架]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[NVIDIA SkillEvaluator：Agent 技能评估框架]]
-- [[Stitch Agent Skills 开源技能套件]]
+- [[Google Stitch Agent Skills 工具集]]
+- [[OpenSRE：CI CD 故障归因与自动修复 Agent]]
 - [[个人趋势跟踪量化交易系统七年实践]]

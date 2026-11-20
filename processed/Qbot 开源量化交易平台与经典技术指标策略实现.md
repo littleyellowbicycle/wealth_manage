@@ -3,7 +3,7 @@ title: Qbot 开源量化交易平台与经典技术指标策略实现
 source: raw_20260624_162125_c60100f7
 source_url: https://www.zhihu.com/question/418378495/answer/3035768838
 created: '2026-06-29'
-updated: '2026-11-19'
+updated: '2026-11-20'
 tags:
 - Qbot
 - 量化交易
@@ -20,7 +20,7 @@ related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
 - Kronos：面向金融K线序列的首个开源基础模型
 - 分钟级K线涨跌跟随策略的回测：高频交易是负和博弈
-- uv：Rust 驱动的 Python 包与项目管理器
+- Ghost Downloader 3：多协议跨平台下载器
 - 七年自建趋势跟踪交易系统实战复盘
 - 炒股如同高考 持续学习才是出路
 note_type: content
@@ -115,6 +115,6 @@ note_type: content
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
 - [[分钟级K线涨跌跟随策略的回测：高频交易是负和博弈]]
-- [[uv：Rust 驱动的 Python 包与项目管理器]]
+- [[Ghost Downloader 3：多协议跨平台下载器]]
 - [[七年自建趋势跟踪交易系统实战复盘]]
 - [[炒股如同高考 持续学习才是出路]]

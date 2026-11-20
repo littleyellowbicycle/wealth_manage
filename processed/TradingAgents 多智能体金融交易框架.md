@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-11-19'
+updated: '2026-11-20'
 tags:
 - AI
 - 开源项目
@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
-- PaperOrchestra 自动化科研写作框架
 - Claude Trading Skills：个人投资者 AI 交易工作流
-- CLI-Anything 软件智能体命令行框架
-- Superpowers 编程智能体开发框架
-- Firecrawl：AI 智能体的网页数据基础设施
-- MiniMind 微型大语言模型训练框架
-- n8n：AI智能体与工作流自动化平台
-- NVIDIA SkillEvaluator：Agent 技能评估框架
+- Last30Days：多源近期研究代理
+- CLI-Anything：AI 智能体软件 CLI 生成与分发框架
+- Firecrawl：AI 智能体的网页知识基础设施
 - OpenShell 自主 AI 智能体安全运行时
+- Superpowers 编程智能体软件开发方法论
+- 基于 bt 与 alphalens 的多因子回测框架实践
+- 纳指ETF策略选择方法论：数据驱动的回测决策框架
+- 闲鱼 AI 智能监控系统
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -125,12 +125,12 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[PaperOrchestra 自动化科研写作框架]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[CLI-Anything 软件智能体命令行框架]]
-- [[Superpowers 编程智能体开发框架]]
-- [[Firecrawl：AI 智能体的网页数据基础设施]]
-- [[MiniMind 微型大语言模型训练框架]]
-- [[n8n：AI智能体与工作流自动化平台]]
-- [[NVIDIA SkillEvaluator：Agent 技能评估框架]]
+- [[Last30Days：多源近期研究代理]]
+- [[CLI-Anything：AI 智能体软件 CLI 生成与分发框架]]
+- [[Firecrawl：AI 智能体的网页知识基础设施]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
+- [[Superpowers 编程智能体软件开发方法论]]
+- [[基于 bt 与 alphalens 的多因子回测框架实践]]
+- [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
+- [[闲鱼 AI 智能监控系统]]

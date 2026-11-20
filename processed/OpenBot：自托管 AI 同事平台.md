@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-19'
+updated: '2026-11-20'
 tags:
 - 开源项目
 - AI
@@ -15,14 +15,14 @@ note_type: content
 related:
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - ECC：AI 编程代理工程系统
-- Firecrawl：AI 智能体的网页数据基础设施
 - OpenShell 自主 AI 智能体安全运行时
 - SkillSpector：AI Agent 技能安全扫描器
 - 闲鱼 AI 智能监控系统
 - Claude-BugHunter 开源安全技能包
 - Cloudflare 多阶段安全审计 Skill
 - 移动应用商店合规预提交检查
-- Appwrite：面向 AI Agent 的开源后端平台
+- AFFiNE：本地优先的开源知识管理平台
+- AutoClip：本地优先的 AI 长视频剪辑工具
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -108,11 +108,11 @@ related:
 ## 相关笔记
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[ECC：AI 编程代理工程系统]]
-- [[Firecrawl：AI 智能体的网页数据基础设施]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
 - [[SkillSpector：AI Agent 技能安全扫描器]]
 - [[闲鱼 AI 智能监控系统]]
 - [[Claude-BugHunter 开源安全技能包]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[移动应用商店合规预提交检查]]
-- [[Appwrite：面向 AI Agent 的开源后端平台]]
+- [[AFFiNE：本地优先的开源知识管理平台]]
+- [[AutoClip：本地优先的 AI 长视频剪辑工具]]

@@ -9,49 +9,45 @@
     "A股三次冲关4000点的逻辑变迁与策略比较.md"
   ],
   "AI": [
-    "AFFiNE：本地优先的开源知识协作平台.md",
+    "AFFiNE：本地优先的开源知识管理平台.md",
     "AI 供应链卡脖子环节投资框架.md",
     "AI供应链卡脖子环节挖掘框架.md",
-    "Appwrite：面向 AI Agent 的开源后端平台.md",
-    "AutoClip：本地优先的 AI 长视频再利用工具.md",
-    "Awesome MCP Servers 精选目录与选型指南.md",
-    "CLI-Anything 软件智能体命令行框架.md",
+    "AutoClip：本地优先的 AI 长视频剪辑工具.md",
+    "CLI-Anything：AI 智能体软件 CLI 生成与分发框架.md",
     "Claude Trading Skills：个人投资者 AI 交易工作流.md",
     "Claude-BugHunter 开源安全技能包.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Cursor 插件市场与工程化工作流.md",
-    "Diagram Design：用 AI 生成品牌一致的编辑型图表.md",
+    "Cursor 插件生态与开发规范.md",
+    "Diagram Design：AI 代理生成出版级图表.md",
     "ECC：AI 编程代理工程系统.md",
-    "Firecrawl：AI 智能体的网页数据基础设施.md",
+    "Firecrawl：AI 智能体的网页知识基础设施.md",
+    "Google Stitch Agent Skills 工具集.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM 驱动的多市场股票分析工作台.md",
-    "MiniMind 微型大语言模型训练框架.md",
-    "NVIDIA SkillEvaluator：Agent 技能评估框架.md",
+    "Last30Days：多源近期研究代理.md",
+    "MiniMind 小语言模型训练全链路.md",
     "OpenBot：自托管 AI 同事平台.md",
-    "OpenSRE 自托管 CI CD 故障排查 AI 代理.md",
+    "OpenSRE：CI CD 故障归因与自动修复 Agent.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
-    "OpenVINO 推理优化与部署工具包.md",
-    "PaperOrchestra 自动化科研写作框架.md",
+    "OpenVINO 推理优化与模型部署.md",
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
     "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
-    "Stitch Agent Skills 开源技能套件.md",
-    "Superpowers 编程智能体开发框架.md",
+    "Superpowers 编程智能体软件开发方法论.md",
     "Sure 开源个人理财应用.md",
     "TradingAgents 多智能体金融交易框架.md",
-    "last30days 跨平台近期动态研究 Skill.md",
-    "n8n：AI智能体与工作流自动化平台.md",
-    "江山时序：中国历史交互地图.md",
     "移动应用商店合规预提交检查.md",
     "财报分析框架蒸馏为 AI Skill 的实践.md",
     "闲鱼 AI 智能监控系统.md"
   ],
   "Agent": [
-    "Diagram Design：用 AI 生成品牌一致的编辑型图表.md",
+    "AutoClip：本地优先的 AI 长视频剪辑工具.md",
+    "CLI-Anything：AI 智能体软件 CLI 生成与分发框架.md",
+    "Diagram Design：AI 代理生成出版级图表.md",
+    "Google Stitch Agent Skills 工具集.md",
     "LLM 驱动的多市场股票分析工作台.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "NVIDIA SkillEvaluator：Agent 技能评估框架.md",
-    "Stitch Agent Skills 开源技能套件.md",
+    "OpenSRE：CI CD 故障归因与自动修复 Agent.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md"
@@ -127,10 +123,10 @@
     "2万元交易员付费课性价比存疑 B站免费资源更优.md"
   ],
   "CI/CD": [
-    "OpenSRE 自托管 CI CD 故障排查 AI 代理.md"
+    "OpenSRE：CI CD 故障归因与自动修复 Agent.md"
   ],
-  "CLI工具": [
-    "CLI-Anything 软件智能体命令行框架.md"
+  "CLI-Hub": [
+    "CLI-Anything：AI 智能体软件 CLI 生成与分发框架.md"
   ],
   "CRS": [
     "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md"
@@ -146,7 +142,7 @@
     "高派息ETF组合：Covered Call策略驱动的月度现金流方案.md"
   ],
   "Cursor插件": [
-    "Cursor 插件市场与工程化工作流.md"
+    "Cursor 插件生态与开发规范.md"
   ],
   "DCF模型": [
     "投资视角下的上市公司年报阅读框架.md",
@@ -154,7 +150,6 @@
     "牛市的形成逻辑：三驾马车与全球规律.md"
   ],
   "Docker": [
-    "Arcane 现代 Docker 管理平台.md",
     "闲鱼 AI 智能监控系统.md"
   ],
   "ETF": [
@@ -198,12 +193,8 @@
   "GitHub开源": [
     "个人趋势跟踪量化交易系统七年实践.md"
   ],
-  "Go": [
-    "Arcane 现代 Docker 管理平台.md"
-  ],
-  "JavaScript": [
-    "Svelte 编译式前端开发框架.md",
-    "jQuery 4.x 开发、构建与版本支持.md"
+  "HTML与SVG": [
+    "Diagram Design：AI 代理生成出版级图表.md"
   ],
   "KDJ": [
     "Qbot 量化交易平台与均线类策略实现.md"
@@ -224,18 +215,12 @@
     "Qbot 量化交易平台与均线类策略实现.md"
   ],
   "MCP": [
-    "Appwrite：面向 AI Agent 的开源后端平台.md",
-    "AutoClip：本地优先的 AI 长视频再利用工具.md",
-    "Awesome MCP Servers 精选目录与选型指南.md",
-    "Cursor 插件市场与工程化工作流.md",
-    "Stitch Agent Skills 开源技能套件.md",
-    "江山时序：中国历史交互地图.md"
+    "AutoClip：本地优先的 AI 长视频剪辑工具.md",
+    "Cursor 插件生态与开发规范.md",
+    "Google Stitch Agent Skills 工具集.md"
   ],
   "MR Dang": [
     "知乎与支付宝开源投资博主汇总与抄作业哲学.md"
-  ],
-  "Node.js": [
-    "nvm Node.js 多版本管理指南.md"
   ],
   "Nodeseek": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
@@ -254,9 +239,9 @@
     "闲鱼 AI 智能监控系统.md"
   ],
   "Python": [
+    "Ghost Downloader 3：多协议跨平台下载器.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
-    "uv：Rust 驱动的 Python 包与项目管理器.md",
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
   ],
   "Qbot": [
@@ -273,32 +258,25 @@
     "股票投资中的周期研究与自学路径.md"
   ],
   "Rust": [
-    "Wealthfolio：本地优先的个人财务追踪开源工具.md",
-    "uv：Rust 驱动的 Python 包与项目管理器.md"
+    "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
   "SRE": [
-    "OpenSRE 自托管 CI CD 故障排查 AI 代理.md"
+    "OpenSRE：CI CD 故障归因与自动修复 Agent.md"
   ],
   "Serenity": [
     "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md"
-  ],
-  "Shell": [
-    "nvm Node.js 多版本管理指南.md"
-  ],
-  "SolidJS": [
-    "SolidJS 2.0 核心机制与工程实践.md"
   ],
   "Transformer": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
   ],
   "UI设计": [
-    "Stitch Agent Skills 开源技能套件.md"
+    "Google Stitch Agent Skills 工具集.md"
   ],
   "V2EX": [
     "V2EX Nodeseek Linux.do 三个淘货交易板块推荐.md"
   ],
   "Web服务器": [
-    "NGINX 架构、配置与部署指南.md"
+    "NGINX 开源服务器架构与部署.md"
   ],
   "WorldQuant": [
     "量化投资入门三步法：从认知到实战的系统路径.md"
@@ -308,9 +286,6 @@
     "Qbot 量化交易平台与均线类策略实现.md",
     "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
   ],
-  "jQuery": [
-    "jQuery 4.x 开发、构建与版本支持.md"
-  ],
   "上下文工程": [
     "ECC：AI 编程代理工程系统.md"
   ],
@@ -318,7 +293,7 @@
     "环南京都市圈的极致性价比生活图景.md"
   ],
   "下载器": [
-    "Ghost Downloader 3 一体化跨平台下载器.md"
+    "Ghost Downloader 3：多协议跨平台下载器.md"
   ],
   "不对称网格": [
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
@@ -414,9 +389,6 @@
   "事件驱动策略": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md"
-  ],
-  "交互地图": [
-    "江山时序：中国历史交互地图.md"
   ],
   "交易": [
     "2万元交易员付费课性价比存疑 B站免费资源更优.md",
@@ -583,7 +555,7 @@
     "紫金矿业 藏格矿业 兴业银锡 持仓成本与目标价复盘.md"
   ],
   "内容再利用": [
-    "AutoClip：本地优先的 AI 长视频再利用工具.md"
+    "AutoClip：本地优先的 AI 长视频剪辑工具.md"
   ],
   "内容创作": [
     "知乎三位高价值投资内容创作者推荐.md",
@@ -611,10 +583,7 @@
     "县城产业兴衰研究法与多元商业逻辑.md"
   ],
   "前端开发": [
-    "jQuery 4.x 开发、构建与版本支持.md"
-  ],
-  "前端框架": [
-    "Svelte 编译式前端开发框架.md"
+    "Google Stitch Agent Skills 工具集.md"
   ],
   "区块链": [
     "知乎高资金量交易者推荐三人.md"
@@ -632,9 +601,6 @@
   "卡脖子环节": [
     "AI 供应链卡脖子环节投资框架.md"
   ],
-  "历史地理": [
-    "江山时序：中国历史交互地图.md"
-  ],
   "去杠杆": [
     "国家队去杠杆操盘手法与沪深300ETF成交量观察策略.md",
     "国家队砸盘逻辑与散户应对策略.md"
@@ -649,6 +615,9 @@
   "县域经济": [
     "县城产业兴衰研究法与多元商业逻辑.md"
   ],
+  "反向代理": [
+    "NGINX 开源服务器架构与部署.md"
+  ],
   "反弹与反转": [
     "股票承接力与反弹反转判断.md"
   ],
@@ -658,14 +627,8 @@
   "反身性理论": [
     "金融炼金术的智识真诚.md"
   ],
-  "可观测性": [
-    "OpenSRE 自托管 CI CD 故障排查 AI 代理.md"
-  ],
   "可转债": [
     "低频量化投资：指标筛选结合条件单的极简框架.md"
-  ],
-  "后端平台": [
-    "Appwrite：面向 AI Agent 的开源后端平台.md"
   ],
   "吸筹": [
     "主力吸筹与洗筹的底层逻辑.md",
@@ -682,7 +645,7 @@
     "风兮投资体系：周期轮动框架与低估成长实践.md"
   ],
   "命令行工具": [
-    "Ghost Downloader 3 一体化跨平台下载器.md"
+    "CLI-Anything：AI 智能体软件 CLI 生成与分发框架.md"
   ],
   "哈利布朗": [
     "改良版永久投资组合 五资产等权配置方案.md"
@@ -755,7 +718,7 @@
     "时代十字路口：日德美对东大的经济警示.md"
   ],
   "图表设计": [
-    "Diagram Design：用 AI 生成品牌一致的编辑型图表.md"
+    "Diagram Design：AI 代理生成出版级图表.md"
   ],
   "圆弧底": [
     "K线圆弧角度分析的核心观点.md",
@@ -872,11 +835,11 @@
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
   "多智能体": [
-    "PaperOrchestra 自动化科研写作框架.md",
+    "Last30Days：多源近期研究代理.md",
     "TradingAgents 多智能体金融交易框架.md"
   ],
-  "多源信息聚合": [
-    "last30days 跨平台近期动态研究 Skill.md"
+  "多源检索": [
+    "Last30Days：多源近期研究代理.md"
   ],
   "大盘股": [
     "矿股永续增长与大盘低估的本质.md",
@@ -889,7 +852,7 @@
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "MiniMind 微型大语言模型训练框架.md",
+    "MiniMind 小语言模型训练全链路.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
   ],
   "大额存单": [
@@ -924,9 +887,6 @@
   ],
   "学习路径": [
     "量化投资入门三步法：从认知到实战的系统路径.md"
-  ],
-  "安全扫描": [
-    "NVIDIA SkillEvaluator：Agent 技能评估框架.md"
   ],
   "宏观": [
     "中国房价与债务周期：顶部不可维持的底层逻辑.md",
@@ -1039,58 +999,42 @@
   "应用商店合规": [
     "移动应用商店合规预提交检查.md"
   ],
-  "开发者工具": [
-    "CLI-Anything 软件智能体命令行框架.md",
-    "Cursor 插件市场与工程化工作流.md"
-  ],
   "开源博主": [
     "知乎开源投资博主跟单指南.md"
   ],
   "开源项目": [
-    "AFFiNE：本地优先的开源知识协作平台.md",
-    "Appwrite：面向 AI Agent 的开源后端平台.md",
-    "Arcane 现代 Docker 管理平台.md",
-    "AutoClip：本地优先的 AI 长视频再利用工具.md",
-    "Awesome MCP Servers 精选目录与选型指南.md",
-    "CLI-Anything 软件智能体命令行框架.md",
+    "AFFiNE：本地优先的开源知识管理平台.md",
+    "AutoClip：本地优先的 AI 长视频剪辑工具.md",
+    "CLI-Anything：AI 智能体软件 CLI 生成与分发框架.md",
     "Claude Trading Skills：个人投资者 AI 交易工作流.md",
     "Claude-BugHunter 开源安全技能包.md",
     "Cloudflare 多阶段安全审计 Skill.md",
-    "Cursor 插件市场与工程化工作流.md",
-    "Diagram Design：用 AI 生成品牌一致的编辑型图表.md",
+    "Cursor 插件生态与开发规范.md",
+    "Diagram Design：AI 代理生成出版级图表.md",
     "ECC：AI 编程代理工程系统.md",
-    "Firecrawl：AI 智能体的网页数据基础设施.md",
-    "Ghost Downloader 3 一体化跨平台下载器.md",
+    "Firecrawl：AI 智能体的网页知识基础设施.md",
+    "Ghost Downloader 3：多协议跨平台下载器.md",
+    "Google Stitch Agent Skills 工具集.md",
     "Kronos：面向金融K线序列的首个开源基础模型.md",
     "LLM 驱动的多市场股票分析工作台.md",
     "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-    "MiniMind 微型大语言模型训练框架.md",
-    "NGINX 架构、配置与部署指南.md",
-    "NVIDIA SkillEvaluator：Agent 技能评估框架.md",
+    "Last30Days：多源近期研究代理.md",
+    "MiniMind 小语言模型训练全链路.md",
+    "NGINX 开源服务器架构与部署.md",
     "OpenBot：自托管 AI 同事平台.md",
-    "OpenSRE 自托管 CI CD 故障排查 AI 代理.md",
+    "OpenSRE：CI CD 故障归因与自动修复 Agent.md",
     "OpenShell 自主 AI 智能体安全运行时.md",
-    "OpenVINO 推理优化与部署工具包.md",
-    "PaperOrchestra 自动化科研写作框架.md",
+    "OpenVINO 推理优化与模型部署.md",
     "Qbot 开源量化交易平台与经典技术指标策略实现.md",
     "Qbot 开源量化交易闭环系统.md",
     "Qbot 量化交易平台与均线类策略实现.md",
     "SkillSpector：AI Agent 技能安全扫描器.md",
-    "SolidJS 2.0 核心机制与工程实践.md",
-    "Stitch Agent Skills 开源技能套件.md",
-    "Superpowers 编程智能体开发框架.md",
+    "Superpowers 编程智能体软件开发方法论.md",
     "Sure 开源个人理财应用.md",
-    "Svelte 编译式前端开发框架.md",
     "TradingAgents 多智能体金融交易框架.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md",
     "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-    "jQuery 4.x 开发、构建与版本支持.md",
-    "last30days 跨平台近期动态研究 Skill.md",
-    "n8n：AI智能体与工作流自动化平台.md",
-    "nvm Node.js 多版本管理指南.md",
-    "uv：Rust 驱动的 Python 包与项目管理器.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
-    "江山时序：中国历史交互地图.md",
     "移动应用商店合规预提交检查.md",
     "闲鱼 AI 智能监控系统.md"
   ],
@@ -1191,9 +1135,6 @@
     "超跌反弹战法：30日均线偏离度筛选与地天板操作.md",
     "趋势与反转：交易者必须敬畏惯性.md",
     "趋势与反转：先顺势后反转的交易纪律.md"
-  ],
-  "技能评估": [
-    "NVIDIA SkillEvaluator：Agent 技能评估框架.md"
   ],
   "抄作业": [
     "散户炒股简化框架：看宏观、抄基金经理作业.md",
@@ -1379,10 +1320,13 @@
     "CH4因子模型：A股四维定价框架与实战应用.md"
   ],
   "推理优化": [
-    "OpenVINO 推理优化与部署工具包.md"
+    "OpenVINO 推理优化与模型部署.md"
   ],
   "提示工程": [
     "财报分析框架蒸馏为 AI Skill 的实践.md"
+  ],
+  "插件开发": [
+    "Cursor 插件生态与开发规范.md"
   ],
   "操盘逻辑": [
     "主力吸筹识别与筹码分布实战.md"
@@ -1409,9 +1353,6 @@
     "股票投资从零到成熟的系统方法.md",
     "财报淘金：融合西格尔、涅夫与施洛斯三种风格的散户选股法.md"
   ],
-  "数字白板": [
-    "AFFiNE：本地优先的开源知识协作平台.md"
-  ],
   "数据": [
     "AI 时代个人量化交易可行路径与核心铁律.md",
     "AI时代个人量化生存指南.md"
@@ -1431,7 +1372,7 @@
     "国产科技主升浪在即，锂电五月迎加速段.md"
   ],
   "方法论": [
-    "Superpowers 编程智能体开发框架.md",
+    "Superpowers 编程智能体软件开发方法论.md",
     "知乎三位投资领域高影响力答主风格速览.md",
     "知乎三位高价值投资内容创作者推荐.md"
   ],
@@ -1448,19 +1389,8 @@
   "时序预测": [
     "Kronos 金融时序基础模型：把 K 线当语言处理的清华开源方案.md"
   ],
-  "智能体工具": [
-    "Awesome MCP Servers 精选目录与选型指南.md"
-  ],
   "智能体平台": [
-    "Firecrawl：AI 智能体的网页数据基础设施.md",
     "OpenBot：自托管 AI 同事平台.md"
-  ],
-  "智能体开发": [
-    "CLI-Anything 软件智能体命令行框架.md",
-    "Superpowers 编程智能体开发框架.md"
-  ],
-  "智能体技能": [
-    "last30days 跨平台近期动态研究 Skill.md"
   ],
   "智能网格": [
     "ETF 网格交易实战：标的选择、不对称网格与费率优势.md"
@@ -1468,14 +1398,11 @@
   "最佳实践": [
     "Example 域名：文档示例专用保留域名.md"
   ],
-  "服务端渲染": [
-    "SolidJS 2.0 核心机制与工程实践.md"
-  ],
   "期货": [
     "国家队去杠杆操盘手法与沪深300ETF成交量观察策略.md"
   ],
   "本地优先": [
-    "AFFiNE：本地优先的开源知识协作平台.md",
+    "AFFiNE：本地优先的开源知识管理平台.md",
     "Wealthfolio：本地优先的个人财务追踪开源工具.md"
   ],
   "本金安全": [
@@ -1526,10 +1453,10 @@
     "连跌反弹统计策略与1124建仓法.md"
   ],
   "模型训练": [
-    "MiniMind 微型大语言模型训练框架.md"
+    "MiniMind 小语言模型训练全链路.md"
   ],
   "模型部署": [
-    "OpenVINO 推理优化与部署工具包.md"
+    "OpenVINO 推理优化与模型部署.md"
   ],
   "止损": [
     "BOLL短线两种高胜率策略与仓位管理.md",
@@ -1587,7 +1514,7 @@
     "主力猎取的是流动性而非散户本身.md"
   ],
   "测试驱动开发": [
-    "Superpowers 编程智能体开发框架.md"
+    "Superpowers 编程智能体软件开发方法论.md"
   ],
   "海外券商": [
     "新加坡野鸡大学套利：低成本获取海外金融账户的灰色路径.md"
@@ -1619,9 +1546,6 @@
   "游资庄家": [
     "游资庄家的真实赚钱逻辑.md",
     "游资庄家盈利真相与散户亏损根源.md"
-  ],
-  "源码编译": [
-    "NGINX 架构、配置与部署指南.md"
   ],
   "漏洞挖掘": [
     "Cloudflare 多阶段安全审计 Skill.md"
@@ -1728,7 +1652,7 @@
     "股票付费内容的定价与价值审视.md"
   ],
   "知识基础设施": [
-    "Firecrawl：AI 智能体的网页数据基础设施.md"
+    "Firecrawl：AI 智能体的网页知识基础设施.md"
   ],
   "知识归档": [
     "寒武纪的鳄鱼知乎内容归档.md"
@@ -1766,9 +1690,6 @@
     "AI 供应链卡脖子环节投资框架.md",
     "科技股B浪反弹前的仓位与盘面复盘.md"
   ],
-  "科研写作": [
-    "PaperOrchestra 自动化科研写作框架.md"
-  ],
   "移动应用": [
     "移动应用商店合规预提交检查.md"
   ],
@@ -1802,10 +1723,7 @@
     "国产科技主升浪在即，锂电五月迎加速段.md"
   ],
   "管理": [
-    "AFFiNE：本地优先的开源知识协作平台.md",
-    "Arcane 现代 Docker 管理平台.md",
-    "nvm Node.js 多版本管理指南.md",
-    "uv：Rust 驱动的 Python 包与项目管理器.md",
+    "AFFiNE：本地优先的开源知识管理平台.md",
     "七年自建趋势跟踪交易系统实战复盘.md",
     "大跌复盘三件事与组合沙箱工具.md",
     "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1830,9 +1748,6 @@
   "纳斯达克100": [
     "纳指投资基于5年均线的择时与仓位管理.md"
   ],
-  "细粒度响应式": [
-    "SolidJS 2.0 核心机制与工程实践.md"
-  ],
   "经济周期": [
     "放水导致通缩：日本与美国危机应对模式的镜像对比.md"
   ],
@@ -1842,15 +1757,15 @@
   "经验分享": [
     "知乎高资金量交易者推荐三人.md"
   ],
-  "编译器": [
-    "Svelte 编译式前端开发框架.md"
+  "编程智能体": [
+    "Superpowers 编程智能体软件开发方法论.md"
   ],
   "网络安全": [
     "Claude-BugHunter 开源安全技能包.md",
     "Cloudflare 多阶段安全审计 Skill.md"
   ],
   "网页抓取": [
-    "Firecrawl：AI 智能体的网页数据基础设施.md"
+    "Firecrawl：AI 智能体的网页知识基础设施.md"
   ],
   "美股": [
     "无脑执行投资策略：三段式仓位管理法.md",
@@ -1909,8 +1824,6 @@
     "AI供应链卡脖子环节挖掘框架.md"
   ],
   "自动化": [
-    "PaperOrchestra 自动化科研写作框架.md",
-    "n8n：AI智能体与工作流自动化平台.md",
     "用 OpenClaw 搭建个人股票分析 Agent.md",
     "用OpenClaw搭建个人股票分析Agent.md",
     "移动应用商店合规预提交检查.md",
@@ -1924,9 +1837,7 @@
     "股票投资的学习门槛与能力自检.md"
   ],
   "自托管": [
-    "Appwrite：面向 AI Agent 的开源后端平台.md",
-    "Sure 开源个人理财应用.md",
-    "n8n：AI智能体与工作流自动化平台.md"
+    "Sure 开源个人理财应用.md"
   ],
   "舆情调研": [
     "散户低价国企股的舆情调研与人事博弈策略.md"
@@ -1963,7 +1874,7 @@
     "牛市见顶信号对比框架 2015 vs 2025.md"
   ],
   "视频剪辑": [
-    "AutoClip：本地优先的 AI 长视频再利用工具.md"
+    "AutoClip：本地优先的 AI 长视频剪辑工具.md"
   ],
   "认知升级": [
     "穷富差距的本质：时间、砸钱与使用权的三重分野.md"
@@ -1989,7 +1900,7 @@
     "分钟级K线涨跌跟随策略的回测：高频交易是负和博弈.md"
   ],
   "负载均衡": [
-    "NGINX 架构、配置与部署指南.md"
+    "NGINX 开源服务器架构与部署.md"
   ],
   "财产分割": [
     "郭律师与龙飞律师：婚姻家事法律科普的两种视角.md",
@@ -2148,7 +2059,7 @@
     "股票市场术语民间图解.md"
   ],
   "跨平台": [
-    "Ghost Downloader 3 一体化跨平台下载器.md"
+    "Ghost Downloader 3：多协议跨平台下载器.md"
   ],
   "身份规划": [
     "新加坡学生签作为海外金融账户入口.md"
