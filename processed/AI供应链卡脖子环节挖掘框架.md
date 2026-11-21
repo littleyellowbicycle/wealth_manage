@@ -3,7 +3,7 @@ title: AI供应链卡脖子环节挖掘框架
 source: raw_20260624_162424_67ad2e00
 source_url: https://www.zhihu.com/question/2043660509396865080/answer/2045090338327588976
 created: '2026-06-29'
-updated: '2026-11-20'
+updated: '2026-11-21'
 tags:
 - AI
 - 投资
@@ -14,14 +14,14 @@ status: processed
 related:
 - AI 供应链卡脖子环节投资框架
 - 财报分析框架蒸馏为 AI Skill 的实践
-- CLI-Anything：AI 智能体软件 CLI 生成与分发框架
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- AutoClip：本地优先的 AI 长视频剪辑工具
 - A股散户情绪逆向投资法与低估值选股框架
 - A股散户投资框架：ETF优先与独立择时
 - A股题材投资逻辑与产业链选股框架
 - Claude Trading Skills：个人投资者 AI 交易工作流
+- CLI-Anything：将软件转为 AI Agent 原生 CLI
+- daily_stock_analysis 项目11策略与LLM量化框架解析
 note_type: content
 ---
 
@@ -110,11 +110,11 @@ A股这条线已被市场提前反应，龙头早已上天；美股AXTI则是更
 ## 相关笔记
 - [[AI 供应链卡脖子环节投资框架]]
 - [[财报分析框架蒸馏为 AI Skill 的实践]]
-- [[CLI-Anything：AI 智能体软件 CLI 生成与分发框架]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[AutoClip：本地优先的 AI 长视频剪辑工具]]
 - [[A股散户情绪逆向投资法与低估值选股框架]]
 - [[A股散户投资框架：ETF优先与独立择时]]
 - [[A股题材投资逻辑与产业链选股框架]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
+- [[CLI-Anything：将软件转为 AI Agent 原生 CLI]]
+- [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
