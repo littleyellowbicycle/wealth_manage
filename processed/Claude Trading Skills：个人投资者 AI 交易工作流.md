@@ -3,7 +3,7 @@ title: Claude Trading Skills：个人投资者 AI 交易工作流
 source: raw_20261113_233155_da42709b
 source_url: https://github.com/tradermonty/claude-trading-skills
 created: '2026-11-13'
-updated: '2026-11-21'
+updated: '2026-11-22'
 tags:
 - 开源项目
 - AI

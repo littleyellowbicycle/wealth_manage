@@ -3,7 +3,7 @@ title: OpenBot：自托管 AI 同事平台
 source: raw_20261029_233117_d0a86411
 source_url: https://github.com/CopilotKit/OpenBot
 created: '2026-10-29'
-updated: '2026-11-21'
+updated: '2026-11-22'
 tags:
 - 开源项目
 - AI
@@ -21,8 +21,8 @@ related:
 - Claude-BugHunter 开源安全技能包
 - Cloudflare 多阶段安全审计 Skill
 - 移动应用商店合规预提交检查
-- CLI-Anything：将软件转为 AI Agent 原生 CLI
-- Diagram Design：AI 智能体品牌化图表生成
+- AutoClip 本地优先 AI 视频剪辑工具
+- CLI-Anything：面向 AI Agent 的软件 CLI 生成框架
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -114,5 +114,5 @@ related:
 - [[Claude-BugHunter 开源安全技能包]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[移动应用商店合规预提交检查]]
-- [[CLI-Anything：将软件转为 AI Agent 原生 CLI]]
-- [[Diagram Design：AI 智能体品牌化图表生成]]
+- [[AutoClip 本地优先 AI 视频剪辑工具]]
+- [[CLI-Anything：面向 AI Agent 的软件 CLI 生成框架]]

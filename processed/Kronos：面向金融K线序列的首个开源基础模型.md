@@ -3,7 +3,7 @@ title: Kronos：面向金融K线序列的首个开源基础模型
 source: raw_20261020_014255_c4757d03
 source_url: https://github.com/shiyu-coder/Kronos
 created: '2026-10-20'
-updated: '2026-11-21'
+updated: '2026-11-22'
 tags:
 - AI
 - 交易
@@ -18,12 +18,12 @@ related:
 - Sure 开源个人理财应用
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - 基于 bt 与 alphalens 的多因子回测框架实践
-- AFFiNE：本地优先的开源知识工作空间
+- AFFiNE 本地优先开源知识库与协作画布
 - Claude-BugHunter 开源安全技能包
-- Google Stitch Skills 开源技能库
+- CLI-Anything：面向 AI Agent 的软件 CLI 生成框架
 - K线圆弧角度分析的核心观点
 - K线圆弧角度理论 金融市场的半圆数学
-- MiniMind：低成本训练 64M 大模型
+- MiniMind 小语言模型训练全流程与实践
 ---
 
 # Kronos：面向金融K线序列的首个开源基础模型
@@ -101,9 +101,9 @@ License：MIT。
 - [[Sure 开源个人理财应用]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
-- [[AFFiNE：本地优先的开源知识工作空间]]
+- [[AFFiNE 本地优先开源知识库与协作画布]]
 - [[Claude-BugHunter 开源安全技能包]]
-- [[Google Stitch Skills 开源技能库]]
+- [[CLI-Anything：面向 AI Agent 的软件 CLI 生成框架]]
 - [[K线圆弧角度分析的核心观点]]
 - [[K线圆弧角度理论 金融市场的半圆数学]]
-- [[MiniMind：低成本训练 64M 大模型]]
+- [[MiniMind 小语言模型训练全流程与实践]]

@@ -3,7 +3,7 @@ title: SkillSpector：AI Agent 技能安全扫描器
 source: raw_20261026_233111_d019ff65
 source_url: https://github.com/NVIDIA/SkillSpector
 created: '2026-10-26'
-updated: '2026-11-21'
+updated: '2026-11-22'
 tags:
 - AI
 - 开源项目
@@ -20,8 +20,8 @@ related:
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
 - 移动应用商店合规预提交检查
-- CLI-Anything：将软件转为 AI Agent 原生 CLI
-- Diagram Design：AI 智能体品牌化图表生成
+- CLI-Anything：面向 AI Agent 的软件 CLI 生成框架
+- Diagram Design：AI 编辑型图表生成技能
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -139,5 +139,5 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
 - [[移动应用商店合规预提交检查]]
-- [[CLI-Anything：将软件转为 AI Agent 原生 CLI]]
-- [[Diagram Design：AI 智能体品牌化图表生成]]
+- [[CLI-Anything：面向 AI Agent 的软件 CLI 生成框架]]
+- [[Diagram Design：AI 编辑型图表生成技能]]

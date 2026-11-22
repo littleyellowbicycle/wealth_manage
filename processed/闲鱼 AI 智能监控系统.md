@@ -3,7 +3,7 @@ title: 闲鱼 AI 智能监控系统
 source: raw_20261103_233133_b4e1a9a6
 source_url: https://github.com/Usagi-org/ai-goofish-monitor
 created: '2026-11-03'
-updated: '2026-11-21'
+updated: '2026-11-22'
 tags:
 - 开源项目
 - AI
@@ -22,8 +22,8 @@ related:
 - Claude-BugHunter 开源安全技能包
 - Cloudflare 多阶段安全审计 Skill
 - 移动应用商店合规预提交检查
-- Diagram Design：AI 智能体品牌化图表生成
-- CLI-Anything：将软件转为 AI Agent 原生 CLI
+- Firecrawl：AI 智能体网页数据基础设施
+- AutoClip 本地优先 AI 视频剪辑工具
 ---
 
 # 闲鱼 AI 智能监控系统
@@ -178,5 +178,5 @@ npm run dev
 - [[Claude-BugHunter 开源安全技能包]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[移动应用商店合规预提交检查]]
-- [[Diagram Design：AI 智能体品牌化图表生成]]
-- [[CLI-Anything：将软件转为 AI Agent 原生 CLI]]
+- [[Firecrawl：AI 智能体网页数据基础设施]]
+- [[AutoClip 本地优先 AI 视频剪辑工具]]

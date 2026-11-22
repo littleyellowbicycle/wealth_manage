@@ -3,7 +3,7 @@ title: Cloudflare 多阶段安全审计 Skill
 source: raw_20261020_233106_054929c5
 source_url: https://github.com/cloudflare/security-audit-skill
 created: '2026-10-20'
-updated: '2026-11-21'
+updated: '2026-11-22'
 tags:
 - 开源项目
 - AI
@@ -22,8 +22,8 @@ related:
 - OpenBot：自托管 AI 同事平台
 - 移动应用商店合规预提交检查
 - 闲鱼 AI 智能监控系统
-- AFFiNE：本地优先的开源知识工作空间
-- AutoClip：长视频一键生成短视频
+- AFFiNE 本地优先开源知识库与协作画布
+- AutoClip 本地优先 AI 视频剪辑工具
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -104,5 +104,5 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 - [[OpenBot：自托管 AI 同事平台]]
 - [[移动应用商店合规预提交检查]]
 - [[闲鱼 AI 智能监控系统]]
-- [[AFFiNE：本地优先的开源知识工作空间]]
-- [[AutoClip：长视频一键生成短视频]]
+- [[AFFiNE 本地优先开源知识库与协作画布]]
+- [[AutoClip 本地优先 AI 视频剪辑工具]]
