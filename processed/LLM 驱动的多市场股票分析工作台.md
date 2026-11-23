@@ -3,7 +3,7 @@ title: LLM 驱动的多市场股票分析工作台
 source: raw_20261109_233123_05fba0bc
 source_url: https://github.com/ZhuLinsen/daily_stock_analysis
 created: '2026-11-09'
-updated: '2026-11-22'
+updated: '2026-11-23'
 tags:
 - AI
 - 股票研究
@@ -13,15 +13,15 @@ status: processed
 note_type: content
 related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- AutoClip 本地优先 AI 视频剪辑工具
-- Diagram Design：AI 编辑型图表生成技能
-- Google Stitch Agent Skills 技能库
-- last30days 跨平台 AI 研究技能
-- OpenSRE 开源 CI CD 故障诊断 Agent
+- AutoClip：本地化 AI 长视频自动拆条工具
+- CLI-Anything：AI Agent 原生 CLI 生成与分发框架
+- Diagram Design：AI 代理的编辑型图表生成技能
+- OpenSRE：自托管 CI CD 可靠性智能体
+- Stitch Skills 开源代理技能库
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
-- LLM辅助量化交易 daily_stock_analysis 11策略解析
-- AFFiNE 本地优先开源知识库与协作画布
+- AFFiNE：本地优先的开放知识工作台
+- Cursor 官方插件市场与规范
 ---
 
 # LLM 驱动的多市场股票分析工作台
@@ -160,12 +160,12 @@ python main.py --serve-only
 
 ## 相关笔记
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[AutoClip 本地优先 AI 视频剪辑工具]]
-- [[Diagram Design：AI 编辑型图表生成技能]]
-- [[Google Stitch Agent Skills 技能库]]
-- [[last30days 跨平台 AI 研究技能]]
-- [[OpenSRE 开源 CI CD 故障诊断 Agent]]
+- [[AutoClip：本地化 AI 长视频自动拆条工具]]
+- [[CLI-Anything：AI Agent 原生 CLI 生成与分发框架]]
+- [[Diagram Design：AI 代理的编辑型图表生成技能]]
+- [[OpenSRE：自托管 CI CD 可靠性智能体]]
+- [[Stitch Skills 开源代理技能库]]
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
-- [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
-- [[AFFiNE 本地优先开源知识库与协作画布]]
+- [[AFFiNE：本地优先的开放知识工作台]]
+- [[Cursor 官方插件市场与规范]]

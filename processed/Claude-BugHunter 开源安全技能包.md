@@ -3,7 +3,7 @@ title: Claude-BugHunter 开源安全技能包
 source: raw_20261117_233107_6110015a
 source_url: https://github.com/elementalsouls/Claude-BugHunter
 created: '2026-11-17'
-updated: '2026-11-22'
+updated: '2026-11-23'
 tags:
 - AI
 - 开源项目
@@ -22,8 +22,8 @@ related:
 - OpenBot：自托管 AI 同事平台
 - 移动应用商店合规预提交检查
 - 闲鱼 AI 智能监控系统
-- AFFiNE 本地优先开源知识库与协作画布
-- Diagram Design：AI 编辑型图表生成技能
+- Stitch Skills 开源代理技能库
+- Diagram Design：AI 代理的编辑型图表生成技能
 ---
 
 # Claude-BugHunter 开源安全技能包
@@ -117,5 +117,5 @@ Anthropic 的运行时网络安全策略可能拒绝部分漏洞利用或进攻�
 - [[OpenBot：自托管 AI 同事平台]]
 - [[移动应用商店合规预提交检查]]
 - [[闲鱼 AI 智能监控系统]]
-- [[AFFiNE 本地优先开源知识库与协作画布]]
-- [[Diagram Design：AI 编辑型图表生成技能]]
+- [[Stitch Skills 开源代理技能库]]
+- [[Diagram Design：AI 代理的编辑型图表生成技能]]

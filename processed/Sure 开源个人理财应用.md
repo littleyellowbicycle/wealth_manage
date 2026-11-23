@@ -3,7 +3,7 @@ title: Sure 开源个人理财应用
 source: raw_20261110_233132_692bb41e
 source_url: https://github.com/we-promise/sure
 created: '2026-11-10'
-updated: '2026-11-22'
+updated: '2026-11-23'
 tags:
 - 开源项目
 - 个人理财
@@ -14,14 +14,14 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
+- AFFiNE：本地优先的开放知识工作台
 - Wealthfolio：本地优先的个人财务追踪开源工具
-- AFFiNE 本地优先开源知识库与协作画布
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - Claude-BugHunter 开源安全技能包
-- OpenSRE 开源 CI CD 故障诊断 Agent
+- Stitch Skills 开源代理技能库
 - 移动应用商店合规预提交检查
-- AutoClip 本地优先 AI 视频剪辑工具
-- CLI-Anything：面向 AI Agent 的软件 CLI 生成框架
+- AutoClip：本地化 AI 长视频自动拆条工具
+- CLI-Anything：AI Agent 原生 CLI 生成与分发框架
 - Cloudflare 多阶段安全审计 Skill
 ---
 
@@ -107,12 +107,12 @@ Sure 已被明确描述为数据密集型应用，复杂请求可能出现性能
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
+- [[AFFiNE：本地优先的开放知识工作台]]
 - [[Wealthfolio：本地优先的个人财务追踪开源工具]]
-- [[AFFiNE 本地优先开源知识库与协作画布]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[Claude-BugHunter 开源安全技能包]]
-- [[OpenSRE 开源 CI CD 故障诊断 Agent]]
+- [[Stitch Skills 开源代理技能库]]
 - [[移动应用商店合规预提交检查]]
-- [[AutoClip 本地优先 AI 视频剪辑工具]]
-- [[CLI-Anything：面向 AI Agent 的软件 CLI 生成框架]]
+- [[AutoClip：本地化 AI 长视频自动拆条工具]]
+- [[CLI-Anything：AI Agent 原生 CLI 生成与分发框架]]
 - [[Cloudflare 多阶段安全审计 Skill]]
