@@ -3,7 +3,7 @@ title: LLM 驱动的多市场股票分析工作台
 source: raw_20261109_233123_05fba0bc
 source_url: https://github.com/ZhuLinsen/daily_stock_analysis
 created: '2026-11-09'
-updated: '2026-11-24'
+updated: '2026-11-25'
 tags:
 - AI
 - 股票研究
@@ -13,15 +13,15 @@ status: processed
 note_type: content
 related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- Diagram Design：AI 图表设计技能
-- Stitch Skills：Google Stitch 设计与构建代理插件集
+- AutoClip：本地优先的 AI 视频切片工具
+- CLI-Anything：面向 AI Agent 的软件 CLI 化
+- Diagram Design：AI Agent 图表生成 Skill
+- Google Stitch 开源 Agent 技能套件
+- last30days 多平台近期情报研究
+- OpenSRE：自托管 CI CD 可靠性智能体
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
-- LLM辅助量化交易 daily_stock_analysis 11策略解析
-- AFFiNE：本地优先的开源知识工作空间
-- AutoClip：本地优先的 AI 长视频再利用工具
-- Claude Trading Skills：个人投资者 AI 交易工作流
-- Claude-BugHunter 开源安全技能包
+- AFFiNE：开源本地优先的知识工作台
 ---
 
 # LLM 驱动的多市场股票分析工作台
@@ -160,12 +160,12 @@ python main.py --serve-only
 
 ## 相关笔记
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[Diagram Design：AI 图表设计技能]]
-- [[Stitch Skills：Google Stitch 设计与构建代理插件集]]
+- [[AutoClip：本地优先的 AI 视频切片工具]]
+- [[CLI-Anything：面向 AI Agent 的软件 CLI 化]]
+- [[Diagram Design：AI Agent 图表生成 Skill]]
+- [[Google Stitch 开源 Agent 技能套件]]
+- [[last30days 多平台近期情报研究]]
+- [[OpenSRE：自托管 CI CD 可靠性智能体]]
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
-- [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
-- [[AFFiNE：本地优先的开源知识工作空间]]
-- [[AutoClip：本地优先的 AI 长视频再利用工具]]
-- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[Claude-BugHunter 开源安全技能包]]
+- [[AFFiNE：开源本地优先的知识工作台]]

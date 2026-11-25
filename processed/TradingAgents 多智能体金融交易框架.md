@@ -3,7 +3,7 @@ title: TradingAgents 多智能体金融交易框架
 source: raw_20261025_233117_89ef9221
 source_url: https://github.com/TauricResearch/TradingAgents
 created: '2026-10-25'
-updated: '2026-11-24'
+updated: '2026-11-25'
 tags:
 - AI
 - 开源项目
@@ -15,14 +15,14 @@ note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
 - Claude Trading Skills：个人投资者 AI 交易工作流
-- Superpowers 编程智能体开发框架
-- CLI-Anything 软件 Agent 化框架
-- Firecrawl：AI 智能体的网页知识基础设施
-- Last30Days 跨平台近期研究智能体
+- Superpowers 代理式软件开发方法论
 - OpenShell 自主 AI 智能体安全运行时
-- OpenSRE：CI CD 可靠性开源智能体
+- OpenSRE：自托管 CI CD 可靠性智能体
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - 纳指ETF策略选择方法论：数据驱动的回测决策框架
+- 闲鱼 AI 智能监控系统
+- AFFiNE：开源本地优先的知识工作台
+- AutoClip：本地优先的 AI 视频切片工具
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -126,11 +126,11 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[Superpowers 编程智能体开发框架]]
-- [[CLI-Anything 软件 Agent 化框架]]
-- [[Firecrawl：AI 智能体的网页知识基础设施]]
-- [[Last30Days 跨平台近期研究智能体]]
+- [[Superpowers 代理式软件开发方法论]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
-- [[OpenSRE：CI CD 可靠性开源智能体]]
+- [[OpenSRE：自托管 CI CD 可靠性智能体]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
+- [[闲鱼 AI 智能监控系统]]
+- [[AFFiNE：开源本地优先的知识工作台]]
+- [[AutoClip：本地优先的 AI 视频切片工具]]

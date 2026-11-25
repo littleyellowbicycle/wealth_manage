@@ -3,7 +3,7 @@ title: ECC：AI 编程代理工程系统
 source: raw_20261117_233130_40b45467
 source_url: https://github.com/affaan-m/ECC
 created: '2026-11-17'
-updated: '2026-11-24'
+updated: '2026-11-25'
 tags:
 - 开源项目
 - AI
@@ -20,8 +20,8 @@ related:
 - Claude-BugHunter 开源安全技能包
 - Cloudflare 多阶段安全审计 Skill
 - 移动应用商店合规预提交检查
-- AutoClip：本地优先的 AI 长视频再利用工具
-- Diagram Design：AI 图表设计技能
+- Firecrawl 面向 AI 代理的知识基础设施
+- AutoClip：本地优先的 AI 视频切片工具
 ---
 
 # ECC：AI 编程代理工程系统
@@ -117,5 +117,5 @@ npx ecc-universal@2.2.3 install --guided
 - [[Claude-BugHunter 开源安全技能包]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[移动应用商店合规预提交检查]]
-- [[AutoClip：本地优先的 AI 长视频再利用工具]]
-- [[Diagram Design：AI 图表设计技能]]
+- [[Firecrawl 面向 AI 代理的知识基础设施]]
+- [[AutoClip：本地优先的 AI 视频切片工具]]
