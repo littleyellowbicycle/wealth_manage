@@ -20,8 +20,8 @@ related:
 - OpenBot：自托管 AI 同事平台
 - 闲鱼 AI 智能监控系统
 - 移动应用商店合规预提交检查
-- Diagram Design：AI Agent 编辑级图表生成 Skill
-- AutoClip：本地优先的 AI 视频剪辑工具
+- Diagram Design：AI Agent 编辑型图表生成方案
+- Firecrawl：AI Agent 的网页知识基础设施
 ---
 
 # SkillSpector：AI Agent 技能安全扫描器
@@ -139,5 +139,5 @@ HTTP 模式没有内置身份认证，因此只允许绑定 `127.0.0.1` 或 `::1
 - [[OpenBot：自托管 AI 同事平台]]
 - [[闲鱼 AI 智能监控系统]]
 - [[移动应用商店合规预提交检查]]
-- [[Diagram Design：AI Agent 编辑级图表生成 Skill]]
-- [[AutoClip：本地优先的 AI 视频剪辑工具]]
+- [[Diagram Design：AI Agent 编辑型图表生成方案]]
+- [[Firecrawl：AI Agent 的网页知识基础设施]]

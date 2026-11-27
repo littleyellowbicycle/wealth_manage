@@ -22,8 +22,8 @@ related:
 - OpenBot：自托管 AI 同事平台
 - 移动应用商店合规预提交检查
 - 闲鱼 AI 智能监控系统
-- Google Stitch 开源代理技能集
-- AFFiNE 开源知识管理与协作画布
+- AFFiNE 本地优先开源知识库与协作画布
+- Google Stitch 设计构建技能集
 ---
 
 # Claude-BugHunter 开源安全技能包
@@ -117,5 +117,5 @@ Anthropic 的运行时网络安全策略可能拒绝部分漏洞利用或进攻�
 - [[OpenBot：自托管 AI 同事平台]]
 - [[移动应用商店合规预提交检查]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Google Stitch 开源代理技能集]]
-- [[AFFiNE 开源知识管理与协作画布]]
+- [[AFFiNE 本地优先开源知识库与协作画布]]
+- [[Google Stitch 设计构建技能集]]

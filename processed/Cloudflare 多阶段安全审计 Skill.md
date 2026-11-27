@@ -22,8 +22,8 @@ related:
 - OpenBot：自托管 AI 同事平台
 - 移动应用商店合规预提交检查
 - 闲鱼 AI 智能监控系统
-- Diagram Design：AI Agent 编辑级图表生成 Skill
-- AFFiNE 开源知识管理与协作画布
+- AFFiNE 本地优先开源知识库与协作画布
+- AutoClip：本地优先 AI 视频剪辑与 MCP 工具
 ---
 
 # Cloudflare 多阶段安全审计 Skill
@@ -104,5 +104,5 @@ Cloudflare 的 security-audit-skill 将编码代理编排成一套六阶段、�
 - [[OpenBot：自托管 AI 同事平台]]
 - [[移动应用商店合规预提交检查]]
 - [[闲鱼 AI 智能监控系统]]
-- [[Diagram Design：AI Agent 编辑级图表生成 Skill]]
-- [[AFFiNE 开源知识管理与协作画布]]
+- [[AFFiNE 本地优先开源知识库与协作画布]]
+- [[AutoClip：本地优先 AI 视频剪辑与 MCP 工具]]

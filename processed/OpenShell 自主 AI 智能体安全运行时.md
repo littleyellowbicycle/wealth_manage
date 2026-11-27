@@ -21,8 +21,8 @@ related:
 - ECC：AI 编程代理工程系统
 - OpenBot：自托管 AI 同事平台
 - 移动应用商店合规预提交检查
-- Firecrawl：AI 智能体网页数据基础设施
-- AutoClip：本地优先的 AI 视频剪辑工具
+- CLI-Anything：面向 AI 智能体的软件 CLI 封装框架
+- AutoClip：本地优先 AI 视频剪辑与 MCP 工具
 ---
 
 # OpenShell 自主 AI 智能体安全运行时
@@ -139,5 +139,5 @@ OpenShell 特别适合需要读取业务文件、调用外部 API 或使用服�
 - [[ECC：AI 编程代理工程系统]]
 - [[OpenBot：自托管 AI 同事平台]]
 - [[移动应用商店合规预提交检查]]
-- [[Firecrawl：AI 智能体网页数据基础设施]]
-- [[AutoClip：本地优先的 AI 视频剪辑工具]]
+- [[CLI-Anything：面向 AI 智能体的软件 CLI 封装框架]]
+- [[AutoClip：本地优先 AI 视频剪辑与 MCP 工具]]

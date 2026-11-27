@@ -20,9 +20,9 @@ related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
 - Kronos：面向金融K线序列的首个开源基础模型
 - 分钟级K线涨跌跟随策略的回测：高频交易是负和博弈
+- Ghost Downloader 3 跨平台下载工具概览
 - 七年自建趋势跟踪交易系统实战复盘
 - 炒股如同高考 持续学习才是出路
-- PB-ROE框架复现：GARP策略的量化实证
 note_type: content
 ---
 
@@ -115,6 +115,6 @@ note_type: content
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
 - [[分钟级K线涨跌跟随策略的回测：高频交易是负和博弈]]
+- [[Ghost Downloader 3 跨平台下载工具概览]]
 - [[七年自建趋势跟踪交易系统实战复盘]]
 - [[炒股如同高考 持续学习才是出路]]
-- [[PB-ROE框架复现：GARP策略的量化实证]]

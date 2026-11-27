@@ -13,15 +13,15 @@ status: processed
 note_type: content
 related:
 - daily_stock_analysis 项目11策略与LLM量化框架解析
-- Diagram Design：AI Agent 编辑级图表生成 Skill
-- Google Stitch 开源代理技能集
+- AutoClip：本地优先 AI 视频剪辑与 MCP 工具
+- Diagram Design：AI Agent 编辑型图表生成方案
+- Firecrawl：AI Agent 的网页知识基础设施
+- Google Stitch 设计构建技能集
+- OpenSRE 自托管 CI CD 可靠性智能体
 - 用 OpenClaw 搭建个人股票分析 Agent
 - 用OpenClaw搭建个人股票分析Agent
+- Cursor 插件生态与插件市场架构
 - LLM辅助量化交易 daily_stock_analysis 11策略解析
-- AFFiNE 开源知识管理与协作画布
-- AutoClip：本地优先的 AI 视频剪辑工具
-- Claude Trading Skills：个人投资者 AI 交易工作流
-- Claude-BugHunter 开源安全技能包
 ---
 
 # LLM 驱动的多市场股票分析工作台
@@ -160,12 +160,12 @@ python main.py --serve-only
 
 ## 相关笔记
 - [[daily_stock_analysis 项目11策略与LLM量化框架解析]]
-- [[Diagram Design：AI Agent 编辑级图表生成 Skill]]
-- [[Google Stitch 开源代理技能集]]
+- [[AutoClip：本地优先 AI 视频剪辑与 MCP 工具]]
+- [[Diagram Design：AI Agent 编辑型图表生成方案]]
+- [[Firecrawl：AI Agent 的网页知识基础设施]]
+- [[Google Stitch 设计构建技能集]]
+- [[OpenSRE 自托管 CI CD 可靠性智能体]]
 - [[用 OpenClaw 搭建个人股票分析 Agent]]
 - [[用OpenClaw搭建个人股票分析Agent]]
+- [[Cursor 插件生态与插件市场架构]]
 - [[LLM辅助量化交易 daily_stock_analysis 11策略解析]]
-- [[AFFiNE 开源知识管理与协作画布]]
-- [[AutoClip：本地优先的 AI 视频剪辑工具]]
-- [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[Claude-BugHunter 开源安全技能包]]

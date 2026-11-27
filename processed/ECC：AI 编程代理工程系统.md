@@ -20,8 +20,8 @@ related:
 - Claude-BugHunter 开源安全技能包
 - Cloudflare 多阶段安全审计 Skill
 - 移动应用商店合规预提交检查
-- Superpowers 编程代理开发方法论
-- AutoClip：本地优先的 AI 视频剪辑工具
+- Superpowers 编程代理开发框架
+- AutoClip：本地优先 AI 视频剪辑与 MCP 工具
 ---
 
 # ECC：AI 编程代理工程系统
@@ -117,5 +117,5 @@ npx ecc-universal@2.2.3 install --guided
 - [[Claude-BugHunter 开源安全技能包]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[移动应用商店合规预提交检查]]
-- [[Superpowers 编程代理开发方法论]]
-- [[AutoClip：本地优先的 AI 视频剪辑工具]]
+- [[Superpowers 编程代理开发框架]]
+- [[AutoClip：本地优先 AI 视频剪辑与 MCP 工具]]

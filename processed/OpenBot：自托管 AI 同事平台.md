@@ -21,8 +21,8 @@ related:
 - Claude-BugHunter 开源安全技能包
 - Cloudflare 多阶段安全审计 Skill
 - 移动应用商店合规预提交检查
-- AutoClip：本地优先的 AI 视频剪辑工具
-- Diagram Design：AI Agent 编辑级图表生成 Skill
+- AutoClip：本地优先 AI 视频剪辑与 MCP 工具
+- CLI-Anything：面向 AI 智能体的软件 CLI 封装框架
 ---
 
 # OpenBot：自托管 AI 同事平台
@@ -114,5 +114,5 @@ related:
 - [[Claude-BugHunter 开源安全技能包]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[移动应用商店合规预提交检查]]
-- [[AutoClip：本地优先的 AI 视频剪辑工具]]
-- [[Diagram Design：AI Agent 编辑级图表生成 Skill]]
+- [[AutoClip：本地优先 AI 视频剪辑与 MCP 工具]]
+- [[CLI-Anything：面向 AI 智能体的软件 CLI 封装框架]]

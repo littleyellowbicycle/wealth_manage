@@ -14,15 +14,15 @@ status: processed
 note_type: content
 related:
 - Kronos：面向金融K线序列的首个开源基础模型
-- CLI-Anything 软件智能体 CLI 生成框架
 - Claude Trading Skills：个人投资者 AI 交易工作流
-- Firecrawl：AI 智能体网页数据基础设施
+- CLI-Anything：面向 AI 智能体的软件 CLI 封装框架
 - OpenShell 自主 AI 智能体安全运行时
-- OpenSRE：CI CD 可靠性智能体
+- OpenSRE 自托管 CI CD 可靠性智能体
+- Superpowers 编程代理开发框架
 - 基于 bt 与 alphalens 的多因子回测框架实践
 - 纳指ETF策略选择方法论：数据驱动的回测决策框架
 - 闲鱼 AI 智能监控系统
-- AFFiNE 开源知识管理与协作画布
+- AFFiNE 本地优先开源知识库与协作画布
 ---
 
 # TradingAgents 多智能体金融交易框架
@@ -125,12 +125,12 @@ Python 中可调用 `TradingAgentsGraph().propagate()` 获得状态与决策，�
 
 ## 相关笔记
 - [[Kronos：面向金融K线序列的首个开源基础模型]]
-- [[CLI-Anything 软件智能体 CLI 生成框架]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
-- [[Firecrawl：AI 智能体网页数据基础设施]]
+- [[CLI-Anything：面向 AI 智能体的软件 CLI 封装框架]]
 - [[OpenShell 自主 AI 智能体安全运行时]]
-- [[OpenSRE：CI CD 可靠性智能体]]
+- [[OpenSRE 自托管 CI CD 可靠性智能体]]
+- [[Superpowers 编程代理开发框架]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
 - [[纳指ETF策略选择方法论：数据驱动的回测决策框架]]
 - [[闲鱼 AI 智能监控系统]]
-- [[AFFiNE 开源知识管理与协作画布]]
+- [[AFFiNE 本地优先开源知识库与协作画布]]

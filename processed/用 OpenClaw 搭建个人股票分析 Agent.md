@@ -20,9 +20,9 @@ related:
 - 全面分析股票的十大维度：从股价到行业的系统框架
 - AI 时代个人量化交易可行路径与核心铁律
 - AI时代个人量化生存指南
-- Diagram Design：AI Agent 编辑级图表生成 Skill
+- Diagram Design：AI Agent 编辑型图表生成方案
+- Firecrawl：AI Agent 的网页知识基础设施
 - 个人趋势跟踪量化交易系统七年实践
-- 个股基本面分析三步框架
 note_type: content
 ---
 
@@ -73,6 +73,6 @@ note_type: content
 - [[全面分析股票的十大维度：从股价到行业的系统框架]]
 - [[AI 时代个人量化交易可行路径与核心铁律]]
 - [[AI时代个人量化生存指南]]
-- [[Diagram Design：AI Agent 编辑级图表生成 Skill]]
+- [[Diagram Design：AI Agent 编辑型图表生成方案]]
+- [[Firecrawl：AI Agent 的网页知识基础设施]]
 - [[个人趋势跟踪量化交易系统七年实践]]
-- [[个股基本面分析三步框架]]

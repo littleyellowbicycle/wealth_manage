@@ -22,8 +22,8 @@ related:
 - Claude-BugHunter 开源安全技能包
 - Cloudflare 多阶段安全审计 Skill
 - 移动应用商店合规预提交检查
-- Firecrawl：AI 智能体网页数据基础设施
-- AutoClip：本地优先的 AI 视频剪辑工具
+- CLI-Anything：面向 AI 智能体的软件 CLI 封装框架
+- AutoClip：本地优先 AI 视频剪辑与 MCP 工具
 ---
 
 # 闲鱼 AI 智能监控系统
@@ -178,5 +178,5 @@ npm run dev
 - [[Claude-BugHunter 开源安全技能包]]
 - [[Cloudflare 多阶段安全审计 Skill]]
 - [[移动应用商店合规预提交检查]]
-- [[Firecrawl：AI 智能体网页数据基础设施]]
-- [[AutoClip：本地优先的 AI 视频剪辑工具]]
+- [[CLI-Anything：面向 AI 智能体的软件 CLI 封装框架]]
+- [[AutoClip：本地优先 AI 视频剪辑与 MCP 工具]]

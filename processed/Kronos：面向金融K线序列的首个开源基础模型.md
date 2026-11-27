@@ -18,12 +18,12 @@ related:
 - Sure 开源个人理财应用
 - Claude Trading Skills：个人投资者 AI 交易工作流
 - 基于 bt 与 alphalens 的多因子回测框架实践
-- AFFiNE 开源知识管理与协作画布
+- AFFiNE 本地优先开源知识库与协作画布
 - Claude-BugHunter 开源安全技能包
-- Google Stitch 开源代理技能集
+- CLI-Anything：面向 AI 智能体的软件 CLI 封装框架
 - K线圆弧角度分析的核心观点
 - K线圆弧角度理论 金融市场的半圆数学
-- MiniMind：64M 语言模型低成本训练全流程
+- MiniMind 64M 大模型低成本训练实践
 ---
 
 # Kronos：面向金融K线序列的首个开源基础模型
@@ -101,9 +101,9 @@ License：MIT。
 - [[Sure 开源个人理财应用]]
 - [[Claude Trading Skills：个人投资者 AI 交易工作流]]
 - [[基于 bt 与 alphalens 的多因子回测框架实践]]
-- [[AFFiNE 开源知识管理与协作画布]]
+- [[AFFiNE 本地优先开源知识库与协作画布]]
 - [[Claude-BugHunter 开源安全技能包]]
-- [[Google Stitch 开源代理技能集]]
+- [[CLI-Anything：面向 AI 智能体的软件 CLI 封装框架]]
 - [[K线圆弧角度分析的核心观点]]
 - [[K线圆弧角度理论 金融市场的半圆数学]]
-- [[MiniMind：64M 语言模型低成本训练全流程]]
+- [[MiniMind 64M 大模型低成本训练实践]]
