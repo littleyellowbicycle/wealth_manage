@@ -384,45 +384,45 @@
     },
     "开源项目": {
       "notes": [
-        "AFFiNE：开源本地优先的知识工作台.md",
-        "AutoClip：本地优先的 AI 视频切片工具.md",
-        "CLI-Anything：面向 AI Agent 的软件 CLI 化.md",
+        "AFFiNE 开源知识管理与协作画布.md",
+        "AutoClip：本地优先的 AI 视频剪辑工具.md",
+        "CLI-Anything 软件智能体 CLI 生成框架.md",
         "Claude Trading Skills：个人投资者 AI 交易工作流.md",
         "Claude-BugHunter 开源安全技能包.md",
         "Cloudflare 多阶段安全审计 Skill.md",
-        "Cursor 官方插件仓库与规范.md",
-        "Diagram Design：AI Agent 图表生成 Skill.md",
+        "Cursor 插件生态与插件规范.md",
+        "Diagram Design：AI Agent 编辑级图表生成 Skill.md",
         "ECC：AI 编程代理工程系统.md",
-        "Firecrawl 面向 AI 代理的知识基础设施.md",
-        "Ghost Downloader 3：跨平台多功能下载器.md",
-        "Google Stitch 开源 Agent 技能套件.md",
+        "Firecrawl：AI 智能体网页数据基础设施.md",
+        "Ghost Downloader 3 跨平台一体化下载器.md",
+        "Google Stitch 开源代理技能集.md",
         "Kronos：面向金融K线序列的首个开源基础模型.md",
         "LLM 驱动的多市场股票分析工作台.md",
         "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "MiniMind 64M 大模型训练全流程.md",
-        "NGINX 开源服务器架构与部署指南.md",
+        "MiniMind：64M 语言模型低成本训练全流程.md",
+        "NGINX 架构、模块与安装指南.md",
         "OpenBot：自托管 AI 同事平台.md",
-        "OpenSRE：自托管 CI CD 可靠性智能体.md",
+        "OpenSRE：CI CD 可靠性智能体.md",
         "OpenShell 自主 AI 智能体安全运行时.md",
         "OpenVINO 跨平台 AI 推理优化与部署.md",
         "Qbot 开源量化交易平台与经典技术指标策略实现.md",
         "Qbot 开源量化交易闭环系统.md",
         "Qbot 量化交易平台与均线类策略实现.md",
         "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Superpowers 代理式软件开发方法论.md",
+        "Superpowers 编程代理开发方法论.md",
         "Sure 开源个人理财应用.md",
         "TradingAgents 多智能体金融交易框架.md",
         "Wealthfolio：本地优先的个人财务追踪开源工具.md",
         "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "last30days 多平台近期情报研究.md",
+        "last30days 跨平台近期研究技能.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
         "移动应用商店合规预提交检查.md",
         "闲鱼 AI 智能监控系统.md"
       ],
       "subtopics": [
         "AI",
-        "Agent",
-        "风险控制"
+        "风险控制",
+        "量化交易"
       ],
       "note_count": 34
     },
@@ -468,33 +468,33 @@
     },
     "AI": {
       "notes": [
-        "AFFiNE：开源本地优先的知识工作台.md",
+        "AFFiNE 开源知识管理与协作画布.md",
         "AI 供应链卡脖子环节投资框架.md",
         "AI供应链卡脖子环节挖掘框架.md",
-        "AutoClip：本地优先的 AI 视频切片工具.md",
-        "CLI-Anything：面向 AI Agent 的软件 CLI 化.md",
+        "AutoClip：本地优先的 AI 视频剪辑工具.md",
+        "CLI-Anything 软件智能体 CLI 生成框架.md",
         "Claude Trading Skills：个人投资者 AI 交易工作流.md",
         "Claude-BugHunter 开源安全技能包.md",
         "Cloudflare 多阶段安全审计 Skill.md",
-        "Cursor 官方插件仓库与规范.md",
-        "Diagram Design：AI Agent 图表生成 Skill.md",
+        "Cursor 插件生态与插件规范.md",
+        "Diagram Design：AI Agent 编辑级图表生成 Skill.md",
         "ECC：AI 编程代理工程系统.md",
-        "Firecrawl 面向 AI 代理的知识基础设施.md",
-        "Google Stitch 开源 Agent 技能套件.md",
+        "Firecrawl：AI 智能体网页数据基础设施.md",
+        "Google Stitch 开源代理技能集.md",
         "Kronos：面向金融K线序列的首个开源基础模型.md",
         "LLM 驱动的多市场股票分析工作台.md",
-        "MiniMind 64M 大模型训练全流程.md",
+        "MiniMind：64M 语言模型低成本训练全流程.md",
         "OpenBot：自托管 AI 同事平台.md",
-        "OpenSRE：自托管 CI CD 可靠性智能体.md",
+        "OpenSRE：CI CD 可靠性智能体.md",
         "OpenShell 自主 AI 智能体安全运行时.md",
         "OpenVINO 跨平台 AI 推理优化与部署.md",
         "Serenity 选股框架：基于贝叶斯推理的 A 股基本面研究方法论.md",
         "Serenity选股方法论：贝叶斯推理驱动的A股基本面研究框架.md",
         "SkillSpector：AI Agent 技能安全扫描器.md",
-        "Superpowers 代理式软件开发方法论.md",
+        "Superpowers 编程代理开发方法论.md",
         "Sure 开源个人理财应用.md",
         "TradingAgents 多智能体金融交易框架.md",
-        "last30days 多平台近期情报研究.md",
+        "last30days 跨平台近期研究技能.md",
         "移动应用商店合规预提交检查.md",
         "财报分析框架蒸馏为 AI Skill 的实践.md",
         "闲鱼 AI 智能监控系统.md"
@@ -502,7 +502,7 @@
       "subtopics": [
         "开源项目",
         "风险控制",
-        "Agent"
+        "MCP"
       ],
       "note_count": 30
     },
@@ -985,27 +985,6 @@
       ],
       "note_count": 12
     },
-    "Agent": {
-      "notes": [
-        "AutoClip：本地优先的 AI 视频切片工具.md",
-        "CLI-Anything：面向 AI Agent 的软件 CLI 化.md",
-        "Diagram Design：AI Agent 图表生成 Skill.md",
-        "Google Stitch 开源 Agent 技能套件.md",
-        "LLM 驱动的多市场股票分析工作台.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "OpenSRE：自托管 CI CD 可靠性智能体.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
-        "last30days 多平台近期情报研究.md",
-        "用 OpenClaw 搭建个人股票分析 Agent.md",
-        "用OpenClaw搭建个人股票分析Agent.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "量化交易"
-      ],
-      "note_count": 11
-    },
     "主力行为": {
       "notes": [
         "A股主力操盘四阶段周期与散户陷阱.md",
@@ -1070,7 +1049,7 @@
     },
     "管理": {
       "notes": [
-        "AFFiNE：开源本地优先的知识工作台.md",
+        "AFFiNE 开源知识管理与协作画布.md",
         "七年自建趋势跟踪交易系统实战复盘.md",
         "大跌复盘三件事与组合沙箱工具.md",
         "家庭抗周期运营二十条：从收入、资产到关系的全盘规划.md",
@@ -1104,6 +1083,23 @@
         "板块轮动"
       ],
       "note_count": 8
+    },
+    "Agent": {
+      "notes": [
+        "Diagram Design：AI Agent 编辑级图表生成 Skill.md",
+        "Google Stitch 开源代理技能集.md",
+        "LLM 驱动的多市场股票分析工作台.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md",
+        "用 OpenClaw 搭建个人股票分析 Agent.md",
+        "用OpenClaw搭建个人股票分析Agent.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "量化交易",
+        "股票研究"
+      ],
+      "note_count": 7
     },
     "筹码分布": {
       "notes": [
@@ -1187,6 +1183,21 @@
       ],
       "note_count": 6
     },
+    "大语言模型": {
+      "notes": [
+        "AI 时代个人量化交易可行路径与核心铁律.md",
+        "AI时代个人量化生存指南.md",
+        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
+        "MiniMind：64M 语言模型低成本训练全流程.md",
+        "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "投资",
+        "开源项目"
+      ],
+      "note_count": 5
+    },
     "量化因子": {
       "notes": [
         "CH4 因子模型 A股四因子实战拆解.md",
@@ -1232,17 +1243,17 @@
       ],
       "note_count": 5
     },
-    "大语言模型": {
+    "MCP": {
       "notes": [
-        "AI 时代个人量化交易可行路径与核心铁律.md",
-        "AI时代个人量化生存指南.md",
-        "LLM辅助量化交易 daily_stock_analysis 11策略解析.md",
-        "daily_stock_analysis 项目11策略与LLM量化框架解析.md"
+        "AutoClip：本地优先的 AI 视频剪辑工具.md",
+        "Cursor 插件生态与插件规范.md",
+        "Firecrawl：AI 智能体网页数据基础设施.md",
+        "Google Stitch 开源代理技能集.md"
       ],
       "subtopics": [
-        "量化交易",
-        "投资",
-        "数据"
+        "开源项目",
+        "AI",
+        "视频剪辑"
       ],
       "note_count": 4
     },
@@ -1285,20 +1296,6 @@
         "投资",
         "A股",
         "金融"
-      ],
-      "note_count": 4
-    },
-    "Python": {
-      "notes": [
-        "Ghost Downloader 3：跨平台多功能下载器.md",
-        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
-        "Qbot 开源量化交易闭环系统.md",
-        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "量化交易",
-        "Qbot"
       ],
       "note_count": 4
     },
@@ -1441,6 +1438,19 @@
       ],
       "note_count": 3
     },
+    "本地优先": {
+      "notes": [
+        "AFFiNE 开源知识管理与协作画布.md",
+        "AutoClip：本地优先的 AI 视频剪辑工具.md",
+        "Wealthfolio：本地优先的个人财务追踪开源工具.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "管理"
+      ],
+      "note_count": 3
+    },
     "产业链研究": {
       "notes": [
         "AI 供应链卡脖子环节投资框架.md",
@@ -1451,19 +1461,6 @@
         "投资",
         "AI",
         "卡脖子环节"
-      ],
-      "note_count": 3
-    },
-    "MCP": {
-      "notes": [
-        "Cursor 官方插件仓库与规范.md",
-        "Firecrawl 面向 AI 代理的知识基础设施.md",
-        "Google Stitch 开源 Agent 技能套件.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Cursor插件"
       ],
       "note_count": 3
     },
@@ -1542,6 +1539,32 @@
         "量化交易",
         "开源项目",
         "Python"
+      ],
+      "note_count": 3
+    },
+    "Python": {
+      "notes": [
+        "Qbot 开源量化交易平台与经典技术指标策略实现.md",
+        "Qbot 开源量化交易闭环系统.md",
+        "轻量级 Alpha 多因子回测框架实践与量化系统本质思考.md"
+      ],
+      "subtopics": [
+        "量化交易",
+        "Qbot",
+        "backtrader"
+      ],
+      "note_count": 3
+    },
+    "方法论": {
+      "notes": [
+        "Superpowers 编程代理开发方法论.md",
+        "知乎三位投资领域高影响力答主风格速览.md",
+        "知乎三位高价值投资内容创作者推荐.md"
+      ],
+      "subtopics": [
+        "知乎",
+        "投资",
+        "散户"
       ],
       "note_count": 3
     },
@@ -1713,18 +1736,6 @@
       ],
       "note_count": 2
     },
-    "本地优先": {
-      "notes": [
-        "AFFiNE：开源本地优先的知识工作台.md",
-        "Wealthfolio：本地优先的个人财务追踪开源工具.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "管理"
-      ],
-      "note_count": 2
-    },
     "科技股": {
       "notes": [
         "AI 供应链卡脖子环节投资框架.md",
@@ -1881,6 +1892,18 @@
       ],
       "note_count": 2
     },
+    "多智能体": {
+      "notes": [
+        "CLI-Anything 软件智能体 CLI 生成框架.md",
+        "TradingAgents 多智能体金融交易框架.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "软件CLI化"
+      ],
+      "note_count": 2
+    },
     "条件单": {
       "notes": [
         "ETF 网格交易实战：标的选择、不对称网格与费率优势.md",
@@ -1962,18 +1985,6 @@
         "A股",
         "AI",
         "Serenity"
-      ],
-      "note_count": 2
-    },
-    "多智能体": {
-      "notes": [
-        "Superpowers 代理式软件开发方法论.md",
-        "TradingAgents 多智能体金融交易框架.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "软件工程"
       ],
       "note_count": 2
     },
@@ -2385,18 +2396,6 @@
       ],
       "note_count": 2
     },
-    "方法论": {
-      "notes": [
-        "知乎三位投资领域高影响力答主风格速览.md",
-        "知乎三位高价值投资内容创作者推荐.md"
-      ],
-      "subtopics": [
-        "知乎",
-        "投资",
-        "散户"
-      ],
-      "note_count": 2
-    },
     "内容创作": {
       "notes": [
         "知乎三位高价值投资内容创作者推荐.md",
@@ -2730,7 +2729,7 @@
     },
     "协作白板": {
       "notes": [
-        "AFFiNE：开源本地优先的知识工作台.md"
+        "AFFiNE 开源知识管理与协作画布.md"
       ],
       "subtopics": [
         "开源项目",
@@ -2785,23 +2784,12 @@
     },
     "视频剪辑": {
       "notes": [
-        "AutoClip：本地优先的 AI 视频切片工具.md"
+        "AutoClip：本地优先的 AI 视频剪辑工具.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "Agent"
-      ],
-      "note_count": 1
-    },
-    "内容再利用": {
-      "notes": [
-        "AutoClip：本地优先的 AI 视频切片工具.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Agent"
+        "本地优先"
       ],
       "note_count": 1
     },
@@ -2948,14 +2936,14 @@
       ],
       "note_count": 1
     },
-    "CLI工具": {
+    "软件CLI化": {
       "notes": [
-        "CLI-Anything：面向 AI Agent 的软件 CLI 化.md"
+        "CLI-Anything 软件智能体 CLI 生成框架.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "Agent"
+        "多智能体"
       ],
       "note_count": 1
     },
@@ -2981,31 +2969,42 @@
       ],
       "note_count": 1
     },
-    "Cursor插件": {
+    "开发者工具": {
       "notes": [
-        "Cursor 官方插件仓库与规范.md"
+        "Cursor 插件生态与插件规范.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
+        "开源项目",
         "MCP"
       ],
       "note_count": 1
     },
-    "智能体工作流": {
+    "SaaS 集成": {
       "notes": [
-        "Cursor 官方插件仓库与规范.md"
+        "Cursor 插件生态与插件规范.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
-        "Cursor插件"
+        "开源项目",
+        "开发者工具"
       ],
       "note_count": 1
     },
     "图表设计": {
       "notes": [
-        "Diagram Design：AI Agent 图表生成 Skill.md"
+        "Diagram Design：AI Agent 编辑级图表生成 Skill.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "Agent"
+      ],
+      "note_count": 1
+    },
+    "SVG": {
+      "notes": [
+        "Diagram Design：AI Agent 编辑级图表生成 Skill.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3069,51 +3068,73 @@
     },
     "网页抓取": {
       "notes": [
-        "Firecrawl 面向 AI 代理的知识基础设施.md"
+        "Firecrawl：AI 智能体网页数据基础设施.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
-        "MCP"
+        "AI",
+        "知识基础设施"
       ],
       "note_count": 1
     },
     "知识基础设施": {
       "notes": [
-        "Firecrawl 面向 AI 代理的知识基础设施.md"
+        "Firecrawl：AI 智能体网页数据基础设施.md"
       ],
       "subtopics": [
-        "AI",
         "开源项目",
+        "AI",
         "网页抓取"
       ],
       "note_count": 1
     },
     "下载工具": {
       "notes": [
-        "Ghost Downloader 3：跨平台多功能下载器.md"
+        "Ghost Downloader 3 跨平台一体化下载器.md"
       ],
       "subtopics": [
         "开源项目",
         "跨平台应用",
-        "Python"
+        "下载加速"
       ],
       "note_count": 1
     },
     "跨平台应用": {
       "notes": [
-        "Ghost Downloader 3：跨平台多功能下载器.md"
+        "Ghost Downloader 3 跨平台一体化下载器.md"
       ],
       "subtopics": [
         "开源项目",
         "下载工具",
-        "Python"
+        "下载加速"
       ],
       "note_count": 1
     },
-    "UI设计": {
+    "下载加速": {
       "notes": [
-        "Google Stitch 开源 Agent 技能套件.md"
+        "Ghost Downloader 3 跨平台一体化下载器.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "下载工具",
+        "跨平台应用"
+      ],
+      "note_count": 1
+    },
+    "协议支持": {
+      "notes": [
+        "Ghost Downloader 3 跨平台一体化下载器.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "下载工具",
+        "跨平台应用"
+      ],
+      "note_count": 1
+    },
+    "Google Stitch": {
+      "notes": [
+        "Google Stitch 开源代理技能集.md"
       ],
       "subtopics": [
         "开源项目",
@@ -3166,25 +3187,13 @@
       ],
       "note_count": 1
     },
-    "多源检索": {
+    "多源研究": {
       "notes": [
-        "last30days 多平台近期情报研究.md"
+        "last30days 跨平台近期研究技能.md"
       ],
       "subtopics": [
-        "开源项目",
         "AI",
-        "Agent"
-      ],
-      "note_count": 1
-    },
-    "近期情报": {
-      "notes": [
-        "last30days 多平台近期情报研究.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Agent"
+        "开源项目"
       ],
       "note_count": 1
     },
@@ -3221,69 +3230,47 @@
       ],
       "note_count": 1
     },
-    "LLM训练": {
+    "模型训练": {
       "notes": [
-        "MiniMind 64M 大模型训练全流程.md"
+        "MiniMind：64M 语言模型低成本训练全流程.md"
       ],
       "subtopics": [
+        "开源项目",
         "AI",
-        "开源项目",
-        "模型架构"
+        "大语言模型"
       ],
       "note_count": 1
     },
-    "模型架构": {
+    "NGINX": {
       "notes": [
-        "MiniMind 64M 大模型训练全流程.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "LLM训练"
-      ],
-      "note_count": 1
-    },
-    "强化学习": {
-      "notes": [
-        "MiniMind 64M 大模型训练全流程.md"
-      ],
-      "subtopics": [
-        "AI",
-        "开源项目",
-        "LLM训练"
-      ],
-      "note_count": 1
-    },
-    "Web服务器": {
-      "notes": [
-        "NGINX 开源服务器架构与部署指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "反向代理",
-        "负载均衡"
-      ],
-      "note_count": 1
-    },
-    "反向代理": {
-      "notes": [
-        "NGINX 开源服务器架构与部署指南.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "Web服务器",
-        "负载均衡"
-      ],
-      "note_count": 1
-    },
-    "负载均衡": {
-      "notes": [
-        "NGINX 开源服务器架构与部署指南.md"
+        "NGINX 架构、模块与安装指南.md"
       ],
       "subtopics": [
         "开源项目",
         "Web服务器",
         "反向代理"
+      ],
+      "note_count": 1
+    },
+    "Web服务器": {
+      "notes": [
+        "NGINX 架构、模块与安装指南.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "NGINX",
+        "反向代理"
+      ],
+      "note_count": 1
+    },
+    "反向代理": {
+      "notes": [
+        "NGINX 架构、模块与安装指南.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "NGINX",
+        "Web服务器"
       ],
       "note_count": 1
     },
@@ -3331,36 +3318,36 @@
       ],
       "note_count": 1
     },
-    "SRE": {
+    "DevOps": {
       "notes": [
-        "OpenSRE：自托管 CI CD 可靠性智能体.md"
+        "OpenSRE：CI CD 可靠性智能体.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "Agent"
+        "SRE"
+      ],
+      "note_count": 1
+    },
+    "SRE": {
+      "notes": [
+        "OpenSRE：CI CD 可靠性智能体.md"
+      ],
+      "subtopics": [
+        "开源项目",
+        "AI",
+        "DevOps"
       ],
       "note_count": 1
     },
     "CI/CD": {
       "notes": [
-        "OpenSRE：自托管 CI CD 可靠性智能体.md"
+        "OpenSRE：CI CD 可靠性智能体.md"
       ],
       "subtopics": [
         "开源项目",
         "AI",
-        "Agent"
-      ],
-      "note_count": 1
-    },
-    "故障排查": {
-      "notes": [
-        "OpenSRE：自托管 CI CD 可靠性智能体.md"
-      ],
-      "subtopics": [
-        "开源项目",
-        "AI",
-        "Agent"
+        "DevOps"
       ],
       "note_count": 1
     },
@@ -3518,25 +3505,25 @@
       ],
       "note_count": 1
     },
-    "软件工程": {
+    "编程代理": {
       "notes": [
-        "Superpowers 代理式软件开发方法论.md"
+        "Superpowers 编程代理开发方法论.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "多智能体"
+        "方法论"
       ],
       "note_count": 1
     },
     "测试驱动开发": {
       "notes": [
-        "Superpowers 代理式软件开发方法论.md"
+        "Superpowers 编程代理开发方法论.md"
       ],
       "subtopics": [
         "AI",
         "开源项目",
-        "多智能体"
+        "编程代理"
       ],
       "note_count": 1
     },
@@ -5821,5 +5808,5 @@
       "note_count": 1
     }
   },
-  "last_rebuilt": "2026-11-25T23:43:30"
+  "last_rebuilt": "2026-11-27T09:39:46"
 }
